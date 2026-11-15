@@ -1,0 +1,64 @@
+{
+  "id": "food",
+  "level": "4 · Everyday situations",
+  "title": "Food & drink",
+  "description": "Order food and drink, say what you do and don't eat, and ask for the bill.",
+  "guide": [
+    {
+      "title": "Ordering",
+      "text": "The simplest order is the thing you want followed by दीजिए (deejiye, 'please give'): एक चाय दीजिए, 'one tea, please'. The -इए ending already makes it polite, so no extra word for 'please' is needed.\n\nFor 'more' or 'another', put और (aur) after the item: एक रोटी और दीजिए, 'one more roti, please'. और before a noun means 'more' as well: और पानी, 'more water'. When you have had enough, say बस (bas), 'enough, that's all'.\n\nOther useful request verbs: लाइए (laaiye, 'please bring'), ले आइए (le aaiye, 'please bring over'), दिखाइए (dikhaaiye, 'please show').\n\nA waiter is addressed as भैया (bhaiyaa) or simply with सुनिए.",
+      "examples": [
+        { "native": "एक चाय दीजिए।", "roman": "ek chaay deejiye.", "english": "One tea, please." },
+        { "native": "एक रोटी और दीजिए।", "roman": "ek rotee aur deejiye.", "english": "One more roti, please." },
+        { "native": "बिल ले आइए।", "roman": "bil le aaiye.", "english": "Please bring the bill." },
+        { "native": "बस, और नहीं चाहिए।", "roman": "bas, aur naheen chaahiye.", "english": "That's enough, I don't want any more." }
+      ]
+    },
+    {
+      "title": "Hunger and thirst strike you",
+      "text": "You are not hungry in Hindi; hunger 'has attached itself' to you. मुझे भूख लगी है, word for word 'to me hunger has struck', and likewise मुझे प्यास लगी है for thirst. भूख (bhookh) and प्यास (pyaas) are both feminine, which is why the verb is लगी.\n\nThe verb लगना (lagnaa), 'to attach, to strike, to feel', is one of the busiest in Hindi. You will meet it again for feeling cold, for how something seems to you, and for how long something takes.",
+      "examples": [
+        { "native": "मुझे भूख लगी है।", "roman": "mujhe bhookh lagee hai.", "english": "I am hungry." },
+        { "native": "मुझे प्यास लगी है।", "roman": "mujhe pyaas lagee hai.", "english": "I am thirsty." },
+        { "native": "मुझे भूख नहीं है।", "roman": "mujhe bhookh naheen hai.", "english": "I am not hungry." }
+      ]
+    },
+    {
+      "title": "Saying what you eat",
+      "text": "Many Indians are vegetarian, and restaurants are often marked 'veg' or 'non-veg'. शाकाहारी (shaakaahaaree) is 'vegetarian' and मांसाहारी (maansaahaaree) is 'meat-eating'; in everyday speech the English 'veg' and 'non-veg' are just as common.\n\nTo check what is in a dish, use इसमें (ismein, 'in this'): क्या इसमें मांस है? 'Is there meat in this?' Replace मांस with अंडा (andaa, egg), दूध (doodh, milk) or मूँगफली (moongphalee, peanuts) as needed.\n\nFor spice, मिर्च (mirch) is chilli and तीखा (teekhaa) is 'hot, spicy'. मिर्च कम डालिए, 'put less chilli', is the request to remember.",
+      "examples": [
+        { "native": "मैं शाकाहारी हूँ।", "roman": "main shaakaahaaree hoon.", "english": "I am vegetarian." },
+        { "native": "क्या इसमें मांस है?", "roman": "kyaa ismein maans hai?", "english": "Is there meat in this?" },
+        { "native": "मिर्च कम डालिए।", "roman": "mirch kam daaliye.", "english": "Please make it less spicy." },
+        { "native": "यह बहुत तीखा है।", "roman": "yah bahut teekhaa hai.", "english": "This is very spicy." }
+      ]
+    },
+    {
+      "title": "Words on every menu",
+      "text": "A few words will carry you through most meals: रोटी (rotee, flat bread), चावल (chaaval, rice), दाल (daal, lentils), सब्ज़ी (sabzee, vegetables or a vegetable dish), दही (dahee, yoghurt), दूध (doodh, milk), चीनी (cheenee, sugar), नमक (namak, salt), पानी (paanee, water).\n\nTastes: मीठा (meethaa, sweet), नमकीन (namkeen, salty, savoury), खट्टा (khattaa, sour), कड़वा (karvaa, bitter), तीखा (teekhaa, spicy hot), स्वादिष्ट (svaadisht, delicious).\n\nTea is normally made with milk and sugar boiled in. If you want it otherwise, say so when ordering.",
+      "examples": [
+        { "native": "दाल और चावल", "roman": "daal aur chaaval", "english": "lentils and rice" },
+        { "native": "चाय में चीनी मत डालिए।", "roman": "chaay mein cheenee mat daaliye.", "english": "Don't put sugar in the tea." },
+        { "native": "खाना बहुत स्वादिष्ट है।", "roman": "khaanaa bahut svaadisht hai.", "english": "The food is very tasty." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मुझे भूख लगी है।", "roman": "mujhe bhookh lagee hai.", "english": "I am hungry.", "literal": "to-me hunger struck is" },
+    { "native": "मुझे प्यास लगी है।", "roman": "mujhe pyaas lagee hai.", "english": "I am thirsty.", "literal": "to-me thirst struck is" },
+    { "native": "थोड़ा पानी दीजिए।", "roman": "thoraa paanee deejiye.", "english": "Please give me some water.", "literal": "a-little water please-give", "note": "The -iye verb ending already makes the request polite." },
+    { "native": "एक चाय दीजिए।", "roman": "ek chaay deejiye.", "english": "One tea, please.", "literal": "one tea please-give" },
+    { "native": "मेनू दिखाइए।", "roman": "menoo dikhaaiye.", "english": "Please show me the menu.", "literal": "menu please-show" },
+    { "native": "खाना बहुत स्वादिष्ट है।", "roman": "khaanaa bahut svaadisht hai.", "english": "The food is very tasty.", "literal": "food very tasty is" },
+    { "native": "मैं शाकाहारी हूँ।", "roman": "main shaakaahaaree hoon.", "english": "I am vegetarian.", "literal": "I vegetarian am", "note": "People also simply say 'veg': मैं वेज हूँ (main vej hoon)." },
+    { "native": "क्या इसमें मांस है?", "roman": "kyaa ismein maans hai?", "english": "Is there meat in this?", "literal": "(question) this-in meat is" },
+    { "native": "मिर्च कम डालिए।", "roman": "mirch kam daaliye.", "english": "Please make it less spicy.", "literal": "chilli less please-put" },
+    { "native": "चाय में चीनी मत डालिए।", "roman": "chaay mein cheenee mat daaliye.", "english": "Don't put sugar in the tea.", "literal": "tea in sugar don't please-put" },
+    { "native": "यह क्या है?", "roman": "yah kyaa hai?", "english": "What is this?", "literal": "this what is", "note": "यह is written 'yah' but usually pronounced 'ye'." },
+    { "native": "एक रोटी और दीजिए।", "roman": "ek rotee aur deejiye.", "english": "One more roti, please.", "literal": "one roti more please-give" },
+    { "native": "पानी की बोतल दीजिए।", "roman": "paanee kee botal deejiye.", "english": "A bottle of water, please.", "literal": "water 's bottle please-give" },
+    { "native": "बस, और नहीं चाहिए।", "roman": "bas, aur naheen chaahiye.", "english": "That's enough, I don't want any more.", "literal": "enough, more not is-wanted" },
+    { "native": "बिल ले आइए।", "roman": "bil le aaiye.", "english": "Please bring the bill.", "literal": "bill take please-come" },
+    { "native": "आपने खाना खाया?", "roman": "aapne khaanaa khaayaa?", "english": "Have you eaten?", "literal": "you-by food eaten", "note": "A common friendly question, almost a greeting." }
+  ]
+}

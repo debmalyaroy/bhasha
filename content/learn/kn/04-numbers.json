@@ -1,0 +1,56 @@
+{
+  "id": "numbers",
+  "level": "1 · First words",
+  "title": "Numbers 1-10",
+  "description": "Count from zero to ten, count things and count people.",
+  "guide": [
+    {
+      "title": "Counting things",
+      "text": "The numbers one to ten are ondu, eradu, mooru, naalku, aidu, aaru, elu, entu, ombattu, hattu. Watch the vowel lengths: mooru and aaru are long, elu (seven) has a long e but entu (eight) a short one, and hattu, ombattu have a doubled t.\n\nThe number comes before the noun, as in English. For things, the noun usually stays in the singular after a number: ಎರಡು ಟೀ (eradu tee) 'two teas', ಮೂರು ಮನೆ (mooru mane) 'three houses'. The plural ending -galu is possible (mooru manegalu) but is not needed in speech.\n\nಒಂದು (ondu) also does the work of 'a/an' when you want to stress 'one': ondu tee kodi, 'a tea, please'.\n\nಎಷ್ಟು (eshtu) asks both 'how many?' and 'how much?'.",
+      "examples": [
+        { "native": "ಒಂದು ಟೀ", "roman": "ondu tee", "english": "one tea / a tea" },
+        { "native": "ಎರಡು ಟೀ ಕೊಡಿ.", "roman": "eradu tee kodi.", "english": "Two teas, please." },
+        { "native": "ಮೂರು ಮನೆ", "roman": "mooru mane", "english": "three houses" },
+        { "native": "ಎಷ್ಟು?", "roman": "eshtu?", "english": "How many? / How much?" }
+      ]
+    },
+    {
+      "title": "Counting people: special forms",
+      "text": "Kannada counts people differently from things. For one and two people there are special words:\n\none man: ಒಬ್ಬ (obba); one woman: ಒಬ್ಬಳು (obbalu); one person, respectfully or when gender does not matter: ಒಬ್ಬರು (obbaru).\n\ntwo people: ಇಬ್ಬರು (ibbaru).\n\nSaying ondu or eradu for people is a typical learner's mistake: 'two children' is ibbaru makkalu, not eradu makkalu.\n\nFrom three upwards the everyday way is the ordinary number plus ಜನ (jana, 'people'): mooru jana, naalku jana, hattu jana. Written Kannada also has ಮೂವರು (moovaru, three people) and ನಾಲ್ವರು (naalvaru, four people), which you will meet in reading.",
+      "examples": [
+        { "native": "ಒಬ್ಬ ಹುಡುಗ", "roman": "obba huduga", "english": "one boy" },
+        { "native": "ಒಬ್ಬಳು ಹುಡುಗಿ", "roman": "obbalu hudugi", "english": "one girl" },
+        { "native": "ಒಬ್ಬರು", "roman": "obbaru", "english": "one person (respectful)" },
+        { "native": "ಇಬ್ಬರು ಮಕ್ಕಳು", "roman": "ibbaru makkalu", "english": "two children" },
+        { "native": "ಮೂರು ಜನ", "roman": "mooru jana", "english": "three people" }
+      ]
+    },
+    {
+      "title": "Kannada digits and zero",
+      "text": "Kannada has its own digits: ೦ ೧ ೨ ೩ ೪ ೫ ೬ ೭ ೮ ೯. You will see them on bus number boards, calendars, some shop signs and government papers, so it is worth learning to recognise them - especially ೧ (1), ೨ (2), ೩ (3) and ೫ (5) for bus numbers. International digits are used just as often.\n\nZero is ಸೊನ್ನೆ (sonne). Phone numbers are read digit by digit, usually in English, but you will hear sonne, ondu, eradu too.",
+      "examples": [
+        { "native": "ಸೊನ್ನೆ", "roman": "sonne", "english": "zero" },
+        { "native": "ಐದು", "roman": "aidu", "english": "five" },
+        { "native": "ಹತ್ತು", "roman": "hattu", "english": "ten" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಸೊನ್ನೆ", "roman": "sonne", "english": "Zero (0)", "note": "Numeral: ೦" },
+    { "native": "ಒಂದು", "roman": "ondu", "english": "One (1)", "note": "Numeral: ೧" },
+    { "native": "ಎರಡು", "roman": "eradu", "english": "Two (2)", "note": "Numeral: ೨" },
+    { "native": "ಮೂರು", "roman": "mooru", "english": "Three (3)", "note": "Numeral: ೩" },
+    { "native": "ನಾಲ್ಕು", "roman": "naalku", "english": "Four (4)", "note": "Numeral: ೪" },
+    { "native": "ಐದು", "roman": "aidu", "english": "Five (5)", "note": "Numeral: ೫" },
+    { "native": "ಆರು", "roman": "aaru", "english": "Six (6)", "note": "Numeral: ೬" },
+    { "native": "ಏಳು", "roman": "elu", "english": "Seven (7)", "note": "Numeral: ೭. The e is long, and the l is the retroflex ಳ." },
+    { "native": "ಎಂಟು", "roman": "entu", "english": "Eight (8)", "note": "Numeral: ೮. The e is short." },
+    { "native": "ಒಂಬತ್ತು", "roman": "ombattu", "english": "Nine (9)", "note": "Numeral: ೯" },
+    { "native": "ಹತ್ತು", "roman": "hattu", "english": "Ten (10)", "note": "Numeral: ೧೦" },
+    { "native": "ಒಬ್ಬರು", "roman": "obbaru", "english": "One person", "note": "For people, not ondu. obba for a man, obbalu for a woman, obbaru when being respectful." },
+    { "native": "ಇಬ್ಬರು", "roman": "ibbaru", "english": "Two people", "note": "For people, not eradu." },
+    { "native": "ಮೂರು ಜನ", "roman": "mooru jana", "english": "Three people", "literal": "three people", "note": "From three upwards: number + jana." },
+    { "native": "ಎರಡು ಟೀ ಕೊಡಿ.", "roman": "eradu tee kodi.", "english": "Two teas, please.", "literal": "two tea give", "note": "The noun stays singular after a number." },
+    { "native": "ಎಷ್ಟು?", "roman": "eshtu?", "english": "How many? / How much?", "note": "" }
+  ]
+}

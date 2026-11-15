@@ -1,0 +1,66 @@
+{
+  "id": "future",
+  "level": "3 · Verbs",
+  "title": "Future, plans and suggestions",
+  "description": "Say what you will do, suggest doing something together, offer to do something and say what may happen.",
+  "guide": [
+    {
+      "title": "The everyday future is the present tense",
+      "text": "Spoken Kannada has no separate future tense. The present forms you already know do the job, usually helped by a time word: naanu naale barteeni, 'I come tomorrow' = 'I will come tomorrow'.\n\nTime words for the future: ನಾಳೆ (naale) tomorrow; ನಾಡಿದ್ದು (naadiddu) the day after tomorrow; ಆಮೇಲೆ (aamele) later, afterwards; ಮುಂದಿನ ವಾರ (mundina vaara) next week; ಇನ್ನು ಐದು ನಿಮಿಷದಲ್ಲಿ (innu aidu nimishadalli) in five minutes.\n\nThe full set once more, with baa (come): barteeni, barteeya, bartaane, bartaale, barutte, barteevi, barteera, bartaare.\n\nThe negative future is the same -alla form as the negative present: baralla, 'won't come'; aagalla, 'won't happen / can't be done'.\n\nFor 'will be' use iru: irteeni (I will be), irutte (it will be). For 'will become / will happen' use aagu: aagutte.",
+      "examples": [
+        { "native": "ನಾನು ನಾಳೆ ಮಾಡ್ತೀನಿ.", "roman": "naanu naale maadteeni.", "english": "I'll do it tomorrow." },
+        { "native": "ಅವರು ಸಂಜೆ ಬರ್ತಾರೆ.", "roman": "avaru sanje bartaare.", "english": "They will come in the evening." },
+        { "native": "ನಾನು ಮನೆಯಲ್ಲೇ ಇರ್ತೀನಿ.", "roman": "naanu maneyalle irteeni.", "english": "I'll be at home." },
+        { "native": "ಎಲ್ಲಾ ಸರಿ ಆಗುತ್ತೆ.", "roman": "ellaa sari aagutte.", "english": "Everything will be fine." },
+        { "native": "ಅವಳು ಬರಲ್ಲ.", "roman": "avalu baralla.", "english": "She won't come." }
+      ]
+    },
+    {
+      "title": "Let's ... and Shall I ...?",
+      "text": "'Let's do it' is the verb stem + -ಓಣ (-ona, long o): ಹೋಗೋಣ (hogona) let's go; ಮಾಡೋಣ (maadona) let's do; ನೋಡೋಣ (nodona) let's see; ಸಿಗೋಣ (sigona) let's meet; ಬರೋಣ (barona) let's come. As a question: hogonaa? 'shall we go?'.\n\n'Shall I ...? / May I ...?' is the verb stem + -ಅಲಾ (-alaa): ಬರಲಾ? (baralaa?) shall I come?; ಹೋಗಲಾ? (hogalaa?) shall I go?; ಕೊಡಲಾ? (kodalaa?) shall I give?; ಮಾಡಲಾ? (maadalaa?) shall I do it? This is the polite way to offer or to ask permission.\n\nWith a question word the same form ends in -ali: ಏನು ಮಾಡಲಿ? (enu maadali?) 'What shall I do?'; ಏನು ಕೊಡಲಿ? (enu kodali?) 'What shall I give you?'",
+      "examples": [
+        { "native": "ಹೋಗೋಣ.", "roman": "hogona.", "english": "Let's go." },
+        { "native": "ಊಟ ಮಾಡೋಣ.", "roman": "oota maadona.", "english": "Let's eat." },
+        { "native": "ನಾನು ಬರಲಾ?", "roman": "naanu baralaa?", "english": "Shall I come? / May I come in?" },
+        { "native": "ಏನು ಮಾಡಲಿ?", "roman": "enu maadali?", "english": "What shall I do?" }
+      ]
+    },
+    {
+      "title": "May, might: -abahudu",
+      "text": "To say that something may happen, or that someone may do something, add -ಅಬಹುದು (-abahudu) to the verb stem. It does not change with the person.\n\nಬರಬಹುದು (barabahudu) may come; ಆಗಬಹುದು (aagabahudu) may happen; ಇರಬಹುದು (irabahudu) may be; ಹೋಗಬಹುದು (hogabahudu) may go.\n\nThe same form gives permission: neevu hogabahudu, 'you may go'. As a question it asks permission: hogabahudaa? 'may I go?'.\n\nಬಹುಶಃ (bahushah) 'perhaps' often goes with it.",
+      "examples": [
+        { "native": "ನಾಳೆ ಮಳೆ ಬರಬಹುದು.", "roman": "naale male barabahudu.", "english": "It may rain tomorrow." },
+        { "native": "ಅವರು ಮನೆಯಲ್ಲಿ ಇರಬಹುದು.", "roman": "avaru maneyalli irabahudu.", "english": "They may be at home." },
+        { "native": "ನೀವು ಹೋಗಬಹುದು.", "roman": "neevu hogabahudu.", "english": "You may go." }
+      ]
+    },
+    {
+      "title": "The written future tense (for reading)",
+      "text": "Written and formal Kannada does have a future tense, formed with -uv- between the stem and the ending. You will meet it in books, songs, speeches and news, but people do not use it in conversation.\n\nmaadu: naanu maaduvenu, neenu maaduve, avanu maaduvanu, avalu maaduvalu, adu maaduvudu, naavu maaduvevu, neevu maaduviri, avaru maaduvaru, avu maaduvuvu.\n\nOther verbs follow the same pattern: hoguvenu (I shall go), baruvenu (I shall come), koduvenu (I shall give), iruvenu (I shall be), aaguvudu (it will happen).\n\nThe word maaduvudu also serves as the verbal noun 'doing', which is why the written negative is maaduvudilla, 'doing is-not'.",
+      "examples": [
+        { "native": "ನಾನು ಮಾಡುವೆನು.", "roman": "naanu maaduvenu.", "english": "I shall do. (written only)" },
+        { "native": "ಅವನು ಮಾಡುವನು.", "roman": "avanu maaduvanu.", "english": "He will do. (written only)" },
+        { "native": "ಅವಳು ಮಾಡುವಳು.", "roman": "avalu maaduvalu.", "english": "She will do. (written only)" },
+        { "native": "ಅದು ಮಾಡುವುದು.", "roman": "adu maaduvudu.", "english": "It will do. (written only)" },
+        { "native": "ಅವರು ಮಾಡುವರು.", "roman": "avaru maaduvaru.", "english": "They will do. (written only)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಾನು ನಾಳೆ ಮಾಡ್ತೀನಿ.", "roman": "naanu naale maadteeni.", "english": "I'll do it tomorrow.", "literal": "I tomorrow do", "note": "Present form + naale = future." },
+    { "native": "ನಾವು ಮುಂದಿನ ವಾರ ಮೈಸೂರಿಗೆ ಹೋಗ್ತೀವಿ.", "roman": "naavu mundina vaara maisoorige hogteevi.", "english": "We'll go to Mysuru next week.", "literal": "we next week Mysuru-to go", "note": "Written: hogutteve (ಹೋಗುತ್ತೇವೆ)." },
+    { "native": "ಅವರು ಸಂಜೆ ಬರ್ತಾರೆ.", "roman": "avaru sanje bartaare.", "english": "They will come in the evening.", "literal": "they evening come", "note": "Written: baruttaare (ಬರುತ್ತಾರೆ)." },
+    { "native": "ನಾನು ಆಮೇಲೆ ಫೋನ್ ಮಾಡ್ತೀನಿ.", "roman": "naanu aamele fon maadteeni.", "english": "I'll call later.", "literal": "I later phone do", "note": "fon maadu = to phone." },
+    { "native": "ಹೋಗೋಣ.", "roman": "hogona.", "english": "Let's go.", "note": "Both o are long. Question: hogonaa? (ಹೋಗೋಣಾ?) 'shall we go?'" },
+    { "native": "ಊಟ ಮಾಡೋಣ.", "roman": "oota maadona.", "english": "Let's eat.", "literal": "meal let-us-do", "note": "" },
+    { "native": "ನಾನು ಬರಲಾ?", "roman": "naanu baralaa?", "english": "Shall I come?", "literal": "I shall-come?", "note": "Also said at a door for 'May I come in?' and when leaving for 'Shall I go now?'" },
+    { "native": "ನಾಳೆ ಮಳೆ ಬರಬಹುದು.", "roman": "naale male barabahudu.", "english": "It may rain tomorrow.", "literal": "tomorrow rain may-come", "note": "" },
+    { "native": "ಎಲ್ಲಾ ಸರಿ ಆಗುತ್ತೆ.", "roman": "ellaa sari aagutte.", "english": "Everything will be fine.", "literal": "all right will-become", "note": "Written: aaguttade (ಆಗುತ್ತದೆ)." },
+    { "native": "ನಾನು ಮನೆಯಲ್ಲೇ ಇರ್ತೀನಿ.", "roman": "naanu maneyalle irteeni.", "english": "I'll be at home.", "literal": "I house-in-itself will-be", "note": "maneyalli + emphatic -e. Written: iruttene (ಇರುತ್ತೇನೆ)." },
+    { "native": "ನೀವು ಯಾವಾಗ ವಾಪಸ್ ಬರ್ತೀರ?", "roman": "neevu yaavaaga vaapas barteera?", "english": "When will you come back?", "literal": "you when back come", "note": "vaapas baa = come back." },
+    { "native": "ಅವನು ನಾಳೆ ಹೇಳ್ತಾನೆ.", "roman": "avanu naale heltaane.", "english": "He will tell us tomorrow.", "literal": "he tomorrow tells", "note": "Written: heluttaane (ಹೇಳುತ್ತಾನೆ)." },
+    { "native": "ನಾನು ನೋಡ್ತೀನಿ.", "roman": "naanu nodteeni.", "english": "I'll have a look.", "literal": "I see", "note": "Also a polite way of saying 'I'll think about it'." },
+    { "native": "ಇನ್ನು ಐದು ನಿಮಿಷದಲ್ಲಿ ಬರ್ತೀನಿ.", "roman": "innu aidu nimishadalli barteeni.", "english": "I'll be there in five minutes.", "literal": "further five minute-in I-come", "note": "" },
+    { "native": "ಅವಳು ಬರಲ್ಲ.", "roman": "avalu baralla.", "english": "She won't come.", "literal": "she come-not", "note": "The -alla negative covers present and future." }
+  ]
+}

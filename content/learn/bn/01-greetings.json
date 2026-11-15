@@ -1,0 +1,55 @@
+{
+  "id": "greetings",
+  "level": "1 · First words",
+  "title": "Greetings & basics",
+  "description": "Say hello and goodbye, ask how someone is, thank people and give simple answers.",
+  "guide": [
+    {
+      "title": "Hello and goodbye",
+      "text": "Bengali has no everyday 'good morning' or 'good afternoon'. One greeting serves all day, and the same word is used when you leave.\n\nনমস্কার (nomoshkaar) is the usual greeting in West Bengal and among Hindus, often said with the palms together. Muslims, and most people in Bangladesh, greet with আসসালামু আলাইকুম (aassaalaamu aalaaikum); the reply is ওয়ালাইকুম আসসালাম. With friends, people skip the greeting altogether and go straight to 'how are you?'.\n\nশুভ রাত্রি (good night) and শুভ সকাল (good morning) exist, but they are translations of the English phrases: you will see them in messages and hear them on television more than in the street.\n\nWhen leaving, a Bengali does not say 'I am going' - that sounds unlucky. You say আসি (aashi), literally 'I come', meaning 'I'll be back'.",
+      "examples": [
+        { "native": "নমস্কার", "roman": "nomoshkaar", "english": "Hello / Goodbye" },
+        { "native": "আসসালামু আলাইকুম", "roman": "aassaalaamu aalaaikum", "english": "Hello (peace be upon you)" },
+        { "native": "আসি", "roman": "aashi", "english": "Goodbye (I'll be off)" },
+        { "native": "আবার দেখা হবে", "roman": "aabaar dekhaa hobe", "english": "See you again" }
+      ]
+    },
+    {
+      "title": "How are you?",
+      "text": "The question is 'you how are?': আপনি কেমন আছেন? The verb comes last, as it always does in Bengali. The answer simply swaps in 'I' and changes the verb ending: আমি ভালো আছি, 'I well am'.\n\nNotice the two endings: আছেন (aachhen) goes with আপনি, the polite 'you'; আছি (aachhi) goes with আমি, 'I'. Bengali verbs change with the person and with the level of respect, but never for gender or for singular and plural.\n\nBengali has three words for 'you'. This course uses the polite আপনি (aapni) until the unit on pronouns; it is the right choice for any adult you do not know well. To a friend you would say তুমি কেমন আছ? (tumi kemon aachho).\n\nThe e in কেমন is the open sound of the a in 'cat'.",
+      "examples": [
+        { "native": "আপনি কেমন আছেন?", "roman": "aapni kemon aachhen?", "english": "How are you? (polite)" },
+        { "native": "তুমি কেমন আছ?", "roman": "tumi kemon aachho?", "english": "How are you? (to a friend)" },
+        { "native": "আমি ভালো আছি।", "roman": "aami bhaalo aachhi.", "english": "I am fine." },
+        { "native": "আর আপনি?", "roman": "aar aapni?", "english": "And you?" }
+      ]
+    },
+    {
+      "title": "Thank you, sorry, okay",
+      "text": "ধন্যবাদ (dhonnobaad) means 'thank you', but it is more formal than the English word and used far less: between friends and family, thanks are shown with a smile or a nod, and saying ধন্যবাদ for every small thing sounds distant. Use it freely with strangers, in shops and in offices. Spelling trap: the ন্য is said as a long n - dhon-no-baad.\n\nমাফ করবেন (maaph korben) is literally 'you will forgive': it covers both 'sorry' and 'excuse me'.\n\nঠিক আছে (thik aachhe), 'it is right', is the universal 'okay', 'fine', 'all right'.\n\nহ্যাঁ (hyaan) is 'yes' and না (naa) is 'no'. The vowel of হ্যাঁ is the a of 'cat', said through the nose.",
+      "examples": [
+        { "native": "ধন্যবাদ", "roman": "dhonnobaad", "english": "Thank you" },
+        { "native": "মাফ করবেন", "roman": "maaph korben", "english": "Sorry / Excuse me" },
+        { "native": "ঠিক আছে", "roman": "thik aachhe", "english": "Okay" },
+        { "native": "হ্যাঁ", "roman": "hyaan", "english": "Yes" },
+        { "native": "না", "roman": "naa", "english": "No" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "নমস্কার", "roman": "nomoshkaar", "english": "Hello", "note": "Works at any time of day, for both hello and goodbye. The usual greeting in West Bengal." },
+    { "native": "আসসালামু আলাইকুম", "roman": "aassaalaamu aalaaikum", "english": "Hello (Muslim greeting)", "literal": "peace upon-you", "note": "The everyday greeting among Muslims and throughout Bangladesh. Reply: ওয়ালাইকুম আসসালাম (owaalaaikum aassaalaam)." },
+    { "native": "আপনি কেমন আছেন?", "roman": "aapni kemon aachhen?", "english": "How are you?", "literal": "you how are", "note": "Polite form. Bengali verbs do not change for gender." },
+    { "native": "আমি ভালো আছি।", "roman": "aami bhaalo aachhi.", "english": "I am fine.", "literal": "I well am", "note": "In conversation the আমি is usually dropped: ভালো আছি।" },
+    { "native": "আর আপনি?", "roman": "aar aapni?", "english": "And you?", "literal": "and you", "note": "" },
+    { "native": "ধন্যবাদ", "roman": "dhonnobaad", "english": "Thank you", "note": "The written ন্য is pronounced as a doubled 'nn'. More formal than English 'thanks'." },
+    { "native": "মাফ করবেন", "roman": "maaph korben", "english": "Sorry / Excuse me", "literal": "forgiveness you-will-do", "note": "" },
+    { "native": "হ্যাঁ", "roman": "hyaan", "english": "Yes", "note": "The vowel is like the 'a' in English 'cat', nasalised." },
+    { "native": "না", "roman": "naa", "english": "No", "note": "The same word placed after a verb means 'not'." },
+    { "native": "ঠিক আছে", "roman": "thik aachhe", "english": "Okay", "literal": "right is", "note": "" },
+    { "native": "আসুন, বসুন।", "roman": "aashun, boshun.", "english": "Come in, have a seat.", "literal": "come, sit", "note": "How a guest is welcomed. The ending -un is the polite command." },
+    { "native": "আসি তাহলে।", "roman": "aashi taahole.", "english": "I'll be off, then.", "literal": "I-come then", "note": "The polite way to take your leave: you say 'I come', never 'I go'." },
+    { "native": "আবার দেখা হবে", "roman": "aabaar dekhaa hobe", "english": "See you again", "literal": "again meeting will-be", "note": "" },
+    { "native": "শুভ রাত্রি", "roman": "shubho raatri", "english": "Good night", "literal": "auspicious night", "note": "Rather formal; modelled on the English phrase." }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "phone",
+  "level": "4 · Everyday situations",
+  "title": "Phone and appointments",
+  "description": "Make and answer a phone call, ask for someone, and fix a time to meet.",
+  "guide": [
+    {
+      "title": "Opening a call",
+      "text": "Calls open with हेलो (helo). To ask who is calling, say कौन बोल रहे हैं?, 'who is speaking?', using the polite plural because you do not know the caller. To identify yourself, say your name and बोल रहा हूँ ('am speaking'): मैं राज बोल रहा हूँ, 'this is Raj speaking'. A woman says बोल रही हूँ.\n\nTo ask for someone, use से बात करना, 'to talk with': क्या मैं अमित से बात कर सकता हूँ? 'May I speak to Amit?' Add जी after the name for an older or senior person: अमित जी से.\n\nIf the person is out, you will hear something like वे अभी घर पर नहीं हैं ('he is not at home right now'), again with the respectful plural वे ... हैं.",
+      "examples": [
+        { "native": "हेलो, कौन बोल रहे हैं?", "roman": "helo, kaun bol rahe hain?", "english": "Hello, who is speaking?" },
+        { "native": "मैं राज बोल रहा हूँ।", "roman": "main raaj bol rahaa hoon.", "english": "This is Raj speaking." },
+        { "native": "क्या मैं अमित से बात कर सकता हूँ?", "roman": "kyaa main amit se baat kar saktaa hoon?", "english": "May I speak to Amit? (man speaking)" },
+        { "native": "वे अभी घर पर नहीं हैं।", "roman": "ve abhee ghar par naheen hain.", "english": "He is not at home right now." }
+      ]
+    },
+    {
+      "title": "Calling, calling back, messages",
+      "text": "'To phone' is फ़ोन करना (fon karnaa), and the person you call takes को: मैं आपको फ़ोन करूँगा, 'I will call you'. 'Later' is बाद में (baad mein). The present tense is often used for something you are about to do: मैं आपको पाँच मिनट में फ़ोन करता हूँ, 'I'll call you in five minutes'.\n\nA message is मैसेज (maisej), and 'to send' is भेजना (bhejnaa): मैसेज भेज दीजिए.\n\nWhen the line is bad: आवाज़ नहीं आ रही है, 'the sound is not coming', that is, 'I can't hear you'; ज़रा ज़ोर से बोलिए, 'please speak a bit louder'. ज़ोर से (zor se) is literally 'with force'.\n\nPhone numbers are read out digit by digit, usually in English, though you will also hear Hindi digits. नंबर (nambar) is 'number', and a wrong number is गलत नंबर (galat nambar).",
+      "examples": [
+        { "native": "मैं बाद में फ़ोन करूँगा।", "roman": "main baad mein fon karoongaa.", "english": "I will call later. (man speaking)" },
+        { "native": "आवाज़ नहीं आ रही है।", "roman": "aavaaz naheen aa rahee hai.", "english": "I can't hear you." },
+        { "native": "ज़रा ज़ोर से बोलिए।", "roman": "zaraa zor se boliye.", "english": "Please speak louder." },
+        { "native": "आपका नंबर क्या है?", "roman": "aapkaa nambar kyaa hai?", "english": "What is your number?" }
+      ]
+    },
+    {
+      "title": "Making an appointment",
+      "text": "'To meet' or 'to see' someone is मिलना (milnaa), and the person you meet takes से: मुझे डॉक्टर से मिलना है, 'I need to see the doctor'.\n\nFor the appointment itself, people say समय (samay, 'time') or just the English 'appointment' (अपॉइंटमेंट). The time is linked with का: कल दस बजे का समय, 'a ten o'clock slot tomorrow'. मिलेगा? ('will it be available?') turns it into a request: कल दस बजे का समय मिलेगा?\n\nTo ask when someone is free: आप कब फ़्री हैं? The English 'free' is the everyday word; the Hindi खाली (khaalee) literally means 'empty'.",
+      "examples": [
+        { "native": "मुझे डॉक्टर से मिलना है।", "roman": "mujhe doktar se milnaa hai.", "english": "I need to see the doctor." },
+        { "native": "कल दस बजे का समय मिलेगा?", "roman": "kal das baje kaa samay milegaa?", "english": "Can I get an appointment at ten tomorrow?" },
+        { "native": "आप कब फ़्री हैं?", "roman": "aap kab free hain?", "english": "When are you free?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "हेलो, कौन बोल रहे हैं?", "roman": "helo, kaun bol rahe hain?", "english": "Hello, who is speaking?", "literal": "hello, who speak -ing are" },
+    { "native": "मैं राज बोल रहा हूँ।", "roman": "main raaj bol rahaa hoon.", "english": "This is Raj speaking.", "literal": "I Raj speak -ing am", "note": "A woman says: मैं ... बोल रही हूँ (bol rahee hoon)." },
+    { "native": "क्या मैं अमित से बात कर सकता हूँ?", "roman": "kyaa main amit se baat kar saktaa hoon?", "english": "May I speak to Amit?", "literal": "(question) I Amit with talk do can am", "note": "A woman says: ... कर सकती हूँ? (kar saktee hoon?)" },
+    { "native": "वे अभी घर पर नहीं हैं।", "roman": "ve abhee ghar par naheen hain.", "english": "He is not at home right now.", "literal": "they right-now home at not are", "note": "Respectful plural for one person; the same sentence is used of a woman." },
+    { "native": "आपका नंबर क्या है?", "roman": "aapkaa nambar kyaa hai?", "english": "What is your number?", "literal": "your number what is" },
+    { "native": "मैं बाद में फ़ोन करूँगा।", "roman": "main baad mein fon karoongaa.", "english": "I will call later.", "literal": "I later in phone will-do", "note": "A woman says: ... करूँगी (karoongee)." },
+    { "native": "मैं आपको पाँच मिनट में फ़ोन करता हूँ।", "roman": "main aapko paanch minat mein fon kartaa hoon.", "english": "I'll call you in five minutes.", "literal": "I to-you five minutes in phone doing am", "note": "A woman says: ... करती हूँ (kartee hoon)." },
+    { "native": "आवाज़ नहीं आ रही है।", "roman": "aavaaz naheen aa rahee hai.", "english": "I can't hear you.", "literal": "sound not come -ing is" },
+    { "native": "ज़रा ज़ोर से बोलिए।", "roman": "zaraa zor se boliye.", "english": "Please speak louder.", "literal": "a-little force with please-speak" },
+    { "native": "एक मिनट होल्ड कीजिए।", "roman": "ek minat hold keejiye.", "english": "Please hold for a minute.", "literal": "one minute hold please-do" },
+    { "native": "मैसेज भेज दीजिए।", "roman": "maisej bhej deejiye.", "english": "Please send a message.", "literal": "message send please-give" },
+    { "native": "गलत नंबर है।", "roman": "galat nambar hai.", "english": "It's the wrong number.", "literal": "wrong number is" },
+    { "native": "मुझे डॉक्टर से मिलना है।", "roman": "mujhe doktar se milnaa hai.", "english": "I need to see the doctor.", "literal": "to-me doctor with to-meet is" },
+    { "native": "कल दस बजे का समय मिलेगा?", "roman": "kal das baje kaa samay milegaa?", "english": "Can I get an appointment at ten tomorrow?", "literal": "tomorrow ten o'clock 's time will-be-available" }
+  ]
+}

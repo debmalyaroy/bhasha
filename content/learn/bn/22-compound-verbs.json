@@ -1,0 +1,73 @@
+{
+  "id": "compound-verbs",
+  "level": "3 · Verbs",
+  "title": "Two-verb combinations",
+  "description": "Understand and use the verb pairs Bengali relies on: kore deowaa, kore neowaa, hoye jaaowaa, phele deowaa, niye aashaa.",
+  "guide": [
+    {
+      "title": "Main verb in -e + a helper",
+      "text": "Listen to any Bengali conversation and you will hear verbs in pairs: বসে পড়ুন, ভুলে গেছি, লিখে দিন. The first verb carries the meaning; the second, a 'helper', adds a shade - finality, suddenness, for whose benefit - and carries the tense and the personal ending.\n\nThe first verb is in the -e form (the same form that the perfect tense is built on):\n\nকরা - করে (kore); বলা - বলে (bole); দেখা - দেখে (dekhe); লেখা - লিখে (likhe); বসা - বসে (boshe); রাখা - রেখে (rekhe)\nখাওয়া - খেয়ে (kheye); যাওয়া - গিয়ে (giye); আসা - এসে (eshe); দেওয়া - দিয়ে (diye); নেওয়া - নিয়ে (niye); হওয়া - হয়ে (hoye)\n\nOn its own this form means 'having done': খেয়ে আসুন, 'having eaten, come' - come after you have eaten.\n\nThe helpers are ordinary verbs - give, take, go, throw, fall, rise - used with their meaning bleached. English does something similar with 'eat UP', 'sit DOWN', 'write it OUT'.",
+      "examples": [
+        { "native": "বসুন।", "roman": "boshun.", "english": "Please sit down." },
+        { "native": "বসে পড়ুন।", "roman": "boshe porun.", "english": "Do sit down." },
+        { "native": "আমি ভুলে গেছি।", "roman": "aami bhule gechhi.", "english": "I have forgotten." }
+      ]
+    },
+    {
+      "title": "দেওয়া and নেওয়া: for you, for me",
+      "text": "দেওয়া (to give) as a helper means the action is done for someone else, or directed away from the doer. নেওয়া (to take) means it is done for the doer's own benefit.\n\nএটা লিখে দিন - write this down (and give it to me / for me).\nএটা লিখে নিন - write this down (for yourself, so you have it).\n\nদরজাটা খুলে দিন - open the door (for me).\nএকটু দেখে নিন - have a look (to satisfy yourself).\n\nবলে দেওয়া is 'to tell (someone on my behalf), to let know'; করে দেওয়া 'to do for someone'; বুঝিয়ে দেওয়া 'to explain'; রেখে দেওয়া 'to put away, to keep'; খেয়ে নেওয়া 'to eat up, to have one's meal'.\n\nAdding দিন to a request makes it sound like a favour, which is why it is so common in polite speech.",
+      "examples": [
+        { "native": "এটা লিখে দিন।", "roman": "etaa likhe din.", "english": "Please write this down for me." },
+        { "native": "এটা লিখে নিন।", "roman": "etaa likhe nin.", "english": "Write this down (for yourself)." },
+        { "native": "দরজাটা খুলে দিন।", "roman": "dorjaataa khule din.", "english": "Please open the door (for me)." },
+        { "native": "একটু দেখে নিন।", "roman": "ektu dekhe nin.", "english": "Have a look and check." }
+      ]
+    },
+    {
+      "title": "যাওয়া and ফেলা: gone and done",
+      "text": "যাওয়া (to go) as a helper shows a change of state that is complete, usually something that happens by itself: হয়ে গেছে 'it is done, it has happened'; ভুলে গেছি 'I have forgotten'; চলে যান 'go away'; হারিয়ে গেছে 'it has got lost'; থেমে গেছে 'it has stopped'; ভরে গেছে 'it has filled up'.\n\nফেলা (to throw, drop) shows that someone has done a thing completely, sometimes rashly or by mistake: খেয়ে ফেলেছি 'I have eaten it all up'; বলে ফেলেছি 'I blurted it out'; হারিয়ে ফেলেছি 'I have (gone and) lost it'; করে ফেলুন 'get it done'.\n\nCompare: ফোনটা হারিয়ে গেছে, 'the phone has got lost' (it happened) and আমি ফোনটা হারিয়ে ফেলেছি, 'I have lost the phone' (I did it).",
+      "examples": [
+        { "native": "কাজটা হয়ে গেছে।", "roman": "kaajtaa hoye gechhe.", "english": "The work is done." },
+        { "native": "আপনি চলে যান।", "roman": "aapni chole jaan.", "english": "Please leave." },
+        { "native": "আমি সব খেয়ে ফেলেছি।", "roman": "aami shob kheye phelechhi.", "english": "I have eaten it all up." },
+        { "native": "আমি রাস্তা হারিয়ে ফেলেছি।", "roman": "aami raastaa haariye phelechhi.", "english": "I have lost my way." }
+      ]
+    },
+    {
+      "title": "ওঠা, পড়া, রাখা",
+      "text": "ওঠা (to rise) adds suddenness, a bursting out: হেসে উঠল 'burst out laughing'; চেঁচিয়ে উঠল 'cried out'; জেগে ওঠা 'to wake up'.\n\nপড়া (to fall) is used with verbs of position and involuntary change: বসে পড়া 'to sit down'; শুয়ে পড়া 'to lie down, go to bed'; ঘুমিয়ে পড়া 'to fall asleep'; এসে পড়া 'to turn up'.\n\nরাখা (to keep) means doing something in advance, to have it ready: বলে রাখা 'to tell beforehand'; কিনে রাখা 'to buy and keep'; টিকিট কেটে রাখব 'I'll get the tickets beforehand'.",
+      "examples": [
+        { "native": "ও হঠাৎ হেসে উঠল।", "roman": "o hothaat heshe uthlo.", "english": "He/She suddenly burst out laughing." },
+        { "native": "বাচ্চাটা ঘুমিয়ে পড়েছে।", "roman": "baachchaataa ghumiye porechhe.", "english": "The child has fallen asleep." },
+        { "native": "এটা রেখে দিন।", "roman": "etaa rekhe din.", "english": "Keep this." }
+      ]
+    },
+    {
+      "title": "Bring and take; noun + verb",
+      "text": "'To bring' and 'to take (somewhere)' are literally 'having taken, come' and 'having taken, go': নিয়ে আসা (niye aashaa) and নিয়ে যাওয়া (niye jaaowaa). ব্যাগটা নিয়ে আসুন, 'bring the bag'; আমাকে নিয়ে চলুন, 'take me along'. Here both verbs keep their full meaning.\n\nA second, even larger group of everyday verbs is a noun or adjective + করা (do), হওয়া (become), দেওয়া (give) or খাওয়া (eat):\n\nকাজ করা to work; ফোন করা to phone; সাহায্য করা to help; অপেক্ষা করা to wait; পছন্দ করা to like; বন্ধ করা to close; শুরু করা to begin; শেষ করা to finish; পরিষ্কার করা to clean\nদেখা হওয়া to meet (by chance); শেষ হওয়া to come to an end; দেরি হওয়া to be late\nউত্তর দেওয়া to answer; ধন্যবাদ দেওয়া to thank\nসিগারেট খাওয়া to smoke\n\nWith করা you do it; with হওয়া it happens: কাজটা শেষ করেছি, 'I have finished the job' - কাজটা শেষ হয়েছে, 'the job is finished'.",
+      "examples": [
+        { "native": "ব্যাগটা নিয়ে আসুন।", "roman": "byaagtaa niye aashun.", "english": "Please bring the bag." },
+        { "native": "আমাকে স্টেশনে নিয়ে চলুন।", "roman": "aamaake steshone niye cholun.", "english": "Please take me to the station." },
+        { "native": "আমি কাজটা শেষ করেছি।", "roman": "aami kaajtaa shesh korechhi.", "english": "I have finished the job." },
+        { "native": "কাজটা শেষ হয়েছে।", "roman": "kaajtaa shesh hoyechhe.", "english": "The job is finished." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি ভুলে গেছি।", "roman": "aami bhule gechhi.", "english": "I have forgotten.", "literal": "I having-forgotten have-gone", "note": "" },
+    { "native": "বসে পড়ুন।", "roman": "boshe porun.", "english": "Do sit down.", "literal": "having-sat fall", "note": "Warmer and more insistent than plain বসুন." },
+    { "native": "এটা লিখে দিন।", "roman": "etaa likhe din.", "english": "Please write this down for me.", "literal": "this having-written give", "note": "দিন: done for the speaker." },
+    { "native": "এটা লিখে নিন।", "roman": "etaa likhe nin.", "english": "Write this down (for yourself).", "literal": "this having-written take", "note": "নিন: done for the listener's own use." },
+    { "native": "আমি সব খেয়ে ফেলেছি।", "roman": "aami shob kheye phelechhi.", "english": "I have eaten it all up.", "literal": "I all having-eaten have-thrown", "note": "" },
+    { "native": "কাজটা হয়ে গেছে।", "roman": "kaajtaa hoye gechhe.", "english": "The work is done.", "literal": "work-the having-become has-gone", "note": "হয়ে গেছে alone means 'done!' or 'it's over'." },
+    { "native": "আপনি চলে যান।", "roman": "aapni chole jaan.", "english": "Please leave.", "literal": "you having-moved go", "note": "চলে যাওয়া is 'to go away'; চলে আসা is 'to come away, come over'." },
+    { "native": "দরজাটা খুলে দিন।", "roman": "dorjaataa khule din.", "english": "Please open the door (for me).", "literal": "door-the having-opened give", "note": "" },
+    { "native": "ও হঠাৎ হেসে উঠল।", "roman": "o hothaat heshe uthlo.", "english": "He/She suddenly burst out laughing.", "literal": "he/she suddenly having-laughed rose", "note": "" },
+    { "native": "এটা রেখে দিন।", "roman": "etaa rekhe din.", "english": "Keep this.", "literal": "this having-kept give", "note": "Also 'put this away' or, said by a customer, 'keep the change'." },
+    { "native": "ব্যাগটা নিয়ে আসুন।", "roman": "byaagtaa niye aashun.", "english": "Please bring the bag.", "literal": "bag-the having-taken come", "note": "" },
+    { "native": "আমাকে স্টেশনে নিয়ে চলুন।", "roman": "aamaake steshone niye cholun.", "english": "Please take me to the station.", "literal": "me-to station-to having-taken move", "note": "" },
+    { "native": "বাচ্চাটা ঘুমিয়ে পড়েছে।", "roman": "baachchaataa ghumiye porechhe.", "english": "The child has fallen asleep.", "literal": "child-the having-slept has-fallen", "note": "" },
+    { "native": "আমি বলে দেব।", "roman": "aami bole debo.", "english": "I will let them know.", "literal": "I having-said will-give", "note": "" },
+    { "native": "একটু দেখে নিন।", "roman": "ektu dekhe nin.", "english": "Have a look and check.", "literal": "a-little having-seen take", "note": "For example, before paying for something." }
+  ]
+}

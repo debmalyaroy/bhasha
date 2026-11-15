@@ -1,0 +1,64 @@
+{
+  "id": "commands",
+  "level": "3 · Verbs",
+  "title": "Requests and commands",
+  "description": "Ask people to do things, politely or casually, and tell them not to.",
+  "guide": [
+    {
+      "title": "Three levels, three endings",
+      "text": "The form of a request matches the word for 'you' that you would use to that person.\n\nWith आप, add -इए (-iye) to the stem: बैठिए (baithiye, please sit), आइए (aaiye, please come), बताइए (bataaiye, please tell). This is the form to use by default; it already contains the 'please'.\n\nWith तुम, add -ओ (-o): बैठो (baitho), आओ (aao), बताओ (bataao). This is for friends, children and younger relatives. It is friendly, not rude, in the right company.\n\nWith तू, use the bare stem: बैठ, आ, बता. Intimate or rough; recognise it only.\n\nThe word for 'you' is normally left out, exactly as in English.",
+      "examples": [
+        { "native": "यहाँ बैठिए।", "roman": "yahaan baithiye.", "english": "Please sit here." },
+        { "native": "अंदर आइए।", "roman": "andar aaiye.", "english": "Please come in." },
+        { "native": "इधर आओ।", "roman": "idhar aao.", "english": "Come here. (to a friend or child)" },
+        { "native": "जल्दी करो।", "roman": "jaldee karo.", "english": "Hurry up. (to a friend or child)" }
+      ]
+    },
+    {
+      "title": "Four irregular polite forms",
+      "text": "Four everyday verbs have irregular forms with आप, all ending in -ीजिए (-eejiye):\n\nकरना (to do): कीजिए (keejiye). With तुम: करो.\nदेना (to give): दीजिए (deejiye). With तुम: दो.\nलेना (to take): लीजिए (leejiye). With तुम: लो.\nपीना (to drink): पीजिए (peejiye). With तुम: पियो.\n\nBecause so many Hindi verbs are made of a noun plus करना, the word कीजिए turns up everywhere: बंद कीजिए (please close), माफ़ कीजिए (please forgive), इंतज़ार कीजिए (please wait).\n\nIn everyday speech you will also hear करिए (kariye) for कीजिए; both are understood, but कीजिए is the standard form.",
+      "examples": [
+        { "native": "दरवाज़ा बंद कीजिए।", "roman": "darvaazaa band keejiye.", "english": "Please close the door." },
+        { "native": "यह लीजिए।", "roman": "yah leejiye.", "english": "Here, take this." },
+        { "native": "पानी पीजिए।", "roman": "paanee peejiye.", "english": "Please have some water." },
+        { "native": "मुझे बताइए।", "roman": "mujhe bataaiye.", "english": "Please tell me." }
+      ]
+    },
+    {
+      "title": "Don't, and softer requests",
+      "text": "For 'don't', put मत (mat) before the verb at any level: मत जाइए, शोर मत करो.\n\nTo soften a request, begin with ज़रा (zaraa, 'just'): ज़रा रुकिए, 'just wait a moment, please'. Adding a helper verb such as दीजिए after the stem also makes a request sound more considerate: खोलिए is 'open', खिड़की खोल दीजिए is closer to 'would you open the window'. Helper verbs have their own unit later.\n\nFor an especially courteous request, particularly one to be carried out later, add -गा to the polite form: आइएगा (aaiyegaa), 'do please come'.",
+      "examples": [
+        { "native": "शोर मत करो।", "roman": "shor mat karo.", "english": "Don't make a noise. (to a friend or child)" },
+        { "native": "ज़रा रुकिए।", "roman": "zaraa rukiye.", "english": "Please wait a moment." },
+        { "native": "खिड़की खोल दीजिए।", "roman": "khirkee khol deejiye.", "english": "Please open the window." },
+        { "native": "कल ज़रूर आइएगा।", "roman": "kal zaroor aaiyegaa.", "english": "Do come tomorrow." }
+      ]
+    },
+    {
+      "title": "Let's go; and the infinitive as a command",
+      "text": "चलिए (chaliye) and, to friends, चलो (chalo) literally mean 'walk, move', but they are the standard way to say 'come on' and 'let's go'. चलिए, चलते हैं is 'come on, let's go', and चलो is also used like 'right then' or 'okay' to close a topic.\n\nThe dictionary form in -ना can be used as a command to people you call तुम. It is neutral in tone and usually refers to something to be done later rather than this second: मुझे फ़ोन करना, 'call me (sometime)'; भूलना मत, 'don't forget'.",
+      "examples": [
+        { "native": "चलिए, चलते हैं।", "roman": "chaliye, chalte hain.", "english": "Come on, let's go." },
+        { "native": "मुझे फ़ोन करना।", "roman": "mujhe fon karnaa.", "english": "Call me. (to a friend, later on)" },
+        { "native": "भूलना मत।", "roman": "bhoolnaa mat.", "english": "Don't forget. (to a friend)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "अंदर आइए।", "roman": "andar aaiye.", "english": "Please come in.", "literal": "inside please-come" },
+    { "native": "यहाँ बैठिए।", "roman": "yahaan baithiye.", "english": "Please sit here.", "literal": "here please-sit" },
+    { "native": "मुझे बताइए।", "roman": "mujhe bataaiye.", "english": "Please tell me.", "literal": "to-me please-tell" },
+    { "native": "ज़रा रुकिए।", "roman": "zaraa rukiye.", "english": "Please wait a moment.", "literal": "a-little please-stop" },
+    { "native": "दरवाज़ा बंद कीजिए।", "roman": "darvaazaa band keejiye.", "english": "Please close the door.", "literal": "door closed please-do" },
+    { "native": "यह लीजिए।", "roman": "yah leejiye.", "english": "Here, take this.", "literal": "this please-take", "note": "Said when handing something over, like 'here you are'." },
+    { "native": "इधर आओ।", "roman": "idhar aao.", "english": "Come here. (to a friend or child)", "literal": "this-way come" },
+    { "native": "जल्दी करो।", "roman": "jaldee karo.", "english": "Hurry up. (to a friend or child)", "literal": "quickly do", "note": "Polite: जल्दी कीजिए (jaldee keejiye)." },
+    { "native": "मुझे फ़ोन करना।", "roman": "mujhe fon karnaa.", "english": "Call me. (to a friend, later on)", "literal": "to-me phone to-do", "note": "The -naa form as a relaxed instruction for later." },
+    { "native": "शोर मत करो।", "roman": "shor mat karo.", "english": "Don't make a noise. (to a friend or child)", "literal": "noise don't do" },
+    { "native": "धीरे चलाइए।", "roman": "dheere chalaaiye.", "english": "Please drive slowly.", "literal": "slowly please-drive" },
+    { "native": "चलिए, चलते हैं।", "roman": "chaliye, chalte hain.", "english": "Come on, let's go.", "literal": "please-move, going are" },
+    { "native": "खिड़की खोल दीजिए।", "roman": "khirkee khol deejiye.", "english": "Please open the window.", "literal": "window open please-give" },
+    { "native": "अपना नाम लिखिए।", "roman": "apnaa naam likhiye.", "english": "Please write your name.", "literal": "own name please-write" },
+    { "native": "कल ज़रूर आइएगा।", "roman": "kal zaroor aaiyegaa.", "english": "Do come tomorrow.", "literal": "tomorrow certainly please-come", "note": "The ending -iyegaa is an extra-courteous request, often an invitation." }
+  ]
+}

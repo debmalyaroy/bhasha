@@ -1,0 +1,53 @@
+{
+  "id": "dialogue-market",
+  "level": "5 · Conversation",
+  "title": "Dialogue: at the market and in an auto",
+  "description": "Follow and take part in two short real-life exchanges: buying fruit and taking an auto-rickshaw.",
+  "guide": [
+    {
+      "title": "The situation",
+      "text": "Sara is buying mangoes from a fruit seller and then takes an auto-rickshaw to the station. The phrases of this unit are the lines of the two exchanges in order; the note on each line says who is speaking.\n\nThe first ten lines are the fruit stall, the last six the auto. Everything is built from the shopping, numbers and directions units, plus a few fixed expressions of the market that are explained below.\n\nSara calls the seller भैया (bhaiyaa, 'brother'), the normal friendly way to address a shopkeeper or driver. He calls her मैडम (maidam); a man would be called सर or भाई साहब.",
+      "examples": [
+        { "native": "भैया", "roman": "bhaiyaa", "english": "brother (to a shopkeeper, waiter or driver)" },
+        { "native": "मैडम", "roman": "maidam", "english": "madam" }
+      ]
+    },
+    {
+      "title": "The language of the market",
+      "text": "आम कैसे दिए?, literally 'how (have you) given the mangoes?', is the market way of asking the price of something sold by weight. You can always use the textbook question instead: आम कितने के हैं?\n\nPrices come without a verb: अस्सी रुपये किलो, 'eighty rupees a kilo'.\n\nसाठ में दीजिए, 'give (them) for sixty': में marks the price you are offering. The seller's सत्तर लगेंगे, 'seventy will be needed', uses लगना ('to cost, to take') in the future plural, agreeing with the unspoken रुपये.\n\nNotice बहुत महँगे हैं with the plural ending -e, because the mangoes are plural.\n\nदे दीजिए is the helper-verb version of दीजिए: 'do give me'.\n\nकितने पैसे हुए?, 'how much money has it come to?', asks for the total. हुए is the past of होना, plural to agree with पैसे.\n\nये रहे आपके तीस रुपये, 'here are your thirty rupees': ये रहे (plural) and यह रहा or यह रही (singular) are what you say when handing something over or pointing it out.",
+      "examples": [
+        { "native": "आम कितने के हैं?", "roman": "aam kitne ke hain?", "english": "How much are the mangoes?" },
+        { "native": "साठ में दीजिए।", "roman": "saath mein deejiye.", "english": "Give them for sixty." },
+        { "native": "कितने पैसे हुए?", "roman": "kitne paise hue?", "english": "How much does it come to?" },
+        { "native": "यह रहा आपका टिकट।", "roman": "yah rahaa aapkaa tikat.", "english": "Here is your ticket." }
+      ]
+    },
+    {
+      "title": "Taking an auto",
+      "text": "You hail an auto-rickshaw by calling ऑटो! and then ask whether the driver will go where you want: स्टेशन चलेंगे?, 'will you go to the station?'. चलना is used rather than जाना because you will be going along together.\n\nकितना लेंगे?, 'how much will you take?', asks the fare. The driver's answer uses लगेंगे again: डेढ़ सौ रुपये लगेंगे, 'it will be a hundred and fifty rupees'.\n\nIf that seems high, ask for the meter (मीटर से चलिए) or make a lower offer with में, exactly as at the fruit stall. Once it is settled: ठीक है, चलिए, 'all right, let's go'.",
+      "examples": [
+        { "native": "स्टेशन चलेंगे?", "roman": "steshan chalenge?", "english": "Will you go to the station?" },
+        { "native": "कितना लेंगे?", "roman": "kitnaa lenge?", "english": "How much will you charge?" },
+        { "native": "सौ रुपये में चलिए।", "roman": "sau rupaye mein chaliye.", "english": "Take me for a hundred rupees." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "भैया, आम कैसे दिए?", "roman": "bhaiyaa, aam kaise diye?", "english": "Brother, how much are the mangoes?", "literal": "brother, mangoes how given", "note": "Sara. A fixed market expression for asking the price." },
+    { "native": "अस्सी रुपये किलो, मैडम।", "roman": "assee rupaye kilo, maidam.", "english": "Eighty rupees a kilo, madam.", "literal": "eighty rupees kilo, madam", "note": "Fruit seller." },
+    { "native": "बहुत महँगे हैं। साठ में दीजिए।", "roman": "bahut mahange hain. saath mein deejiye.", "english": "They're very expensive. Give them for sixty.", "literal": "very expensive are. sixty in please-give", "note": "Sara." },
+    { "native": "नहीं मैडम, सत्तर लगेंगे।", "roman": "naheen maidam, sattar lagenge.", "english": "No madam, it will be seventy.", "literal": "no madam, seventy will-attach", "note": "Fruit seller." },
+    { "native": "ठीक है, एक किलो दे दीजिए।", "roman": "theek hai, ek kilo de deejiye.", "english": "All right, give me one kilo.", "literal": "fine is, one kilo give please-give", "note": "Sara." },
+    { "native": "और कुछ चाहिए?", "roman": "aur kuchh chaahiye?", "english": "Anything else?", "literal": "more something is-wanted", "note": "Fruit seller." },
+    { "native": "नहीं, बस। कितने पैसे हुए?", "roman": "naheen, bas. kitne paise hue?", "english": "No, that's all. How much does it come to?", "literal": "no, enough. how-many money became", "note": "Sara." },
+    { "native": "सत्तर रुपये हुए।", "roman": "sattar rupaye hue.", "english": "That comes to seventy rupees.", "literal": "seventy rupees became", "note": "Fruit seller." },
+    { "native": "यह लीजिए सौ रुपये।", "roman": "yah leejiye sau rupaye.", "english": "Here is a hundred rupees.", "literal": "this please-take hundred rupees", "note": "Sara." },
+    { "native": "ये रहे आपके तीस रुपये।", "roman": "ye rahe aapke tees rupaye.", "english": "Here are your thirty rupees.", "literal": "these stayed your thirty rupees", "note": "Fruit seller, handing back the change." },
+    { "native": "ऑटो! स्टेशन चलेंगे?", "roman": "oto! steshan chalenge?", "english": "Auto! Will you go to the station?", "literal": "auto! station will-move", "note": "Sara." },
+    { "native": "जी, बैठिए।", "roman": "jee, baithiye.", "english": "Yes, get in.", "literal": "yes, please-sit", "note": "Driver." },
+    { "native": "कितना लेंगे?", "roman": "kitnaa lenge?", "english": "How much will you charge?", "literal": "how-much will-take", "note": "Sara." },
+    { "native": "डेढ़ सौ रुपये लगेंगे।", "roman": "derh sau rupaye lagenge.", "english": "It will be a hundred and fifty rupees.", "literal": "one-and-a-half hundred rupees will-attach", "note": "Driver." },
+    { "native": "मीटर से चलिए।", "roman": "meetar se chaliye.", "english": "Please go by the meter.", "literal": "meter by please-move", "note": "Sara." },
+    { "native": "अच्छा, ठीक है, चलिए।", "roman": "achchhaa, theek hai, chaliye.", "english": "All right, fine, let's go.", "literal": "okay, fine is, please-move", "note": "Driver." }
+  ]
+}

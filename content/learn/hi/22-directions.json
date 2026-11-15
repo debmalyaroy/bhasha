@@ -1,0 +1,64 @@
+{
+  "id": "directions",
+  "level": "4 · Everyday situations",
+  "title": "Directions & getting around",
+  "description": "Ask the way, understand the answer and tell a driver where to go and where to stop.",
+  "guide": [
+    {
+      "title": "Where is it? How far?",
+      "text": "To ask where something is, name it and add कहाँ है? (kahaan hai?): अस्पताल कहाँ है? 'Where is the hospital?' To start politely, open with सुनिए or भैया.\n\nFor distance: कितनी दूर है? (kitnee door hai?), 'how far is it?'. दूर (door) is 'far' and पास (paas) or पास में is 'near'. यहाँ से (yahaan se) is 'from here'.\n\nAnswers you are likely to hear: बहुत पास है ('it's very near'), थोड़ा दूर है ('it's a bit far'), पाँच मिनट का रास्ता है ('it's a five-minute trip'), पैदल जा सकते हैं ('you can go on foot').",
+      "examples": [
+        { "native": "रेलवे स्टेशन कहाँ है?", "roman": "relve steshan kahaan hai?", "english": "Where is the railway station?" },
+        { "native": "यहाँ से कितनी दूर है?", "roman": "yahaan se kitnee door hai?", "english": "How far is it from here?" },
+        { "native": "क्या यह पास में है?", "roman": "kyaa yah paas mein hai?", "english": "Is it nearby?" },
+        { "native": "बहुत पास है।", "roman": "bahut paas hai.", "english": "It's very near." }
+      ]
+    },
+    {
+      "title": "Left, right, straight",
+      "text": "The direction words are सीधे (seedhe, straight), बाएँ (baaen, left), दाएँ (daaen, right), आगे (aage, ahead, further on), पीछे (peechhe, behind, back), सामने (saamne, in front, opposite).\n\nमुड़ना (murnaa) is 'to turn': बाएँ मुड़िए, 'turn left'. People also say बाएँ हाथ and दाएँ हाथ ('left hand', 'right hand') for 'on the left', 'on the right', and in everyday speech you will often hear the English words 'left' and 'right': लेफ़्ट लीजिए, 'take a left'.\n\nकी तरफ़ (kee taraf) means 'towards, in the direction of': स्टेशन की तरफ़, 'towards the station'. किस तरफ़? is 'which way?'.",
+      "examples": [
+        { "native": "सीधे जाइए।", "roman": "seedhe jaaiye.", "english": "Go straight." },
+        { "native": "बाएँ मुड़िए।", "roman": "baaen muriye.", "english": "Turn left." },
+        { "native": "दाएँ मुड़िए।", "roman": "daaen muriye.", "english": "Turn right." },
+        { "native": "मेट्रो स्टेशन किस तरफ़ है?", "roman": "metro steshan kis taraf hai?", "english": "Which way is the metro station?" }
+      ]
+    },
+    {
+      "title": "Saying where you want to go",
+      "text": "Use the 'to me' pattern with जाना है: मुझे स्टेशन जाना है, 'I need to go to the station'.\n\nNotice that there is no word for 'to' before the destination. With verbs of going, the place stands alone. But it is still treated as if a postposition followed, so a masculine noun in -aa takes its oblique -e: हवाई अड्डा (airport) becomes मुझे हवाई अड्डे जाना है.\n\nTo ask whether a bus or train goes somewhere: क्या यह बस स्टेशन जाती है?",
+      "examples": [
+        { "native": "मुझे हवाई अड्डे जाना है।", "roman": "mujhe havaaee adde jaanaa hai.", "english": "I need to go to the airport." },
+        { "native": "क्या यह बस स्टेशन जाती है?", "roman": "kyaa yah bas steshan jaatee hai?", "english": "Does this bus go to the station?" },
+        { "native": "मुझे बाज़ार जाना है।", "roman": "mujhe baazaar jaanaa hai.", "english": "I need to go to the market." }
+      ]
+    },
+    {
+      "title": "Taxis and auto-rickshaws",
+      "text": "With a driver you need only a handful of verbs. चलिए (chaliye) is 'let's go, drive on': स्टेशन चलिए, 'to the station, please'. रोकिए (rokiye) or रोक दीजिए is 'stop (the vehicle)': यहाँ रोक दीजिए, 'please stop here'. रुकिए (rukiye) is 'wait'.\n\nAgree on the fare before setting off, or ask for the meter: मीटर से चलिए, 'go by the meter'. किराया (kiraayaa) is the fare; कितना किराया लगेगा?, 'how much will the fare be?', uses लगना again, here in the sense of 'to cost'.",
+      "examples": [
+        { "native": "यहाँ रोक दीजिए।", "roman": "yahaan rok deejiye.", "english": "Please stop here." },
+        { "native": "मीटर से चलिए।", "roman": "meetar se chaliye.", "english": "Please go by the meter." },
+        { "native": "कितना किराया लगेगा?", "roman": "kitnaa kiraayaa lagegaa?", "english": "How much will the fare be?" },
+        { "native": "थोड़ा आगे चलिए।", "roman": "thoraa aage chaliye.", "english": "Go a little further ahead." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "रेलवे स्टेशन कहाँ है?", "roman": "relve steshan kahaan hai?", "english": "Where is the railway station?", "literal": "railway station where is" },
+    { "native": "यहाँ से कितनी दूर है?", "roman": "yahaan se kitnee door hai?", "english": "How far is it from here?", "literal": "here from how-much far is" },
+    { "native": "क्या यह पास में है?", "roman": "kyaa yah paas mein hai?", "english": "Is it nearby?", "literal": "(question) this near in is", "note": "'kyaa' at the start turns a statement into a yes/no question." },
+    { "native": "सीधे जाइए।", "roman": "seedhe jaaiye.", "english": "Go straight.", "literal": "straight please-go" },
+    { "native": "बाएँ मुड़िए।", "roman": "baaen muriye.", "english": "Turn left.", "literal": "left please-turn" },
+    { "native": "दाएँ मुड़िए।", "roman": "daaen muriye.", "english": "Turn right.", "literal": "right please-turn" },
+    { "native": "मेट्रो स्टेशन किस तरफ़ है?", "roman": "metro steshan kis taraf hai?", "english": "Which way is the metro station?", "literal": "metro station which direction is" },
+    { "native": "मुझे हवाई अड्डे जाना है।", "roman": "mujhe havaaee adde jaanaa hai.", "english": "I need to go to the airport.", "literal": "to-me air base to-go is", "note": "The English word 'airport' (एयरपोर्ट) is equally common." },
+    { "native": "क्या यह बस स्टेशन जाती है?", "roman": "kyaa yah bas steshan jaatee hai?", "english": "Does this bus go to the station?", "literal": "(question) this bus station going is" },
+    { "native": "कितना किराया लगेगा?", "roman": "kitnaa kiraayaa lagegaa?", "english": "How much will the fare be?", "literal": "how-much fare will-attach" },
+    { "native": "मीटर से चलिए।", "roman": "meetar se chaliye.", "english": "Please go by the meter.", "literal": "meter by please-move", "note": "Said to a taxi or auto-rickshaw driver." },
+    { "native": "थोड़ा आगे चलिए।", "roman": "thoraa aage chaliye.", "english": "Go a little further ahead.", "literal": "a-little ahead please-move" },
+    { "native": "यहाँ रोक दीजिए।", "roman": "yahaan rok deejiye.", "english": "Please stop here.", "literal": "here stop please-give", "note": "Said to a driver." },
+    { "native": "शौचालय कहाँ है?", "roman": "shauchaalay kahaan hai?", "english": "Where is the toilet?", "literal": "toilet where is", "note": "In cities people often say 'toilet' or 'washroom kahaan hai?'" },
+    { "native": "मैं रास्ता भूल गया हूँ।", "roman": "main raastaa bhool gayaa hoon.", "english": "I have lost my way.", "literal": "I way forget gone am", "note": "A woman says: मैं रास्ता भूल गई हूँ (... bhool gaee hoon)." }
+  ]
+}

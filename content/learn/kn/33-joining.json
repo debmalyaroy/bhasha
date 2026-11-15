@@ -1,0 +1,72 @@
+{
+  "id": "joining",
+  "level": "5 · Conversation",
+  "title": "Joining sentences",
+  "description": "Connect ideas with and, but, or, because, so, if, when, before, after and 'that'.",
+  "guide": [
+    {
+      "title": "And, also, but, or",
+      "text": "ಮತ್ತು (mattu) is 'and' between nouns: tee mattu kaafi. In speech it is often left out, or replaced by adding a long -oo to each item: ನಾನೂ ನೀವೂ (naanoo neevoo), 'both I and you'.\n\nOn a single word -oo means 'also, too': naanoo barteeni, 'I too will come'; idoo beku, 'I want this as well'.\n\nTo join two actions, Kannada does not use 'and' at all - it uses the 'having done' form: oota maadi banni, 'eat and come'.\n\nಆದ್ರೆ (aadre) is 'but'; the written form is ಆದರೆ (aadare).\n\nಅಥವಾ (athavaa) is 'or' in statements and choices. In everyday speech you also hear ಇಲ್ಲಾಂದ್ರೆ (illaandre), 'if not, otherwise'. For 'A or B?' questions remember the -aa ... -aa pattern: tee bekaa, kaafi bekaa?",
+      "examples": [
+        { "native": "ನನಗೆ ಟೀ ಮತ್ತು ಬಿಸ್ಕತ್ ಬೇಕು.", "roman": "nanage tee mattu biskat beku.", "english": "I want tea and biscuits." },
+        { "native": "ನಾನೂ ಬರ್ತೀನಿ.", "roman": "naanoo barteeni.", "english": "I'll come too." },
+        { "native": "ಬರಬೇಕು ಅಂತ ಇದೆ, ಆದ್ರೆ ಸಮಯ ಇಲ್ಲ.", "roman": "barabeku anta ide, aadre samaya illa.", "english": "I'd like to come, but I have no time." },
+        { "native": "ಟೀ ಅಥವಾ ಕಾಫಿ?", "roman": "tee athavaa kaafi?", "english": "Tea or coffee?" }
+      ]
+    },
+    {
+      "title": "Because and so",
+      "text": "ಯಾಕಂದ್ರೆ (yaakandre), 'because', is literally 'if you say why'. It comes at the start of the reason, after the main statement, just as in English: naanu baralla, yaakandre kelasa ide. The written form is ಏಕೆಂದರೆ (ekendare).\n\nMore natural in Kannada is to give the reason first and then say ಅದಕ್ಕೆ (adakke), 'for that, so, that's why': nanage hushaarilla, adakke baralilla, 'I am unwell, that's why I didn't come'.\n\nA reason can also be attached to a noun with -inda: maleyinda, 'because of the rain'.",
+      "examples": [
+        { "native": "ನಾನು ಬರಲ್ಲ, ಯಾಕಂದ್ರೆ ಕೆಲಸ ಇದೆ.", "roman": "naanu baralla, yaakandre kelasa ide.", "english": "I won't come, because I have work." },
+        { "native": "ನನಗೆ ಹುಷಾರಿಲ್ಲ, ಅದಕ್ಕೆ ಬರಲಿಲ್ಲ.", "roman": "nanage hushaarilla, adakke baralilla.", "english": "I am unwell, so I didn't come." },
+        { "native": "ಮಳೆಯಿಂದ ಲೇಟ್ ಆಯ್ತು.", "roman": "maleyinda let aaytu.", "english": "I got late because of the rain." }
+      ]
+    },
+    {
+      "title": "If",
+      "text": "'If' is not a separate word but an ending on the verb: past stem + -ರೆ (-re). In speech: bandre (if ... come), hodre (if ... go), maadidre (if ... do), nodidre (if ... see), kotre (if ... give), idre (if ... is), aadre (if ... becomes - this is where 'but' comes from). Written forms keep an a: bandare, hodare, maadidare, iddare.\n\nThe form is the same for every person; the subject is shown by a pronoun: neevu bandre, 'if you come'; male bandre, 'if it rains'.\n\nThe 'if' clause comes first. For 'it would be good if ...' finish with chennaagirutte.\n\nNegative 'if not': negative participle + idre: barade idre (ಬರದೆ ಇದ್ರೆ), 'if (you) don't come'. With nouns and adjectives use illaandre / illa andre, 'if not'.\n\ngottidre (gottu + idre) is 'if (you) know'; bekaadre (beku + aadre) is 'if (you) want'; saadhya aadre, 'if possible'.",
+      "examples": [
+        { "native": "ಮಳೆ ಬಂದ್ರೆ ನಾನು ಬರಲ್ಲ.", "roman": "male bandre naanu baralla.", "english": "If it rains, I won't come." },
+        { "native": "ನೀವು ಬಂದ್ರೆ ಚೆನ್ನಾಗಿರುತ್ತೆ.", "roman": "neevu bandre chennaagirutte.", "english": "It would be nice if you came." },
+        { "native": "ಗೊತ್ತಿದ್ರೆ ಹೇಳಿ.", "roman": "gottidre heli.", "english": "Tell me if you know." },
+        { "native": "ಬೇಕಾದ್ರೆ ತಗೊಳ್ಳಿ.", "roman": "bekaadre tagolli.", "english": "Take it if you want." }
+      ]
+    },
+    {
+      "title": "When, after, before, until",
+      "text": "These too are endings or words placed after a verb form - the time clause always comes first.\n\nWhen: past stem + -ಆಗ (-aaga): bandaaga (when ... came / comes), hodaaga (when ... went), iddaaga (when ... was), nodidaaga (when ... saw). neevu bandaaga fon maadi, 'call when you come'.\n\nAfter: past stem + -a + ಮೇಲೆ (mele): banda mele (after coming), hoda mele (after going), oota aada mele (after the meal is over).\n\nBefore: the -oke form (or the written -uva form) + ಮುಂಚೆ (munche): hogoke munche, 'before going'; oota maadoke munche, 'before eating'. With a noun, use the dative: ootakke munche, 'before the meal'.\n\nUntil: the spoken relative participle ('that comes' form) in -o + ತನಕ (tanaka): naanu baro tanaka, 'until I come'. baro is the spoken form of baruva, 'that comes'.",
+      "examples": [
+        { "native": "ನೀವು ಬಂದಾಗ ಫೋನ್ ಮಾಡಿ.", "roman": "neevu bandaaga fon maadi.", "english": "Call when you arrive." },
+        { "native": "ಊಟ ಆದ ಮೇಲೆ ಹೋಗೋಣ.", "roman": "oota aada mele hogona.", "english": "Let's go after the meal." },
+        { "native": "ಹೋಗೋಕೆ ಮುಂಚೆ ಹೇಳಿ.", "roman": "hogoke munche heli.", "english": "Tell me before you go." },
+        { "native": "ನಾನು ಬರೋ ತನಕ ಇಲ್ಲೇ ಇರಿ.", "roman": "naanu baro tanaka ille iri.", "english": "Stay right here until I come." }
+      ]
+    },
+    {
+      "title": "'That': the quoting word anta",
+      "text": "ಅಂತ (anta) is placed after anything said, thought, heard or known, and works like 'that' or like closing quotation marks. The quoted words come first and keep the form the original speaker used:\n\navaru 'naale barteeni' anta helidru - literally 'he \"tomorrow I-will-come\" thus said' = 'he said he would come tomorrow'. Notice that the verb inside stays barteeni ('I will come'), exactly as he said it.\n\nIt is used with heli (say), keli (ask), gottu (know), annisutte (seems), andkonde ('I thought'): avaru bartaare anta gottu, 'I know that they are coming'.\n\nanta + ide after -beku expresses a wish: hogabeku anta ide, 'I feel like going'.\n\nThe written form of anta is ಎಂದು (endu).",
+      "examples": [
+        { "native": "ಅವರು ನಾಳೆ ಬರ್ತೀನಿ ಅಂತ ಹೇಳಿದ್ರು.", "roman": "avaru naale barteeni anta helidru.", "english": "He said he would come tomorrow." },
+        { "native": "ಅವರು ಬರ್ತಾರೆ ಅಂತ ಗೊತ್ತು.", "roman": "avaru bartaare anta gottu.", "english": "I know that they are coming." },
+        { "native": "ಹೋಗಬೇಕು ಅಂತ ಇದೆ.", "roman": "hogabeku anta ide.", "english": "I feel like going." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನನಗೆ ಟೀ ಮತ್ತು ಬಿಸ್ಕತ್ ಬೇಕು.", "roman": "nanage tee mattu biskat beku.", "english": "I want tea and biscuits.", "literal": "me-to tea and biscuit wanted", "note": "mattu joins nouns, not actions." },
+    { "native": "ನಾನೂ ಬರ್ತೀನಿ.", "roman": "naanoo barteeni.", "english": "I'll come too.", "literal": "I-also come", "note": "naanu + -oo." },
+    { "native": "ಬರಬೇಕು ಅಂತ ಇದೆ, ಆದ್ರೆ ಸಮಯ ಇಲ್ಲ.", "roman": "barabeku anta ide, aadre samaya illa.", "english": "I'd like to come, but I have no time.", "literal": "come-must that is, but time is-not", "note": "Written: aadare (ಆದರೆ)." },
+    { "native": "ಮಳೆ ಬಂದ್ರೆ ನಾನು ಬರಲ್ಲ.", "roman": "male bandre naanu baralla.", "english": "If it rains, I won't come.", "literal": "rain if-comes I come-not", "note": "Written: bandare (ಬಂದರೆ)." },
+    { "native": "ನೀವು ಬಂದ್ರೆ ಚೆನ್ನಾಗಿರುತ್ತೆ.", "roman": "neevu bandre chennaagirutte.", "english": "It would be nice if you came.", "literal": "you if-come good-will-be", "note": "A polite way to invite." },
+    { "native": "ನನಗೆ ಹುಷಾರಿಲ್ಲ, ಅದಕ್ಕೆ ಬರಲಿಲ್ಲ.", "roman": "nanage hushaarilla, adakke baralilla.", "english": "I am unwell, so I didn't come.", "literal": "me-to wellness-is-not, for-that came-not", "note": "adakke = for that reason." },
+    { "native": "ನಾನು ಬರಲ್ಲ, ಯಾಕಂದ್ರೆ ಕೆಲಸ ಇದೆ.", "roman": "naanu baralla, yaakandre kelasa ide.", "english": "I won't come, because I have work.", "literal": "I come-not, because work is", "note": "Written: ekendare (ಏಕೆಂದರೆ)." },
+    { "native": "ನೀವು ಬಂದಾಗ ಫೋನ್ ಮಾಡಿ.", "roman": "neevu bandaaga fon maadi.", "english": "Call when you arrive.", "literal": "you when-come phone do", "note": "banda + aaga." },
+    { "native": "ಊಟ ಆದ ಮೇಲೆ ಹೋಗೋಣ.", "roman": "oota aada mele hogona.", "english": "Let's go after the meal.", "literal": "meal happened after let-us-go", "note": "" },
+    { "native": "ಹೋಗೋಕೆ ಮುಂಚೆ ಹೇಳಿ.", "roman": "hogoke munche heli.", "english": "Tell me before you go.", "literal": "to-go before tell", "note": "" },
+    { "native": "ಅವರು ನಾಳೆ ಬರ್ತೀನಿ ಅಂತ ಹೇಳಿದ್ರು.", "roman": "avaru naale barteeni anta helidru.", "english": "He said he would come tomorrow.", "literal": "he tomorrow I-will-come that said", "note": "The quoted words stay as he said them: barteeni, 'I will come'." },
+    { "native": "ಟೀ ಅಥವಾ ಕಾಫಿ?", "roman": "tee athavaa kaafi?", "english": "Tea or coffee?", "literal": "tea or coffee", "note": "" },
+    { "native": "ನಾನು ಬರೋ ತನಕ ಇಲ್ಲೇ ಇರಿ.", "roman": "naanu baro tanaka ille iri.", "english": "Stay right here until I come.", "literal": "I coming until right-here stay", "note": "Written: baruva tanaka (ಬರುವ ತನಕ)." },
+    { "native": "ಗೊತ್ತಿದ್ರೆ ಹೇಳಿ.", "roman": "gottidre heli.", "english": "Tell me if you know.", "literal": "if-known tell", "note": "gottu + idre. Written: gottiddare (ಗೊತ್ತಿದ್ದರೆ)." }
+  ]
+}

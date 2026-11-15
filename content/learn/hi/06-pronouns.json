@@ -1,0 +1,62 @@
+{
+  "id": "pronouns",
+  "level": "2 · How sentences work",
+  "title": "Pronouns and respect",
+  "description": "Choose the right word for 'you', and talk about he, she and they with the right level of respect.",
+  "guide": [
+    {
+      "title": "Three words for 'you'",
+      "text": "Hindi has three levels of 'you', and each has its own verb form.\n\nआप (aap) is polite. Use it with strangers, anyone older, colleagues, shopkeepers, in-laws, and whenever you are unsure. It takes the plural verb: आप कैसे हैं? This course uses आप by default, and you can never go wrong with it.\n\nतुम (tum) is familiar. Friends of the same age use it with each other; adults use it to children and to younger relatives. It has its own verb form ending in -o: तुम कैसे हो?\n\nतू (too) is intimate. It is used with small children, between very close friends, to God, and also in anger or contempt. It takes the singular verb: तू कैसा है? As a learner, understand it but do not use it.\n\nMoving from आप to तुम is a sign of growing friendship; let the Hindi speaker make the move first.",
+      "examples": [
+        { "native": "आप कैसे हैं?", "roman": "aap kaise hain?", "english": "How are you? (polite)" },
+        { "native": "तुम कैसे हो?", "roman": "tum kaise ho?", "english": "How are you? (to a friend)" },
+        { "native": "तू कैसा है?", "roman": "too kaisaa hai?", "english": "How are you? (intimate)" }
+      ]
+    },
+    {
+      "title": "He, she, it, they",
+      "text": "There is one set of words for 'he', 'she' and 'it', chosen by distance rather than gender.\n\nयह (yah, said 'ye'): this; he, she or it, close by.\nवह (vah, said 'vo'): that; he, she or it, further away or not present. This is the usual word for 'he' and 'she'.\nये (ye): these; they, close by.\nवे (ve, usually said 'vo'): those; they.\n\nGender appears in the words around the pronoun. वह मेरा दोस्त है is 'he is my friend'; वह मेरी दोस्त है is 'she is my friend': only 'my' changes.\n\nRespect matters here too. To speak respectfully about one person (a parent, a teacher, an older stranger, your friend's spouse) use the plural ये or वे with a plural verb: वे मेरे शिक्षक हैं, 'he is my teacher', literally 'they are my teachers'. Using the singular वह for an elder sounds disrespectful.",
+      "examples": [
+        { "native": "वह मेरा दोस्त है।", "roman": "vah meraa dost hai.", "english": "He is my friend." },
+        { "native": "वह मेरी दोस्त है।", "roman": "vah meree dost hai.", "english": "She is my friend." },
+        { "native": "वे मेरे शिक्षक हैं।", "roman": "ve mere shikshak hain.", "english": "He is my teacher. (respectful)" },
+        { "native": "ये कौन हैं?", "roman": "ye kaun hain?", "english": "Who is this? (respectful)" }
+      ]
+    },
+    {
+      "title": "The whole set with 'to be'",
+      "text": "Here are all the pronouns with the present of 'to be'. Learn them as pairs, because the same endings return in every tense.\n\nमैं हूँ: I am. तू है: you are (intimate). तुम हो: you are (familiar). आप हैं: you are (polite). यह है, वह है: he, she, it is. हम हैं: we are. ये हैं, वे हैं: they are.\n\nIn several regions people say हम (ham, 'we') when they mean 'I'. You do not need to copy this, but do not be surprised by it.",
+      "examples": [
+        { "native": "मैं भी विद्यार्थी हूँ।", "roman": "main bhee vidyaarthee hoon.", "english": "I am a student too." },
+        { "native": "तुम बहुत अच्छे हो।", "roman": "tum bahut achchhe ho.", "english": "You are very nice. (to a male friend)" },
+        { "native": "हम भारतीय हैं।", "roman": "ham bhaarteey hain.", "english": "We are Indian." }
+      ]
+    },
+    {
+      "title": "Making it clear you mean several people",
+      "text": "Because आप, वे and even हम can refer to one person, Hindi adds लोग (log, 'people') when it really means more than one: आप लोग ('you all'), हम लोग ('we, all of us'), वे लोग ('those people, they').\n\nThe verb is plural in any case; लोग only removes the doubt.",
+      "examples": [
+        { "native": "आप लोग कहाँ से हैं?", "roman": "aap log kahaan se hain?", "english": "Where are you all from?" },
+        { "native": "हम लोग तैयार हैं।", "roman": "ham log taiyaar hain.", "english": "We are all ready." },
+        { "native": "वे लोग यहाँ नहीं हैं।", "roman": "ve log yahaan naheen hain.", "english": "They are not here." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "आप कौन हैं?", "roman": "aap kaun hain?", "english": "Who are you? (polite)", "literal": "you who are" },
+    { "native": "तुम कैसे हो?", "roman": "tum kaise ho?", "english": "How are you? (to a friend)", "literal": "you how are", "note": "To a female friend: तुम कैसी हो? (tum kaisee ho?)" },
+    { "native": "तू कहाँ है?", "roman": "too kahaan hai?", "english": "Where are you? (intimate)", "literal": "you where is", "note": "Only for small children and the closest friends. Learn to recognise it; use तुम or आप yourself." },
+    { "native": "वह मेरा दोस्त है।", "roman": "vah meraa dost hai.", "english": "He is my friend.", "literal": "he my friend is" },
+    { "native": "वह मेरी दोस्त है।", "roman": "vah meree dost hai.", "english": "She is my friend.", "literal": "she my friend is", "note": "Only मेरी (my, feminine) shows that the friend is a woman. A woman's female friend is also called सहेली (sahelee)." },
+    { "native": "वे मेरे शिक्षक हैं।", "roman": "ve mere shikshak hain.", "english": "He is my teacher.", "literal": "they my teacher(s) are", "note": "Plural for respect. Of a woman teacher: वे मेरी शिक्षिका हैं (ve meree shikshikaa hain). In speech the English word 'teacher' (टीचर) is more usual." },
+    { "native": "ये कौन हैं?", "roman": "ye kaun hain?", "english": "Who is this? (respectful)", "literal": "these who are" },
+    { "native": "वह कौन है?", "roman": "vah kaun hai?", "english": "Who is that?", "literal": "that who is" },
+    { "native": "हम भारतीय हैं।", "roman": "ham bhaarteey hain.", "english": "We are Indian.", "literal": "we Indian are" },
+    { "native": "मैं भी विद्यार्थी हूँ।", "roman": "main bhee vidyaarthee hoon.", "english": "I am a student too.", "literal": "I also student am", "note": "भी (also) comes straight after the word it applies to." },
+    { "native": "तुम बहुत अच्छे हो।", "roman": "tum bahut achchhe ho.", "english": "You are very nice. (to a friend)", "literal": "you very good are", "note": "To a female friend: तुम बहुत अच्छी हो (tum bahut achchhee ho)." },
+    { "native": "आप लोग कहाँ से हैं?", "roman": "aap log kahaan se hain?", "english": "Where are you all from?", "literal": "you people where from are" },
+    { "native": "हम लोग तैयार हैं।", "roman": "ham log taiyaar hain.", "english": "We are all ready.", "literal": "we people ready are" },
+    { "native": "वे लोग यहाँ नहीं हैं।", "roman": "ve log yahaan naheen hain.", "english": "They are not here.", "literal": "those people here not are" },
+    { "native": "क्या आप राज हैं?", "roman": "kyaa aap raaj hain?", "english": "Are you Raj?", "literal": "(question) you Raj are" }
+  ]
+}

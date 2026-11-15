@@ -1,0 +1,54 @@
+{
+  "id": "phone",
+  "level": "4 · Everyday situations",
+  "title": "Phone and appointments",
+  "description": "Make and answer a phone call, cope with a bad line, and fix a time to meet.",
+  "guide": [
+    {
+      "title": "On the phone",
+      "text": "A call opens with হ্যালো (hyaalo). To ask who is calling: কে বলছেন? 'who is speaking?' To say who you are: আমি রাজ বলছি, 'I Raj am-speaking'. Bengali uses 'I', not 'this is'.\n\nTo ask for someone: রাজ আছে? 'Is Raj there?' - or respectfully রাজবাবু আছেন? The answers: হ্যাঁ, ধরুন, 'yes, hold on'; উনি এখন নেই, 'he is not here now'.\n\nThe verbs: ফোন করা (phon koraa) to phone; ফোন ধরা (dhoraa) to answer, to hold; ফোন রাখা (raakhaa) to hang up; ফোন কেটে যাওয়া (kete jaaowaa) to get cut off.\n\nরাখছি (raakhchhi), 'I am putting (the phone) down', is the normal way to end a call.",
+      "examples": [
+        { "native": "হ্যালো, কে বলছেন?", "roman": "hyaalo, ke bolchhen?", "english": "Hello, who is speaking?" },
+        { "native": "আমি রাজ বলছি।", "roman": "aami raaj bolchhi.", "english": "This is Raj speaking." },
+        { "native": "একটু ধরুন।", "roman": "ektu dhorun.", "english": "Please hold on a moment." },
+        { "native": "উনি এখন নেই।", "roman": "uni ekhon nei.", "english": "He/She is not here right now." },
+        { "native": "আচ্ছা, রাখছি।", "roman": "aachchhaa, raakhchhi.", "english": "Okay, bye (I'm hanging up)." }
+      ]
+    },
+    {
+      "title": "When you cannot hear",
+      "text": "'I can't hear' is said without 'I': শোনা যাচ্ছে না, 'hearing is not going' - it can't be heard. This is the verbal noun + যাওয়া pattern for what can or cannot be done.\n\nজোরে (jore) is 'loudly' and আস্তে (aaste) is 'softly, slowly': একটু জোরে বলুন, 'speak a little louder'; একটু আস্তে বলুন, 'speak a little slower'.\n\nলাইন (laain) is the line; নেটওয়ার্ক নেই, 'there is no network'.",
+      "examples": [
+        { "native": "শোনা যাচ্ছে না।", "roman": "shonaa jaachchhe naa.", "english": "I can't hear you." },
+        { "native": "একটু জোরে বলুন।", "roman": "ektu jore bolun.", "english": "Please speak a little louder." },
+        { "native": "লাইনটা কেটে গেছে।", "roman": "laaintaa kete gechhe.", "english": "The line got cut off." },
+        { "native": "আর একবার বলুন।", "roman": "aar ekbaar bolun.", "english": "Please say that again." }
+      ]
+    },
+    {
+      "title": "Fixing a time",
+      "text": "দেখা করা (dekhaa koraa) is 'to meet (by arrangement)'; দেখা হওয়া is 'to meet (as it happens)', which gives the goodbye দেখা হবে, 'we'll meet'.\n\nTo propose: কাল কি আপনার সময় আছে? 'Do you have time tomorrow?'; কাল দশটায় দেখা করতে পারি? 'Can we meet at ten tomorrow?'; কটায়? 'At what time?'; কোথায়? 'Where?'\n\nTo agree: ঠিক আছে, 'fine'; তাহলে (taahole) 'then, in that case' rounds it off: তাহলে কাল দেখা হবে।\n\nA doctor or official 'sits' during consulting hours: ডাক্তারবাবু কখন বসবেন? 'When will the doctor be in?'\n\nTo send a text: মেসেজ করা or মেসেজ পাঠানো (paathaano).",
+      "examples": [
+        { "native": "কাল কি আপনার সময় আছে?", "roman": "kaal ki aapnaar shomoy aachhe?", "english": "Do you have time tomorrow?" },
+        { "native": "কাল দশটায় দেখা করতে পারি?", "roman": "kaal doshtaay dekhaa korte paari?", "english": "Can we meet at ten tomorrow?" },
+        { "native": "ঠিক আছে, তাহলে কাল দেখা হবে।", "roman": "thik aachhe, taahole kaal dekhaa hobe.", "english": "All right, see you tomorrow then." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "হ্যালো, কে বলছেন?", "roman": "hyaalo, ke bolchhen?", "english": "Hello, who is speaking?", "literal": "hello, who is-speaking", "note": "" },
+    { "native": "আমি রাজ বলছি।", "roman": "aami raaj bolchhi.", "english": "This is Raj speaking.", "literal": "I Raj am-speaking", "note": "" },
+    { "native": "একটু ধরুন।", "roman": "ektu dhorun.", "english": "Please hold on a moment.", "literal": "a-little hold", "note": "" },
+    { "native": "উনি এখন নেই।", "roman": "uni ekhon nei.", "english": "He/She is not here right now.", "literal": "that-person now is-not", "note": "" },
+    { "native": "আমি পরে ফোন করব।", "roman": "aami pore phon korbo.", "english": "I will call later.", "literal": "I later phone will-do", "note": "" },
+    { "native": "আপনার নম্বরটা বলুন।", "roman": "aapnaar nombortaa bolun.", "english": "Please tell me your number.", "literal": "your number-the say", "note": "" },
+    { "native": "শোনা যাচ্ছে না।", "roman": "shonaa jaachchhe naa.", "english": "I can't hear you.", "literal": "hearing is-going not", "note": "" },
+    { "native": "একটু জোরে বলুন।", "roman": "ektu jore bolun.", "english": "Please speak a little louder.", "literal": "a-little loudly say", "note": "" },
+    { "native": "লাইনটা কেটে গেছে।", "roman": "laaintaa kete gechhe.", "english": "The line got cut off.", "literal": "line-the having-been-cut has-gone", "note": "" },
+    { "native": "আমাকে একটা মেসেজ করে দিন।", "roman": "aamaake ektaa mesej kore din.", "english": "Please send me a message.", "literal": "me-to one message having-done give", "note": "" },
+    { "native": "কাল কি আপনার সময় আছে?", "roman": "kaal ki aapnaar shomoy aachhe?", "english": "Do you have time tomorrow?", "literal": "tomorrow (question) your time is", "note": "" },
+    { "native": "কাল দশটায় দেখা করতে পারি?", "roman": "kaal doshtaay dekhaa korte paari?", "english": "Can we meet at ten tomorrow?", "literal": "tomorrow ten-at meeting to-do I-can", "note": "" },
+    { "native": "ডাক্তারবাবু কখন বসবেন?", "roman": "daaktaarbaabu kokhon boshben?", "english": "When will the doctor be in?", "literal": "doctor-sir when will-sit", "note": "A doctor 'sits' at the clinic. West Bengal usage." },
+    { "native": "ঠিক আছে, তাহলে কাল দেখা হবে।", "roman": "thik aachhe, taahole kaal dekhaa hobe.", "english": "All right, see you tomorrow then.", "literal": "right is, then tomorrow meeting will-be", "note": "" }
+  ]
+}

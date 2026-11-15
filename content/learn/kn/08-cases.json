@@ -1,0 +1,80 @@
+{
+  "id": "cases",
+  "level": "2 · How sentences work",
+  "title": "Case endings: to, from, in, with",
+  "description": "Attach the seven case endings to nouns and pronouns to say to, from, in, by, of and to mark the object.",
+  "guide": [
+    {
+      "title": "Seven cases instead of prepositions",
+      "text": "Where English puts a small word before the noun ('to the house', 'in the house'), Kannada adds an ending after it. Grammar books count seven cases (vibhakti):\n\n1. Nominative - the subject. No ending; the noun appears in its basic form (mane).\n2. Accusative - the object of the verb: -annu (maneyannu).\n3. Instrumental - 'by, with, by means of': -inda (maneyinda).\n4. Dative - 'to, for': -ge, -ige or -kke (manege).\n5. Ablative - 'from'. Traditional grammar gives -deseyinda, but in real Kannada 'from' is also just -inda (maneyinda).\n6. Genitive - 'of, 's': -a (maneya).\n7. Locative - 'in, at, on': -alli (maneyalli).\n\nThere is also a calling form (vocative), used when addressing someone: amma becomes ammaa!, anna becomes annaa!\n\nSo in practice you need five endings: -annu, -inda, -ge/-kke, -a, -alli.",
+      "examples": [
+        { "native": "ಮನೆ", "roman": "mane", "english": "house (subject form)" },
+        { "native": "ಮನೆಯನ್ನು", "roman": "maneyannu", "english": "the house (as object)" },
+        { "native": "ಮನೆಯಿಂದ", "roman": "maneyinda", "english": "from the house" },
+        { "native": "ಮನೆಗೆ", "roman": "manege", "english": "to the house" },
+        { "native": "ಮನೆಯ", "roman": "maneya", "english": "of the house" },
+        { "native": "ಮನೆಯಲ್ಲಿ", "roman": "maneyalli", "english": "in the house" }
+      ]
+    },
+    {
+      "title": "Joining the ending: four kinds of noun",
+      "text": "The ending is the same for every noun, but the sound that links it depends on the last vowel of the noun.\n\nNouns in -e or -i (mane, angadi, hudugi): link with y. maneyannu, maneyinda, maneya, maneyalli. The dative is simply -ge: manege, angadige.\n\nThings in -a (mara 'tree', pustaka 'book'): link with v in the accusative and d elsewhere, and the dative is -kke. maravannu, maradinda, marakke, marada, maradalli.\n\nPeople in -a (huduga 'boy', appa, amma, anna): link with n, and the dative is -nige. huduganannu, huduganinda, huduganige, hudugana. So ammanige is 'to Mother'.\n\nNouns in -u (ooru 'town', haalu 'milk', bassu 'bus'): the u drops. Accusative oorannu, dative oorige. The other cases insert -in-: oorininda, oorina, oorinalli. In speech the locative is often shortened to ooralli.\n\nEnglish loanwords ending in a consonant are treated as if they ended in -u: byaag - byaaginalli, aafees - aafeesige, bas - bassinalli.",
+      "examples": [
+        { "native": "ಮರಕ್ಕೆ", "roman": "marakke", "english": "to the tree" },
+        { "native": "ಮರದಲ್ಲಿ", "roman": "maradalli", "english": "in the tree" },
+        { "native": "ಹುಡುಗನಿಗೆ", "roman": "huduganige", "english": "to the boy" },
+        { "native": "ಅಮ್ಮನಿಗೆ", "roman": "ammanige", "english": "to Mother" },
+        { "native": "ಊರಿಗೆ", "roman": "oorige", "english": "to the town" },
+        { "native": "ಊರಿನಿಂದ", "roman": "oorininda", "english": "from the town" }
+      ]
+    },
+    {
+      "title": "Pronouns with case endings",
+      "text": "Pronouns take the same endings on their possessive stem. The dative forms are slightly irregular and are among the most used words in the language, so learn them first.\n\nnaanu: nannannu (me), nanninda (by/from me), nanage (to me), nanna (my), nannalli (in me).\nneenu: ninnannu, ninninda, ninage, ninna.\nneevu: nimmannu, nimminda, nimage, nimma.\nnaavu: nammannu, namminda, namage, namma.\navanu: avanannu, avaninda, avanige, avana.\navalu: avalannu, avalinda, avalige, avala.\navaru: avarannu, avarinda, avarige, avara.\nadu: adannu, adarinda, adakke, adara, adaralli. idu is the same: idannu, idarinda, idakke, idara, idaralli.\n\nPlaces: illi (here) - illige (to here), illinda (from here); alli - allige, allinda; elli - ellige (where to?), ellinda (where from?).",
+      "examples": [
+        { "native": "ನನಗೆ", "roman": "nanage", "english": "to me, for me" },
+        { "native": "ನಿಮಗೆ", "roman": "nimage", "english": "to you (polite)" },
+        { "native": "ಅವರಿಗೆ", "roman": "avarige", "english": "to them / to him or her (respectful)" },
+        { "native": "ನನ್ನನ್ನು", "roman": "nannannu", "english": "me (as object)" },
+        { "native": "ಅದಕ್ಕೆ", "roman": "adakke", "english": "to that, for that" },
+        { "native": "ಇದನ್ನು", "roman": "idannu", "english": "this (as object)" }
+      ]
+    },
+    {
+      "title": "When to use each ending",
+      "text": "-annu marks the object, but only when it is a person or a definite thing: avarannu nodide, 'I saw them'; idannu tagolli, 'take this one'. An indefinite thing takes no ending: pustaka kodi, 'give (me) a book'. In speech -annu is usually shortened to -anna or -na (avaranna, idanna).\n\n-ge / -kke marks the destination (manege, 'home'), the receiver (nanage kodi, 'give to me'), the purpose (pravaasakke, 'for a trip') and - very important - the person who feels, wants, knows or has something: nanage beku, 'I want'; nanage gottu, 'I know'.\n\n-inda is 'from' a place or time (aafeesininda), 'by means of' a tool (chamachadinda, 'with a spoon') and 'because of' (maleyinda, 'because of the rain').\n\n-alli is 'in, at, on' for place (maneyalli) and also 'by' for transport (bassinalli, 'by bus').",
+      "examples": [
+        { "native": "ನಾನು ಅವರನ್ನು ನೋಡಿದೆ.", "roman": "naanu avarannu nodide.", "english": "I saw them." },
+        { "native": "ನನಗೆ ಆ ಪುಸ್ತಕ ಕೊಡಿ.", "roman": "nanage aa pustaka kodi.", "english": "Please give me that book." },
+        { "native": "ಚಮಚದಿಂದ ತಿನ್ನಿ.", "roman": "chamachadinda tinni.", "english": "Eat with a spoon." },
+        { "native": "ನಾನು ಬಸ್ಸಿನಲ್ಲಿ ಬಂದೆ.", "roman": "naanu bassinalli bande.", "english": "I came by bus." }
+      ]
+    },
+    {
+      "title": "'With', 'near', 'under': words after the genitive",
+      "text": "Other relations are expressed by a separate word placed after the possessive (genitive) form of the noun:\n\nಜೊತೆ (jote) with, together with: nanna jote, 'with me'; snehitana jote, 'with a friend'.\nಹತ್ತಿರ (hattira) near, and also 'in the possession of': maneya hattira, 'near the house'.\nಮೇಲೆ (mele) on; ಕೆಳಗೆ (kelage) under; ಒಳಗೆ (olage) inside; ಮುಂದೆ (munde) in front of; ಹಿಂದೆ (hinde) behind; ಪಕ್ಕ (pakka) beside.\n\nNote that 'with' meaning 'using' is -inda (chamachadinda), while 'with' meaning 'together with' is jote.",
+      "examples": [
+        { "native": "ನನ್ನ ಜೊತೆ ಬನ್ನಿ.", "roman": "nanna jote banni.", "english": "Please come with me." },
+        { "native": "ಮರದ ಕೆಳಗೆ", "roman": "marada kelage", "english": "under the tree" },
+        { "native": "ಮನೆಯ ಹತ್ತಿರ", "roman": "maneya hattira", "english": "near the house" },
+        { "native": "ಅಂಗಡಿಯ ಮುಂದೆ", "roman": "angadiya munde", "english": "in front of the shop" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಾನು ಮನೆಗೆ ಹೋಗ್ತೀನಿ.", "roman": "naanu manege hogteeni.", "english": "I am going home.", "literal": "I house-to go", "note": "Dative -ge for the destination. Written: hoguttene (ಹೋಗುತ್ತೇನೆ)." },
+    { "native": "ನಾನು ಆಫೀಸಿನಿಂದ ಬರ್ತೀನಿ.", "roman": "naanu aafeesininda barteeni.", "english": "I'll come from the office.", "literal": "I office-from come", "note": "-inda = from. Written: baruttene (ಬರುತ್ತೇನೆ)." },
+    { "native": "ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ಇದ್ದಾರೆ.", "roman": "avaru maisoorinalli iddaare.", "english": "They are in Mysuru.", "literal": "they Mysuru-in are", "note": "maisooru + in + alli. Spoken shortcut: maisooralli (ಮೈಸೂರಲ್ಲಿ)." },
+    { "native": "ನನಗೆ ಆ ಪುಸ್ತಕ ಕೊಡಿ.", "roman": "nanage aa pustaka kodi.", "english": "Please give me that book.", "literal": "me-to that book give", "note": "nanage = to me." },
+    { "native": "ನಾನು ಅವರನ್ನು ನೋಡಿದೆ.", "roman": "naanu avarannu nodide.", "english": "I saw them.", "literal": "I them saw", "note": "-annu marks a person as object. In speech: avaranna (ಅವರನ್ನ)." },
+    { "native": "ನಾನು ಬಸ್ಸಿನಲ್ಲಿ ಬಂದೆ.", "roman": "naanu bassinalli bande.", "english": "I came by bus.", "literal": "I bus-in came", "note": "Transport takes -alli: literally 'in the bus'." },
+    { "native": "ಅಮ್ಮನಿಗೆ ಹೇಳಿ.", "roman": "ammanige heli.", "english": "Please tell Mother.", "literal": "mother-to tell", "note": "People ending in -a take -nige. The e of heli is long." },
+    { "native": "ನನ್ನ ಜೊತೆ ಬನ್ನಿ.", "roman": "nanna jote banni.", "english": "Please come with me.", "literal": "my with come", "note": "jote follows the possessive form." },
+    { "native": "ಚಮಚದಿಂದ ತಿನ್ನಿ.", "roman": "chamachadinda tinni.", "english": "Eat with a spoon.", "literal": "spoon-with eat", "note": "-inda also means 'by means of'." },
+    { "native": "ಮರದ ಕೆಳಗೆ ಕೂತ್ಕೊಳ್ಳಿ.", "roman": "marada kelage kootkolli.", "english": "Sit under the tree.", "literal": "tree's under sit", "note": "" },
+    { "native": "ನಾನು ಅಂಗಡಿಗೆ ಹೋಗಬೇಕು.", "roman": "naanu angadige hogabeku.", "english": "I have to go to the shop.", "literal": "I shop-to go-must", "note": "angadi + ge." },
+    { "native": "ಬೆಂಗಳೂರಿನಿಂದ ಮೈಸೂರಿಗೆ ಎಷ್ಟು ದೂರ?", "roman": "bengaloorininda maisoorige eshtu doora?", "english": "How far is it from Bengaluru to Mysuru?", "literal": "Bengaluru-from Mysuru-to how-much far", "note": "'From' and 'to' in one sentence." },
+    { "native": "ಇದನ್ನು ತಗೊಳ್ಳಿ.", "roman": "idannu tagolli.", "english": "Please take this.", "literal": "this take", "note": "Written: idannu tegedukolli (ತೆಗೆದುಕೊಳ್ಳಿ)." },
+    { "native": "ಕೀ ಬ್ಯಾಗಿನಲ್ಲಿ ಇದೆ.", "roman": "kee byaaginalli ide.", "english": "The key is in the bag.", "literal": "key bag-in is", "note": "A loanword ending in a consonant takes -inalli, like a noun in -u." }
+  ]
+}

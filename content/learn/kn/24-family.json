@@ -1,0 +1,56 @@
+{
+  "id": "family",
+  "level": "4 · Everyday situations",
+  "title": "Family",
+  "description": "Name your relatives, introduce them and answer the questions everyone will ask about your family.",
+  "guide": [
+    {
+      "title": "Older or younger? Kannada always says",
+      "text": "Kannada has no plain word for 'brother' or 'sister'. You must say whether the person is older or younger than you:\n\nಅಣ್ಣ (anna) elder brother; ತಮ್ಮ (tamma) younger brother; ಅಕ್ಕ (akka) elder sister; ತಂಗಿ (tangi) younger sister.\n\nParents and grandparents: ಅಪ್ಪ (appa) father; ಅಮ್ಮ (amma) mother; ತಾತ (taata) or ಅಜ್ಜ (ajja) grandfather; ಅಜ್ಜಿ (ajji) grandmother. The formal words ತಂದೆ (tande) father and ತಾಯಿ (taayi) mother are used in writing and on forms.\n\nMarriage and children: ಗಂಡ (ganda) husband; ಹೆಂಡತಿ (hendati) wife; ಮಗ (maga) son; ಮಗಳು (magalu) daughter; ಮಗು (magu) child, baby; ಮಕ್ಕಳು (makkalu) children.\n\nUncles and aunts depend on the side of the family and on age. Father's elder brother is ದೊಡ್ಡಪ್ಪ (doddappa, 'big father'), his younger brother ಚಿಕ್ಕಪ್ಪ (chikkappa, 'small father'); mother's elder sister is ದೊಡ್ಡಮ್ಮ (doddamma), her younger sister ಚಿಕ್ಕಮ್ಮ (chikkamma). Mother's brother is ಮಾವ (maava) and father's sister is ಅತ್ತೆ (atte) - these two words also mean father-in-law and mother-in-law.",
+      "examples": [
+        { "native": "ಅಣ್ಣ", "roman": "anna", "english": "elder brother" },
+        { "native": "ತಮ್ಮ", "roman": "tamma", "english": "younger brother" },
+        { "native": "ಅಕ್ಕ", "roman": "akka", "english": "elder sister" },
+        { "native": "ತಂಗಿ", "roman": "tangi", "english": "younger sister" },
+        { "native": "ಮಗ", "roman": "maga", "english": "son" },
+        { "native": "ಮಗಳು", "roman": "magalu", "english": "daughter" }
+      ]
+    },
+    {
+      "title": "Respect inside the family",
+      "text": "Elders are spoken about with avaru / ivaru and a plural verb, even your own parents: ivaru nanna amma, 'this is my mother'; appa bartaare, 'Father is coming'; nanna taata halliyalli iddaare, 'my grandfather is in the village'.\n\nYounger relatives take the singular: nanna tamma kaalejige hogtaane; nanna tangi odtiddaale.\n\nFor an elder brother or sister both are heard; the plural is the safer, more polite choice.\n\nHusband and wife: introducing a spouse to others, people use the respectful ivaru.\n\nThe same family words are used to address strangers politely: anna or akka to someone a little older than you, amma to an older woman, taata or ajji to the elderly.",
+      "examples": [
+        { "native": "ಇವರು ನನ್ನ ಅಮ್ಮ.", "roman": "ivaru nanna amma.", "english": "This is my mother." },
+        { "native": "ಇವರು ನನ್ನ ಅಪ್ಪ.", "roman": "ivaru nanna appa.", "english": "This is my father." },
+        { "native": "ನನ್ನ ತಾತ ಹಳ್ಳಿಯಲ್ಲಿ ಇದ್ದಾರೆ.", "roman": "nanna taata halliyalli iddaare.", "english": "My grandfather lives in the village." },
+        { "native": "ನನ್ನ ತಮ್ಮ ಕಾಲೇಜಿಗೆ ಹೋಗ್ತಾನೆ.", "roman": "nanna tamma kaalejige hogtaane.", "english": "My younger brother goes to college." }
+      ]
+    },
+    {
+      "title": "Talking about your family",
+      "text": "'I have a brother' uses the dative pattern: nanage + relative + form of iru. Count people with the human number words: obba anna (one elder brother), obbalu tangi (one younger sister), ibbaru makkalu (two children), mooru jana (three people).\n\n'Family' in the sense of household is usually expressed with ಮನೆ (mane), 'house': nimma maneyalli eshtu jana iddaare? 'how many people are there in your house?'. The formal word is ಕುಟುಂಬ (kutumba).\n\nMarriage 'happens to you': ಮದುವೆ ಆಗಿದೆ (maduve aagide) 'is married', literally 'marriage has happened'; ಮದುವೆ ಆಗಿಲ್ಲ (maduve aagilla) 'is not married'. These are everyday questions in India and are not considered intrusive.",
+      "examples": [
+        { "native": "ನನಗೆ ಒಬ್ಬ ಅಣ್ಣ ಇದ್ದಾನೆ.", "roman": "nanage obba anna iddaane.", "english": "I have an elder brother." },
+        { "native": "ನನಗೆ ಇಬ್ಬರು ಮಕ್ಕಳು ಇದ್ದಾರೆ.", "roman": "nanage ibbaru makkalu iddaare.", "english": "I have two children." },
+        { "native": "ನಿಮಗೆ ಮದುವೆ ಆಗಿದೆಯಾ?", "roman": "nimage maduve aagideyaa?", "english": "Are you married?" },
+        { "native": "ನನಗೆ ಮದುವೆ ಆಗಿಲ್ಲ.", "roman": "nanage maduve aagilla.", "english": "I am not married." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇವರು ನನ್ನ ಅಮ್ಮ.", "roman": "ivaru nanna amma.", "english": "This is my mother.", "literal": "this-person my mother", "note": "ivaru is the respectful word for 'this person'." },
+    { "native": "ಇವರು ನನ್ನ ಅಪ್ಪ.", "roman": "ivaru nanna appa.", "english": "This is my father.", "literal": "this-person my father", "note": "" },
+    { "native": "ನನಗೆ ಒಬ್ಬ ಅಣ್ಣ ಇದ್ದಾನೆ.", "roman": "nanage obba anna iddaane.", "english": "I have an elder brother.", "literal": "me-to one elder-brother is", "note": "Younger brother: tamma (ತಮ್ಮ). anna here has the retroflex ಣ್ಣ." },
+    { "native": "ನನಗೆ ಒಬ್ಬಳು ತಂಗಿ ಇದ್ದಾಳೆ.", "roman": "nanage obbalu tangi iddaale.", "english": "I have a younger sister.", "literal": "me-to one younger-sister is", "note": "Elder sister: akka (ಅಕ್ಕ)." },
+    { "native": "ನಿಮಗೆ ಮದುವೆ ಆಗಿದೆಯಾ?", "roman": "nimage maduve aagideyaa?", "english": "Are you married?", "literal": "you-to marriage has-happened?", "note": "" },
+    { "native": "ನನಗೆ ಮದುವೆ ಆಗಿಲ್ಲ.", "roman": "nanage maduve aagilla.", "english": "I am not married.", "literal": "me-to marriage has-not-happened", "note": "'I am married': nanage maduve aagide." },
+    { "native": "ನನಗೆ ಇಬ್ಬರು ಮಕ್ಕಳು ಇದ್ದಾರೆ.", "roman": "nanage ibbaru makkalu iddaare.", "english": "I have two children.", "literal": "me-to two-persons children are", "note": "For counting people use 'ibbaru' (two persons), not 'eradu'." },
+    { "native": "ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಎಷ್ಟು ಜನ ಇದ್ದಾರೆ?", "roman": "nimma maneyalli eshtu jana iddaare?", "english": "How many people are there in your family?", "literal": "your house-in how-many people are", "note": "Literally 'in your house' - the usual way to ask about family." },
+    { "native": "ನನ್ನ ತಾತ ಹಳ್ಳಿಯಲ್ಲಿ ಇದ್ದಾರೆ.", "roman": "nanna taata halliyalli iddaare.", "english": "My grandfather lives in the village.", "literal": "my grandfather village-in is", "note": "'taata' is usual around Bengaluru; elsewhere in Karnataka you will hear 'ajja' (ಅಜ್ಜ)." },
+    { "native": "ಮನೆಯಲ್ಲಿ ಎಲ್ಲರೂ ಹೇಗಿದ್ದಾರೆ?", "roman": "maneyalli ellaroo hegiddaare?", "english": "How is everyone at home?", "literal": "house-in everyone how-are", "note": "ellaroo = everyone. A polite question after greeting someone." },
+    { "native": "ಇವರು ನನ್ನ ಹೆಂಡತಿ.", "roman": "ivaru nanna hendati.", "english": "This is my wife.", "literal": "this-person my wife", "note": "For 'husband': ivaru nanna ganda (ಇವರು ನನ್ನ ಗಂಡ)." },
+    { "native": "ನನ್ನ ಅಕ್ಕ ಮೈಸೂರಿನಲ್ಲಿ ಇದ್ದಾರೆ.", "roman": "nanna akka maisoorinalli iddaare.", "english": "My elder sister lives in Mysuru.", "literal": "my elder-sister Mysuru-in is", "note": "Plural verb out of respect for an elder." },
+    { "native": "ನನ್ನ ತಮ್ಮ ಕಾಲೇಜಿಗೆ ಹೋಗ್ತಾನೆ.", "roman": "nanna tamma kaalejige hogtaane.", "english": "My younger brother goes to college.", "literal": "my younger-brother college-to goes", "note": "Singular verb for someone younger." },
+    { "native": "ನಮ್ಮ ಅಜ್ಜಿ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಅಡುಗೆ ಮಾಡ್ತಾರೆ.", "roman": "namma ajji tumbaa chennaagi aduge maadtaare.", "english": "Our grandmother cooks very well.", "literal": "our grandmother very well cooking does", "note": "namma ('our') is the natural word for one's own family members." }
+  ]
+}

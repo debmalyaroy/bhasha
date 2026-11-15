@@ -1,0 +1,55 @@
+{
+  "id": "this-that",
+  "level": "2 · How sentences work",
+  "title": "This, that, here, there",
+  "description": "Point to things near and far, and use the matching words for here, there, now, then, this way and so much.",
+  "guide": [
+    {
+      "title": "Three pointers: e-, o-, she-",
+      "text": "Bengali has three pointing roots, and a whole family of words is built on each.\n\nএ- (e-) is 'this': near the speaker.\nও- (o-) is 'that': away from the speaker but in sight, something you can point at.\nসে- (she-) is 'that': the one already mentioned, usually not in sight.\n\nBefore a noun they appear as এই (ei), ওই (oi) and সেই (shei), and the noun normally takes the definite ending -টা: এই বইটা 'this book', ওই বাড়িটা 'that house', সেই লোকটা 'that man (we were talking about)'.\n\nStanding alone, for a thing, they are এটা (etaa), ওটা (otaa), সেটা (shetaa): 'this one', 'that one', 'that / it'.\n\nFor several things: এগুলো (egulo) 'these', ওগুলো (ogulo) 'those', সেগুলো (shegulo).",
+      "examples": [
+        { "native": "এটা ভালো।", "roman": "etaa bhaalo.", "english": "This one is good." },
+        { "native": "ওটা কী?", "roman": "otaa kee?", "english": "What is that?" },
+        { "native": "এই বইটা আমার।", "roman": "ei boitaa aamaar.", "english": "This book is mine." },
+        { "native": "ওই বাড়িটা দেখুন।", "roman": "oi baaritaa dekhun.", "english": "Look at that house." },
+        { "native": "সেটা আমি জানি।", "roman": "shetaa aami jaani.", "english": "I know that." },
+        { "native": "এগুলো কত?", "roman": "egulo koto?", "english": "How much are these?" }
+      ]
+    },
+    {
+      "title": "Here, there, this way, that way",
+      "text": "The same three roots give the place words:\n\nএখানে (ekhaane) here - ওখানে (okhaane) there (in sight) - সেখানে (shekhaane) there (the place mentioned)\nএদিকে (edike) this way, over here - ওদিকে (odike) that way, over there\n\n'From here' is এখান থেকে (ekhaan theke), without the final -e: the ending -e is the 'at' ending and থেকে replaces it.\n\nThe question words belong to the same pattern with ক-: কোথায় (where), কোনদিকে (which way).",
+      "examples": [
+        { "native": "এখানে আসুন।", "roman": "ekhaane aashun.", "english": "Please come here." },
+        { "native": "ওখানে বসুন।", "roman": "okhaane boshun.", "english": "Please sit there." },
+        { "native": "এদিকে আসুন।", "roman": "edike aashun.", "english": "Come this way." },
+        { "native": "এখান থেকে কত দূর?", "roman": "ekhaan theke koto door?", "english": "How far is it from here?" }
+      ]
+    },
+    {
+      "title": "Now, then, like this, so much",
+      "text": "More members of the family:\n\nTime: এখন (ekhon) now - তখন (tokhon) then - কখন when?\nManner: এরকম (erokom) or এমন (emon) like this, such - ওরকম (orokom) like that - কেমন how?\nAmount: এত (eto) this much, so much - অত (oto) or তত (toto) that much - কত how much?\n\nএত is very common as an exclamation: এত দাম! 'so expensive!'; এত লোক! 'so many people!'\n\nIn এখন, এত and এমন the first vowel is the a of 'cat'.",
+      "examples": [
+        { "native": "এখন নয়।", "roman": "ekhon noy.", "english": "Not now." },
+        { "native": "এত দাম!", "roman": "eto daam!", "english": "So expensive!" },
+        { "native": "এরকম আর একটা দিন।", "roman": "erokom aar ektaa din.", "english": "Give me another one like this." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "এটা ভালো।", "roman": "etaa bhaalo.", "english": "This one is good.", "literal": "this good", "note": "" },
+    { "native": "ওটা কী?", "roman": "otaa kee?", "english": "What is that?", "literal": "that what", "note": "" },
+    { "native": "এই বইটা আমার।", "roman": "ei boitaa aamaar.", "english": "This book is mine.", "literal": "this book-the my", "note": "After এই the noun normally takes -taa." },
+    { "native": "ওই বাড়িটা দেখুন।", "roman": "oi baaritaa dekhun.", "english": "Look at that house.", "literal": "that house-the look", "note": "" },
+    { "native": "সেটা আমি জানি।", "roman": "shetaa aami jaani.", "english": "I know that.", "literal": "that I know", "note": "সেটা refers back to what was just said." },
+    { "native": "সেই লোকটা আবার এসেছে।", "roman": "shei loktaa aabaar eshechhe.", "english": "That man has come again.", "literal": "that man-the again has-come", "note": "সেই: the man both speakers already know about." },
+    { "native": "এগুলো কত?", "roman": "egulo koto?", "english": "How much are these?", "literal": "these how-much", "note": "" },
+    { "native": "ওগুলো আমার নয়।", "roman": "ogulo aamaar noy.", "english": "Those are not mine.", "literal": "those my are-not", "note": "" },
+    { "native": "এখানে আসুন।", "roman": "ekhaane aashun.", "english": "Please come here.", "literal": "here come", "note": "" },
+    { "native": "ওখানে বসুন।", "roman": "okhaane boshun.", "english": "Please sit there.", "literal": "there sit", "note": "" },
+    { "native": "এদিকে আসুন।", "roman": "edike aashun.", "english": "Come this way.", "literal": "this-direction-in come", "note": "" },
+    { "native": "ওদিকে যাবেন না।", "roman": "odike jaaben naa.", "english": "Don't go that way.", "literal": "that-direction-in you-will-go not", "note": "" },
+    { "native": "এত দাম!", "roman": "eto daam!", "english": "So expensive!", "literal": "this-much price", "note": "The e of এত is the a of 'cat', and the final o is said." },
+    { "native": "এরকম আর একটা দিন।", "roman": "erokom aar ektaa din.", "english": "Give me another one like this.", "literal": "this-kind more one give", "note": "" }
+  ]
+}

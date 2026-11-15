@@ -1,0 +1,62 @@
+{
+  "id": "present-habitual",
+  "level": "3 · Verbs",
+  "title": "What you usually do",
+  "description": "Talk about habits, routines and general facts with the everyday present tense.",
+  "guide": [
+    {
+      "title": "Stem + taa + 'to be'",
+      "text": "The dictionary form of every Hindi verb ends in -ना (-naa): करना (karnaa, to do), बोलना (bolnaa, to speak), जाना (jaanaa, to go). Remove -ना and you have the stem: कर, बोल, जा. Everything else is built on the stem.\n\nThe everyday present tense has three parts: the stem, the ending -ता (-taa), and the right form of 'to be'. मैं बोलता हूँ, piece by piece 'I speak-ing am', means 'I speak'.\n\nThis tense is for what happens regularly or is generally true: 'I speak Hindi', 'I drink tea every day', 'the shop opens at ten'. It is not for what is happening at this moment; that needs the continuous tense of the next unit.",
+      "examples": [
+        { "native": "मैं हिंदी बोलता हूँ।", "roman": "main hindee boltaa hoon.", "english": "I speak Hindi. (man speaking)" },
+        { "native": "मैं रोज़ चाय पीता हूँ।", "roman": "main roz chaay peetaa hoon.", "english": "I drink tea every day. (man speaking)" },
+        { "native": "हम दिल्ली में रहते हैं।", "roman": "ham dillee mein rahte hain.", "english": "We live in Delhi." }
+      ]
+    },
+    {
+      "title": "The ending agrees with the subject",
+      "text": "The -ता part is like an -aa adjective and agrees with the subject in gender and number.\n\n-ता (-taa): one male. मैं करता हूँ, वह करता है.\n-ते (-te): several males or a mixed group, and always with आप and तुम for a man. हम करते हैं, आप करते हैं, तुम करते हो.\n-ती (-tee): any female subject, one or many. मैं करती हूँ, वह करती है, आप करती हैं, वे करती हैं.\n\nThe form of 'to be' agrees with the person as usual: हूँ with मैं, हो with तुम, है with one he, she or it, हैं with हम, आप and they.\n\nA thing counts as male or female according to the gender of its noun: बस (bus) and दुकान (shop) are feminine, so यह बस कहाँ जाती है? and दुकान दस बजे खुलती है.\n\nRemember respect: of your mother you say मेरी माँ खाना बनाती हैं, with plural हैं.",
+      "examples": [
+        { "native": "वह स्कूल जाती है।", "roman": "vah skool jaatee hai.", "english": "She goes to school." },
+        { "native": "आप कहाँ काम करते हैं?", "roman": "aap kahaan kaam karte hain?", "english": "Where do you work? (to a man)" },
+        { "native": "यह बस कहाँ जाती है?", "roman": "yah bas kahaan jaatee hai?", "english": "Where does this bus go?" },
+        { "native": "मेरी माँ खाना बनाती हैं।", "roman": "meree maan khaanaa banaatee hain.", "english": "My mother cooks." },
+        { "native": "बच्चे शाम को खेलते हैं।", "roman": "bachche shaam ko khelte hain.", "english": "The children play in the evening." }
+      ]
+    },
+    {
+      "title": "Questions and negatives",
+      "text": "Questions need no helping verb like English 'do'. Use क्या at the front, or a question word before the verb: क्या आप मांस खाते हैं? 'Do you eat meat?'\n\nIn the negative, नहीं goes before the verb and the final हूँ, है or हैं is normally left out: मैं कॉफ़ी नहीं पीता, 'I don't drink coffee'. There is one detail to notice: when a feminine plural verb loses its हैं, the nasal moves onto the verb, so वे नहीं जातीं (jaateen), 'they (women) don't go'.",
+      "examples": [
+        { "native": "क्या आप मांस खाते हैं?", "roman": "kyaa aap maans khaate hain?", "english": "Do you eat meat? (to a man)" },
+        { "native": "मैं कॉफ़ी नहीं पीता।", "roman": "main kofee naheen peetaa.", "english": "I don't drink coffee. (man speaking)" },
+        { "native": "वह यहाँ नहीं रहती।", "roman": "vah yahaan naheen rahtee.", "english": "She doesn't live here." }
+      ]
+    },
+    {
+      "title": "Words for how often",
+      "text": "Habit sentences often contain a time word. These go early in the sentence, usually right after the subject.\n\nरोज़ (roz): every day. हर (har): every, as in हर रविवार, 'every Sunday'. हमेशा (hameshaa): always. कभी-कभी (kabhee-kabhee): sometimes. अक्सर (aksar): often. सुबह (subah): in the morning. शाम को (shaam ko): in the evening. रात को (raat ko): at night. जल्दी (jaldee): early, quickly.",
+      "examples": [
+        { "native": "मैं सुबह जल्दी उठता हूँ।", "roman": "main subah jaldee uthtaa hoon.", "english": "I get up early in the morning. (man speaking)" },
+        { "native": "वे हर रविवार मंदिर जाते हैं।", "roman": "ve har ravivaar mandir jaate hain.", "english": "They go to the temple every Sunday." },
+        { "native": "दुकान दस बजे खुलती है।", "roman": "dukaan das baje khultee hai.", "english": "The shop opens at ten o'clock." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मैं हिंदी बोलता हूँ।", "roman": "main hindee boltaa hoon.", "english": "I speak Hindi.", "literal": "I Hindi speaking am", "note": "A woman says: मैं हिंदी बोलती हूँ (... boltee hoon)." },
+    { "native": "आप कहाँ काम करते हैं?", "roman": "aap kahaan kaam karte hain?", "english": "Where do you work?", "literal": "you where work doing are", "note": "To a woman: ... काम करती हैं? (kaam kartee hain?)" },
+    { "native": "मैं रोज़ चाय पीता हूँ।", "roman": "main roz chaay peetaa hoon.", "english": "I drink tea every day.", "literal": "I daily tea drinking am", "note": "A woman says: ... पीती हूँ (peetee hoon)." },
+    { "native": "वह स्कूल जाती है।", "roman": "vah skool jaatee hai.", "english": "She goes to school.", "literal": "she school going is", "note": "'He goes to school' is वह स्कूल जाता है (vah skool jaataa hai)." },
+    { "native": "हम दिल्ली में रहते हैं।", "roman": "ham dillee mein rahte hain.", "english": "We live in Delhi.", "literal": "we Delhi in living are", "note": "A group of women only: ... रहती हैं (rahtee hain)." },
+    { "native": "बच्चे शाम को खेलते हैं।", "roman": "bachche shaam ko khelte hain.", "english": "The children play in the evening.", "literal": "children evening at playing are" },
+    { "native": "मैं सुबह जल्दी उठता हूँ।", "roman": "main subah jaldee uthtaa hoon.", "english": "I get up early in the morning.", "literal": "I morning early rising am", "note": "A woman says: ... उठती हूँ (uthtee hoon)." },
+    { "native": "क्या आप मांस खाते हैं?", "roman": "kyaa aap maans khaate hain?", "english": "Do you eat meat?", "literal": "(question) you meat eating are", "note": "To a woman: ... खाती हैं? (khaatee hain?)" },
+    { "native": "यह बस कहाँ जाती है?", "roman": "yah bas kahaan jaatee hai?", "english": "Where does this bus go?", "literal": "this bus where going is", "note": "बस is feminine, so जाती." },
+    { "native": "मेरी माँ खाना बनाती हैं।", "roman": "meree maan khaanaa banaatee hain.", "english": "My mother cooks.", "literal": "my mother food making are", "note": "Plural हैं out of respect for one's mother." },
+    { "native": "दुकान दस बजे खुलती है।", "roman": "dukaan das baje khultee hai.", "english": "The shop opens at ten o'clock.", "literal": "shop ten o'clock opening is" },
+    { "native": "मैं अंग्रेज़ी पढ़ाता हूँ।", "roman": "main angrezee parhaataa hoon.", "english": "I teach English.", "literal": "I English teaching am", "note": "A woman says: ... पढ़ाती हूँ (parhaatee hoon). Compare पढ़ना (to study, to read) with पढ़ाना (to teach)." },
+    { "native": "वे हर रविवार मंदिर जाते हैं।", "roman": "ve har ravivaar mandir jaate hain.", "english": "They go to the temple every Sunday.", "literal": "they every Sunday temple going are" },
+    { "native": "मैं कॉफ़ी नहीं पीता।", "roman": "main kofee naheen peetaa.", "english": "I don't drink coffee.", "literal": "I coffee not drinking", "note": "A woman says: ... नहीं पीती (naheen peetee)." }
+  ]
+}

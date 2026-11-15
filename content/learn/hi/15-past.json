@@ -1,0 +1,66 @@
+{
+  "id": "past",
+  "level": "3 · Verbs",
+  "title": "What happened",
+  "description": "Talk about completed actions in the past, including the special 'ne' sentence pattern.",
+  "guide": [
+    {
+      "title": "The past form of the verb",
+      "text": "The simple past is one word, made from the stem plus an ending that works like an -aa adjective: -आ (-aa) masculine singular, -ए (-e) masculine plural, -ई (-ee) feminine singular, -ईं (-een) feminine plural.\n\nFrom बोलना (to speak): बोला, बोले, बोली, बोलीं. From देखना (to see): देखा, देखे, देखी, देखीं.\n\nIf the stem ends in a vowel, a य (y) is slipped in before -aa: आना (to come) gives आया, आए, आई, आईं; खाना (to eat) gives खाया, खाए, खाई, खाईं.\n\nSix very common verbs are irregular and must be memorised:\nजाना (to go): गया, गए, गई, गईं.\nकरना (to do): किया, किए, की, कीं.\nलेना (to take): लिया, लिए, ली, लीं.\nदेना (to give): दिया, दिए, दी, दीं.\nपीना (to drink): पिया, पिए, पी, पीं.\nहोना (to be, to happen): हुआ, हुए, हुई, हुईं.",
+      "examples": [
+        { "native": "वह आया।", "roman": "vah aayaa.", "english": "He came." },
+        { "native": "वह आई।", "roman": "vah aaee.", "english": "She came." },
+        { "native": "हम कल रात देर से आए।", "roman": "ham kal raat der se aae.", "english": "We came late last night." },
+        { "native": "वह बाज़ार गई।", "roman": "vah baazaar gaee.", "english": "She went to the market." }
+      ]
+    },
+    {
+      "title": "Verbs without an object agree with the subject",
+      "text": "Verbs of movement and other verbs that cannot take a direct object (go, come, arrive, get up, sit, sleep, stay, be) are simple: the past form agrees with the subject, as you would expect.\n\nA man says मैं गया ('I went'), a woman says मैं गई. To a man you say आप कब आए?, to a woman आप कब आईं?",
+      "examples": [
+        { "native": "मैं कल बाज़ार गया।", "roman": "main kal baazaar gayaa.", "english": "I went to the market yesterday. (man speaking)" },
+        { "native": "मैं कल बाज़ार गई।", "roman": "main kal baazaar gaee.", "english": "I went to the market yesterday. (woman speaking)" },
+        { "native": "मैं समय पर पहुँचा।", "roman": "main samay par pahunchaa.", "english": "I arrived on time. (man speaking)" },
+        { "native": "आप कब आए?", "roman": "aap kab aae?", "english": "When did you come? (to a man)" }
+      ]
+    },
+    {
+      "title": "Verbs with an object: the ne pattern",
+      "text": "This is the most unusual rule in Hindi, so take it slowly. With verbs that take a direct object (eat, drink, see, do, give, buy, say, read, write and so on), in the simple past and the tenses built on it:\n\n1. The doer is followed by ने (ne).\n2. The verb does NOT agree with the doer. It agrees with the object, the thing eaten, seen or bought.\n\n'I ate the food' is मैंने खाना खाया. खाया is masculine because खाना (food) is masculine. 'I drank tea' is मैंने चाय पी, with feminine पी because चाय is feminine. It makes no difference whether the speaker is a man or a woman.\n\nThe pronouns with ने are: मैंने (mainne), तुमने (tumne), आपने (aapne), हमने (hamne), उसने (usne, he or she), उन्होंने (unhonne, they, or he or she with respect), किसने (kisne, who?). A noun before ने takes the oblique: लड़के ने, बच्चों ने.\n\n3. If the object is marked with को (as specific people usually are), or if there is no object to agree with, the verb stays in the neutral masculine singular: मैंने राज को देखा, 'I saw Raj'; मैंने सीता को देखा, 'I saw Sita'.\n\nA few verbs take an object and still do not use ने, notably लाना (to bring) and भूलना (to forget), while बोलना (to speak) is normally used without it: वह कुछ नहीं बोला, 'he said nothing'.",
+      "examples": [
+        { "native": "मैंने खाना खाया।", "roman": "mainne khaanaa khaayaa.", "english": "I ate (the food).", "literal": "I-by food eaten" },
+        { "native": "मैंने चाय पी।", "roman": "mainne chaay pee.", "english": "I drank tea.", "literal": "I-by tea drunk" },
+        { "native": "मैंने दो किताबें खरीदीं।", "roman": "mainne do kitaaben khareedeen.", "english": "I bought two books." },
+        { "native": "उसने मुझे एक किताब दी।", "roman": "usne mujhe ek kitaab dee.", "english": "He gave me a book. / She gave me a book." },
+        { "native": "मैंने राज को देखा।", "roman": "mainne raaj ko dekhaa.", "english": "I saw Raj." },
+        { "native": "आपने क्या कहा?", "roman": "aapne kyaa kahaa?", "english": "What did you say?" }
+      ]
+    },
+    {
+      "title": "Have done, had done, used to do",
+      "text": "Add the present of 'to be' to the past form and you get 'have done': मैंने यह फ़िल्म देखी है, 'I have seen this film'; वह अभी गई है, 'she has just left'. The ने rule stays exactly the same.\n\nAdd था, थी, थे instead and you get 'had done', which Hindi also uses for a plain past event that is over and done with: मैं कल आया था, 'I came yesterday'.\n\nFor what used to happen regularly, use the habitual form with था: मैं पहले यहाँ रहता था, 'I used to live here before'. There is no ने in this tense, because it is not built on the past form.\n\nIn the negative, नहीं goes before the verb as always: मैंने नहीं देखा, 'I didn't see (it)'.",
+      "examples": [
+        { "native": "मैंने यह फ़िल्म देखी है।", "roman": "mainne yah film dekhee hai.", "english": "I have seen this film." },
+        { "native": "वह अभी गई है।", "roman": "vah abhee gaee hai.", "english": "She has just left." },
+        { "native": "मैं पहले यहाँ रहता था।", "roman": "main pahle yahaan rahtaa thaa.", "english": "I used to live here before. (man speaking)" },
+        { "native": "मैंने नहीं देखा।", "roman": "mainne naheen dekhaa.", "english": "I didn't see (it)." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मैं कल बाज़ार गया।", "roman": "main kal baazaar gayaa.", "english": "I went to the market yesterday.", "literal": "I yesterday market went", "note": "A woman says: मैं कल बाज़ार गई (... gaee)." },
+    { "native": "मैंने खाना खाया।", "roman": "mainne khaanaa khaayaa.", "english": "I ate.", "literal": "I-by food eaten", "note": "The same for men and women: the verb agrees with खाना (masculine), not with the speaker." },
+    { "native": "मैंने चाय पी।", "roman": "mainne chaay pee.", "english": "I drank tea.", "literal": "I-by tea drunk", "note": "पी is feminine to agree with चाय." },
+    { "native": "आपने क्या कहा?", "roman": "aapne kyaa kahaa?", "english": "What did you say?", "literal": "you-by what said" },
+    { "native": "उसने मुझे एक किताब दी।", "roman": "usne mujhe ek kitaab dee.", "english": "He gave me a book.", "literal": "he-by to-me one book given", "note": "The same sentence means 'She gave me a book'. दी is feminine to agree with किताब." },
+    { "native": "हम कल रात देर से आए।", "roman": "ham kal raat der se aae.", "english": "We came late last night.", "literal": "we yesterday night lateness with came" },
+    { "native": "मैंने यह फ़िल्म देखी है।", "roman": "mainne yah film dekhee hai.", "english": "I have seen this film.", "literal": "I-by this film seen is" },
+    { "native": "वह अभी गई है।", "roman": "vah abhee gaee hai.", "english": "She has just left.", "literal": "she just-now gone is", "note": "'He has just left' is वह अभी गया है (vah abhee gayaa hai)." },
+    { "native": "आपको कैसा लगा?", "roman": "aapko kaisaa lagaa?", "english": "How did you like it?", "literal": "to-you how felt" },
+    { "native": "मैंने दो किताबें खरीदीं।", "roman": "mainne do kitaaben khareedeen.", "english": "I bought two books.", "literal": "I-by two books bought", "note": "खरीदीं is feminine plural to agree with किताबें." },
+    { "native": "मैं पहले यहाँ रहता था।", "roman": "main pahle yahaan rahtaa thaa.", "english": "I used to live here before.", "literal": "I before here living was", "note": "A woman says: ... रहती थी (rahtee thee)." },
+    { "native": "उन्होंने मेरी मदद की।", "roman": "unhonne meree madad kee.", "english": "They helped me.", "literal": "they-by my help did", "note": "Also 'He helped me' or 'She helped me' said with respect. की is feminine to agree with मदद." },
+    { "native": "मैंने राज को देखा।", "roman": "mainne raaj ko dekhaa.", "english": "I saw Raj.", "literal": "I-by Raj to seen", "note": "Because the object has को, the verb stays in the neutral form देखा." },
+    { "native": "मैं समय पर पहुँचा।", "roman": "main samay par pahunchaa.", "english": "I arrived on time.", "literal": "I time on arrived", "note": "A woman says: ... पहुँची (pahunchee). No ने: 'arrive' has no object." }
+  ]
+}

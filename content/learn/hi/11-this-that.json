@@ -1,0 +1,63 @@
+{
+  "id": "this-that",
+  "level": "2 · How sentences work",
+  "title": "This, that, here, there",
+  "description": "Point things out: this and that, these and those, here and there.",
+  "guide": [
+    {
+      "title": "This and that, these and those",
+      "text": "यह (yah, said 'ye') is 'this' and वह (vah, said 'vo') is 'that'. Their plurals are ये (ye), 'these', and वे (ve), 'those'.\n\nThey work both alone and in front of a noun: यह अच्छा है, 'this is good'; यह कमरा अच्छा है, 'this room is good'.\n\nIn relaxed speech many people say 'ye' for both यह and ये, and 'vo' for both वह and वे, and let the verb show the number. In writing, and in this course, the four are kept apart.",
+      "examples": [
+        { "native": "यह अच्छा है।", "roman": "yah achchhaa hai.", "english": "This is good." },
+        { "native": "वह मेरा नहीं है।", "roman": "vah meraa naheen hai.", "english": "That is not mine." },
+        { "native": "ये किताबें मेरी हैं।", "roman": "ye kitaaben meree hain.", "english": "These books are mine." },
+        { "native": "वे लोग कौन हैं?", "roman": "ve log kaun hain?", "english": "Who are those people?" }
+      ]
+    },
+    {
+      "title": "Before a postposition: is, us, in, un",
+      "text": "When the noun they point to is followed by a postposition, these words take their oblique forms, just as nouns do.\n\nयह becomes इस (is): इस कमरे में, 'in this room'.\nवह becomes उस (us): उस दुकान में, 'in that shop'.\nये becomes इन (in): इन लोगों को, 'to these people'.\nवे becomes उन (un): उन दिनों में, 'in those days'.\n\nUsed alone as pronouns they join up with the postposition: इसमें ('in this'), उससे ('from that'), इनमें से ('from among these'), and with को the short forms इसे (ise) and उसे (use).\n\nSaying यह कमरे में instead of इस कमरे में is a very common learner's mistake.",
+      "examples": [
+        { "native": "इस कमरे में कौन है?", "roman": "is kamre mein kaun hai?", "english": "Who is in this room?" },
+        { "native": "उस दुकान में देखिए।", "roman": "us dukaan mein dekhiye.", "english": "Look in that shop." },
+        { "native": "इसे वहाँ रखिए।", "roman": "ise vahaan rakhiye.", "english": "Put this there." },
+        { "native": "इनमें से एक लीजिए।", "roman": "inmein se ek leejiye.", "english": "Take one of these." }
+      ]
+    },
+    {
+      "title": "Here and there",
+      "text": "यहाँ (yahaan) is 'here' and वहाँ (vahaan) is 'there'. They need no postposition: यहाँ आइए, 'come here'.\n\nइधर (idhar) and उधर (udhar) mean 'this way, over here' and 'that way, over there'; they suggest a direction or a rough area rather than an exact spot.\n\nAdding the sense of 'right, exactly' gives यहीं (yaheen, 'right here') and वहीं (vaheen, 'right there'). These are यहाँ and वहाँ fused with the emphatic word ही (hee), which you will meet constantly: ऐसा ही, 'just like this'.",
+      "examples": [
+        { "native": "यहाँ आइए।", "roman": "yahaan aaiye.", "english": "Please come here." },
+        { "native": "इधर देखिए।", "roman": "idhar dekhiye.", "english": "Look this way." },
+        { "native": "मैं यहीं हूँ।", "roman": "main yaheen hoon.", "english": "I am right here." },
+        { "native": "उधर एक होटल है।", "roman": "udhar ek hotal hai.", "english": "There is a hotel over there." }
+      ]
+    },
+    {
+      "title": "Like this, this much",
+      "text": "Two more pairs follow the same near and far pattern: the near word begins with ऐ or इ, like यह and इधर, and the far word with व or उ, like वह and उधर.\n\nऐसा (aisaa), 'like this, such', and वैसा (vaisaa), 'like that'. They are adjectives: ऐसा, ऐसी, ऐसे.\n\nइतना (itnaa), 'this much, so much', and उतना (utnaa), 'that much': इतना महँगा!, 'so expensive!'.\n\nAnd for time: अब (ab), 'now', and तब (tab), 'then'.",
+      "examples": [
+        { "native": "मुझे ऐसा ही चाहिए।", "roman": "mujhe aisaa hee chaahiye.", "english": "I want one just like this." },
+        { "native": "इतना महँगा!", "roman": "itnaa mahangaa!", "english": "So expensive!" },
+        { "native": "ऐसा मत कीजिए।", "roman": "aisaa mat keejiye.", "english": "Please don't do that.", "literal": "such don't please-do" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "यह अच्छा है।", "roman": "yah achchhaa hai.", "english": "This is good.", "literal": "this good is" },
+    { "native": "वह मेरा नहीं है।", "roman": "vah meraa naheen hai.", "english": "That is not mine.", "literal": "that mine not is" },
+    { "native": "ये किताबें मेरी हैं।", "roman": "ye kitaaben meree hain.", "english": "These books are mine.", "literal": "these books mine are" },
+    { "native": "वे लोग कौन हैं?", "roman": "ve log kaun hain?", "english": "Who are those people?", "literal": "those people who are" },
+    { "native": "यहाँ आइए।", "roman": "yahaan aaiye.", "english": "Please come here.", "literal": "here please-come" },
+    { "native": "वहाँ मत जाइए।", "roman": "vahaan mat jaaiye.", "english": "Please don't go there.", "literal": "there don't please-go" },
+    { "native": "इस कमरे में कौन है?", "roman": "is kamre mein kaun hai?", "english": "Who is in this room?", "literal": "this room in who is", "note": "यह becomes इस, and कमरा becomes कमरे, because of में." },
+    { "native": "उस दुकान में देखिए।", "roman": "us dukaan mein dekhiye.", "english": "Look in that shop.", "literal": "that shop in please-look" },
+    { "native": "इधर देखिए।", "roman": "idhar dekhiye.", "english": "Look this way.", "literal": "this-way please-look" },
+    { "native": "मैं यहीं हूँ।", "roman": "main yaheen hoon.", "english": "I am right here.", "literal": "I right-here am" },
+    { "native": "इसे वहाँ रखिए।", "roman": "ise vahaan rakhiye.", "english": "Put this there.", "literal": "this(to) there please-put" },
+    { "native": "उधर एक होटल है।", "roman": "udhar ek hotal hai.", "english": "There is a hotel over there.", "literal": "over-there one hotel is" },
+    { "native": "इनमें से एक लीजिए।", "roman": "inmein se ek leejiye.", "english": "Take one of these.", "literal": "these-in from one please-take" },
+    { "native": "मुझे ऐसा ही चाहिए।", "roman": "mujhe aisaa hee chaahiye.", "english": "I want one just like this.", "literal": "to-me such just is-wanted" }
+  ]
+}

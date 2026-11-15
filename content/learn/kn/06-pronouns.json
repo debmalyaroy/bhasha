@@ -1,0 +1,69 @@
+{
+  "id": "pronouns",
+  "level": "2 · How sentences work",
+  "title": "Pronouns and respect",
+  "description": "Say I, you, he, she, it, we and they, and choose the right level of respect.",
+  "guide": [
+    {
+      "title": "I, we and the two words for 'you'",
+      "text": "ನಾನು (naanu) is 'I' and ನಾವು (naavu) is 'we'.\n\nFor 'you' there are two words. ನೀನು (neenu) is familiar: use it only with children, close friends of your own age, younger brothers and sisters - and people use it to God. ನೀವು (neevu) is polite, and is also the plural 'you all'. Use neevu with every adult you meet until they invite you to do otherwise; using neenu to a stranger, an elder or someone serving you is rude.\n\nThe verb changes to match: neenu takes endings in -eeya or the bare command form, neevu takes -eera and the polite command ending -i.",
+      "examples": [
+        { "native": "ನಾನು ಇಲ್ಲಿ ಇದ್ದೀನಿ.", "roman": "naanu illi iddeeni.", "english": "I am here." },
+        { "native": "ನಾವು ಸ್ನೇಹಿತರು.", "roman": "naavu snehitaru.", "english": "We are friends." },
+        { "native": "ನೀನು ಬಾ.", "roman": "neenu baa.", "english": "You come. (to a child or friend)" },
+        { "native": "ನೀವು ಬನ್ನಿ.", "roman": "neevu banni.", "english": "Please come. (polite, or to several people)" }
+      ]
+    },
+    {
+      "title": "He, she and they: gender plus respect",
+      "text": "The third person shows three things at once: near or far, male or female, and respect.\n\nFar (that person): ಅವನು (avanu) he, ಅವಳು (avalu) she, ಅವರು (avaru) they. Near (this person here): ಇವನು (ivanu), ಇವಳು (ivalu), ಇವರು (ivaru). The first sound tells you: a- is 'that', i- is 'this'.\n\navanu and avalu are familiar, like neenu: use them for children, friends and younger relatives. For any adult you respect - parents, teachers, colleagues, strangers - use avaru, the plural, even for one person. The verb is then plural too: avaru iddaare, 'he/she is (here)'. Only context tells you whether avaru means 'he', 'she' or 'they'.\n\nRespect matters more than gender here: a mother is avaru, not avalu.",
+      "examples": [
+        { "native": "ಅವನು ನನ್ನ ತಮ್ಮ.", "roman": "avanu nanna tamma.", "english": "He is my younger brother." },
+        { "native": "ಅವಳು ನನ್ನ ತಂಗಿ.", "roman": "avalu nanna tangi.", "english": "She is my younger sister." },
+        { "native": "ಅವರು ನನ್ನ ಟೀಚರ್.", "roman": "avaru nanna teechar.", "english": "He / She is my teacher. (respectful)" },
+        { "native": "ಅವರು ನನ್ನ ಸ್ನೇಹಿತರು.", "roman": "avaru nanna snehitaru.", "english": "They are my friends." },
+        { "native": "ಇವನು ರವಿ.", "roman": "ivanu ravi.", "english": "This (boy) is Ravi." },
+        { "native": "ಇವಳು ಗೀತಾ.", "roman": "ivalu geetaa.", "english": "This (girl) is Geetha." }
+      ]
+    },
+    {
+      "title": "It and they for things: adu, idu, avu, ivu",
+      "text": "Everything that is not a human being - objects, animals, ideas - is neuter in Kannada. There is no grammatical gender to memorise for nouns: a table is 'it', a dog is 'it'.\n\nಅದು (adu) is 'that, it' and ಇದು (idu) is 'this'. Their plurals are ಅವು (avu) 'those, they' and ಇವು (ivu) 'these'. A baby or small child is also often called adu, affectionately.\n\nNeuter subjects take their own verb forms: adu ide (it is), avu ive (they are).",
+      "examples": [
+        { "native": "ಇದು ನನ್ನ ನಾಯಿ.", "roman": "idu nanna naayi.", "english": "This is my dog." },
+        { "native": "ಅದು ಏನು?", "roman": "adu enu?", "english": "What is that?" },
+        { "native": "ಅವು ನನ್ನ ಪುಸ್ತಕಗಳು.", "roman": "avu nanna pustakagalu.", "english": "Those are my books." },
+        { "native": "ಇವು ಹೊಸ ಪುಸ್ತಕಗಳು.", "roman": "ivu hosa pustakagalu.", "english": "These are new books." }
+      ]
+    },
+    {
+      "title": "Every pronoun has its own verb ending",
+      "text": "Kannada verbs agree with the subject in person, number and - in the third person singular - gender. Here is 'to be (somewhere)' with each pronoun; the same endings appear on every verb in the language, so this table is worth learning by heart.\n\nnaanu iddeeni, neenu iddeeya, avanu iddaane, avalu iddaale, adu ide; naavu iddeevi, neevu iddeera, avaru iddaare, avu ive.\n\nNotice the pattern: -eeni (I), -eeya (you familiar), -aane (he), -aale (she), -eevi (we), -eera (you polite), -aare (they / respectful he or she). The neuter forms ide and ive are the odd ones out.",
+      "examples": [
+        { "native": "ನೀನು ಎಲ್ಲಿ ಇದ್ದೀಯ?", "roman": "neenu elli iddeeya?", "english": "Where are you? (familiar)" },
+        { "native": "ಅವನು ಮನೆಯಲ್ಲಿ ಇದ್ದಾನೆ.", "roman": "avanu maneyalli iddaane.", "english": "He is at home." },
+        { "native": "ಅವಳು ಮನೆಯಲ್ಲಿ ಇದ್ದಾಳೆ.", "roman": "avalu maneyalli iddaale.", "english": "She is at home." },
+        { "native": "ನಾವು ಮನೆಯಲ್ಲಿ ಇದ್ದೀವಿ.", "roman": "naavu maneyalli iddeevi.", "english": "We are at home." },
+        { "native": "ನೀವು ಮನೆಯಲ್ಲಿ ಇದ್ದೀರಾ?", "roman": "neevu maneyalli iddeeraa?", "english": "Are you at home? (polite)" },
+        { "native": "ಅವರು ಮನೆಯಲ್ಲಿ ಇದ್ದಾರೆ.", "roman": "avaru maneyalli iddaare.", "english": "They are at home. / He or she is at home. (respectful)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಾನು ಇಲ್ಲಿ ಇದ್ದೀನಿ.", "roman": "naanu illi iddeeni.", "english": "I am here.", "literal": "I here am", "note": "" },
+    { "native": "ನೀನು ಎಲ್ಲಿ ಇದ್ದೀಯ?", "roman": "neenu elli iddeeya?", "english": "Where are you? (to a friend or child)", "literal": "you where are", "note": "neenu is familiar - never use it with elders or strangers." },
+    { "native": "ನೀವು ಯಾರು?", "roman": "neevu yaaru?", "english": "Who are you?", "literal": "you who", "note": "Polite form. yaaru = who." },
+    { "native": "ಅವನು ನನ್ನ ತಮ್ಮ.", "roman": "avanu nanna tamma.", "english": "He is my younger brother.", "literal": "he my younger-brother", "note": "avanu is fine for someone younger than you." },
+    { "native": "ಅವಳು ನನ್ನ ತಂಗಿ.", "roman": "avalu nanna tangi.", "english": "She is my younger sister.", "literal": "she my younger-sister", "note": "The l in avalu is the retroflex ಳ." },
+    { "native": "ಅವರು ನನ್ನ ಟೀಚರ್.", "roman": "avaru nanna teechar.", "english": "He is my teacher.", "literal": "he(respectful) my teacher", "note": "Equally 'She is my teacher': avaru does not show gender." },
+    { "native": "ಅವರು ನನ್ನ ಸ್ನೇಹಿತರು.", "roman": "avaru nanna snehitaru.", "english": "They are my friends.", "literal": "they my friends", "note": "Could also mean 'He/She is my friend', said respectfully." },
+    { "native": "ಇದು ನನ್ನ ನಾಯಿ.", "roman": "idu nanna naayi.", "english": "This is my dog.", "literal": "this my dog", "note": "Animals are neuter: idu / adu." },
+    { "native": "ಅದು ಏನು?", "roman": "adu enu?", "english": "What is that?", "literal": "that what", "note": "Often fused: adenu? (ಅದೇನು?)" },
+    { "native": "ನಾವು ಸ್ನೇಹಿತರು.", "roman": "naavu snehitaru.", "english": "We are friends.", "literal": "we friends", "note": "" },
+    { "native": "ಇವನು ರವಿ.", "roman": "ivanu ravi.", "english": "This is Ravi. (a boy or a friend)", "literal": "this-he Ravi", "note": "For an adult you are introducing politely, say ivaru." },
+    { "native": "ಇವಳು ಗೀತಾ.", "roman": "ivalu geetaa.", "english": "This is Geetha. (a girl or a friend)", "literal": "this-she Geetha", "note": "" },
+    { "native": "ಅವು ನನ್ನ ಪುಸ್ತಕಗಳು.", "roman": "avu nanna pustakagalu.", "english": "Those are my books.", "literal": "those my books", "note": "-galu is the plural ending for things." },
+    { "native": "ನೀನು ಬಾ.", "roman": "neenu baa.", "english": "You come. (to a friend or child)", "literal": "you come", "note": "The bare verb is the familiar command." },
+    { "native": "ನೀವು ಬನ್ನಿ.", "roman": "neevu banni.", "english": "Please come. (polite)", "literal": "you come", "note": "The polite command of baa (come) is irregular: banni." }
+  ]
+}

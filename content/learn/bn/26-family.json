@@ -1,0 +1,64 @@
+{
+  "id": "family",
+  "level": "4 · Everyday situations",
+  "title": "Family",
+  "description": "Introduce your family, ask about someone else's, and find your way through the Bengali words for relatives.",
+  "guide": [
+    {
+      "title": "The immediate family",
+      "text": "মা (maa) mother; বাবা (baabaa) father; বাবা-মা or মা-বাবা parents.\nছেলে (chhele) son, boy; মেয়ে (meye) daughter, girl; ছেলেমেয়ে children.\nস্বামী (shaamee) husband; স্ত্রী (stree) wife. The homely words are বর (bor) and বউ (bou).\n\nBrothers and sisters are divided by age. ভাই and বোন are the general words for 'brother' and 'sister', but an elder brother or sister is always called দাদা or দিদি, so ভাই and বোন on their own are normally understood as younger ones.\n\nদাদা (daadaa) elder brother - দিদি (didi) elder sister\nভাই (bhaai) younger brother - বোন (bon) younger sister\nভাইবোন (bhaaibon) brothers and sisters, siblings\n\nElder brothers and sisters are addressed as দাদা and দিদি, never by name alone; younger ones are called by name.",
+      "examples": [
+        { "native": "ইনি আমার মা।", "roman": "ini aamaar maa.", "english": "This is my mother." },
+        { "native": "ইনি আমার স্বামী।", "roman": "ini aamaar shaamee.", "english": "This is my husband." },
+        { "native": "আমার একজন দাদা আছেন।", "roman": "aamaar ekjon daadaa aachhen.", "english": "I have an elder brother." },
+        { "native": "আমার একটা ছোট বোন আছে।", "roman": "aamaar ektaa chhoto bon aachhe.", "english": "I have a younger sister." },
+        { "native": "আমরা তিন ভাইবোন।", "roman": "aamraa tin bhaaibon.", "english": "We are three brothers and sisters." }
+      ]
+    },
+    {
+      "title": "Father's side and mother's side",
+      "text": "Uncles, aunts and grandparents have different names on the father's and the mother's side. These are the words used in West Bengal and by Bengali Hindus generally.\n\nFather's side: ঠাকুরদা (thaakurdaa) grandfather; ঠাকুমা (thaakumaa) grandmother; জ্যাঠা (jyaathaa) father's elder brother; কাকা (kaakaa) father's younger brother; পিসি (pishi) father's sister.\n\nMother's side: দাদু (daadu) grandfather; দিদা (didaa) grandmother; মামা (maamaa) mother's brother; মাসি (maashi) mother's sister.\n\nMany families use দাদু for both grandfathers.\n\nCousins are called brothers and sisters, with an adjective if you need to be exact: মামাতো ভাই (maamaato bhaai) 'son of my mother's brother', মাসতুতো বোন (maashtuto bon) 'daughter of my mother's sister'.",
+      "examples": [
+        { "native": "আমার দাদু গ্রামে থাকেন।", "roman": "aamaar daadu graame thaaken.", "english": "My grandfather lives in the village." },
+        { "native": "ও আমার মামাতো ভাই।", "roman": "o aamaar maamaato bhaai.", "english": "He is my cousin." },
+        { "native": "উনি আমার মাসি।", "roman": "uni aamaar maashi.", "english": "She is my aunt (mother's sister)." },
+        { "native": "উনি আমার কাকা।", "roman": "uni aamaar kaakaa.", "english": "He is my uncle (father's younger brother)." }
+      ]
+    },
+    {
+      "title": "The words used in Bangladesh",
+      "text": "Bengali Muslims, and so most people in Bangladesh, use a partly different set, much of it from Persian and Arabic.\n\nআব্বা (aabbaa) or আব্বু father; আম্মা (aammaa) or আম্মু mother\nভাইয়া (bhaaiyaa) or বড় ভাই elder brother; আপা (aapaa) or আপু elder sister\nদাদা (daadaa) father's father; দাদি (daadi) father's mother\nনানা (naanaa) mother's father; নানি (naani) mother's mother\nচাচা (chaachaa) father's brother; ফুফু (phuphu) father's sister\nমামা (maamaa) mother's brother; খালা (khaalaa) mother's sister\n\nThe trap is দাদা: in West Bengal it is an elder brother, in Bangladesh a paternal grandfather.",
+      "examples": [
+        { "native": "ইনি আমার আব্বা।", "roman": "ini aamaar aabbaa.", "english": "This is my father (Bangladesh usage)." },
+        { "native": "উনি আমার আপা।", "roman": "uni aamaar aapaa.", "english": "She is my elder sister (Bangladesh usage)." },
+        { "native": "আমার নানা ঢাকায় থাকেন।", "roman": "aamaar naanaa dhaakaay thaaken.", "english": "My maternal grandfather lives in Dhaka." }
+      ]
+    },
+    {
+      "title": "Respect inside the family",
+      "text": "When you talk ABOUT an older relative, use the respectful verb ending -en: বাবা অফিসে আছেন; দাদু গ্রামে থাকেন. For a younger brother, a child or a friend, use the ordinary -e: আমার মেয়ে স্কুলে পড়ে।\n\nWhen you talk TO them, most people today call their parents and elder brothers and sisters তুমি; আপনি to one's own parents is old-fashioned, though still heard. In-laws and other people's parents are আপনি.\n\nTo ask whether someone is married, Bengali says 'has your marriage happened?': আপনার কি বিয়ে হয়েছে? বিয়ে (biye) is 'wedding, marriage'.\n\nAsking after the family is basic politeness: বাড়ির সবাই কেমন আছেন? - 'How is everyone at home?'",
+      "examples": [
+        { "native": "আপনার কি বিয়ে হয়েছে?", "roman": "aapnaar ki biye hoyechhe?", "english": "Are you married?" },
+        { "native": "বাড়ির সবাই কেমন আছেন?", "roman": "baarir shobaai kemon aachhen?", "english": "How is everyone at home?" },
+        { "native": "আমার মেয়ে স্কুলে পড়ে।", "roman": "aamaar meye skule pore.", "english": "My daughter goes to school." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ইনি আমার মা।", "roman": "ini aamaar maa.", "english": "This is my mother.", "literal": "this-person my mother", "note": "" },
+    { "native": "ইনি আমার বাবা।", "roman": "ini aamaar baabaa.", "english": "This is my father.", "literal": "this-person my father", "note": "" },
+    { "native": "ইনি আমার স্ত্রী।", "roman": "ini aamaar stree.", "english": "This is my wife.", "literal": "this-person my wife", "note": "স before ত is a true s: stree." },
+    { "native": "ইনি আমার স্বামী।", "roman": "ini aamaar shaamee.", "english": "This is my husband.", "literal": "this-person my husband", "note": "The ব under স is silent." },
+    { "native": "আমার একজন দাদা আছেন।", "roman": "aamaar ekjon daadaa aachhen.", "english": "I have an elder brother.", "literal": "my one-person elder-brother is", "note": "'daadaa' is elder brother in West Bengal; a younger brother is 'bhaai' (ভাই). In Bangladesh দাদা is a paternal grandfather." },
+    { "native": "আমার একটা ছোট বোন আছে।", "roman": "aamaar ektaa chhoto bon aachhe.", "english": "I have a younger sister.", "literal": "my one small sister is", "note": "An elder sister is 'didi' (দিদি)." },
+    { "native": "আমরা তিন ভাইবোন।", "roman": "aamraa tin bhaaibon.", "english": "We are three brothers and sisters.", "literal": "we three brother-sister", "note": "" },
+    { "native": "আপনার কি বিয়ে হয়েছে?", "roman": "aapnaar ki biye hoyechhe?", "english": "Are you married?", "literal": "your (question) marriage has-happened", "note": "A question strangers ask quite freely." },
+    { "native": "আমার দুটো বাচ্চা আছে।", "roman": "aamaar duto baachchaa aachhe.", "english": "I have two children.", "literal": "my two child is", "note": "" },
+    { "native": "আমার মেয়ে স্কুলে পড়ে।", "roman": "aamaar meye skule pore.", "english": "My daughter goes to school.", "literal": "my daughter school-in studies", "note": "" },
+    { "native": "আপনার পরিবারে কজন আছেন?", "roman": "aapnaar poribaare kojon aachhen?", "english": "How many people are there in your family?", "literal": "your family-in how-many-persons are", "note": "" },
+    { "native": "আপনার বাবা-মা কোথায় থাকেন?", "roman": "aapnaar baabaa-maa kothaay thaaken?", "english": "Where do your parents live?", "literal": "your father-mother where stay", "note": "" },
+    { "native": "আমার দাদু গ্রামে থাকেন।", "roman": "aamaar daadu graame thaaken.", "english": "My grandfather lives in the village.", "literal": "my grandfather village-in stays", "note": "'daadu' is used for either grandfather; a paternal grandfather is also 'thaakurdaa' (ঠাকুরদা)." },
+    { "native": "ও আমার মামাতো ভাই।", "roman": "o aamaar maamaato bhaai.", "english": "He is my cousin.", "literal": "he my maternal-uncle-side brother", "note": "Specifically the son of a mother's brother." },
+    { "native": "বাড়ির সবাই কেমন আছেন?", "roman": "baarir shobaai kemon aachhen?", "english": "How is everyone at home?", "literal": "home's everyone how are", "note": "" }
+  ]
+}

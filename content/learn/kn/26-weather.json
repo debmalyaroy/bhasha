@@ -1,0 +1,53 @@
+{
+  "id": "weather",
+  "level": "4 · Everyday situations",
+  "title": "Weather and seasons",
+  "description": "Talk about rain, sun, heat and cold, and say how the weather makes you feel.",
+  "guide": [
+    {
+      "title": "Weather is a noun that comes or is there",
+      "text": "English says 'it is raining'. Kannada has no 'it' here: the weather itself is the subject. Rain 'comes'; sun, cold, heat and cloud 'are there'.\n\nಮಳೆ (male) rain: male barutte (rain comes = it rains), male bartide (it is raining), male bantu (it rained), male nintide (the rain has stopped).\nಬಿಸಿಲು (bisilu) sunshine, heat of the sun: bisilu ide, 'it is sunny'.\nಚಳಿ (chali) cold: chali ide, 'it is cold'.\nಸೆಕೆ (seke) heat, sultriness: seke ide, 'it is hot'.\nಗಾಳಿ (gaali) wind, air: gaali beesutte, 'the wind blows'.\nಮೋಡ (moda) cloud: moda ide, 'it is cloudy'.\nಮಂಜು (manju) mist, fog, dew.\n\nFor what the weather is generally like in a place or season, use irutte ('is, as a rule') instead of ide: besigeyalli seke irutte, 'it is hot in summer'.",
+      "examples": [
+        { "native": "ಹೊರಗೆ ಮಳೆ ಬರ್ತಿದೆ.", "roman": "horage male bartide.", "english": "It is raining outside." },
+        { "native": "ಇವತ್ತು ತುಂಬಾ ಬಿಸಿಲು ಇದೆ.", "roman": "ivattu tumbaa bisilu ide.", "english": "It is very sunny today." },
+        { "native": "ಇವತ್ತು ಮೋಡ ಇದೆ.", "roman": "ivattu moda ide.", "english": "It is cloudy today." },
+        { "native": "ಮಳೆ ನಿಂತಿದೆ.", "roman": "male nintide.", "english": "The rain has stopped." },
+        { "native": "ನಾಳೆ ಮಳೆ ಬರುತ್ತಾ?", "roman": "naale male baruttaa?", "english": "Will it rain tomorrow?" }
+      ]
+    },
+    {
+      "title": "Feeling hot and cold",
+      "text": "How the weather feels to you uses the dative pattern with aagu, 'happen': ನನಗೆ ಚಳಿ ಆಗ್ತಿದೆ (nanage chali aagtide), 'cold is happening to me' = 'I am feeling cold'; nanage seke aagtide, 'I am feeling hot'.\n\nDo not say naanu chali or naanu bisi for 'I am cold / hot'.\n\nಬಿಸಿ (bisi) 'hot' and ತಣ್ಣಗೆ (tannage) 'cold' describe things you touch or eat - coffee, water, food - not the weather. ತಂಪು (tampu) is 'pleasantly cool': tampaagide, 'it is nice and cool'.\n\nಹವಾಮಾನ (havaamaana) and ವಾತಾವರಣ (vaataavarana) both mean 'weather, climate'; many people simply say 'vedar'.",
+      "examples": [
+        { "native": "ನನಗೆ ಚಳಿ ಆಗ್ತಿದೆ.", "roman": "nanage chali aagtide.", "english": "I am feeling cold." },
+        { "native": "ನನಗೆ ಸೆಕೆ ಆಗ್ತಿದೆ.", "roman": "nanage seke aagtide.", "english": "I am feeling hot." },
+        { "native": "ಇವತ್ತು ವಾತಾವರಣ ತಂಪಾಗಿದೆ.", "roman": "ivattu vaataavarana tampaagide.", "english": "It is pleasantly cool today." }
+      ]
+    },
+    {
+      "title": "Seasons",
+      "text": "Karnataka has three main seasons, each named with ಕಾಲ (kaala), 'time, season':\n\nಬೇಸಿಗೆ (besige) or ಬೇಸಿಗೆ ಕಾಲ, summer - roughly March to May.\nಮಳೆಗಾಲ (malegaala), the rainy season or monsoon - June to September or October.\nಚಳಿಗಾಲ (chaligaala), winter - November to February.\n\n(kaala becomes -gaala when joined to male and chali.)\n\n'In summer' takes the locative: besigeyalli; malegaaladalli; chaligaaladalli.\n\nBengaluru is known for its mild weather, and remarking on it is a safe way to start any conversation.",
+      "examples": [
+        { "native": "ಬೇಸಿಗೆಯಲ್ಲಿ ತುಂಬಾ ಸೆಕೆ ಇರುತ್ತೆ.", "roman": "besigeyalli tumbaa seke irutte.", "english": "It is very hot in summer." },
+        { "native": "ಮಳೆಗಾಲ ಶುರು ಆಗಿದೆ.", "roman": "malegaala shuru aagide.", "english": "The rainy season has begun." },
+        { "native": "ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಳಿಗ್ಗೆ ಮಂಜು ಇರುತ್ತೆ.", "roman": "chaligaaladalli beligge manju irutte.", "english": "In winter there is mist in the morning." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇವತ್ತು ತುಂಬಾ ಬಿಸಿಲು ಇದೆ.", "roman": "ivattu tumbaa bisilu ide.", "english": "It is very sunny today.", "literal": "today much sunshine is", "note": "bisilu is the heat and light of the sun." },
+    { "native": "ಹೊರಗೆ ಮಳೆ ಬರ್ತಿದೆ.", "roman": "horage male bartide.", "english": "It is raining outside.", "literal": "outside rain is-coming", "note": "male has the retroflex ಳ." },
+    { "native": "ನನಗೆ ಚಳಿ ಆಗ್ತಿದೆ.", "roman": "nanage chali aagtide.", "english": "I am feeling cold.", "literal": "me-to cold is-happening", "note": "Written: aaguttide (ಆಗುತ್ತಿದೆ)." },
+    { "native": "ನನಗೆ ಸೆಕೆ ಆಗ್ತಿದೆ.", "roman": "nanage seke aagtide.", "english": "I am feeling hot.", "literal": "me-to heat is-happening", "note": "" },
+    { "native": "ಗಾಳಿ ಜೋರಾಗಿ ಬೀಸ್ತಿದೆ.", "roman": "gaali joraagi beestide.", "english": "The wind is blowing hard.", "literal": "wind strongly is-blowing", "note": "joraagi = strongly, loudly, fast." },
+    { "native": "ಮಳೆ ನಿಂತಿದೆ.", "roman": "male nintide.", "english": "The rain has stopped.", "literal": "rain has-stopped", "note": "nintu (having stopped) + ide." },
+    { "native": "ಛತ್ರಿ ತಗೊಂಡು ಹೋಗಿ.", "roman": "chhatri tagondu hogi.", "english": "Take an umbrella with you.", "literal": "umbrella having-taken go", "note": "Another word for umbrella is kode (ಕೊಡೆ)." },
+    { "native": "ಬೆಂಗಳೂರಿನಲ್ಲಿ ಹವಾಮಾನ ಚೆನ್ನಾಗಿದೆ.", "roman": "bengaloorinalli havaamaana chennaagide.", "english": "The weather in Bengaluru is nice.", "literal": "Bengaluru-in weather good-is", "note": "" },
+    { "native": "ಬೇಸಿಗೆಯಲ್ಲಿ ತುಂಬಾ ಸೆಕೆ ಇರುತ್ತೆ.", "roman": "besigeyalli tumbaa seke irutte.", "english": "It is very hot in summer.", "literal": "summer-in much heat is", "note": "irutte for what is generally true. Written: iruttade (ಇರುತ್ತದೆ)." },
+    { "native": "ಮಳೆಗಾಲ ಶುರು ಆಗಿದೆ.", "roman": "malegaala shuru aagide.", "english": "The rainy season has begun.", "literal": "rainy-season start has-happened", "note": "shuru aagu = to begin." },
+    { "native": "ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಳಿಗ್ಗೆ ಮಂಜು ಇರುತ್ತೆ.", "roman": "chaligaaladalli beligge manju irutte.", "english": "In winter there is mist in the morning.", "literal": "winter-in morning mist is", "note": "" },
+    { "native": "ಇವತ್ತು ಮೋಡ ಇದೆ.", "roman": "ivattu moda ide.", "english": "It is cloudy today.", "literal": "today cloud is", "note": "The o of moda is long." },
+    { "native": "ನಾಳೆ ಮಳೆ ಬರುತ್ತಾ?", "roman": "naale male baruttaa?", "english": "Will it rain tomorrow?", "literal": "tomorrow rain comes?", "note": "barutte + -aa." },
+    { "native": "ಇವತ್ತು ವಾತಾವರಣ ತಂಪಾಗಿದೆ.", "roman": "ivattu vaataavarana tampaagide.", "english": "It is pleasantly cool today.", "literal": "today weather cool-is", "note": "tampu (coolness) + aagide." }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "possession",
+  "level": "2 · How sentences work",
+  "title": "My, your, his: the ending -r",
+  "description": "Say whose something is, using the possessive forms of the pronouns and the ending -r / -er on nouns.",
+  "guide": [
+    {
+      "title": "My, your, his, her, our, their",
+      "text": "The possessive pronouns all end in -r. They go before the noun and never change, whatever is owned.\n\nআমার (aamaar) my - আমাদের (aamaader) our\nআপনার (aapnaar) your, polite - আপনাদের (aapnaader)\nতোমার (tomaar) your, familiar - তোমাদের (tomaader)\nতোর (tor) your, intimate - তোদের (toder)\nতার (taar), ওর (or), এর (er) his/her, ordinary - তাদের, ওদের, এদের their\nতাঁর (taanr), ওঁর (onr), এঁর (enr) his/her, respected - তাঁদের, ওঁদের, এঁদের\n\nThe same level of respect applies as with the subject pronouns: use আপনার to someone you call আপনি, and তাঁর or ওঁর about someone you would call আপনি.\n\nUsed alone they mean 'mine', 'yours': এটা আমার, 'this is mine'. কার (kaar) is 'whose'.",
+      "examples": [
+        { "native": "আমার বই", "roman": "aamaar boi", "english": "my book" },
+        { "native": "আপনার নাম", "roman": "aapnaar naam", "english": "your name (polite)" },
+        { "native": "তোমার নাম", "roman": "tomaar naam", "english": "your name (familiar)" },
+        { "native": "ওর বাড়ি", "roman": "or baari", "english": "his/her home" },
+        { "native": "আমাদের বাড়ি", "roman": "aamaader baari", "english": "our house" },
+        { "native": "ওদের গাড়ি", "roman": "oder gaari", "english": "their car" }
+      ]
+    },
+    {
+      "title": "-r and -er on nouns",
+      "text": "Any noun or name becomes possessive with the same ending, like the English 's.\n\nAfter a vowel, add -র (-r): বাবা - বাবার (baabaar) father's; বাড়ি - বাড়ির (baarir) of the house; বন্ধু - বন্ধুর (bondhur) friend's.\n\nAfter a consonant, add -এর (-er): রাজ - রাজের (raajer) Raj's; দোকান - দোকানের (dokaaner) of the shop.\n\nA few short words ending in a vowel take -য়ের (-yer): মা - মায়ের (maayer) mother's; চা - চায়ের (chaayer) of tea; ভাই - ভাইয়ের (bhaaiyer) brother's; বই - বইয়ের (boiyer) of the book.\n\nWith the definite ending -টা the possessive is -টার: বইটার (boitaar), 'of the book'.",
+      "examples": [
+        { "native": "বাবার নাম", "roman": "baabaar naam", "english": "father's name" },
+        { "native": "রাজের বাবা", "roman": "raajer baabaa", "english": "Raj's father" },
+        { "native": "মায়ের শরীর", "roman": "maayer shoreer", "english": "mother's health" },
+        { "native": "বন্ধুর বাড়ি", "roman": "bondhur baari", "english": "a friend's house" }
+      ]
+    },
+    {
+      "title": "The same ending means 'of'",
+      "text": "Bengali uses the possessive wherever English uses 'of', and often where English just puts two nouns together. The owner or the describing word comes first.\n\nবাড়ির চাবি - 'house's key' - the house key\nচায়ের দোকান - 'tea's shop' - a tea shop\nকলকাতার রাস্তা - 'Kolkata's roads' - the streets of Kolkata\nখবরের কাগজ - 'news's paper' - newspaper\n\nMost postpositions also need this ending on the word before them: আমার সঙ্গে 'with me', টেবিলের উপরে 'on the table', আপনার জন্য 'for you'. You will meet them in the next unit.\n\nনিজের (nijer) is 'own': আমার নিজের বাড়ি, 'my own house'.",
+      "examples": [
+        { "native": "বাড়ির চাবি", "roman": "baarir chaabi", "english": "the house key" },
+        { "native": "চায়ের দোকান", "roman": "chaayer dokaan", "english": "a tea shop" },
+        { "native": "খবরের কাগজ", "roman": "khoborer kaagoj", "english": "newspaper" },
+        { "native": "আমার নিজের বাড়ি", "roman": "aamaar nijer baari", "english": "my own house" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "এটা আমার ব্যাগ।", "roman": "etaa aamaar byaag.", "english": "This is my bag.", "literal": "this my bag", "note": "" },
+    { "native": "তোমার নাম কী?", "roman": "tomaar naam kee?", "english": "What is your name? (familiar)", "literal": "your name what", "note": "To a child or someone of your own age in an informal setting." },
+    { "native": "ওর বাড়ি কলকাতায়।", "roman": "or baari kolkaataay.", "english": "His/Her home is in Kolkata.", "literal": "his/her home Kolkata-in", "note": "" },
+    { "native": "এটা কার ছাতা?", "roman": "etaa kaar chhaataa?", "english": "Whose umbrella is this?", "literal": "this whose umbrella", "note": "" },
+    { "native": "এটা আমাদের বাড়ি।", "roman": "etaa aamaader baari.", "english": "This is our house.", "literal": "this our house", "note": "" },
+    { "native": "রাজের বাবা ডাক্তার।", "roman": "raajer baabaa daaktaar.", "english": "Raj's father is a doctor.", "literal": "Raj's father doctor", "note": "-er after a consonant." },
+    { "native": "মায়ের শরীর ভালো নেই।", "roman": "maayer shoreer bhaalo nei.", "english": "Mother is not well.", "literal": "mother's body well is-not", "note": "মা takes -yer." },
+    { "native": "বাড়ির চাবিটা কোথায়?", "roman": "baarir chaabitaa kothaay?", "english": "Where is the house key?", "literal": "house's key-the where", "note": "-r after a vowel." },
+    { "native": "আপনার ফোন নম্বর কত?", "roman": "aapnaar phon nombor koto?", "english": "What is your phone number?", "literal": "your phone number how-much", "note": "Numbers are asked with কত (how much), not কী (what)." },
+    { "native": "তাঁর ছেলে আমার বন্ধু।", "roman": "taanr chhele aamaar bondhu.", "english": "His/Her son is my friend.", "literal": "his/her son my friend", "note": "তাঁর, with the nasal sign, is the respectful form; the ordinary form is তার (taar)." },
+    { "native": "এটা তোর বই?", "roman": "etaa tor boi?", "english": "Is this your book? (intimate)", "literal": "this your book", "note": "" },
+    { "native": "ওদের গাড়িটা নতুন।", "roman": "oder gaaritaa notun.", "english": "Their car is new.", "literal": "their car-the new", "note": "" },
+    { "native": "এটা আমার নিজের।", "roman": "etaa aamaar nijer.", "english": "This is my own.", "literal": "this my own", "note": "" },
+    { "native": "চায়ের দোকানটা বন্ধ।", "roman": "chaayer dokaantaa bondho.", "english": "The tea shop is closed.", "literal": "tea's shop-the closed", "note": "" }
+  ]
+}

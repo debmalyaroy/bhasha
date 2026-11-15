@@ -1,0 +1,65 @@
+{
+  "id": "emergencies",
+  "level": "4 · Everyday situations",
+  "title": "Health and emergencies",
+  "description": "Get help, describe what is wrong with you and report something lost or stolen.",
+  "guide": [
+    {
+      "title": "Calling for help",
+      "text": "The shout for help is बचाओ! (bachaao!), literally 'save (me)!'. To ask someone calmly for help, say मेरी मदद कीजिए, 'please do my help'. मदद (madad) is feminine, hence मेरी.\n\nTo have someone fetched, use बुलाइए (bulaaiye, 'please call, please summon') with को after the person: डॉक्टर को बुलाइए, पुलिस को बुलाइए. With a thing rather than a person, को is not needed: एंबुलेंस बुलाइए.\n\nIn India the single emergency number is 112. पुलिस (pulis), एंबुलेंस (embulens) and अस्पताल (aspataal, hospital) are understood everywhere.",
+      "examples": [
+        { "native": "बचाओ!", "roman": "bachaao!", "english": "Help!" },
+        { "native": "मेरी मदद कीजिए।", "roman": "meree madad keejiye.", "english": "Please help me." },
+        { "native": "डॉक्टर को बुलाइए।", "roman": "doktar ko bulaaiye.", "english": "Please call a doctor." },
+        { "native": "एंबुलेंस बुलाइए।", "roman": "embulens bulaaiye.", "english": "Call an ambulance." }
+      ]
+    },
+    {
+      "title": "Saying what is wrong",
+      "text": "Illnesses are 'to' you: मुझे बुखार है (bukhaar, fever), मुझे खाँसी है (khaansee, a cough), मुझे ज़ुकाम है (zukaam, a cold), मुझे दस्त हैं (dast, diarrhoea, plural).\n\nThe general statement is मेरी तबीयत ठीक नहीं है, 'my state of health is not right'. तबीयत (tabeeyat) is feminine.\n\nSensations 'come': मुझे चक्कर आ रहा है, 'dizziness is coming to me', 'I feel dizzy'; मुझे उल्टी आ रही है, 'I feel sick'.\n\nAn injury 'strikes': मुझे चोट लगी है (chot, injury), 'I am hurt'.",
+      "examples": [
+        { "native": "मेरी तबीयत ठीक नहीं है।", "roman": "meree tabeeyat theek naheen hai.", "english": "I am not feeling well." },
+        { "native": "मुझे बुखार है।", "roman": "mujhe bukhaar hai.", "english": "I have a fever." },
+        { "native": "मुझे चक्कर आ रहा है।", "roman": "mujhe chakkar aa rahaa hai.", "english": "I feel dizzy." },
+        { "native": "मुझे चोट लगी है।", "roman": "mujhe chot lagee hai.", "english": "I am hurt." }
+      ]
+    },
+    {
+      "title": "Where it hurts",
+      "text": "दर्द (dard) is 'pain'. Name the part of the body, add में ('in'), then दर्द है: मेरे पेट में दर्द है, 'there is pain in my stomach'. Or simply point and say यहाँ दर्द हो रहा है, 'it is hurting here'.\n\nParts of the body: सिर (sir, head), पेट (pet, stomach), गला (galaa, throat), दाँत (daant, tooth), आँख (aankh, eye), कान (kaan, ear), हाथ (haath, hand, arm), पैर (pair, foot, leg), पीठ (peeth, back), सीना (seenaa, chest).\n\nRemember the oblique: गला becomes गले में, सीना becomes सीने में. And मेरा becomes मेरे before a masculine noun with में: मेरे सिर में दर्द है.\n\nदवा (davaa) is 'medicine'; a pharmacy is दवा की दुकान, 'medicine shop', also called 'medical store' or 'chemist'.",
+      "examples": [
+        { "native": "मेरे पेट में दर्द है।", "roman": "mere pet mein dard hai.", "english": "I have a stomach ache." },
+        { "native": "यहाँ दर्द हो रहा है।", "roman": "yahaan dard ho rahaa hai.", "english": "It hurts here." },
+        { "native": "मेरे गले में दर्द है।", "roman": "mere gale mein dard hai.", "english": "I have a sore throat." },
+        { "native": "दवा की दुकान कहाँ है?", "roman": "davaa kee dukaan kahaan hai?", "english": "Where is the pharmacy?" }
+      ]
+    },
+    {
+      "title": "Lost and stolen",
+      "text": "'To get lost' is खो जाना (kho jaanaa) and 'to be stolen' is चोरी हो जाना (choree ho jaanaa). The verb agrees with the lost thing, not with you: मेरा फ़ोन खो गया है (फ़ोन is masculine), मेरी चाबी खो गई है (चाबी, key, is feminine), मेरे पैसे चोरी हो गए हैं (पैसे is plural).\n\nNotice that Hindi says 'my phone has got lost', not 'I have lost my phone'. For the important document: मेरा पासपोर्ट खो गया है.",
+      "examples": [
+        { "native": "मेरा फ़ोन खो गया है।", "roman": "meraa fon kho gayaa hai.", "english": "I have lost my phone." },
+        { "native": "मेरी चाबी खो गई है।", "roman": "meree chaabee kho gaee hai.", "english": "I have lost my key." },
+        { "native": "मेरा बैग चोरी हो गया है।", "roman": "meraa baig choree ho gayaa hai.", "english": "My bag has been stolen." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "बचाओ!", "roman": "bachaao!", "english": "Help!", "note": "A shout in real danger. Literally 'save (me)!'" },
+    { "native": "मेरी मदद कीजिए।", "roman": "meree madad keejiye.", "english": "Please help me.", "literal": "my help please-do" },
+    { "native": "पुलिस को बुलाइए।", "roman": "pulis ko bulaaiye.", "english": "Please call the police.", "literal": "police to please-call" },
+    { "native": "डॉक्टर को बुलाइए।", "roman": "doktar ko bulaaiye.", "english": "Please call a doctor.", "literal": "doctor to please-call" },
+    { "native": "एंबुलेंस बुलाइए।", "roman": "embulens bulaaiye.", "english": "Call an ambulance.", "literal": "ambulance please-call" },
+    { "native": "मेरी तबीयत ठीक नहीं है।", "roman": "meree tabeeyat theek naheen hai.", "english": "I am not feeling well.", "literal": "my health fine not is" },
+    { "native": "मुझे बुखार है।", "roman": "mujhe bukhaar hai.", "english": "I have a fever.", "literal": "to-me fever is" },
+    { "native": "मेरे पेट में दर्द है।", "roman": "mere pet mein dard hai.", "english": "I have a stomach ache.", "literal": "my stomach in pain is" },
+    { "native": "यहाँ दर्द हो रहा है।", "roman": "yahaan dard ho rahaa hai.", "english": "It hurts here.", "literal": "here pain happen -ing is", "note": "Point to the place while saying it." },
+    { "native": "मुझे चक्कर आ रहा है।", "roman": "mujhe chakkar aa rahaa hai.", "english": "I feel dizzy.", "literal": "to-me dizziness come -ing is" },
+    { "native": "मुझे डॉक्टर के पास जाना है।", "roman": "mujhe doktar ke paas jaanaa hai.", "english": "I need to go to a doctor.", "literal": "to-me doctor 's near to-go is", "note": "You go 'near' a person (के पास), not 'to' them." },
+    { "native": "अस्पताल कहाँ है?", "roman": "aspataal kahaan hai?", "english": "Where is the hospital?", "literal": "hospital where is" },
+    { "native": "मुझे दवा चाहिए।", "roman": "mujhe davaa chaahiye.", "english": "I need medicine.", "literal": "to-me medicine is-wanted" },
+    { "native": "दवा की दुकान कहाँ है?", "roman": "davaa kee dukaan kahaan hai?", "english": "Where is the pharmacy?", "literal": "medicine 's shop where is" },
+    { "native": "मेरा फ़ोन खो गया है।", "roman": "meraa fon kho gayaa hai.", "english": "I have lost my phone.", "literal": "my phone lose gone is" },
+    { "native": "मेरा बैग चोरी हो गया है।", "roman": "meraa baig choree ho gayaa hai.", "english": "My bag has been stolen.", "literal": "my bag theft become gone is" }
+  ]
+}

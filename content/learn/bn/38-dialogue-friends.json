@@ -1,0 +1,42 @@
+{
+  "id": "dialogue-friends",
+  "level": "5 · Conversation",
+  "title": "Dialogue: two friends make a plan",
+  "description": "Follow and take part in a complete informal conversation between friends, using the familiar 'tumi' forms throughout.",
+  "guide": [
+    {
+      "title": "The situation",
+      "text": "Two friends who have not met for a long time run into each other in the street and arrange to see a film. The phrases of this unit are the lines of the conversation in order; the two speakers simply alternate, starting with the first friend.\n\nEverything here is in the familiar তুমি form. Compare the endings with the polite ones you know:\n\nআপনি কেমন আছেন? - তুমি কেমন আছ?\nআপনি কোথায় থাকেন? - তুমি কোথায় থাকো?\nআপনি কী করছেন? - তুমি কী করছ?\nচলুন - চলো\nদেরি করবেন না - দেরি কোরো না\n\nAnd the possessive: আপনার খবর - তোমার খবর।",
+      "examples": [
+        { "native": "তুমি কেমন আছ?", "roman": "tumi kemon aachho?", "english": "How are you? (familiar)" },
+        { "native": "তুমি কোথায় থাকো?", "roman": "tumi kothaay thaako?", "english": "Where do you live? (familiar)" },
+        { "native": "তোমার খবর কী?", "roman": "tomaar khobor kee?", "english": "What's your news?" }
+      ]
+    },
+    {
+      "title": "Things to notice",
+      "text": "আরে (aare) is an exclamation of surprise, 'hey!', 'oh!'.\n\nএই চলছে - 'it's going on like this': the standard modest answer to 'how are things?'\n\nদেখা হয়নি - 'meeting has not happened': the -নি negative of দেখা হয়েছে.\n\nবাড়িতেই - the particle -ই adds 'the very, the same, only': পুরোনো বাড়িতেই, 'in that same old house'. এখনো is 'still'.\n\nচলো, ... দেখি - 'come on, let's watch': চলো + a first-person present verb.\n\nকটায়? ছটায়। - 'at what time? at six.' The 'at' ending on the clock words.\n\nটিকিট কেটে রাখব - 'I'll buy the tickets and keep them': the helper রাখা means doing something in advance.\n\nদেরি কোরো না কিন্তু - কিন্তু ('but') tacked on at the end of a command means 'mind you'.\n\nঠিক সময়ে - 'at the right time', on time.",
+      "examples": [
+        { "native": "অনেক দিন দেখা হয়নি।", "roman": "onek din dekhaa hoyni.", "english": "We haven't met for a long time." },
+        { "native": "চলো, একসঙ্গে সিনেমা দেখি।", "roman": "cholo, ekshonge sinemaa dekhi.", "english": "Come on, let's watch a film together." },
+        { "native": "ঠিক আছে। দেরি কোরো না কিন্তু!", "roman": "thik aachhe. deri koro naa kintu!", "english": "Okay. Don't be late, mind!" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আরে, তুমি! কেমন আছ?", "roman": "aare, tumi! kemon aachho?", "english": "Hey, it's you! How are you?", "literal": "hey, you! how are", "note": "First friend." },
+    { "native": "ভালো। তোমার খবর কী?", "roman": "bhaalo. tomaar khobor kee?", "english": "Fine. What's your news?", "literal": "good. your news what", "note": "Second friend." },
+    { "native": "এই চলছে।", "roman": "ei cholchhe.", "english": "Getting along.", "literal": "this is-going", "note": "The standard modest answer." },
+    { "native": "অনেক দিন দেখা হয়নি।", "roman": "onek din dekhaa hoyni.", "english": "We haven't met for a long time.", "literal": "many days meeting happens-not(past)", "note": "" },
+    { "native": "তুমি এখন কোথায় থাকো?", "roman": "tumi ekhon kothaay thaako?", "english": "Where do you live now?", "literal": "you now where stay", "note": "" },
+    { "native": "সল্টলেকে। তুমি?", "roman": "soltleke. tumi?", "english": "In Salt Lake. And you?", "literal": "Salt-Lake-in. you", "note": "Salt Lake is a district of Kolkata." },
+    { "native": "আমি এখনো পুরোনো বাড়িতেই আছি।", "roman": "aami ekhono purono baaritei aachhi.", "english": "I'm still in the same old house.", "literal": "I still old house-in-very am", "note": "" },
+    { "native": "আজ বিকেলে কী করছ?", "roman": "aaj bikele kee korchho?", "english": "What are you doing this afternoon?", "literal": "today afternoon-in what are-doing", "note": "Continuous for a near-future plan." },
+    { "native": "কিছু না। কেন?", "roman": "kichhu naa. keno?", "english": "Nothing. Why?", "literal": "anything not. why", "note": "" },
+    { "native": "চলো, একসঙ্গে সিনেমা দেখি।", "roman": "cholo, ekshonge sinemaa dekhi.", "english": "Come on, let's watch a film together.", "literal": "move, together cinema we-see", "note": "" },
+    { "native": "দারুণ! কটায়?", "roman": "daarun! kotaay?", "english": "Great! At what time?", "literal": "terrific! how-many-at", "note": "" },
+    { "native": "ছটায়। আমি টিকিট কেটে রাখব।", "roman": "chhotaay. aami tikit kete raakhbo.", "english": "At six. I'll get the tickets beforehand.", "literal": "six-at. I ticket having-cut will-keep", "note": "" },
+    { "native": "ঠিক আছে। দেরি কোরো না কিন্তু!", "roman": "thik aachhe. deri koro naa kintu!", "english": "Okay. Don't be late, mind!", "literal": "right is. lateness do not but", "note": "" },
+    { "native": "না না, ঠিক সময়ে আসব।", "roman": "naa naa, thik shomoye aashbo.", "english": "No, no, I'll come on time.", "literal": "no no, right time-at I-will-come", "note": "" }
+  ]
+}

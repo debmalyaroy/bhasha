@@ -1,0 +1,53 @@
+{
+  "id": "work-study",
+  "level": "4 · Everyday situations",
+  "title": "At work or study",
+  "description": "Talk about your job or your studies, meetings, deadlines, exams and days off.",
+  "guide": [
+    {
+      "title": "Working, studying, teaching",
+      "text": "काम (kaam) is 'work', and काम करना is 'to work': मैं एक कंपनी में काम करता हूँ, 'I work in a company'. The place of work takes में.\n\nपढ़ना (parhnaa) means both 'to read' and 'to study': मैं कॉलेज में पढ़ता हूँ, 'I study at college'. Its partner पढ़ाना (parhaanaa) is 'to teach', literally 'to cause to read'. Many Hindi verbs come in such pairs, where an added -aa- means making someone else do the action: सीखना (to learn) and सिखाना (to teach a skill), समझना (to understand) and समझाना (to explain).\n\nJob titles and workplaces are mostly English words: ऑफ़िस (ofis) alongside the Hindi दफ़्तर (daftar), कंपनी (kampnee), मैनेजर, मीटिंग (meeting), कॉलेज (kolej), स्कूल (skool).",
+      "examples": [
+        { "native": "मैं एक कंपनी में काम करता हूँ।", "roman": "main ek kampnee mein kaam kartaa hoon.", "english": "I work in a company. (man speaking)" },
+        { "native": "मैं कॉलेज में पढ़ता हूँ।", "roman": "main kolej mein parhtaa hoon.", "english": "I study at college. (man speaking)" },
+        { "native": "आप क्या पढ़ते हैं?", "roman": "aap kyaa parhte hain?", "english": "What do you study? (to a man)" },
+        { "native": "मेरा दफ़्तर यहाँ से दूर है।", "roman": "meraa daftar yahaan se door hai.", "english": "My office is far from here." }
+      ]
+    },
+    {
+      "title": "Noun + karnaa, noun + honaa",
+      "text": "Hindi makes new verbs freely by putting करना ('to do') after a noun or adjective. With करना someone does the action; with होना ('to happen') instead, it happens by itself. Work life is full of these pairs.\n\nशुरू करना (shuroo karnaa), to start something; शुरू होना, to start, to begin. मीटिंग दस बजे शुरू होगी, 'the meeting will start at ten'.\nखत्म करना (khatm karnaa), to finish something; खत्म होना, to come to an end.\nपूरा करना (pooraa karnaa), to complete; पूरा होना, to be completed.\nबंद करना (band karnaa), to close, to switch off; बंद होना, to be closed.\n\nEnglish words slot into the same frame, which is how most modern office talk is built: ईमेल करना, फ़ोन करना, चेक करना ('to check'), कैंसल करना ('to cancel').\n\nIn the past tense the verbs made with करना follow the ne pattern, and the verb agrees with the object (those made with होना never take ने): मैंने काम पूरा कर लिया, 'I have finished the work'.",
+      "examples": [
+        { "native": "मीटिंग दस बजे शुरू होगी।", "roman": "meeting das baje shuroo hogee.", "english": "The meeting will start at ten." },
+        { "native": "मैंने काम पूरा कर लिया।", "roman": "mainne kaam pooraa kar liyaa.", "english": "I have finished the work." },
+        { "native": "कृपया ईमेल भेज दीजिए।", "roman": "kripayaa eemel bhej deejiye.", "english": "Please send an email." }
+      ]
+    },
+    {
+      "title": "Deadlines, exams and days off",
+      "text": "तक (tak, 'until, by') gives a deadline: कल तक ('by tomorrow'), शुक्रवार तक ('by Friday'), कब तक? ('by when?'). यह काम कब तक करना है? is 'by when does this work have to be done?', using the 'have to' pattern of -ना है.\n\nपरीक्षा (pareekshaa) is 'examination'; students mostly say एग्ज़ाम. Like relatives and illnesses, an exam or a day off is not 'had' with के पास: you say कल मेरी परीक्षा है, 'tomorrow my exam is'.\n\nछुट्टी (chhuttee) covers 'holiday', 'day off' and 'leave': आज मेरी छुट्टी है, 'today is my day off'. To ask for leave: मुझे कल छुट्टी चाहिए.\n\nTo ask permission to ask a question, drop the क्या and मैं as people do in speech: एक सवाल पूछ सकता हूँ? 'May I ask a question?'",
+      "examples": [
+        { "native": "यह काम कब तक करना है?", "roman": "yah kaam kab tak karnaa hai?", "english": "By when does this work have to be done?" },
+        { "native": "कल मेरी परीक्षा है।", "roman": "kal meree pareekshaa hai.", "english": "I have an exam tomorrow." },
+        { "native": "आज मेरी छुट्टी है।", "roman": "aaj meree chhuttee hai.", "english": "I have the day off today." },
+        { "native": "मुझे कल छुट्टी चाहिए।", "roman": "mujhe kal chhuttee chaahiye.", "english": "I need tomorrow off." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मैं एक कंपनी में काम करता हूँ।", "roman": "main ek kampnee mein kaam kartaa hoon.", "english": "I work in a company.", "literal": "I one company in work doing am", "note": "A woman says: ... काम करती हूँ (kaam kartee hoon)." },
+    { "native": "आज बहुत काम है।", "roman": "aaj bahut kaam hai.", "english": "There is a lot of work today.", "literal": "today much work is" },
+    { "native": "मीटिंग कितने बजे है?", "roman": "meeting kitne baje hai?", "english": "What time is the meeting?", "literal": "meeting how-many o'clock is" },
+    { "native": "मैं कॉलेज में पढ़ता हूँ।", "roman": "main kolej mein parhtaa hoon.", "english": "I study at college.", "literal": "I college in studying am", "note": "A woman says: ... पढ़ती हूँ (parhtee hoon)." },
+    { "native": "आप क्या पढ़ते हैं?", "roman": "aap kyaa parhte hain?", "english": "What do you study?", "literal": "you what studying are", "note": "To a woman: ... पढ़ती हैं? (parhtee hain?)" },
+    { "native": "मुझे यह समझ नहीं आया।", "roman": "mujhe yah samajh naheen aayaa.", "english": "I didn't understand this.", "literal": "to-me this understanding not came" },
+    { "native": "एक सवाल पूछ सकता हूँ?", "roman": "ek savaal poochh saktaa hoon?", "english": "May I ask a question?", "literal": "one question ask can am", "note": "A woman says: ... पूछ सकती हूँ? (poochh saktee hoon?)" },
+    { "native": "कल मेरी परीक्षा है।", "roman": "kal meree pareekshaa hai.", "english": "I have an exam tomorrow.", "literal": "tomorrow my exam is" },
+    { "native": "आज मेरी छुट्टी है।", "roman": "aaj meree chhuttee hai.", "english": "I have the day off today.", "literal": "today my holiday is" },
+    { "native": "मेरा दफ़्तर यहाँ से दूर है।", "roman": "meraa daftar yahaan se door hai.", "english": "My office is far from here.", "literal": "my office here from far is", "note": "The English word ऑफ़िस (ofis) is at least as common as दफ़्तर." },
+    { "native": "यह काम कब तक करना है?", "roman": "yah kaam kab tak karnaa hai?", "english": "By when does this work have to be done?", "literal": "this work when until to-do is" },
+    { "native": "मैंने काम पूरा कर लिया।", "roman": "mainne kaam pooraa kar liyaa.", "english": "I have finished the work.", "literal": "I-by work complete do taken" },
+    { "native": "कृपया ईमेल भेज दीजिए।", "roman": "kripayaa eemel bhej deejiye.", "english": "Please send an email.", "literal": "please email send please-give", "note": "कृपया suits the formal tone of office messages." },
+    { "native": "मैं घर से काम कर रहा हूँ।", "roman": "main ghar se kaam kar rahaa hoon.", "english": "I am working from home.", "literal": "I home from work do -ing am", "note": "A woman says: ... कर रही हूँ (kar rahee hoon)." }
+  ]
+}

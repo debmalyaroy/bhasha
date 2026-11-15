@@ -1,0 +1,65 @@
+{
+  "id": "emergencies",
+  "level": "4 · Everyday situations",
+  "title": "Health and emergencies",
+  "description": "Say what is wrong, describe pain and illness, and get help when something goes wrong.",
+  "guide": [
+    {
+      "title": "Illness comes to you",
+      "text": "Illnesses and symptoms use the dative pattern: the sick person is in the dative, and the illness 'has come', 'is there' or 'is happening'.\n\nnanage jvara bandide, 'fever has come to me' = 'I have a fever'.\nnanage negadi aagide, 'I have a cold'.\nnanage kemmu ide, 'I have a cough'.\nnanage vaanti aagtide, 'I am vomiting'.\n\nWords: ಜ್ವರ (jvara) fever; ನೆಗಡಿ (negadi) a cold; ಕೆಮ್ಮು (kemmu) cough; ವಾಂತಿ (vaanti) vomiting; ಭೇದಿ (bhedi) diarrhoea; ಗಾಯ (gaaya) wound, injury; ಅಲರ್ಜಿ (alarji) allergy.\n\nThe general 'I'm not well' is ನನಗೆ ಹುಷಾರಿಲ್ಲ (nanage hushaarilla); hushaaru means 'well, alert'. To wish someone well, say hushaaru! - 'take care!'.",
+      "examples": [
+        { "native": "ನನಗೆ ಹುಷಾರಿಲ್ಲ.", "roman": "nanage hushaarilla.", "english": "I am not feeling well." },
+        { "native": "ನನಗೆ ಜ್ವರ ಬಂದಿದೆ.", "roman": "nanage jvara bandide.", "english": "I have a fever." },
+        { "native": "ನನಗೆ ನೆಗಡಿ ಆಗಿದೆ.", "roman": "nanage negadi aagide.", "english": "I have a cold." },
+        { "native": "ನನಗೆ ವಾಂತಿ ಆಗ್ತಿದೆ.", "roman": "nanage vaanti aagtide.", "english": "I am being sick (vomiting)." }
+      ]
+    },
+    {
+      "title": "Pain and parts of the body",
+      "text": "ನೋವು (novu, long o) is 'pain'. Put the body part in front: tale novu or talenovu (headache), hotte novu (stomach ache), hallu novu (toothache), bennu novu (backache), gantalu novu (sore throat).\n\nBody parts: ತಲೆ (tale) head; ಕಣ್ಣು (kannu) eye; ಕಿವಿ (kivi) ear; ಮೂಗು (moogu) nose; ಬಾಯಿ (baayi) mouth; ಹಲ್ಲು (hallu) tooth; ಗಂಟಲು (gantalu) throat; ಕೈ (kai) hand, arm; ಕಾಲು (kaalu) leg, foot; ಹೊಟ್ಟೆ (hotte) stomach; ಬೆನ್ನು (bennu) back; ಎದೆ (ede) chest.\n\n'It hurts here' is illi novaagtide (novu + aagtide, 'pain is happening'). 'It hurts a lot' is tumbaa novaagtide.",
+      "examples": [
+        { "native": "ನನಗೆ ಹೊಟ್ಟೆ ನೋವು.", "roman": "nanage hotte novu.", "english": "I have a stomach ache." },
+        { "native": "ಇಲ್ಲಿ ನೋವಾಗ್ತಿದೆ.", "roman": "illi novaagtide.", "english": "It hurts here." },
+        { "native": "ನನಗೆ ತಲೆನೋವು ಇದೆ.", "roman": "nanage talenovu ide.", "english": "I have a headache." },
+        { "native": "ಕಾಲು ನೋವು", "roman": "kaalu novu", "english": "leg pain" }
+      ]
+    },
+    {
+      "title": "Calling for help",
+      "text": "ಸಹಾಯ (sahaaya) is 'help': nanage sahaaya maadi, 'please help me'. In real danger shout ಕಾಪಾಡಿ! (kaapaadi!), 'save me!', or ಬನ್ನಿ! (banni!), 'come!'.\n\n'Call X' is X-annu kareyiri, with the object ending because it is a person: daaktarannu kareyiri, poleesarannu kareyiri. For a vehicle or thing no ending is needed: aambyulens kareyiri.\n\nLosing something: kaleduhogide, 'has got lost'. Theft: kallatana aagide, 'a theft has happened'; ಕಳ್ಳ (kalla) is 'thief'.\n\nಬೆಂಕಿ (benki) fire; ಅಪಘಾತ (apaghaata) accident - though everyone says 'aaksident'; ಆಸ್ಪತ್ರೆ (aaspatre) hospital; ಪೊಲೀಸ್ ಸ್ಟೇಷನ್ (polees steshan) police station.",
+      "examples": [
+        { "native": "ನನಗೆ ಸಹಾಯ ಮಾಡಿ.", "roman": "nanage sahaaya maadi.", "english": "Please help me." },
+        { "native": "ಡಾಕ್ಟರನ್ನು ಕರೆಯಿರಿ.", "roman": "daaktarannu kareyiri.", "english": "Please call a doctor." },
+        { "native": "ಆಂಬ್ಯುಲೆನ್ಸ್ ಕರೆಯಿರಿ.", "roman": "aambyulens kareyiri.", "english": "Call an ambulance." },
+        { "native": "ನನ್ನ ಫೋನ್ ಕಳೆದುಹೋಗಿದೆ.", "roman": "nanna fon kaleduhogide.", "english": "I have lost my phone." }
+      ]
+    },
+    {
+      "title": "At the doctor's and the pharmacy",
+      "text": "ಔಷಧಿ (aushadhi) is 'medicine'; a tablet is ಮಾತ್ರೆ (maatre). A pharmacy is aushadhi angadi, but everyone says 'medikal shaap' or just 'medikals'.\n\nInstructions you will hear: ದಿನಕ್ಕೆ ಎರಡು ಸಲ (dinakke eradu sala) twice a day - sala means 'time, occasion'; ಊಟ ಆದ ಮೇಲೆ (oota aada mele) after food; ಊಟಕ್ಕೆ ಮುಂಚೆ (ootakke munche) before food; ಮೂರು ದಿನ (mooru dina) for three days.\n\nThe doctor may ask: enaagide? 'what has happened?'; yaavaaginda? 'since when?'; elli novu? 'where is the pain?'. To answer 'since yesterday': ninneyinda; 'for two days': eradu dinadinda.",
+      "examples": [
+        { "native": "ನನಗೆ ಔಷಧಿ ಬೇಕು.", "roman": "nanage aushadhi beku.", "english": "I need medicine." },
+        { "native": "ದಿನಕ್ಕೆ ಎರಡು ಸಲ", "roman": "dinakke eradu sala", "english": "twice a day" },
+        { "native": "ಊಟ ಆದ ಮೇಲೆ", "roman": "oota aada mele", "english": "after food" },
+        { "native": "ಎರಡು ದಿನದಿಂದ ಜ್ವರ ಇದೆ.", "roman": "eradu dinadinda jvara ide.", "english": "I have had a fever for two days." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನನಗೆ ಸಹಾಯ ಮಾಡಿ.", "roman": "nanage sahaaya maadi.", "english": "Please help me.", "literal": "me-to help do", "note": "To shout for help, cry 'kaapaadi!' (ಕಾಪಾಡಿ!)." },
+    { "native": "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ.", "roman": "poleesarannu kareyiri.", "english": "Please call the police.", "literal": "police call", "note": "polees + the plural -aru + the object ending -annu." },
+    { "native": "ಡಾಕ್ಟರನ್ನು ಕರೆಯಿರಿ.", "roman": "daaktarannu kareyiri.", "english": "Please call a doctor.", "literal": "doctor call", "note": "The Kannada word for doctor is vaidya (ವೈದ್ಯ), used in writing." },
+    { "native": "ಆಂಬ್ಯುಲೆನ್ಸ್ ಕರೆಯಿರಿ.", "roman": "aambyulens kareyiri.", "english": "Call an ambulance.", "literal": "ambulance call", "note": "The ambulance number in India is 108." },
+    { "native": "ನನಗೆ ಹುಷಾರಿಲ್ಲ.", "roman": "nanage hushaarilla.", "english": "I am not feeling well.", "literal": "me-to wellness-is-not", "note": "A very common everyday expression in Bengaluru." },
+    { "native": "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?", "roman": "aaspatre ellide?", "english": "Where is the hospital?", "literal": "hospital where-is", "note": "" },
+    { "native": "ಔಷಧಿ ಅಂಗಡಿ ಎಲ್ಲಿದೆ?", "roman": "aushadhi angadi ellide?", "english": "Where is the pharmacy?", "literal": "medicine shop where-is", "note": "In practice people ask for the 'medical shop': medikal shaap ellide?" },
+    { "native": "ನನ್ನ ಫೋನ್ ಕಳೆದುಹೋಗಿದೆ.", "roman": "nanna fon kaleduhogide.", "english": "I have lost my phone.", "literal": "my phone has-got-lost", "note": "Literally 'my phone has got lost'." },
+    { "native": "ನನ್ನ ಬ್ಯಾಗ್ ಕಳ್ಳತನ ಆಗಿದೆ.", "roman": "nanna byaag kallatana aagide.", "english": "My bag has been stolen.", "literal": "my bag theft has-happened", "note": "" },
+    { "native": "ನನಗೆ ಜ್ವರ ಬಂದಿದೆ.", "roman": "nanage jvara bandide.", "english": "I have a fever.", "literal": "me-to fever has-come", "note": "Literally 'fever has come to me'." },
+    { "native": "ನನಗೆ ಹೊಟ್ಟೆ ನೋವು.", "roman": "nanage hotte novu.", "english": "I have a stomach ache.", "literal": "me-to stomach pain", "note": "The o of hotte is short; the o of novu is long." },
+    { "native": "ನನಗೆ ವಾಂತಿ ಆಗ್ತಿದೆ.", "roman": "nanage vaanti aagtide.", "english": "I am being sick (vomiting).", "literal": "me-to vomiting is-happening", "note": "" },
+    { "native": "ಇಲ್ಲಿ ನೋವಾಗ್ತಿದೆ.", "roman": "illi novaagtide.", "english": "It hurts here.", "literal": "here pain-is-happening", "note": "Point to the place while saying it." },
+    { "native": "ನನಗೆ ಔಷಧಿ ಬೇಕು.", "roman": "nanage aushadhi beku.", "english": "I need medicine.", "literal": "me-to medicine wanted", "note": "" },
+    { "native": "ಬೆಂಕಿ!", "roman": "benki!", "english": "Fire!", "note": "" }
+  ]
+}

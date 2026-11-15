@@ -1,0 +1,72 @@
+{
+  "id": "reading",
+  "level": "1 · First words",
+  "title": "Reading: spelling versus sound",
+  "description": "Read aloud words whose pronunciation differs from their spelling: silent letters, doubled consonants and the hidden vowel.",
+  "guide": [
+    {
+      "title": "Is the last vowel said?",
+      "text": "Every consonant carries a built-in o, but at the end of a word it is usually dropped: নাম is naam, ফল is phol, সময় is shomoy.\n\nIt is kept in three situations you will meet all the time.\n\nAfter a conjunct: গল্প golpo, শান্ত shaanto, বন্ধ bondho (closed).\n\nIn a set of very common adjectives and quantity words: ছোট chhoto (small), বড় boro (big), কত koto (how much), এত eto (so much), ভালো bhaalo (good - nowadays spelt with the vowel sign).\n\nIn verb endings: করব korbo (I will do), করল korlo (he did), করত korto (he used to do).\n\nThere is no rule that settles every case, so learn each new word with its sound.",
+      "examples": [
+        { "native": "নাম", "roman": "naam", "english": "name" },
+        { "native": "ফল", "roman": "phol", "english": "fruit" },
+        { "native": "গল্প", "roman": "golpo", "english": "story" },
+        { "native": "বন্ধ", "roman": "bondho", "english": "closed" },
+        { "native": "ছোট", "roman": "chhoto", "english": "small" },
+        { "native": "বড়", "roman": "boro", "english": "big" }
+      ]
+    },
+    {
+      "title": "The silent hooks: ব-ফলা, ম-ফলা, য-ফলা",
+      "text": "Three consonants, when attached below or beside another consonant, are usually not pronounced as themselves.\n\nA small ব under a letter is silent at the start of a word: স্বাগত is shaagoto, জ্বর is jor. In the middle of a word it lengthens the consonant it hangs from: বিশ্বাস is bisshaash.\n\nA small ম often does the same: পদ্মা is poddaa, আত্মীয় is aatteeyo, লক্ষ্মী is lokkhee.\n\nThe hook ্য (য-ফলা) lengthens the consonant in the middle of a word: সত্যি is shotti, অন্য is onno, ধন্যবাদ is dhonnobaad. At the start of a word it is not a consonant at all - it turns the vowel into the a of 'cat': ব্যথা byathaa, ব্যাগ byaag. After a conjunct it is silent: সন্ধ্যা is shondhaa.\n\nThe sign ঃ inside a word also lengthens the next consonant: দুঃখ is dukkho.",
+      "examples": [
+        { "native": "স্বাগত", "roman": "shaagoto", "english": "welcome" },
+        { "native": "বিশ্বাস", "roman": "bisshaash", "english": "belief, trust" },
+        { "native": "সত্যি", "roman": "shotti", "english": "true, really" },
+        { "native": "অন্য", "roman": "onno", "english": "other" },
+        { "native": "আত্মীয়", "roman": "aatteeyo", "english": "relative" },
+        { "native": "দুঃখ", "roman": "dukkho", "english": "sorrow" }
+      ]
+    },
+    {
+      "title": "ক্ষ and জ্ঞ",
+      "text": "ক্ষ is written ক + ষ but has no s or sh sound. At the start of a word it is kh: ক্ষমা khomaa (forgiveness). In the middle it is a long kkh: শিক্ষক shikkhok (teacher), লক্ষ্মী lokkhee.\n\nজ্ঞ is written জ + ঞ but is pronounced g. At the start of a word it is g, and a following আ becomes the a of 'cat': জ্ঞান is gyaan (knowledge). In the middle it is a long gg: বিজ্ঞান biggaan (science).",
+      "examples": [
+        { "native": "ক্ষমা", "roman": "khomaa", "english": "forgiveness" },
+        { "native": "শিক্ষক", "roman": "shikkhok", "english": "teacher" },
+        { "native": "লক্ষ্মী", "roman": "lokkhee", "english": "Lakshmi; good, well-behaved" },
+        { "native": "জ্ঞান", "roman": "gyaan", "english": "knowledge" },
+        { "native": "বিজ্ঞান", "roman": "biggaan", "english": "science" }
+      ]
+    },
+    {
+      "title": "sh or s? e or 'cat'?",
+      "text": "শ, ষ and স are all sh in ordinary words: শাক shaak, ষাট shaat, সাপ shaap. A true s is heard when one of them is joined to ত, থ, ন, র or ল - রাস্তা raastaa, স্নান snaan, শ্রাবণ sraabon - and in many English loanwords: বাস baas, সিট sit.\n\nThe vowel এ is the e of 'bed' in most words (দেশ desh, মেয়ে meye) but the a of 'cat' in a number of very common ones: এক ek (one), কেন keno (why), কেমন kemon (how), দেখা dekhaa (to see), এখন ekhon (now), এত eto (so much). The spelling gives no sign of this. The notes in this course point it out; listen to the audio and imitate.",
+      "examples": [
+        { "native": "সাপ", "roman": "shaap", "english": "snake" },
+        { "native": "স্নান", "roman": "snaan", "english": "bath" },
+        { "native": "বাস", "roman": "baas", "english": "bus" },
+        { "native": "দেশ", "roman": "desh", "english": "country (true e)" },
+        { "native": "কেন", "roman": "keno", "english": "why (a of 'cat')" },
+        { "native": "এখন", "roman": "ekhon", "english": "now (a of 'cat')" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "স্বাগত", "roman": "shaagoto", "english": "Welcome", "note": "The ব under স is silent. Seen on signs and heard in speeches; at home people say আসুন, আসুন." },
+    { "native": "লক্ষ্মী মেয়ে", "roman": "lokkhee meye", "english": "Good girl", "literal": "Lakshmi girl", "note": "ক্ষ is kkh and the ম below it is silent. For a boy: লক্ষ্মী ছেলে (lokkhee chhele)." },
+    { "native": "বিশ্বাস করুন।", "roman": "bisshaash korun.", "english": "Believe me.", "literal": "belief do", "note": "The ব under শ is not a b: it lengthens the sh." },
+    { "native": "ক্ষমা করবেন।", "roman": "khomaa korben.", "english": "Forgive me.", "literal": "forgiveness you-will-do", "note": "ক্ষ at the start of a word is kh." },
+    { "native": "সত্যি?", "roman": "shotti?", "english": "Really?", "note": "ত্য is a long t." },
+    { "native": "আমি বিজ্ঞান পড়ি।", "roman": "aami biggaan pori.", "english": "I study science.", "literal": "I science read", "note": "জ্ঞ in the middle of a word is gg." },
+    { "native": "গল্পটা ছোট।", "roman": "golpotaa chhoto.", "english": "The story is short.", "literal": "story-the short", "note": "Both words keep their final o: after a conjunct in গল্প, and by habit in ছোট." },
+    { "native": "সন্ধ্যা হয়েছে।", "roman": "shondhaa hoyechhe.", "english": "Evening has fallen.", "literal": "evening has-become", "note": "After a conjunct the য-ফলা is silent. The everyday Kolkata word is সন্ধে (shondhe)." },
+    { "native": "কেন?", "roman": "keno?", "english": "Why?", "note": "The e is the a of 'cat', and the final o is said." },
+    { "native": "দুঃখের কথা।", "roman": "dukkher kothaa.", "english": "That is sad.", "literal": "sorrow's matter", "note": "ঃ lengthens the kh that follows it." },
+    { "native": "উনি আমার আত্মীয়।", "roman": "uni aamaar aatteeyo.", "english": "He/She is my relative.", "literal": "that-person my relative", "note": "The ম in ত্ম is silent and the t is long." },
+    { "native": "শ্রাবণ মাস", "roman": "sraabon maash", "english": "The month of Srabon", "literal": "Srabon month", "note": "শ before র is a true s. Srabon is the second monsoon month (mid-July to mid-August)." },
+    { "native": "পদ্মা নদী", "roman": "poddaa nodee", "english": "The river Padma", "literal": "Padma river", "note": "The ম in দ্ম is silent and the d is long." },
+    { "native": "সময় নেই।", "roman": "shomoy nei.", "english": "There is no time.", "literal": "time is-not", "note": "স is sh; য় is the y-glide; the final vowel of সময় is silent." },
+    { "native": "ঠান্ডা জল দিন।", "roman": "thaandaa jol din.", "english": "Cold water, please.", "literal": "cold water give", "note": "ঠ and ড are retroflex: the tongue tip is behind the gum ridge, not on the teeth. In Bangladesh: পানি (paani)." }
+  ]
+}

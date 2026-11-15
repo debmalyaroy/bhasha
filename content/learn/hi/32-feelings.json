@@ -1,0 +1,63 @@
+{
+  "id": "feelings",
+  "level": "5 · Conversation",
+  "title": "Feelings and opinions",
+  "description": "Say how you feel, what you like and dislike, what you think, and whether you agree.",
+  "guide": [
+    {
+      "title": "Two ways to have a feeling",
+      "text": "Some feelings are adjectives used with 'I am', as in English: मैं खुश हूँ (khush, happy), मैं परेशान हूँ (pareshaan, worried, bothered), मैं उदास हूँ (udaas, sad), मैं थका हुआ हूँ (tired). Adjectives such as खुश, परेशान and उदास do not change for gender.\n\nMany others are nouns that come to you, strike you or happen to you, in the 'to me' pattern:\n\nडर लगना (dar lagnaa): fear strikes. मुझे डर लग रहा है, 'I am scared'.\nगुस्सा आना (gussaa aanaa): anger comes. मुझे गुस्सा आ रहा है, 'I am getting angry'.\nदुख होना (dukh honaa): sorrow happens. मुझे दुख हुआ, 'I was saddened'.\nखुशी होना (khushee honaa): happiness happens. मुझे बहुत खुशी हुई, 'I was very glad'.\nयाद आना (yaad aanaa): memory comes. मुझे आपकी याद आती है, 'I miss you', literally 'your memory comes to me'.\n\nIn these sentences the verb agrees with the feeling: डर and गुस्सा are masculine (लग रहा है, आ रहा है); खुशी and याद are feminine (हुई, आती है).",
+      "examples": [
+        { "native": "मैं बहुत खुश हूँ।", "roman": "main bahut khush hoon.", "english": "I am very happy." },
+        { "native": "मुझे डर लग रहा है।", "roman": "mujhe dar lag rahaa hai.", "english": "I am scared." },
+        { "native": "मुझे गुस्सा आ रहा है।", "roman": "mujhe gussaa aa rahaa hai.", "english": "I am getting angry." },
+        { "native": "मुझे आपकी याद आती है।", "roman": "mujhe aapkee yaad aatee hai.", "english": "I miss you." }
+      ]
+    },
+    {
+      "title": "Liking: three shades",
+      "text": "पसंद है (pasand hai) states a standing preference: मुझे संगीत बहुत पसंद है, 'I like music very much'.\n\nपसंद आया (pasand aayaa), 'came to be liked', is your reaction to something you have just tried: मुझे खाना पसंद आया, 'I liked the food'.\n\nअच्छा लगना (achchhaa lagnaa), 'to feel good, to seem good', is the warmest and commonest: मुझे बहुत अच्छा लगा, 'I liked it a lot', 'that felt really nice'. Here अच्छा agrees with the thing liked: यह फ़िल्म मुझे अच्छी लगी.\n\nTo ask someone's reaction: आपको कैसा लगा? 'How did you like it?' To ask how they are feeling right now: आपको कैसा लग रहा है?",
+      "examples": [
+        { "native": "मुझे संगीत बहुत पसंद है।", "roman": "mujhe sangeet bahut pasand hai.", "english": "I like music very much." },
+        { "native": "मुझे यह पसंद नहीं है।", "roman": "mujhe yah pasand naheen hai.", "english": "I don't like this." },
+        { "native": "मुझे बहुत अच्छा लगा।", "roman": "mujhe bahut achchhaa lagaa.", "english": "I liked it a lot." },
+        { "native": "आपको कैसा लग रहा है?", "roman": "aapko kaisaa lag rahaa hai?", "english": "How are you feeling?" }
+      ]
+    },
+    {
+      "title": "Giving an opinion",
+      "text": "'I think' is usually मुझे लगता है (mujhe lagtaa hai), 'it seems to me', followed by what you think. The linking word कि (ki, 'that') may be included or left out: मुझे लगता है (कि) आप सही हैं, 'I think you are right'.\n\nOther openers: मेरे विचार से (mere vichaar se), 'in my opinion', and शायद (shaayad), 'perhaps'.\n\nसही (sahee) is 'right, correct' and गलत (galat) is 'wrong'. To agree: मैं आपसे सहमत हूँ (sahmat), 'I agree with you', or more simply आप ठीक कह रहे हैं, 'you are right in what you say', or just हाँ, बिलकुल. To disagree gently: मुझे ऐसा नहीं लगता, 'I don't think so', literally 'it does not seem so to me'.\n\nDescribing things: मज़ेदार (mazedaar) is 'fun, enjoyable, tasty', बढ़िया (barhiyaa) is 'great', बेकार (bekaar) is 'useless, rubbish'.",
+      "examples": [
+        { "native": "मुझे लगता है आप सही हैं।", "roman": "mujhe lagtaa hai aap sahee hain.", "english": "I think you are right." },
+        { "native": "मैं आपसे सहमत हूँ।", "roman": "main aapse sahmat hoon.", "english": "I agree with you." },
+        { "native": "मुझे ऐसा नहीं लगता।", "roman": "mujhe aisaa naheen lagtaa.", "english": "I don't think so." },
+        { "native": "यह फ़िल्म बहुत मज़ेदार है।", "roman": "yah film bahut mazedaar hai.", "english": "This film is great fun." }
+      ]
+    },
+    {
+      "title": "Reassuring someone",
+      "text": "चिंता (chintaa) is 'worry'. चिंता मत कीजिए is 'don't worry', and चिंता की कोई बात नहीं is 'there is nothing to worry about', literally 'there is no matter of worry'. The pattern X की कोई बात नहीं is productive: डर की कोई बात नहीं, 'there is nothing to be afraid of'.\n\nसब ठीक हो जाएगा, 'everything will be fine', is what you say next.",
+      "examples": [
+        { "native": "चिंता की कोई बात नहीं।", "roman": "chintaa kee koee baat naheen.", "english": "There is nothing to worry about." },
+        { "native": "डर की कोई बात नहीं।", "roman": "dar kee koee baat naheen.", "english": "There is nothing to be afraid of." },
+        { "native": "सब ठीक हो जाएगा।", "roman": "sab theek ho jaaegaa.", "english": "Everything will be fine." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मैं बहुत खुश हूँ।", "roman": "main bahut khush hoon.", "english": "I am very happy.", "literal": "I very happy am" },
+    { "native": "मैं थोड़ा परेशान हूँ।", "roman": "main thoraa pareshaan hoon.", "english": "I am a little worried.", "literal": "I a-little troubled am", "note": "The same for men and women: परेशान does not change, and थोड़ा is an adverb here. Many women also say मैं थोड़ी परेशान हूँ (main thoree pareshaan hoon)." },
+    { "native": "मुझे डर लग रहा है।", "roman": "mujhe dar lag rahaa hai.", "english": "I am scared.", "literal": "to-me fear attach -ing is" },
+    { "native": "मुझे गुस्सा आ रहा है।", "roman": "mujhe gussaa aa rahaa hai.", "english": "I am getting angry.", "literal": "to-me anger come -ing is" },
+    { "native": "मुझे दुख हुआ।", "roman": "mujhe dukh huaa.", "english": "I was saddened.", "literal": "to-me sorrow happened", "note": "Said on hearing bad news, like 'I am sorry to hear that'." },
+    { "native": "मुझे आपकी याद आती है।", "roman": "mujhe aapkee yaad aatee hai.", "english": "I miss you.", "literal": "to-me your memory coming is" },
+    { "native": "आपको कैसा लग रहा है?", "roman": "aapko kaisaa lag rahaa hai?", "english": "How are you feeling?", "literal": "to-you how feel -ing is" },
+    { "native": "मुझे बहुत अच्छा लगा।", "roman": "mujhe bahut achchhaa lagaa.", "english": "I liked it a lot.", "literal": "to-me very good felt" },
+    { "native": "मुझे संगीत बहुत पसंद है।", "roman": "mujhe sangeet bahut pasand hai.", "english": "I like music very much.", "literal": "to-me music very liked is" },
+    { "native": "मुझे यह पसंद नहीं है।", "roman": "mujhe yah pasand naheen hai.", "english": "I don't like this.", "literal": "to-me this liked not is" },
+    { "native": "यह फ़िल्म बहुत मज़ेदार है।", "roman": "yah film bahut mazedaar hai.", "english": "This film is great fun.", "literal": "this film very enjoyable is" },
+    { "native": "मुझे लगता है आप सही हैं।", "roman": "mujhe lagtaa hai aap sahee hain.", "english": "I think you are right.", "literal": "to-me seems is you right are" },
+    { "native": "मैं आपसे सहमत हूँ।", "roman": "main aapse sahmat hoon.", "english": "I agree with you.", "literal": "I you-with agreed am", "note": "Rather formal. In conversation people say आप ठीक कह रहे हैं (aap theek kah rahe hain), 'you are right'." },
+    { "native": "चिंता की कोई बात नहीं।", "roman": "chintaa kee koee baat naheen.", "english": "There is nothing to worry about.", "literal": "worry 's any matter not" }
+  ]
+}

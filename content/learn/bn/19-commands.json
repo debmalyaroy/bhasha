@@ -1,0 +1,74 @@
+{
+  "id": "commands",
+  "level": "3 · Verbs",
+  "title": "Requests and commands",
+  "description": "Ask people to do things at each level of respect, tell them not to, and say 'let's go'.",
+  "guide": [
+    {
+      "title": "Three command forms",
+      "text": "Each level of 'you' has its own command form.\n\nআপনি: stem + -উন (-un). করুন (korun) 'please do'. For vowel stems, just -ন: খান (khaan), যান (jaan).\n\nতুমি: stem + -ও (-o). করো (koro) 'do'. Vowel stems: খাও (khaao), যাও (jaao).\n\nতুই: the bare stem. কর (kor) 'do'. Vowel stems: খা (khaa), যা (jaa).\n\nThe আপনি form is polite in itself; no word for 'please' is needed. The stem takes its 'high' vowel before -un: লিখুন (likhun) write, শুনুন (shunun) listen, দেখুন (dekhun) look, বলুন (bolun) say.",
+      "examples": [
+        { "native": "বলুন।", "roman": "bolun.", "english": "Please speak. / Yes, tell me." },
+        { "native": "বলো।", "roman": "bolo.", "english": "Tell me. (familiar)" },
+        { "native": "বল।", "roman": "bol.", "english": "Tell me. (intimate)" },
+        { "native": "দেখুন।", "roman": "dekhun.", "english": "Please look." },
+        { "native": "দেখো।", "roman": "dekho.", "english": "Look. (familiar)" }
+      ]
+    },
+    {
+      "title": "The commands you need",
+      "text": "Polite - familiar - intimate:\n\nকরা do: করুন - করো - কর\nবলা say: বলুন - বলো - বল\nদেখা look: দেখুন - দেখো - দেখ\nথাকা stay: থাকুন (thaakun) - থাকো (thaako) - থাক (thaak)\nবসা sit: বসুন (boshun) - বসো (bosho) - বস (bosh)\nখাওয়া eat: খান - খাও - খা\nযাওয়া go: যান - যাও - যা\nআসা come: আসুন (aashun) - এসো (esho) - আয় (aay)\nদেওয়া give: দিন (din) - দাও (daao) - দে (de)\nনেওয়া take: নিন (nin) - নাও (naao) - নে (ne)\n\nআসা is irregular in the familiar and intimate forms: এসো, আয়.",
+      "examples": [
+        { "native": "ভেতরে আসুন।", "roman": "bhetore aashun.", "english": "Please come in." },
+        { "native": "এখানে বসো।", "roman": "ekhaane bosho.", "english": "Sit here. (familiar)" },
+        { "native": "এদিকে আয়।", "roman": "edike aay.", "english": "Come here. (intimate)" },
+        { "native": "এটা নিন।", "roman": "etaa nin.", "english": "Please take this." },
+        { "native": "আমাকে একটু জল দাও।", "roman": "aamaake ektu jol daao.", "english": "Give me some water. (familiar)" }
+      ]
+    },
+    {
+      "title": "Softer, and for later",
+      "text": "একটু (ektu), 'a little', before the verb takes the edge off any command: একটু দাঁড়ান, 'wait a moment'; একটু সরুন, 'move over a little'.\n\nThe future form is used as a command for something to be done later, or as a courteous request and good wish: কাল আসবেন, 'come tomorrow'; ভালো থাকবেন, 'keep well'; আবার আসবেন, 'do come again'.\n\nতুমি has its own 'later' command ending in -o with a changed stem vowel: কোরো (koro), বোলো (bolo), এসো (esho), যেয়ো (jeyo), দিয়ো (diyo): কাল এসো, 'come tomorrow'.",
+      "examples": [
+        { "native": "একটু দাঁড়ান।", "roman": "ektu daanraan.", "english": "Please wait a moment." },
+        { "native": "ভালো থাকবেন।", "roman": "bhaalo thaakben.", "english": "Take care." },
+        { "native": "আবার আসবেন।", "roman": "aabaar aashben.", "english": "Do come again." }
+      ]
+    },
+    {
+      "title": "Don't",
+      "text": "Negative commands use the 'later' forms + না:\n\nআপনি: future + না. করবেন না (korben naa), যাবেন না, রাখবেন না.\nতুমি: কোরো না (koro naa), যেয়ো না (jeyo naa), বোলো না (bolo naa), দিয়ো না (diyo naa).\nতুই: present form + না. করিস না (korish naa), যাস না (jaash naa), ধরিস না (dhorish naa).",
+      "examples": [
+        { "native": "এখানে গাড়ি রাখবেন না।", "roman": "ekhaane gaari raakhben naa.", "english": "Don't park here." },
+        { "native": "চিন্তা কোরো না।", "roman": "chintaa koro naa.", "english": "Don't worry. (familiar)" },
+        { "native": "ওটা ধরিস না।", "roman": "otaa dhorish naa.", "english": "Don't touch that. (intimate)" }
+      ]
+    },
+    {
+      "title": "Let's, let me, shall I?",
+      "text": "চলা (cholaa) 'to move' gives 'come on, let's go': চলুন (cholun), চলো (cholo), চল (chol). It is usually followed by a first-person present verb: চলুন, যাই - 'come, let's go'; চলো, খাই - 'come on, let's eat'.\n\nThe first-person present on its own, said as a question, asks permission: আমি যাই? 'Shall I go? May I go?'; আসি? 'May I come in?' or 'May I leave now?'; দেখি 'let me see'.\n\n'Let me do' is আমাকে + the -te form of the verb + দিন: আমাকে যেতে দিন, 'let me go'; আমাকে বলতে দিন, 'let me speak'.",
+      "examples": [
+        { "native": "চলুন, যাই।", "roman": "cholun, jaai.", "english": "Come on, let's go." },
+        { "native": "আমি যাই?", "roman": "aami jaai?", "english": "Shall I go?" },
+        { "native": "আমাকে যেতে দিন।", "roman": "aamaake jete din.", "english": "Please let me go." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ভেতরে আসুন।", "roman": "bhetore aashun.", "english": "Please come in.", "literal": "inside come", "note": "" },
+    { "native": "এখানে বসো।", "roman": "ekhaane bosho.", "english": "Sit here. (familiar)", "literal": "here sit", "note": "" },
+    { "native": "এদিকে আয়।", "roman": "edike aay.", "english": "Come here. (intimate)", "literal": "this-way come", "note": "আয় is the irregular তুই command of আসা." },
+    { "native": "আমাকে বলুন।", "roman": "aamaake bolun.", "english": "Please tell me.", "literal": "me-to say", "note": "" },
+    { "native": "দরজাটা বন্ধ করুন।", "roman": "dorjaataa bondho korun.", "english": "Please close the door.", "literal": "door-the closed do", "note": "" },
+    { "native": "একটু দাঁড়ান।", "roman": "ektu daanraan.", "english": "Please wait a moment.", "literal": "a-little stand", "note": "দাঁড়ানো is 'to stand' and also 'to wait'." },
+    { "native": "আমাকে একটু জল দাও।", "roman": "aamaake ektu jol daao.", "english": "Give me some water. (familiar)", "literal": "me-to a-little water give", "note": "" },
+    { "native": "এটা নিন।", "roman": "etaa nin.", "english": "Please take this.", "literal": "this take", "note": "" },
+    { "native": "চলুন, যাই।", "roman": "cholun, jaai.", "english": "Come on, let's go.", "literal": "move, I-go", "note": "" },
+    { "native": "তাড়াতাড়ি করো।", "roman": "taaraataari koro.", "english": "Hurry up. (familiar)", "literal": "quickly do", "note": "" },
+    { "native": "এখানে গাড়ি রাখবেন না।", "roman": "ekhaane gaari raakhben naa.", "english": "Don't park here.", "literal": "here car you-will-keep not", "note": "" },
+    { "native": "ওটা ধরিস না।", "roman": "otaa dhorish naa.", "english": "Don't touch that. (intimate)", "literal": "that hold not", "note": "" },
+    { "native": "আমাকে যেতে দিন।", "roman": "aamaake jete din.", "english": "Please let me go.", "literal": "me-to to-go give", "note": "" },
+    { "native": "ভালো থাকবেন।", "roman": "bhaalo thaakben.", "english": "Take care.", "literal": "well you-will-stay", "note": "A warm way to end a conversation or a letter." },
+    { "native": "চুপ কর।", "roman": "chup kor.", "english": "Be quiet. (intimate)", "literal": "quiet do", "note": "Blunt. The polite version is একটু চুপ করুন (ektu chup korun)." }
+  ]
+}

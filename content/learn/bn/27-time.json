@@ -1,0 +1,66 @@
+{
+  "id": "time",
+  "level": "4 · Everyday situations",
+  "title": "Time, days and dates",
+  "description": "Tell the time, name the days of the week and the parts of the day, and talk about today, tomorrow and yesterday.",
+  "guide": [
+    {
+      "title": "What time is it?",
+      "text": "The hour is the number with the counting ending -টা: একটা (ektaa) one o'clock, দুটো (duto), তিনটে (tinte), চারটে (chaarte), পাঁচটা (paanchtaa), ছটা (chhotaa), সাতটা (shaattaa), আটটা (aattaa), নটা (notaa), দশটা (doshtaa), এগারোটা (egaarotaa), বারোটা (baarotaa).\n\nকটা বাজে? is 'how many is it striking?' - What time is it? The answer: পাঁচটা বাজে, 'it is striking five', or just এখন পাঁচটা।\n\nHalf past uses সাড়ে (shaare) before the hour: সাড়ে পাঁচটা, 5:30. But 1:30 is দেড়টা (dertaa) and 2:30 is আড়াইটে (aaraaite).\n\nQuarter past is সওয়া (showaa): সওয়া পাঁচটা, 5:15. Quarter to is পৌনে (poune): পৌনে ছটা, 5:45.\n\nOther minutes: পাঁচটা দশ, 5:10; ছটা বাজতে দশ, 'ten to six'.\n\n'At' a time is the ending -য় (-y): পাঁচটায় (paanchtaay) at five; দুটোয় (dutoy) at two; তিনটেয় (tintey) at three; কটায়? (kotaay) at what time?",
+      "examples": [
+        { "native": "কটা বাজে?", "roman": "kotaa baaje?", "english": "What time is it?" },
+        { "native": "পাঁচটা বাজে।", "roman": "paanchtaa baaje.", "english": "It is five o'clock." },
+        { "native": "এখন দেড়টা।", "roman": "ekhon dertaa.", "english": "It is half past one now." },
+        { "native": "সাড়ে সাতটায় আসুন।", "roman": "shaare shaattaay aashun.", "english": "Please come at half past seven." },
+        { "native": "সওয়া পাঁচটা", "roman": "showaa paanchtaa", "english": "a quarter past five" },
+        { "native": "পৌনে ছটা", "roman": "poune chhotaa", "english": "a quarter to six" }
+      ]
+    },
+    {
+      "title": "Parts of the day",
+      "text": "Bengali does not use a.m. and p.m. in speech; the part of the day is named before the hour.\n\nভোর (bhor) dawn, early morning\nসকাল (shokaal) morning\nদুপুর (dupur) midday, early afternoon\nবিকেল (bikel) late afternoon\nসন্ধে (shondhe) evening, dusk - written form সন্ধ্যা (shondhaa)\nরাত (raat) night\n\nসকাল আটটা, 8 a.m.; রাত আটটা, 8 p.m.; দুপুর দুটো, 2 p.m.; ভোর পাঁচটা, 5 a.m.\n\n'In the morning' takes the 'at' ending or the word বেলা (belaa) 'time of day': সকালে or সকালবেলা; বিকেলে; সন্ধেবেলা; রাতে.",
+      "examples": [
+        { "native": "সকাল আটটায়", "roman": "shokaal aattaay", "english": "at eight in the morning" },
+        { "native": "রাত দশটায়", "roman": "raat doshtaay", "english": "at ten at night" },
+        { "native": "সন্ধেবেলা দেখা হবে।", "roman": "shondhebelaa dekhaa hobe.", "english": "Let's meet in the evening." }
+      ]
+    },
+    {
+      "title": "Days of the week",
+      "text": "Each day name ends in বার (baar) 'day of the week':\n\nরবিবার (robibaar) Sunday\nসোমবার (shombaar) Monday\nমঙ্গলবার (mongolbaar) Tuesday\nবুধবার (budhbaar) Wednesday\nবৃহস্পতিবার (brihoshpotibaar) Thursday\nশুক্রবার (shukrobaar) Friday\nশনিবার (shonibaar) Saturday\n\n'On Monday' is just সোমবার or সোমবারে. 'What day is it?' is আজ কী বার? 'What is the date?' is আজ কত তারিখ? - dates, being numbers, are asked with কত.\n\nসপ্তাহ (shoptaaho) week; মাস (maash) month; বছর (bochhor) year; দিন (din) day; ঘণ্টা (ghontaa) hour.",
+      "examples": [
+        { "native": "আজ সোমবার।", "roman": "aaj shombaar.", "english": "Today is Monday." },
+        { "native": "আজ কী বার?", "roman": "aaj kee baar?", "english": "What day is it today?" },
+        { "native": "আজ কত তারিখ?", "roman": "aaj koto taarikh?", "english": "What is the date today?" },
+        { "native": "পরশু রবিবার।", "roman": "porshu robibaar.", "english": "The day after tomorrow is Sunday." }
+      ]
+    },
+    {
+      "title": "Yesterday and tomorrow are the same word",
+      "text": "কাল (kaal) means the day next to today in either direction: tomorrow or yesterday. পরশু (porshu) is two days away: the day after tomorrow or the day before yesterday. The tense of the verb tells you which.\n\nআমি কাল আসব - I will come tomorrow.\nআমি কাল এসেছিলাম - I came yesterday.\n\nWhen it must be unambiguous, use গতকাল (gotokaal) 'yesterday' and আগামীকাল (aagaameekaal) 'tomorrow'.\n\nOther useful words: এখন (ekhon) now; আজ (aaj) today; আজকাল (aajkaal) nowadays; রোজ (roj) every day; দেরি (deri) lateness, delay; তাড়াতাড়ি (taaraataari) quickly, early; পর্যন্ত (porjonto) until.",
+      "examples": [
+        { "native": "আমি কাল আসব।", "roman": "aami kaal aashbo.", "english": "I will come tomorrow." },
+        { "native": "আমি কাল এসেছিলাম।", "roman": "aami kaal eshechhilaam.", "english": "I came yesterday." },
+        { "native": "আমার দেরি হয়ে যাচ্ছে।", "roman": "aamaar deri hoye jaachchhe.", "english": "I am getting late." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "কটা বাজে?", "roman": "kotaa baaje?", "english": "What time is it?", "literal": "how-many strikes", "note": "" },
+    { "native": "পাঁচটা বাজে।", "roman": "paanchtaa baaje.", "english": "It is five o'clock.", "literal": "five strikes", "note": "Add -taa to the number when telling the hour." },
+    { "native": "এখন দেড়টা।", "roman": "ekhon dertaa.", "english": "It is half past one now.", "literal": "now one-and-a-half", "note": "Not সাড়ে একটা." },
+    { "native": "সাড়ে সাতটায় আসুন।", "roman": "shaare shaattaay aashun.", "english": "Please come at half past seven.", "literal": "half-past seven-at come", "note": "" },
+    { "native": "আজ সোমবার।", "roman": "aaj shombaar.", "english": "Today is Monday.", "literal": "today Monday", "note": "" },
+    { "native": "আজ কী বার?", "roman": "aaj kee baar?", "english": "What day is it today?", "literal": "today what day", "note": "" },
+    { "native": "আজ কত তারিখ?", "roman": "aaj koto taarikh?", "english": "What is the date today?", "literal": "today how-much date", "note": "" },
+    { "native": "পরশু রবিবার।", "roman": "porshu robibaar.", "english": "The day after tomorrow is Sunday.", "literal": "day-after-tomorrow Sunday", "note": "পরশু can also mean the day before yesterday." },
+    { "native": "আমি কাল আসব।", "roman": "aami kaal aashbo.", "english": "I will come tomorrow.", "literal": "I tomorrow will-come", "note": "'kaal' means both tomorrow and yesterday; the verb tense tells which." },
+    { "native": "আমি কাল এসেছিলাম।", "roman": "aami kaal eshechhilaam.", "english": "I came yesterday.", "literal": "I yesterday had-come", "note": "" },
+    { "native": "এক মিনিট দাঁড়ান।", "roman": "ek minit daanraan.", "english": "Please wait a minute.", "literal": "one minute stand", "note": "Literally 'stand for a minute'." },
+    { "native": "আমার দেরি হয়ে যাচ্ছে।", "roman": "aamaar deri hoye jaachchhe.", "english": "I am getting late.", "literal": "my lateness having-become is-going", "note": "" },
+    { "native": "বাসটা কখন ছাড়বে?", "roman": "baastaa kokhon chhaarbe?", "english": "When does the bus leave?", "literal": "bus-the when will-leave", "note": "" },
+    { "native": "দোকান কটা পর্যন্ত খোলা থাকে?", "roman": "dokaan kotaa porjonto kholaa thaake?", "english": "Until what time is the shop open?", "literal": "shop how-many until open stays", "note": "" },
+    { "native": "সন্ধেবেলা দেখা হবে।", "roman": "shondhebelaa dekhaa hobe.", "english": "Let's meet in the evening.", "literal": "evening-time meeting will-be", "note": "" },
+    { "native": "এখন আমার সময় নেই।", "roman": "ekhon aamaar shomoy nei.", "english": "I don't have time right now.", "literal": "now my time is-not", "note": "'nei' means 'there is not' - the negative of 'aachhe'." }
+  ]
+}

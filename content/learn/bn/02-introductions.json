@@ -1,0 +1,53 @@
+{
+  "id": "introductions",
+  "level": "1 · First words",
+  "title": "Introductions",
+  "description": "Introduce yourself, say where you are from and what you do, and ask the other person the same.",
+  "guide": [
+    {
+      "title": "My name is ...",
+      "text": "Bengali has no word for 'is' in sentences that say what something is. 'My name is Raj' is simply 'my name Raj': আমার নাম রাজ। 'I am a student' is 'I student': আমি ছাত্র।\n\nThere is also no word for 'a' or 'the' here. You just put the two things side by side.\n\nআমার (aamaar) is 'my' and আপনার (aapnaar) is the polite 'your'. They come before the noun, as in English.\n\nThe question word stays where the answer will go, so 'What is your name?' is 'your name what?': আপনার নাম কী? Note the spelling কী with the long vowel sign: that is the word 'what'. (The short-vowel কি is a different word, met in the unit on questions.)",
+      "examples": [
+        { "native": "আপনার নাম কী?", "roman": "aapnaar naam kee?", "english": "What is your name?" },
+        { "native": "আমার নাম রাজ।", "roman": "aamaar naam raaj.", "english": "My name is Raj." },
+        { "native": "আমি ছাত্র।", "roman": "aami chhaatro.", "english": "I am a student (male)." },
+        { "native": "আমি ছাত্রী।", "roman": "aami chhaatree.", "english": "I am a student (female)." }
+      ]
+    },
+    {
+      "title": "Where are you from?",
+      "text": "Words like 'from', 'in', 'with' come AFTER the noun in Bengali, so they are called postpositions. থেকে (theke) is 'from': আমেরিকা থেকে, 'America from'.\n\n'Where are you from?' is asked as 'where have you come from?': আপনি কোথা থেকে এসেছেন? The answer uses the same verb with the 'I' ending: এসেছি (eshechhi).\n\nBetween Bengalis the usual question is আপনার বাড়ি কোথায়? - 'where is your home?' - which asks about your home town or ancestral place rather than your present address.\n\n'In' a place is shown by an ending on the place name: কলকাতা becomes কলকাতায় (kolkaataay), 'in Kolkata'. The unit on case endings explains the rule.",
+      "examples": [
+        { "native": "আপনি কোথা থেকে এসেছেন?", "roman": "aapni kothaa theke eshechhen?", "english": "Where are you from?" },
+        { "native": "আমি আমেরিকা থেকে এসেছি।", "roman": "aami aamerikaa theke eshechhi.", "english": "I am from America." },
+        { "native": "আপনার বাড়ি কোথায়?", "roman": "aapnaar baari kothaay?", "english": "Where is your home?" },
+        { "native": "আমি কলকাতায় থাকি।", "roman": "aami kolkaataay thaaki.", "english": "I live in Kolkata." }
+      ]
+    },
+    {
+      "title": "Introducing someone else",
+      "text": "Bengali has no 'he' and 'she': one word covers both. But it does distinguish respect. For someone standing next to you whom you introduce politely, use ইনি (ini), 'this person (respected)'. For someone further away, উনি (uni), 'that person (respected)'.\n\nAgain there is no 'is': ইনি আমার বন্ধু, 'this-person my friend'.\n\nWhen you have been introduced, the set phrase is আপনার সঙ্গে আলাপ হয়ে ভালো লাগল - literally 'having become acquainted with you, it felt good'. সঙ্গে (shonge) is the postposition 'with'; in Bangladesh you will more often hear সাথে (shaathe).",
+      "examples": [
+        { "native": "ইনি আমার বন্ধু।", "roman": "ini aamaar bondhu.", "english": "This is my friend." },
+        { "native": "উনি আমার শিক্ষক।", "roman": "uni aamaar shikkhok.", "english": "He/She is my teacher." },
+        { "native": "আপনার সঙ্গে আলাপ হয়ে ভালো লাগল।", "roman": "aapnaar shonge aalaap hoye bhaalo laaglo.", "english": "Nice to meet you." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আপনার নাম কী?", "roman": "aapnaar naam kee?", "english": "What is your name?", "literal": "your name what", "note": "" },
+    { "native": "আমার নাম রাজ।", "roman": "aamaar naam raaj.", "english": "My name is Raj.", "literal": "my name Raj", "note": "Replace 'raaj' with your own name. Bengali needs no word for 'is' here." },
+    { "native": "আপনি কোথা থেকে এসেছেন?", "roman": "aapni kothaa theke eshechhen?", "english": "Where are you from?", "literal": "you where from have-come", "note": "Literally 'Where have you come from?'" },
+    { "native": "আমি আমেরিকা থেকে এসেছি।", "roman": "aami aamerikaa theke eshechhi.", "english": "I am from America.", "literal": "I America from have-come", "note": "'theke' means 'from' and comes after the place." },
+    { "native": "আপনার বাড়ি কোথায়?", "roman": "aapnaar baari kothaay?", "english": "Where is your home?", "literal": "your home where", "note": "The usual way to ask which town or district someone belongs to." },
+    { "native": "আপনার সঙ্গে আলাপ হয়ে ভালো লাগল।", "roman": "aapnaar shonge aalaap hoye bhaalo laaglo.", "english": "Nice to meet you.", "literal": "your with acquaintance having-happened good felt", "note": "In Bangladesh: আপনার সাথে (aapnaar shaathe)." },
+    { "native": "আপনি কী কাজ করেন?", "roman": "aapni kee kaaj koren?", "english": "What work do you do?", "literal": "you what work do", "note": "" },
+    { "native": "আমি ছাত্র।", "roman": "aami chhaatro.", "english": "I am a student.", "literal": "I student", "note": "A female student is chhaatree (ছাত্রী)." },
+    { "native": "আমি এখানে বেড়াতে এসেছি।", "roman": "aami ekhaane beraate eshechhi.", "english": "I am here on a visit.", "literal": "I here to-visit have-come", "note": "" },
+    { "native": "আপনি কোথায় থাকেন?", "roman": "aapni kothaay thaaken?", "english": "Where do you live?", "literal": "you where stay", "note": "" },
+    { "native": "আমি কলকাতায় থাকি।", "roman": "aami kolkaataay thaaki.", "english": "I live in Kolkata.", "literal": "I Kolkata-in stay", "note": "The ending -y on the city name means 'in'." },
+    { "native": "ইনি আমার বন্ধু।", "roman": "ini aamaar bondhu.", "english": "This is my friend.", "literal": "this-person my friend", "note": "'ini' is the respectful word for 'this person'." },
+    { "native": "আমি বাংলা শিখছি।", "roman": "aami baanglaa shikhchhi.", "english": "I am learning Bengali.", "literal": "I Bengali am-learning", "note": "" },
+    { "native": "আমি একটু একটু বাংলা জানি।", "roman": "aami ektu ektu baanglaa jaani.", "english": "I know a little Bengali.", "literal": "I a-little a-little Bengali know", "note": "Doubling 'ektu' gives 'just a little bit'." }
+  ]
+}

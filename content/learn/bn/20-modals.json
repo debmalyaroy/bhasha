@@ -1,0 +1,72 @@
+{
+  "id": "modals",
+  "level": "3 · Verbs",
+  "title": "Want, need, can, must",
+  "description": "Say what you want, need, can do, may do, have to do and ought to do.",
+  "guide": [
+    {
+      "title": "The -te form of the verb",
+      "text": "'To do' after another verb - want to go, can read, have to wait - is the infinitive, made with -তে (-te) on the 'high' stem:\n\nকরা - করতে (korte) to do\nবলা - বলতে (bolte); দেখা - দেখতে (dekhte); আসা - আসতে (aashte); থাকা - থাকতে (thaakte)\nলেখা - লিখতে (likhte); শোনা - শুনতে (shunte); বোঝা - বুঝতে (bujhte); পড়া - পড়তে (porte)\nখাওয়া - খেতে (khete); যাওয়া - যেতে (jete); পাওয়া - পেতে (pete)\nদেওয়া - দিতে (dite); নেওয়া - নিতে (nite); হওয়া - হতে (hote)\n\nIt always comes BEFORE the verb it depends on: যেতে চাই, 'to-go I-want'.",
+      "examples": [
+        { "native": "যেতে চাই", "roman": "jete chaai", "english": "(I) want to go" },
+        { "native": "পড়তে পারি", "roman": "porte paari", "english": "(I) can read" },
+        { "native": "করতে হবে", "roman": "korte hobe", "english": "(it) has to be done" }
+      ]
+    },
+    {
+      "title": "Want: চাওয়া",
+      "text": "চাওয়া (chaaowaa) 'to want' is a regular vowel-stem verb: আমি চাই (chaai), তুমি চাও (chaao), তুই চাস (chaash), সে চায় (chaay), আপনি চান (chaan).\n\nWant to do something: the -te form + চাই. আমি বাড়ি যেতে চাই, 'I want to go home'.\n\nWant a thing: আমি এটা চাই is possible, but it can sound demanding. The idiomatic way to say 'I need / I'd like' is the possessive + thing + চাই, where চাই does not change: আমার এটা চাই, 'I want this'; আপনার কী চাই? 'What would you like?'\n\nPolitely declining: চাই না, or better লাগবে না, 'it won't be needed'.",
+      "examples": [
+        { "native": "আমি বাড়ি যেতে চাই।", "roman": "aami baari jete chaai.", "english": "I want to go home." },
+        { "native": "আপনি কী চান?", "roman": "aapni kee chaan?", "english": "What do you want?" },
+        { "native": "আমার এটা চাই।", "roman": "aamaar etaa chaai.", "english": "I want this." },
+        { "native": "আমি কিছু খেতে চাই না।", "roman": "aami kichhu khete chaai naa.", "english": "I don't want to eat anything." }
+      ]
+    },
+    {
+      "title": "Need: লাগবে and দরকার",
+      "text": "Bengali has no verb 'to need' with a person as subject. The person who needs is put in the possessive, and the thing needed is the subject.\n\nলাগা (laagaa) 'to be required': আমার একটা ঘর লাগবে, 'my one room will-be-required' - I need a room. In the present: কত সময় লাগে? 'how much time does it take?'\n\nদরকার (dorkaar) 'need, necessity': আমার সাহায্য দরকার, 'my help need' - I need help. Negative: দরকার নেই, 'there is no need'.\n\nBoth stay the same whoever needs: আপনার কী লাগবে? 'What do you need?'",
+      "examples": [
+        { "native": "আমার একটা ঘর লাগবে।", "roman": "aamaar ektaa ghor laagbe.", "english": "I need a room." },
+        { "native": "আমার সাহায্য দরকার।", "roman": "aamaar shaahaajjo dorkaar.", "english": "I need help." },
+        { "native": "আমার আর কিছু লাগবে না।", "roman": "aamaar aar kichhu laagbe naa.", "english": "I don't need anything else." },
+        { "native": "কত সময় লাগবে?", "roman": "koto shomoy laagbe?", "english": "How long will it take?" }
+      ]
+    },
+    {
+      "title": "Can and may: পারা",
+      "text": "পারা (paaraa) 'to be able' follows the -te form and takes the normal endings: আমি পারি (paari), তুমি পারো (paaro), তুই পারিস (paarish), সে পারে (paare), আপনি পারেন (paaren).\n\nAbility: আমি বাংলা পড়তে পারি, 'I can read Bengali'.\nPermission: আমি কি ভেতরে আসতে পারি? 'May I come in?'\nPossibility: বৃষ্টি হতে পারে, 'it may rain'.\n\nFor being able at this moment, use the continuous: আমি বুঝতে পারছি না, 'I can't understand (what you are saying)'. Past: পারলাম না, 'I couldn't'; future: পারব, 'I'll be able to'.\n\n'Can one ...?' / 'Is it possible to ...?' with no particular subject uses the verbal noun + যাওয়া: এখানে ছবি তোলা যাবে? 'Can photos be taken here?'; যাওয়া যায়, 'one can go'; শোনা যাচ্ছে না, 'it can't be heard'.",
+      "examples": [
+        { "native": "আমি বাংলা পড়তে পারি।", "roman": "aami baanglaa porte paari.", "english": "I can read Bengali." },
+        { "native": "আমি কি ভেতরে আসতে পারি?", "roman": "aami ki bhetore aashte paari?", "english": "May I come in?" },
+        { "native": "বৃষ্টি হতে পারে।", "roman": "brishti hote paare.", "english": "It may rain." },
+        { "native": "এখানে ছবি তোলা যাবে?", "roman": "ekhaane chhobi tolaa jaabe?", "english": "Is it all right to take photos here?" }
+      ]
+    },
+    {
+      "title": "Must and should",
+      "text": "'Have to' is the -te form + হবে (hobe), and the person who has to is marked with -কে (or, equally common, the possessive): আমাকে যেতে হবে, 'me-to to-go will-be' - I have to go. হবে does not change with the person.\n\nPresent habit: আমাকে রোজ যেতে হয়, 'I have to go every day'. Past: যেতে হলো / যেতে হয়েছিল, 'had to go'. Negative: যেতে হবে না, 'don't have to go'.\n\n'Should' is the verbal noun + উচিত (uchit) 'proper', with the person in the possessive: আপনার যাওয়া উচিত, 'your going is proper' - you should go. Negative: উচিত নয়.",
+      "examples": [
+        { "native": "আমাকে এখন যেতে হবে।", "roman": "aamaake ekhon jete hobe.", "english": "I have to go now." },
+        { "native": "আপনাকে একটু অপেক্ষা করতে হবে।", "roman": "aapnaake ektu opekkhaa korte hobe.", "english": "You will have to wait a little." },
+        { "native": "আপনার ডাক্তার দেখানো উচিত।", "roman": "aapnaar daaktaar dekhaano uchit.", "english": "You should see a doctor." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি বাড়ি যেতে চাই।", "roman": "aami baari jete chaai.", "english": "I want to go home.", "literal": "I home to-go want", "note": "" },
+    { "native": "আপনি কী চান?", "roman": "aapni kee chaan?", "english": "What do you want?", "literal": "you what want", "note": "Direct. A shopkeeper would rather ask আপনার কী চাই? or কী লাগবে?" },
+    { "native": "আমি কিছু খেতে চাই না।", "roman": "aami kichhu khete chaai naa.", "english": "I don't want to eat anything.", "literal": "I anything to-eat want not", "note": "" },
+    { "native": "আমার একটা ঘর লাগবে।", "roman": "aamaar ektaa ghor laagbe.", "english": "I need a room.", "literal": "my one room will-be-needed", "note": "" },
+    { "native": "আমার সাহায্য দরকার।", "roman": "aamaar shaahaajjo dorkaar.", "english": "I need help.", "literal": "my help need", "note": "The য-ফলা doubles the j: shaa-haaj-jo." },
+    { "native": "আমার আর কিছু লাগবে না।", "roman": "aamaar aar kichhu laagbe naa.", "english": "I don't need anything else.", "literal": "my more anything will-be-needed not", "note": "" },
+    { "native": "আমি বাংলা পড়তে পারি।", "roman": "aami baanglaa porte paari.", "english": "I can read Bengali.", "literal": "I Bengali to-read can", "note": "" },
+    { "native": "আমি সাঁতার কাটতে পারি না।", "roman": "aami shaantaar kaatte paari naa.", "english": "I can't swim.", "literal": "I swimming to-cut can not", "note": "To swim is literally 'to cut a swim'." },
+    { "native": "তুমি কি গাড়ি চালাতে পারো?", "roman": "tumi ki gaari chaalaate paaro?", "english": "Can you drive? (familiar)", "literal": "you (question) car to-drive can", "note": "" },
+    { "native": "আমি কি ভেতরে আসতে পারি?", "roman": "aami ki bhetore aashte paari?", "english": "May I come in?", "literal": "I (question) inside to-come can", "note": "" },
+    { "native": "এখানে ছবি তোলা যাবে?", "roman": "ekhaane chhobi tolaa jaabe?", "english": "Is it all right to take photos here?", "literal": "here picture taking will-go", "note": "Verbal noun + যাওয়া = 'can be done'." },
+    { "native": "আমাকে এখন যেতে হবে।", "roman": "aamaake ekhon jete hobe.", "english": "I have to go now.", "literal": "me-to now to-go will-be", "note": "" },
+    { "native": "আপনাকে একটু অপেক্ষা করতে হবে।", "roman": "aapnaake ektu opekkhaa korte hobe.", "english": "You will have to wait a little.", "literal": "you-to a-little waiting to-do will-be", "note": "" },
+    { "native": "আপনার ডাক্তার দেখানো উচিত।", "roman": "aapnaar daaktaar dekhaano uchit.", "english": "You should see a doctor.", "literal": "your doctor showing proper", "note": "In Bengali you 'show' yourself to the doctor." }
+  ]
+}

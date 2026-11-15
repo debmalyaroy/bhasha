@@ -1,0 +1,62 @@
+{
+  "id": "connectors",
+  "level": "5 · Conversation",
+  "title": "Joining sentences",
+  "description": "Link ideas with and, or, but, because, so, that, if and when.",
+  "guide": [
+    {
+      "title": "And, or, but, also",
+      "text": "और (aur) is 'and'. Remember that it is also 'more': और चाय?, 'more tea?'.\n\nया (yaa) is 'or': चाय या कॉफ़ी?\n\n'But' has three everyday words that mean the same: लेकिन (lekin), पर (par) and मगर (magar). लेकिन is the safest; पर is the shortest and very common in speech (do not confuse it with the postposition पर, 'on').\n\nभी (bhee) is 'also, too'. Its position matters: it comes immediately after the word it applies to. मैं भी चलूँगा is 'I too will come (as well as the others)'; मैं खाना भी लाऊँगा is 'I will bring food too (as well as other things)'.\n\nफिर भी (phir bhee) is 'even so, still': मैं थका हूँ, फिर भी काम करूँगा.",
+      "examples": [
+        { "native": "चाय या कॉफ़ी?", "roman": "chaay yaa kofee?", "english": "Tea or coffee?" },
+        { "native": "मैं भी चलूँगा।", "roman": "main bhee chaloongaa.", "english": "I will come along too. (man speaking)" },
+        { "native": "मैं आऊँगा और खाना भी लाऊँगा।", "roman": "main aaoongaa aur khaanaa bhee laaoongaa.", "english": "I will come and bring food too. (man speaking)" },
+        { "native": "मैं आना चाहता हूँ, लेकिन समय नहीं है।", "roman": "main aanaa chaahtaa hoon, lekin samay naheen hai.", "english": "I want to come, but there's no time. (man speaking)" }
+      ]
+    },
+    {
+      "title": "Because, so, that",
+      "text": "क्योंकि (kyonki) is 'because'. It introduces the reason, which follows the main statement: मैं नहीं आया क्योंकि मैं बीमार था, 'I didn't come because I was ill'.\n\nइसलिए (isliye) is 'so, therefore', literally 'for this'. It introduces the result: बारिश हो रही थी, इसलिए मैं नहीं गया.\n\nकि (ki) is 'that', linking a verb of saying, thinking or knowing to what is said, thought or known: उसने कहा कि ..., 'he said that ...'; मुझे पता है कि ..., 'I know that ...'. It is spelt with a short i; do not confuse it with की (kee, 's).\n\nAfter कि Hindi keeps the words of the original thought, including its tense. 'He said that he would come tomorrow' is उसने कहा कि वह कल आएगा, literally 'he said that he will come tomorrow'. A question tucked inside a sentence also keeps its own shape: मुझे पता है कि वह कहाँ है, 'I know where he is'.",
+      "examples": [
+        { "native": "मैं नहीं आया क्योंकि मैं बीमार था।", "roman": "main naheen aayaa kyonki main beemaar thaa.", "english": "I didn't come because I was ill. (man speaking)" },
+        { "native": "बारिश हो रही थी, इसलिए मैं नहीं गया।", "roman": "baarish ho rahee thee, isliye main naheen gayaa.", "english": "It was raining, so I didn't go. (man speaking)" },
+        { "native": "उसने कहा कि वह कल आएगा।", "roman": "usne kahaa ki vah kal aaegaa.", "english": "He said that he would come tomorrow." },
+        { "native": "मुझे पता है कि वह कहाँ है।", "roman": "mujhe pataa hai ki vah kahaan hai.", "english": "I know where he is." }
+      ]
+    },
+    {
+      "title": "If ... then, when ... then",
+      "text": "Hindi likes its linking words in pairs: one opens the first half of the sentence and a partner opens the second.\n\nअगर ... तो (agar ... to): if ... then. The तो is nearly always there, even though English usually drops 'then'. अगर बारिश हुई तो हम नहीं जाएँगे, 'if it rains, we won't go'. Notice the past form हुई in the 'if' half: Hindi often uses the past for a condition that may come true. The future is also correct: अगर बारिश होगी तो ....\n\nजब ... तब (jab ... tab): when ... then. जब आप आएँगे, तब हम खाएँगे, 'when you come, we will eat'. Hindi uses the future in both halves, where English uses the present after 'when'. In speech तब is often replaced by तो.\n\nNote that जब is the 'when' of statements. The 'when' of questions is कब: आप कब आएँगे?\n\nनहीं तो (naheen to) is 'otherwise', literally 'if not, then'.",
+      "examples": [
+        { "native": "अगर बारिश हुई तो हम नहीं जाएँगे।", "roman": "agar baarish huee to ham naheen jaaenge.", "english": "If it rains we won't go." },
+        { "native": "जब आप आएँगे, तब हम खाएँगे।", "roman": "jab aap aaenge, tab ham khaaenge.", "english": "When you come, we will eat." },
+        { "native": "जल्दी चलिए, नहीं तो देर हो जाएगी।", "roman": "jaldee chaliye, naheen to der ho jaaegee.", "english": "Hurry, otherwise we'll be late." }
+      ]
+    },
+    {
+      "title": "The one who ...; first ... then",
+      "text": "Words like 'who', 'which' and 'that' inside a sentence ('the man who is standing there') are जो (jo) in Hindi, and again there is a partner: the जो part usually comes first, and the main part picks it up with वह. जो वहाँ खड़ा है, वह मेरा भाई है, word for word 'who there standing is, he my brother is'.\n\nTo put actions in order use पहले (pahle, 'first'), फिर (phir, 'then') and उसके बाद (uske baad, 'after that'): पहले खाना खाइए, फिर दवा लीजिए.\n\nThere is also a compact way to say 'having done one thing, do another': add -कर (-kar) to the stem of the first verb. खाना खाकर आइए, 'come after eating'; आपसे मिलकर खुशी हुई, 'having met you, I am glad'. With करना the form is करके (karke).",
+      "examples": [
+        { "native": "जो वहाँ खड़ा है, वह मेरा भाई है।", "roman": "jo vahaan kharaa hai, vah meraa bhaaee hai.", "english": "The one standing there is my brother." },
+        { "native": "पहले खाना खाइए, फिर दवा लीजिए।", "roman": "pahle khaanaa khaaiye, phir davaa leejiye.", "english": "First eat, then take the medicine." },
+        { "native": "खाना खाकर आइए।", "roman": "khaanaa khaakar aaiye.", "english": "Come after you have eaten." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "चाय या कॉफ़ी?", "roman": "chaay yaa kofee?", "english": "Tea or coffee?", "literal": "tea or coffee" },
+    { "native": "मैं भी चलूँगा।", "roman": "main bhee chaloongaa.", "english": "I will come along too.", "literal": "I also will-walk", "note": "A woman says: मैं भी चलूँगी (main bhee chaloongee)." },
+    { "native": "मैं आऊँगा और खाना भी लाऊँगा।", "roman": "main aaoongaa aur khaanaa bhee laaoongaa.", "english": "I will come and bring food too.", "literal": "I will-come and food also will-bring", "note": "A woman says: मैं आऊँगी और खाना भी लाऊँगी (... aaoongee ... laaoongee)." },
+    { "native": "मैं आना चाहता हूँ, लेकिन समय नहीं है।", "roman": "main aanaa chaahtaa hoon, lekin samay naheen hai.", "english": "I want to come, but there's no time.", "literal": "I to-come wanting am, but time not is", "note": "A woman says: ... आना चाहती हूँ (aanaa chaahtee hoon)." },
+    { "native": "मैं थका हूँ, फिर भी काम करूँगा।", "roman": "main thakaa hoon, phir bhee kaam karoongaa.", "english": "I'm tired, but I'll still work.", "literal": "I tired am, again also work will-do", "note": "A woman says: मैं थकी हूँ, फिर भी काम करूँगी (main thakee hoon ... karoongee)." },
+    { "native": "मैं नहीं आया क्योंकि मैं बीमार था।", "roman": "main naheen aayaa kyonki main beemaar thaa.", "english": "I didn't come because I was ill.", "literal": "I not came because I ill was", "note": "A woman says: मैं नहीं आई क्योंकि मैं बीमार थी (... aaee ... thee)." },
+    { "native": "बारिश हो रही थी, इसलिए मैं नहीं गया।", "roman": "baarish ho rahee thee, isliye main naheen gayaa.", "english": "It was raining, so I didn't go.", "literal": "rain happen -ing was, therefore I not went", "note": "A woman says: ... मैं नहीं गई (main naheen gaee)." },
+    { "native": "उसने कहा कि वह कल आएगा।", "roman": "usne kahaa ki vah kal aaegaa.", "english": "He said that he would come tomorrow.", "literal": "he-by said that he tomorrow will-come" },
+    { "native": "मुझे पता है कि वह कहाँ है।", "roman": "mujhe pataa hai ki vah kahaan hai.", "english": "I know where he is.", "literal": "to-me known is that he where is" },
+    { "native": "अगर बारिश हुई तो हम नहीं जाएँगे।", "roman": "agar baarish huee to ham naheen jaaenge.", "english": "If it rains we won't go.", "literal": "if rain happened then we not will-go" },
+    { "native": "जब आप आएँगे, तब हम खाएँगे।", "roman": "jab aap aaenge, tab ham khaaenge.", "english": "When you come, we will eat.", "literal": "when you will-come, then we will-eat" },
+    { "native": "जल्दी चलिए, नहीं तो देर हो जाएगी।", "roman": "jaldee chaliye, naheen to der ho jaaegee.", "english": "Hurry, otherwise we'll be late.", "literal": "quickly please-move, not then lateness become will-go" },
+    { "native": "पहले खाना खाइए, फिर दवा लीजिए।", "roman": "pahle khaanaa khaaiye, phir davaa leejiye.", "english": "First eat, then take the medicine.", "literal": "first food please-eat, then medicine please-take" },
+    { "native": "जो वहाँ खड़ा है, वह मेरा भाई है।", "roman": "jo vahaan kharaa hai, vah meraa bhaaee hai.", "english": "The one standing there is my brother.", "literal": "who there standing is, he my brother is" }
+  ]
+}

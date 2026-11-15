@@ -1,0 +1,67 @@
+{
+  "id": "questions",
+  "level": "2 · How sentences work",
+  "title": "Asking questions",
+  "description": "Ask yes/no questions with -aa and open questions with what, who, where, when, why, how and how much.",
+  "guide": [
+    {
+      "title": "Yes/no questions: add a long -aa",
+      "text": "To turn any statement into a yes/no question, add a long -aa to its last word. Nothing else changes - no word order change, no 'do' or 'is'.\n\nIf the last word ends in u, the u drops: beku - ಬೇಕಾ? (bekaa?), gottu - ಗೊತ್ತಾ? (gottaa?), nimmadu - ನಿಮ್ಮದಾ? (nimmadaa?).\n\nIf it ends in e or i, a linking y appears: ide - ಇದೆಯಾ? (ideyaa?), bandide - bandideyaa? The one exception is the spoken neuter ending -utte, whose final e is simply replaced by -aa: barutte - ಬರುತ್ತಾ? (baruttaa?), hogutte - hoguttaa?\n\nIf it ends in a, the a simply lengthens: barteera - ಬರ್ತೀರಾ? (barteeraa?), illa - ಇಲ್ಲವಾ? (illavaa?) or in speech ಇಲ್ವಾ? (ilvaa?).\n\nThe answer is haudu (yes) or illa (no), or more naturally just the verb repeated: barteeraa? - barteeni.",
+      "examples": [
+        { "native": "ಇದು ನಿಮ್ಮದಾ?", "roman": "idu nimmadaa?", "english": "Is this yours?" },
+        { "native": "ನಿಮಗೆ ಕನ್ನಡ ಗೊತ್ತಾ?", "roman": "nimage kannada gottaa?", "english": "Do you know Kannada?" },
+        { "native": "ನೀರು ಇದೆಯಾ?", "roman": "neeru ideyaa?", "english": "Is there any water?" },
+        { "native": "ನೀವು ನಾಳೆ ಬರ್ತೀರಾ?", "roman": "neevu naale barteeraa?", "english": "Will you come tomorrow?" },
+        { "native": "ಕಾಫಿ ಬೇಕಾ?", "roman": "kaafi bekaa?", "english": "Do you want coffee?" }
+      ]
+    },
+    {
+      "title": "Question words",
+      "text": "The question words mostly begin with e- or yaa-:\n\nಏನು (enu) what; ಯಾರು (yaaru) who; ಎಲ್ಲಿ (elli) where; ಯಾವಾಗ (yaavaaga) when; ಯಾಕೆ (yaake) why; ಹೇಗೆ (hege) how; ಎಷ್ಟು (eshtu) how much, how many; ಯಾವ (yaava) which (before a noun); ಯಾವುದು (yaavudu) which one.\n\nThe question word stays where the answer would be - usually just before the verb. It does not jump to the front as in English: neevu elli iddeera? 'you where are?'.\n\nA sentence with a question word does not take the -aa ending.\n\nyaake is the spoken word for 'why'; in writing you will see ಏಕೆ (eke).",
+      "examples": [
+        { "native": "ಅವರು ಯಾರು?", "roman": "avaru yaaru?", "english": "Who is he / she? Who are they?" },
+        { "native": "ನಿಮಗೆ ಏನು ಬೇಕು?", "roman": "nimage enu beku?", "english": "What would you like?" },
+        { "native": "ನೀವು ಯಾವಾಗ ಬಂದ್ರಿ?", "roman": "neevu yaavaaga bandri?", "english": "When did you come?" },
+        { "native": "ಯಾಕೆ?", "roman": "yaake?", "english": "Why?" },
+        { "native": "ಎಷ್ಟು ಜನ ಬರ್ತಾರೆ?", "roman": "eshtu jana bartaare?", "english": "How many people are coming?" },
+        { "native": "ಯಾವ ಬಸ್ ಮೈಸೂರಿಗೆ ಹೋಗುತ್ತೆ?", "roman": "yaava bas maisoorige hogutte?", "english": "Which bus goes to Mysuru?" }
+      ]
+    },
+    {
+      "title": "Question words take case endings too",
+      "text": "Because question words stand in for nouns, they take the same endings as nouns:\n\nelli (where) - ಎಲ್ಲಿಗೆ (ellige) where to; ಎಲ್ಲಿಂದ (ellinda) where from.\nyaaru (who) - ಯಾರಿಗೆ (yaarige) to whom; ಯಾರನ್ನು (yaarannu) whom; ಯಾರ (yaara) whose; ಯಾರ ಜೊತೆ (yaara jote) with whom.\nenu (what) - ಏನನ್ನು (enannu) what (as object, rarely needed); ಯಾವುದಕ್ಕೆ (yaavudakke) for what.\neshtu (how much) - ಎಷ್ಟಕ್ಕೆ (eshtakke) for how much; ಎಷ್ಟು ಗಂಟೆಗೆ (eshtu gantege) at what time.\n\nA question word plus -oo gives 'any / every' words: yaaroo (anyone, no one with a negative), enoo (anything), elloo (anywhere), yaavaagaloo (always).",
+      "examples": [
+        { "native": "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗ್ತಿದ್ದೀರ?", "roman": "neevu ellige hogtiddeera?", "english": "Where are you going (to)?" },
+        { "native": "ನೀವು ಎಲ್ಲಿಂದ ಬಂದ್ರಿ?", "roman": "neevu ellinda bandri?", "english": "Where have you come from?" },
+        { "native": "ಇದು ಯಾರ ಮನೆ?", "roman": "idu yaara mane?", "english": "Whose house is this?" },
+        { "native": "ಇದನ್ನು ಯಾರಿಗೆ ಕೊಡಬೇಕು?", "roman": "idannu yaarige kodabeku?", "english": "Who should I give this to?" }
+      ]
+    },
+    {
+      "title": "Isn't it? and either/or",
+      "text": "ಅಲ್ವಾ? (alvaa?) at the end of a sentence is the tag question 'isn't it? / right?'. It is alla + -aa; the written form is ಅಲ್ಲವಾ (allavaa) or ಅಲ್ಲವೇ (allave). It works for every person and tense.\n\nFor 'A or B?' put -aa on both choices: tee bekaa, kaafi bekaa? 'Do you want tea, or do you want coffee?'\n\nIn writing, yes/no questions often use the ending -ಏ (-e) or -ಆ (-aa) interchangeably: ಇದೆಯೇ? (ideye?) = ideyaa?",
+      "examples": [
+        { "native": "ಇದು ಸರಿ ಅಲ್ವಾ?", "roman": "idu sari alvaa?", "english": "This is right, isn't it?" },
+        { "native": "ನೀವು ರವಿ ಅಲ್ವಾ?", "roman": "neevu ravi alvaa?", "english": "You are Ravi, aren't you?" },
+        { "native": "ಟೀ ಬೇಕಾ, ಕಾಫಿ ಬೇಕಾ?", "roman": "tee bekaa, kaafi bekaa?", "english": "Do you want tea or coffee?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇದು ನಿಮ್ಮದಾ?", "roman": "idu nimmadaa?", "english": "Is this yours?", "literal": "this your-thing?", "note": "nimmadu + -aa; the u drops." },
+    { "native": "ನೀವು ನಾಳೆ ಬರ್ತೀರಾ?", "roman": "neevu naale barteeraa?", "english": "Will you come tomorrow?", "literal": "you tomorrow come?", "note": "Statement: barteera; question: barteeraa." },
+    { "native": "ನಿಮಗೆ ಕನ್ನಡ ಗೊತ್ತಾ?", "roman": "nimage kannada gottaa?", "english": "Do you know Kannada?", "literal": "you-to Kannada known?", "note": "Answer: gottu (yes, I do) or gottilla (no, I don't)." },
+    { "native": "ಅವರು ಯಾರು?", "roman": "avaru yaaru?", "english": "Who is that person?", "literal": "they who", "note": "Also 'Who are they?'" },
+    { "native": "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗ್ತಿದ್ದೀರ?", "roman": "neevu ellige hogtiddeera?", "english": "Where are you going?", "literal": "you where-to are-going", "note": "ellige = elli + ge, 'to where'." },
+    { "native": "ನೀವು ಯಾವಾಗ ಬಂದ್ರಿ?", "roman": "neevu yaavaaga bandri?", "english": "When did you come?", "literal": "you when came", "note": "Written: bandiri (ಬಂದಿರಿ)." },
+    { "native": "ಯಾಕೆ?", "roman": "yaake?", "english": "Why?", "note": "Written form: eke (ಏಕೆ)." },
+    { "native": "ಇದು ಹೇಗೆ ಮಾಡೋದು?", "roman": "idu hege maadodu?", "english": "How do you do this?", "literal": "this how doing", "note": "maadodu ('the doing') is the spoken form of maaduvudu (ಮಾಡುವುದು)." },
+    { "native": "ಎಷ್ಟು ಜನ ಬರ್ತಾರೆ?", "roman": "eshtu jana bartaare?", "english": "How many people are coming?", "literal": "how-many people come", "note": "" },
+    { "native": "ಯಾವ ಬಸ್ ಮೈಸೂರಿಗೆ ಹೋಗುತ್ತೆ?", "roman": "yaava bas maisoorige hogutte?", "english": "Which bus goes to Mysuru?", "literal": "which bus Mysuru-to goes", "note": "Written: hoguttade (ಹೋಗುತ್ತದೆ)." },
+    { "native": "ನಿಮಗೆ ಏನು ಬೇಕು?", "roman": "nimage enu beku?", "english": "What would you like?", "literal": "you-to what wanted", "note": "What a shopkeeper or waiter asks." },
+    { "native": "ಇದು ಸರಿ ಅಲ್ವಾ?", "roman": "idu sari alvaa?", "english": "This is right, isn't it?", "literal": "this correct isn't-it", "note": "alvaa works as a tag after any statement." },
+    { "native": "ಟೀ ಬೇಕಾ, ಕಾಫಿ ಬೇಕಾ?", "roman": "tee bekaa, kaafi bekaa?", "english": "Do you want tea or coffee?", "literal": "tea wanted? coffee wanted?", "note": "Either/or: put -aa on both choices." },
+    { "native": "ನೀವು ಎಲ್ಲಿಂದ ಬಂದ್ರಿ?", "roman": "neevu ellinda bandri?", "english": "Where have you come from?", "literal": "you where-from came", "note": "ellinda = elli + inda." },
+    { "native": "ಇದು ಯಾರ ಮನೆ?", "roman": "idu yaara mane?", "english": "Whose house is this?", "literal": "this whose house", "note": "" }
+  ]
+}

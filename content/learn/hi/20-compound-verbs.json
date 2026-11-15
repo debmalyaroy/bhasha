@@ -1,0 +1,65 @@
+{
+  "id": "compound-verbs",
+  "level": "3 · Verbs",
+  "title": "Helper verbs",
+  "description": "Understand and use the two-verb combinations that make Hindi sound natural.",
+  "guide": [
+    {
+      "title": "What a compound verb is",
+      "text": "Listen to any Hindi conversation and you will notice that verbs come in pairs: बैठ जाइए, खा लिया, बता दीजिए. The first verb, in its bare stem form, carries the meaning. The second is a helper: it loses its own meaning ('go', 'take', 'give'), takes all the endings, and adds a shade of meaning, most often that the action is done completely, once, with a result.\n\nबैठिए and बैठ जाइए both mean 'please sit', but the second is what people actually say: 'do sit down'. मैंने खाया is 'I ate'; मैंने खा लिया is 'I have eaten, I'm done'.\n\nYou will be understood without helpers, so treat this unit first as a key to understanding what you hear, and then start copying the commonest pairs as fixed phrases.",
+      "examples": [
+        { "native": "बैठ जाइए।", "roman": "baith jaaiye.", "english": "Please sit down." },
+        { "native": "मैंने खाना खा लिया।", "roman": "mainne khaanaa khaa liyaa.", "english": "I have eaten." },
+        { "native": "मुझे बता दीजिए।", "roman": "mujhe bataa deejiye.", "english": "Please let me know." }
+      ]
+    },
+    {
+      "title": "jaanaa: a change that is complete",
+      "text": "जाना ('to go') as a helper goes with verbs that have no object: verbs of movement and of changing state. It shows that the change has fully happened.\n\nआ जाना (to arrive, to come over), बैठ जाना (to sit down), सो जाना (to fall asleep), हो जाना (to become, to get done), भूल जाना (to forget), समझ जाना (to grasp, to get it), निकल जाना (to leave, to slip away).\n\nThe helper takes the endings, so it agrees with the subject and there is no ने: वह सो गया ('he fell asleep'), वह सो गई ('she fell asleep'), काम हो गया ('the work is done').",
+      "examples": [
+        { "native": "वह सो गया।", "roman": "vah so gayaa.", "english": "He fell asleep." },
+        { "native": "मैं भूल गया।", "roman": "main bhool gayaa.", "english": "I forgot. (man speaking)" },
+        { "native": "काम हो गया।", "roman": "kaam ho gayaa.", "english": "The work is done." },
+        { "native": "ट्रेन निकल गई।", "roman": "tren nikal gaee.", "english": "The train has left." },
+        { "native": "आ जाओ।", "roman": "aa jaao.", "english": "Come on over. (to a friend)" }
+      ]
+    },
+    {
+      "title": "lenaa and denaa: for yourself or for someone else",
+      "text": "लेना ('to take') as a helper suggests that the action is done for the doer's own benefit, or is taken in: खा लेना (to eat up), पी लेना (to drink up), रख लेना (to keep for oneself), पढ़ लेना (to read through), कर लेना (to get something done).\n\nदेना ('to give') suggests that the action is directed away, for someone else's benefit: बता देना (to tell someone), खोल देना (to open for someone), भेज देना (to send off), कर देना (to do for someone), दे देना (to give away, to hand over).\n\nSo यह रख लीजिए is 'please keep this (for yourself)', while यह वहाँ रख दीजिए is 'please put this over there (for me)'.\n\nBoth helpers take ने in the past, since they are verbs with objects: मैंने उसे पैसे दे दिए, 'I gave him the money'.",
+      "examples": [
+        { "native": "यह रख लीजिए।", "roman": "yah rakh leejiye.", "english": "Please keep this." },
+        { "native": "दरवाज़ा खोल दीजिए।", "roman": "darvaazaa khol deejiye.", "english": "Please open the door." },
+        { "native": "मैंने उसे पैसे दे दिए।", "roman": "mainne use paise de diye.", "english": "I gave him the money." },
+        { "native": "चाय पी लीजिए।", "roman": "chaay pee leejiye.", "english": "Do have your tea." }
+      ]
+    },
+    {
+      "title": "Already, begin to, manage to",
+      "text": "Three more helpers have clearer meanings of their own.\n\nचुकना (chuknaa) after the stem means 'already, to have finished': मैं खा चुका हूँ, 'I have already eaten'. It never takes ने.\n\nलगना (lagnaa) after the -ने form of a verb means 'to begin to': बारिश होने लगी, 'it began to rain'; वह हँसने लगा, 'he started laughing'.\n\nपाना (paanaa) after the stem means 'to manage to, to be able to', and is used mostly in the negative: मैं नहीं आ पाया, 'I couldn't make it'.\n\nOne rule of thumb: the helpers जाना, लेना and देना are normally dropped in negative sentences. 'I have eaten' is मैंने खा लिया, but 'I haven't eaten' is simply मैंने नहीं खाया.",
+      "examples": [
+        { "native": "मैं खा चुका हूँ।", "roman": "main khaa chukaa hoon.", "english": "I have already eaten. (man speaking)" },
+        { "native": "बारिश होने लगी।", "roman": "baarish hone lagee.", "english": "It started to rain." },
+        { "native": "मैं नहीं आ पाया।", "roman": "main naheen aa paayaa.", "english": "I couldn't make it. (man speaking)" },
+        { "native": "मैंने नहीं खाया।", "roman": "mainne naheen khaayaa.", "english": "I haven't eaten." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "बैठ जाइए।", "roman": "baith jaaiye.", "english": "Please sit down.", "literal": "sit please-go" },
+    { "native": "मैं भूल गया।", "roman": "main bhool gayaa.", "english": "I forgot.", "literal": "I forget went", "note": "A woman says: मैं भूल गई (main bhool gaee)." },
+    { "native": "मैंने खाना खा लिया।", "roman": "mainne khaanaa khaa liyaa.", "english": "I have eaten.", "literal": "I-by food eat taken", "note": "The same for men and women; लिया agrees with खाना." },
+    { "native": "दरवाज़ा खोल दीजिए।", "roman": "darvaazaa khol deejiye.", "english": "Please open the door.", "literal": "door open please-give" },
+    { "native": "वह सो गया।", "roman": "vah so gayaa.", "english": "He fell asleep.", "literal": "he sleep went", "note": "'She fell asleep' is वह सो गई (vah so gaee)." },
+    { "native": "मैं समझ गया।", "roman": "main samajh gayaa.", "english": "I've got it.", "literal": "I understand went", "note": "A woman says: मैं समझ गई (main samajh gaee)." },
+    { "native": "यह रख लीजिए।", "roman": "yah rakh leejiye.", "english": "Please keep this.", "literal": "this put please-take" },
+    { "native": "काम हो गया।", "roman": "kaam ho gayaa.", "english": "The work is done.", "literal": "work become went" },
+    { "native": "मुझे बता दीजिए।", "roman": "mujhe bataa deejiye.", "english": "Please let me know.", "literal": "to-me tell please-give" },
+    { "native": "मैं खा चुका हूँ।", "roman": "main khaa chukaa hoon.", "english": "I have already eaten.", "literal": "I eat finished am", "note": "A woman says: मैं खा चुकी हूँ (main khaa chukee hoon)." },
+    { "native": "बारिश होने लगी।", "roman": "baarish hone lagee.", "english": "It started to rain.", "literal": "rain to-happen began" },
+    { "native": "आ जाओ।", "roman": "aa jaao.", "english": "Come on over. (to a friend)", "literal": "come go", "note": "Polite: आ जाइए (aa jaaiye)." },
+    { "native": "मैंने उसे पैसे दे दिए।", "roman": "mainne use paise de diye.", "english": "I gave him the money.", "literal": "I-by to-him money give given", "note": "Also 'I gave her the money'. दिए is plural to agree with पैसे." },
+    { "native": "ट्रेन निकल गई।", "roman": "tren nikal gaee.", "english": "The train has left.", "literal": "train leave went" },
+    { "native": "मैं नहीं आ पाया।", "roman": "main naheen aa paayaa.", "english": "I couldn't make it.", "literal": "I not come managed", "note": "A woman says: मैं नहीं आ पाई (main naheen aa paaee)." }
+  ]
+}

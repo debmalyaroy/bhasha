@@ -1,0 +1,62 @@
+{
+  "id": "weather",
+  "level": "4 · Everyday situations",
+  "title": "Weather and seasons",
+  "description": "Talk about heat, cold, rain and the seasons, and say how the weather feels to you.",
+  "guide": [
+    {
+      "title": "Weather is a noun",
+      "text": "English says 'it is hot'. Hindi has no 'it'; it says that heat exists: गर्मी है (garmee hai), 'there is heat'. Likewise ठंड है (thand hai), 'there is cold', 'it is cold'.\n\nKeep the nouns and the adjectives apart. गर्मी (garmee) is the noun 'heat' and also 'summer'; गर्म (garm) is the adjective 'hot'. ठंड (thand) and सर्दी (sardee) are the nouns 'cold'; ठंडा (thandaa) is the adjective. For the weather use the nouns: आज बहुत गर्मी है. For things use the adjectives: चाय गर्म है, पानी ठंडा है.\n\nमौसम (mausam) means both 'weather' and 'season': आज मौसम कैसा है? 'How is the weather today?'",
+      "examples": [
+        { "native": "आज मौसम कैसा है?", "roman": "aaj mausam kaisaa hai?", "english": "How is the weather today?" },
+        { "native": "आज बहुत गर्मी है।", "roman": "aaj bahut garmee hai.", "english": "It is very hot today." },
+        { "native": "आज बहुत ठंड है।", "roman": "aaj bahut thand hai.", "english": "It is very cold today." },
+        { "native": "आज मौसम अच्छा है।", "roman": "aaj mausam achchhaa hai.", "english": "The weather is nice today." }
+      ]
+    },
+    {
+      "title": "Rain falls, wind moves, sun is strong",
+      "text": "Each kind of weather has its own verb, and the verb agrees with the weather noun.\n\nबारिश (baarish, rain, feminine) 'happens': बारिश हो रही है, 'it is raining'; कल बारिश होगी, 'it will rain tomorrow'.\nहवा (havaa, wind, air, feminine) 'moves': हवा चल रही है, 'the wind is blowing'.\nधूप (dhoop, sunshine, feminine) 'is strong' or 'has come out': धूप बहुत तेज़ है; धूप निकली है, 'the sun is out'.\nबादल (baadal, clouds, masculine) 'have spread': बादल छाए हैं, 'it is cloudy'.\nबर्फ़ (barf, snow, ice, feminine) 'falls': बर्फ़ गिर रही है, 'it is snowing'.",
+      "examples": [
+        { "native": "बाहर बारिश हो रही है।", "roman": "baahar baarish ho rahee hai.", "english": "It is raining outside." },
+        { "native": "हवा चल रही है।", "roman": "havaa chal rahee hai.", "english": "The wind is blowing." },
+        { "native": "धूप बहुत तेज़ है।", "roman": "dhoop bahut tez hai.", "english": "The sun is very strong." },
+        { "native": "बादल छाए हैं।", "roman": "baadal chhaae hain.", "english": "It is cloudy." }
+      ]
+    },
+    {
+      "title": "How it feels to you",
+      "text": "To say that you feel hot or cold, the heat or cold 'attaches' to you, with the same verb लगना you met with hunger: मुझे ठंड लग रही है, 'I am feeling cold'; मुझे गर्मी लग रही है, 'I am feeling hot'.\n\nDo not say मैं ठंडा हूँ or मैं गर्म हूँ for this. Applied to a person these adjectives describe temperament or worse, not body temperature.\n\nLikes and dislikes use पसंद (pasand) with the same 'to me' pattern: मुझे सर्दी पसंद है, 'I like winter'.",
+      "examples": [
+        { "native": "मुझे ठंड लग रही है।", "roman": "mujhe thand lag rahee hai.", "english": "I am feeling cold." },
+        { "native": "मुझे गर्मी लग रही है।", "roman": "mujhe garmee lag rahee hai.", "english": "I am feeling hot." },
+        { "native": "मुझे सर्दी पसंद है।", "roman": "mujhe sardee pasand hai.", "english": "I like winter." }
+      ]
+    },
+    {
+      "title": "The seasons",
+      "text": "North India speaks of three main seasons: गर्मी (garmee), the hot season from about April to June; बरसात (barsaat) or मानसून (maansoon), the rains from about July to September; and सर्दी (sardee), the cool season from about November to February. वसंत (vasant) is spring.\n\n'In summer' and 'in winter' are commonly said in the plural: गर्मियों में (garmiyon mein), सर्दियों में (sardiyon mein). With गर्मी, ठंड and बारिश the verb पड़ना ('to fall') describes how severe it gets: यहाँ बहुत गर्मी पड़ती है, 'it gets very hot here'.",
+      "examples": [
+        { "native": "गर्मियों में यहाँ बहुत गर्मी पड़ती है।", "roman": "garmiyon mein yahaan bahut garmee partee hai.", "english": "It gets very hot here in summer." },
+        { "native": "बरसात कब शुरू होती है?", "roman": "barsaat kab shuroo hotee hai?", "english": "When do the rains start?" },
+        { "native": "सर्दियों में", "roman": "sardiyon mein", "english": "in winter" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "आज मौसम कैसा है?", "roman": "aaj mausam kaisaa hai?", "english": "How is the weather today?", "literal": "today weather how is" },
+    { "native": "आज मौसम अच्छा है।", "roman": "aaj mausam achchhaa hai.", "english": "The weather is nice today.", "literal": "today weather good is" },
+    { "native": "आज बहुत ठंड है।", "roman": "aaj bahut thand hai.", "english": "It is very cold today.", "literal": "today much cold is" },
+    { "native": "मुझे ठंड लग रही है।", "roman": "mujhe thand lag rahee hai.", "english": "I am feeling cold.", "literal": "to-me cold attach -ing is" },
+    { "native": "बाहर बारिश हो रही है।", "roman": "baahar baarish ho rahee hai.", "english": "It is raining outside.", "literal": "outside rain happen -ing is" },
+    { "native": "कल बारिश होगी।", "roman": "kal baarish hogee.", "english": "It will rain tomorrow.", "literal": "tomorrow rain will-be" },
+    { "native": "छाता ले लीजिए।", "roman": "chhaataa le leejiye.", "english": "Take an umbrella.", "literal": "umbrella take please-take" },
+    { "native": "धूप बहुत तेज़ है।", "roman": "dhoop bahut tez hai.", "english": "The sun is very strong.", "literal": "sunshine very sharp is" },
+    { "native": "हवा चल रही है।", "roman": "havaa chal rahee hai.", "english": "The wind is blowing.", "literal": "wind move -ing is" },
+    { "native": "बादल छाए हैं।", "roman": "baadal chhaae hain.", "english": "It is cloudy.", "literal": "clouds spread are" },
+    { "native": "मुझे सर्दी पसंद है।", "roman": "mujhe sardee pasand hai.", "english": "I like winter.", "literal": "to-me winter liked is" },
+    { "native": "गर्मियों में यहाँ बहुत गर्मी पड़ती है।", "roman": "garmiyon mein yahaan bahut garmee partee hai.", "english": "It gets very hot here in summer.", "literal": "summers in here much heat falling is" },
+    { "native": "बरसात कब शुरू होती है?", "roman": "barsaat kab shuroo hotee hai?", "english": "When do the rains start?", "literal": "rainy-season when start becoming is" },
+    { "native": "पंखा चला दीजिए।", "roman": "pankhaa chalaa deejiye.", "english": "Please switch on the fan.", "literal": "fan run please-give" }
+  ]
+}

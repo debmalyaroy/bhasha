@@ -1,0 +1,65 @@
+{
+  "id": "future",
+  "level": "3 · Verbs",
+  "title": "What will happen",
+  "description": "Talk about plans and predictions, make offers and suggest doing something together.",
+  "guide": [
+    {
+      "title": "The future endings",
+      "text": "The future is one word: the stem, an ending for the person, and then -गा (-gaa), -गे (-ge) or -गी (-gee) for gender and number. Taking करना (to do):\n\nमैं करूँगा (karoongaa): I will do. A woman says करूँगी (karoongee).\nतुम करोगे (karoge): you will do, to a friend. To a woman, करोगी.\nयह, वह करेगा (karegaa): he or it will do; करेगी, she will do. The intimate तू takes this form too.\nहम, आप, वे करेंगे (karenge): we, you (polite), they will do. For women only, करेंगी (karengee).\n\nThe middle of the word is nasal for 'I' (-oon-) and for the plural (-en-); the singular करेगा has no nasal. Listen for the difference between आएगा (he will come) and आएँगे (they or you will come).\n\nAfter a stem ending in a vowel the endings are written as separate vowel letters: जाना gives जाऊँगा, जाओगे, जाएगा, जाएँगे; आना gives आऊँगा, आओगे, आएगा, आएँगे.",
+      "examples": [
+        { "native": "मैं कल फ़ोन करूँगा।", "roman": "main kal fon karoongaa.", "english": "I will call tomorrow. (man speaking)" },
+        { "native": "तुम क्या करोगे?", "roman": "tum kyaa karoge?", "english": "What will you do? (to a male friend)" },
+        { "native": "वह शाम को आएगा।", "roman": "vah shaam ko aaegaa.", "english": "He will come in the evening." },
+        { "native": "आप कब जाएँगे?", "roman": "aap kab jaaenge?", "english": "When will you go? (to a man)" },
+        { "native": "हम साथ चलेंगे।", "roman": "ham saath chalenge.", "english": "We will go together." }
+      ]
+    },
+    {
+      "title": "Three irregular verbs",
+      "text": "लेना (to take), देना (to give) and होना (to be) shorten their stems in the future.\n\nलेना: लूँगा (loongaa), लोगे, लेगा, लेंगे (lenge).\nदेना: दूँगा (doongaa), दोगे, देगा, देंगे (denge).\nहोना: हूँगा (hoongaa), होगे, होगा (hogaa), होंगे (honge).\n\nलेना is the polite verb for accepting food and drink: क्या आप चाय लेंगे? 'Will you have tea?'\n\nThings and events take the gender of their noun: बारिश होगी ('it will rain', बारिश is feminine), ट्रेन कब आएगी? ('when will the train come?').",
+      "examples": [
+        { "native": "क्या आप चाय लेंगे?", "roman": "kyaa aap chaay lenge?", "english": "Will you have tea? (to a man)" },
+        { "native": "मैं आपको बता दूँगा।", "roman": "main aapko bataa doongaa.", "english": "I will let you know. (man speaking)" },
+        { "native": "बारिश होगी।", "roman": "baarish hogee.", "english": "It will rain." },
+        { "native": "ट्रेन कब आएगी?", "roman": "tren kab aaegee?", "english": "When will the train come?" }
+      ]
+    },
+    {
+      "title": "hogaa for a guess",
+      "text": "The future of 'to be' is also used for a guess about the present, like English 'he will be at home by now' or 'he must be at home': वह घर पर होगा.\n\nWith another verb it expresses 'must be doing' or 'must have done': वह सो रहा होगा, 'he must be sleeping'. You do not need to produce this yet, but you will hear it often.",
+      "examples": [
+        { "native": "वह घर पर होगा।", "roman": "vah ghar par hogaa.", "english": "He must be at home." },
+        { "native": "दुकान बंद होगी।", "roman": "dukaan band hogee.", "english": "The shop must be closed." },
+        { "native": "सब ठीक हो जाएगा।", "roman": "sab theek ho jaaegaa.", "english": "Everything will be fine." }
+      ]
+    },
+    {
+      "title": "Shall we?",
+      "text": "Take the future form and remove the final -गा, -गे, -गी: what is left is the subjunctive, used for suggestions, permission and possibilities. चलेंगे ('we will go') becomes चलें? ('shall we go?'); मैं आऊँगा ('I will come') becomes मैं आऊँ? ('may I come? shall I come?').\n\nIt is one of the politest and most useful forms in the language: क्या मैं अंदर आऊँ? 'May I come in?' कहाँ बैठें? 'Where shall we sit?'\n\nNegative future sentences simply put नहीं before the verb: मैं नहीं आऊँगा, 'I will not come'.",
+      "examples": [
+        { "native": "चलें?", "roman": "chalen?", "english": "Shall we go?" },
+        { "native": "मैं आऊँ?", "roman": "main aaoon?", "english": "Shall I come? / May I come?" },
+        { "native": "कहाँ बैठें?", "roman": "kahaan baithen?", "english": "Where shall we sit?" },
+        { "native": "मैं नहीं आऊँगा।", "roman": "main naheen aaoongaa.", "english": "I will not come. (man speaking)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मैं कल फ़ोन करूँगा।", "roman": "main kal fon karoongaa.", "english": "I will call tomorrow.", "literal": "I tomorrow phone will-do", "note": "A woman says: ... करूँगी (karoongee)." },
+    { "native": "आप कब जाएँगे?", "roman": "aap kab jaaenge?", "english": "When will you go?", "literal": "you when will-go", "note": "To a woman: आप कब जाएँगी? (aap kab jaaengee?)" },
+    { "native": "वह शाम को आएगा।", "roman": "vah shaam ko aaegaa.", "english": "He will come in the evening.", "literal": "he evening at will-come", "note": "'She will come' is वह शाम को आएगी (... aaegee)." },
+    { "native": "हम साथ चलेंगे।", "roman": "ham saath chalenge.", "english": "We will go together.", "literal": "we together will-walk" },
+    { "native": "क्या आप चाय लेंगे?", "roman": "kyaa aap chaay lenge?", "english": "Will you have tea?", "literal": "(question) you tea will-take", "note": "To a woman: ... लेंगी? (lengee?)" },
+    { "native": "बारिश होगी।", "roman": "baarish hogee.", "english": "It will rain.", "literal": "rain will-be" },
+    { "native": "मैं आपको बता दूँगा।", "roman": "main aapko bataa doongaa.", "english": "I will let you know.", "literal": "I to-you tell will-give", "note": "A woman says: ... बता दूँगी (bataa doongee)." },
+    { "native": "ट्रेन कब आएगी?", "roman": "tren kab aaegee?", "english": "When will the train come?", "literal": "train when will-come", "note": "ट्रेन is feminine, so आएगी." },
+    { "native": "सब ठीक हो जाएगा।", "roman": "sab theek ho jaaegaa.", "english": "Everything will be fine.", "literal": "all fine become will-go" },
+    { "native": "हम अगले हफ़्ते मिलेंगे।", "roman": "ham agle hafte milenge.", "english": "We will meet next week.", "literal": "we next week will-meet" },
+    { "native": "तुम क्या करोगे?", "roman": "tum kyaa karoge?", "english": "What will you do? (to a friend)", "literal": "you what will-do", "note": "To a female friend: तुम क्या करोगी? (tum kyaa karogee?)" },
+    { "native": "वह घर पर होगा।", "roman": "vah ghar par hogaa.", "english": "He must be at home.", "literal": "he home at will-be", "note": "The future of 'to be' expresses a guess about the present." },
+    { "native": "चलें?", "roman": "chalen?", "english": "Shall we go?" },
+    { "native": "मैं ज़रूर आऊँगा।", "roman": "main zaroor aaoongaa.", "english": "I will definitely come.", "literal": "I certainly will-come", "note": "A woman says: ... आऊँगी (aaoongee)." },
+    { "native": "कितना समय लगेगा?", "roman": "kitnaa samay lagegaa?", "english": "How long will it take?", "literal": "how-much time will-attach" }
+  ]
+}

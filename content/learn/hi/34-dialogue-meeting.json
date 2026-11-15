@@ -1,0 +1,54 @@
+{
+  "id": "dialogue-meeting",
+  "level": "5 · Conversation",
+  "title": "Dialogue: meeting someone on a train",
+  "description": "Follow and take part in a complete first conversation with a stranger, line by line.",
+  "guide": [
+    {
+      "title": "The situation",
+      "text": "Tom, a visitor from England, gets on a train to Jaipur and finds a free seat next to Anita, who is travelling home. The phrases of this unit are the lines of their conversation in order. The note on each line says who is speaking.\n\nRead the whole dialogue through first, then practise each line. Nearly everything in it comes from earlier units: greetings, 'where are you from', the continuous tense, the future, and the 'to me' pattern.\n\nThe two speakers use आप to each other throughout, as strangers do. Because Tom is a man and Anita a woman, the dialogue also shows you both sets of verb endings side by side.",
+      "examples": [
+        { "native": "नमस्ते, क्या यह सीट खाली है?", "roman": "namaste, kyaa yah seet khaalee hai?", "english": "Hello, is this seat free?" },
+        { "native": "जी हाँ, बैठिए।", "roman": "jee haan, baithiye.", "english": "Yes, please sit down." }
+      ]
+    },
+    {
+      "title": "Who is speaking to whom",
+      "text": "Watch the verb endings change with the person being described.\n\nTom asks Anita आप कहाँ जा रही हैं?, with रही, because आप here is a woman. Anita answers मैं जयपुर जा रही हूँ, with रही for herself. When Tom speaks about himself he says जा रहा हूँ and सीख रहा हूँ.\n\nWhen Anita asks Tom where he will stay, she says आप कहाँ रुकेंगे?, with the masculine ending -गे. To a woman it would be रुकेंगी. Her offer चाय पिएँगे? ('will you drink tea?') is masculine for the same reason.\n\nIf you are a woman, practise Tom's lines with रही, and expect questions put to you to end in रुकेंगी and पिएँगी. If you are a man, practise Anita's lines with रहा.",
+      "examples": [
+        { "native": "आप कहाँ जा रही हैं?", "roman": "aap kahaan jaa rahee hain?", "english": "Where are you going? (to a woman)" },
+        { "native": "आप कहाँ जा रहे हैं?", "roman": "aap kahaan jaa rahe hain?", "english": "Where are you going? (to a man)" },
+        { "native": "मैं भी जयपुर जा रहा हूँ।", "roman": "main bhee jaypur jaa rahaa hoon.", "english": "I am going to Jaipur too. (man speaking)" },
+        { "native": "मैं भी जयपुर जा रही हूँ।", "roman": "main bhee jaypur jaa rahee hoon.", "english": "I am going to Jaipur too. (woman speaking)" }
+      ]
+    },
+    {
+      "title": "Phrases worth stealing",
+      "text": "आपकी हिंदी बहुत अच्छी है! You will hear this compliment after your first three words of Hindi. Languages are feminine, so आपकी and अच्छी. A modest reply is मैं अभी सीख रहा हूँ, 'I am still learning'; अभी, 'right now', gives the sense of 'still'.\n\nभारत आपको कैसा लग रहा है?, 'how is India seeming to you?', is the question every visitor is asked. Answer with बहुत अच्छा. Replace भारत with any place or thing: दिल्ली आपको कैसी लग रही है? (दिल्ली is feminine).\n\nयहाँ के लोग, 'the people of here', shows that के can follow यहाँ and वहाँ: यहाँ का खाना, 'the food here'.\n\nआपसे मिलकर अच्छा लगा, 'it felt good to meet you', is a slightly warmer alternative to आपसे मिलकर खुशी हुई.",
+      "examples": [
+        { "native": "आपकी हिंदी बहुत अच्छी है!", "roman": "aapkee hindee bahut achchhee hai!", "english": "Your Hindi is very good!" },
+        { "native": "भारत आपको कैसा लग रहा है?", "roman": "bhaarat aapko kaisaa lag rahaa hai?", "english": "How are you liking India?" },
+        { "native": "यहाँ का खाना बहुत अच्छा है।", "roman": "yahaan kaa khaanaa bahut achchhaa hai.", "english": "The food here is very good." },
+        { "native": "आपसे मिलकर अच्छा लगा।", "roman": "aapse milkar achchhaa lagaa.", "english": "It was nice meeting you." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "नमस्ते, क्या यह सीट खाली है?", "roman": "namaste, kyaa yah seet khaalee hai?", "english": "Hello, is this seat free?", "literal": "hello, (question) this seat empty is", "note": "Tom." },
+    { "native": "जी हाँ, बैठिए।", "roman": "jee haan, baithiye.", "english": "Yes, please sit down.", "literal": "(respect) yes, please-sit", "note": "Anita." },
+    { "native": "धन्यवाद। आप कहाँ जा रही हैं?", "roman": "dhanyavaad. aap kahaan jaa rahee hain?", "english": "Thank you. Where are you going?", "literal": "thanks. you where go -ing are", "note": "Tom. रही because he is speaking to a woman; to a man: जा रहे हैं (jaa rahe hain)." },
+    { "native": "मैं जयपुर जा रही हूँ। और आप?", "roman": "main jaypur jaa rahee hoon. aur aap?", "english": "I am going to Jaipur. And you?", "literal": "I Jaipur go -ing am. and you", "note": "Anita. A man says: जा रहा हूँ (jaa rahaa hoon)." },
+    { "native": "मैं भी जयपुर जा रहा हूँ।", "roman": "main bhee jaypur jaa rahaa hoon.", "english": "I am going to Jaipur too.", "literal": "I also Jaipur go -ing am", "note": "Tom. A woman says: जा रही हूँ (jaa rahee hoon)." },
+    { "native": "आप किस देश से हैं?", "roman": "aap kis desh se hain?", "english": "Which country are you from?", "literal": "you which country from are", "note": "Anita." },
+    { "native": "मैं इंग्लैंड से हूँ।", "roman": "main inglaind se hoon.", "english": "I am from England.", "literal": "I England from am", "note": "Tom." },
+    { "native": "आपकी हिंदी बहुत अच्छी है!", "roman": "aapkee hindee bahut achchhee hai!", "english": "Your Hindi is very good!", "literal": "your Hindi very good is", "note": "Anita." },
+    { "native": "शुक्रिया, मैं अभी सीख रहा हूँ।", "roman": "shukriyaa, main abhee seekh rahaa hoon.", "english": "Thanks, I am still learning.", "literal": "thanks, I right-now learn -ing am", "note": "Tom. A woman says: सीख रही हूँ (seekh rahee hoon)." },
+    { "native": "भारत आपको कैसा लग रहा है?", "roman": "bhaarat aapko kaisaa lag rahaa hai?", "english": "How are you liking India?", "literal": "India to-you how seem -ing is", "note": "Anita." },
+    { "native": "बहुत अच्छा। यहाँ के लोग अच्छे हैं।", "roman": "bahut achchhaa. yahaan ke log achchhe hain.", "english": "Very much. The people here are nice.", "literal": "very good. here 's people good are", "note": "Tom." },
+    { "native": "जयपुर में आप कहाँ रुकेंगे?", "roman": "jaypur mein aap kahaan rukenge?", "english": "Where will you stay in Jaipur?", "literal": "Jaipur in you where will-stay", "note": "Anita. To a woman: रुकेंगी (rukengee)." },
+    { "native": "एक होटल में, स्टेशन के पास।", "roman": "ek hotal mein, steshan ke paas.", "english": "In a hotel, near the station.", "literal": "one hotel in, station 's near", "note": "Tom." },
+    { "native": "चाय पिएँगे?", "roman": "chaay piyenge?", "english": "Will you have some tea?", "literal": "tea will-drink", "note": "Anita. To a woman: चाय पिएँगी? (chaay piyengee?)" },
+    { "native": "जी हाँ, ज़रूर।", "roman": "jee haan, zaroor.", "english": "Yes, certainly.", "literal": "(respect) yes, certainly", "note": "Tom." },
+    { "native": "आपसे मिलकर अच्छा लगा।", "roman": "aapse milkar achchhaa lagaa.", "english": "It was nice meeting you.", "literal": "you-with having-met good felt", "note": "Either speaker, when the train arrives." }
+  ]
+}

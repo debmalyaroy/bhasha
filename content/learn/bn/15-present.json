@@ -1,0 +1,81 @@
+{
+  "id": "present",
+  "level": "3 · Verbs",
+  "title": "Present: what you usually do",
+  "description": "Talk about habits and facts in the simple present, with the right ending for every person, for ten essential verbs.",
+  "guide": [
+    {
+      "title": "Stem + five endings",
+      "text": "A dictionary gives a Bengali verb as a verbal noun ending in -আ or -ওয়া: করা (koraa) 'to do, doing', বলা (bolaa) 'to say', খাওয়া (khaaowaa) 'to eat'. Take off that ending and you have the stem: কর-, বল-, খা-.\n\nThe simple present adds one of five endings to the stem:\n\nআমি / আমরা: -ই (-i)\nতুমি / তোমরা: -ও (-o)\nতুই / তোরা: -ইস (-ish)\nসে / ও / তারা: -এ (-e)\nআপনি / তিনি / উনি: -এন (-en)\n\nThere is no separate plural form, and no difference between he and she.\n\nThis tense is used for habits (I walk every morning), for general facts (the shop opens at ten), and for what you know, think, want or like.",
+      "examples": [
+        { "native": "আমি করি", "roman": "aami kori", "english": "I do" },
+        { "native": "তুমি করো", "roman": "tumi koro", "english": "you do (familiar)" },
+        { "native": "তুই করিস", "roman": "tui korish", "english": "you do (intimate)" },
+        { "native": "সে করে", "roman": "she kore", "english": "he/she does" },
+        { "native": "আপনি করেন", "roman": "aapni koren", "english": "you do (polite)" },
+        { "native": "তিনি করেন", "roman": "tini koren", "english": "he/she does (respected)" }
+      ]
+    },
+    {
+      "title": "The stem vowel shifts",
+      "text": "In many verbs the vowel of the stem is 'higher' before the endings -i and -ish, and 'lower' before -o, -e and -en. In some verbs the spelling shows the change, in others only the pronunciation does.\n\nSpelling changes (i / e and u / o):\nলেখা to write: আমি লিখি (likhi) - সে লেখে (lekhe) - আপনি লেখেন (lekhen)\nশোনা to hear: আমি শুনি (shuni) - সে শোনে (shone) - আপনি শোনেন (shonen)\nকেনা to buy: আমি কিনি (kini) - সে কেনে (kene)\nবোঝা to understand: আমি বুঝি (bujhi) - সে বোঝে (bojhe)\n\nSound changes only:\nকরা, বলা: in করি, বলি the first vowel is the closed o; in করো, করে, করেন it is the open o of 'hot'.\nদেখা to see: দেখি (dekhi) has a true e; দেখো, দেখে, দেখেন have the a of 'cat'.\n\nVerbs whose stem has আ never change: থাকা - থাকি, থাকো, থাকে; জানা - জানি, জানে.",
+      "examples": [
+        { "native": "আমি চিঠি লিখি।", "roman": "aami chithi likhi.", "english": "I write letters." },
+        { "native": "সে চিঠি লেখে।", "roman": "she chithi lekhe.", "english": "He/She writes letters." },
+        { "native": "আমি গান শুনি।", "roman": "aami gaan shuni.", "english": "I listen to music." },
+        { "native": "ও গান শোনে।", "roman": "o gaan shone.", "english": "He/She listens to music." },
+        { "native": "আমি দেখি", "roman": "aami dekhi", "english": "I see" },
+        { "native": "সে দেখে", "roman": "she dekhe", "english": "he/she sees" }
+      ]
+    },
+    {
+      "title": "Stems ending in a vowel: eat, go",
+      "text": "When the stem ends in আ, the endings shorten: -e becomes -য় (-y) and -en becomes -ন (-n).\n\nখাওয়া to eat (also to drink, to smoke): আমি খাই (khaai), তুমি খাও (khaao), তুই খাস (khaash), সে খায় (khaay), আপনি খান (khaan).\n\nযাওয়া to go: আমি যাই (jaai), তুমি যাও (jaao), তুই যাস (jaash), সে যায় (jaay), আপনি যান (jaan).\n\nIn the same way: পাওয়া to get - পাই, পাও, পাস, পায়, পান; চাওয়া to want - চাই, চাও, চাস, চায়, চান.",
+      "examples": [
+        { "native": "আমি খাই", "roman": "aami khaai", "english": "I eat" },
+        { "native": "তুমি খাও", "roman": "tumi khaao", "english": "you eat (familiar)" },
+        { "native": "সে খায়", "roman": "she khaay", "english": "he/she eats" },
+        { "native": "আপনি খান", "roman": "aapni khaan", "english": "you eat (polite)" },
+        { "native": "আমি যাই", "roman": "aami jaai", "english": "I go" },
+        { "native": "সে যায়", "roman": "she jaay", "english": "he/she goes" }
+      ]
+    },
+    {
+      "title": "Give, take, be",
+      "text": "Three very common verbs have a stem that switches between i, e and a/o.\n\nদেওয়া to give: আমি দিই (dii), তুমি দাও (daao), তুই দিস (dish), সে দেয় (dey), আপনি দেন (den).\n\nনেওয়া to take: আমি নিই (nii), তুমি নাও (naao), তুই নিস (nish), সে নেয় (ney), আপনি নেন (nen).\n\nহওয়া to be, become, happen: আমি হই (hoi), তুমি হও (hou, said ho-o), তুই হস (hosh), সে হয় (hoy), আপনি হন (hon).\n\nIn দেয়, দেন, নেয়, নেন the e is the a of 'cat'.\n\nহয় is not the everyday 'is' (that is the zero verb or আছে). It means 'happens, becomes, is as a rule': এখানে খুব বৃষ্টি হয়, 'it rains a lot here'.",
+      "examples": [
+        { "native": "আমি দিই", "roman": "aami dii", "english": "I give" },
+        { "native": "সে দেয়", "roman": "she dey", "english": "he/she gives" },
+        { "native": "আমি নিই", "roman": "aami nii", "english": "I take" },
+        { "native": "আপনি নেন", "roman": "aapni nen", "english": "you take (polite)" },
+        { "native": "এখানে খুব বৃষ্টি হয়।", "roman": "ekhaane khub brishti hoy.", "english": "It rains a lot here." }
+      ]
+    },
+    {
+      "title": "Come, stay, see, say",
+      "text": "The remaining verbs of the essential ten are regular.\n\nআসা to come: আসি (aashi), আসো (aasho), আসিস (aashish), আসে (aashe), আসেন (aashen).\n\nথাকা to stay, live: থাকি (thaaki), থাকো (thaako), থাকিস (thaakish), থাকে (thaake), থাকেন (thaaken).\n\nদেখা to see: দেখি (dekhi), দেখো (dekho), দেখিস (dekhish), দেখে (dekhe), দেখেন (dekhen).\n\nবলা to say, speak: বলি (boli), বলো (bolo), বলিস (bolish), বলে (bole), বলেন (bolen).\n\nMany everyday verbs are a noun + করা: কাজ করা 'to work', রান্না করা 'to cook', ফোন করা 'to phone'. Only করা changes.",
+      "examples": [
+        { "native": "আপনি কোথায় কাজ করেন?", "roman": "aapni kothaay kaaj koren?", "english": "Where do you work?" },
+        { "native": "মা রান্না করেন।", "roman": "maa raannaa koren.", "english": "Mother cooks." },
+        { "native": "তুমি কোথায় থাকো?", "roman": "tumi kothaay thaako?", "english": "Where do you live? (familiar)" },
+        { "native": "ওরা এখানে আসে।", "roman": "oraa ekhaane aashe.", "english": "They come here." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি রোজ সকালে হাঁটি।", "roman": "aami roj shokaale haanti.", "english": "I walk every morning.", "literal": "I daily morning-in walk", "note": "" },
+    { "native": "তুমি কী খাও?", "roman": "tumi kee khaao?", "english": "What do you eat? (familiar)", "literal": "you what eat", "note": "" },
+    { "native": "আপনি কোথায় কাজ করেন?", "roman": "aapni kothaay kaaj koren?", "english": "Where do you work?", "literal": "you where work do", "note": "" },
+    { "native": "সে স্কুলে যায়।", "roman": "she skule jaay.", "english": "He/She goes to school.", "literal": "he/she school-to goes", "note": "" },
+    { "native": "বাবা খবরের কাগজ পড়েন।", "roman": "baabaa khoborer kaagoj poren.", "english": "Father reads the newspaper.", "literal": "father news's paper reads", "note": "The respectful -en for one's father." },
+    { "native": "আমরা ভাত খাই।", "roman": "aamraa bhaat khaai.", "english": "We eat rice.", "literal": "we rice eat", "note": "The same ending as for 'I'." },
+    { "native": "আমি চা খাই না।", "roman": "aami chaa khaai naa.", "english": "I don't drink tea.", "literal": "I tea eat not", "note": "Drinks are 'eaten' in Bengali." },
+    { "native": "ও গান শোনে।", "roman": "o gaan shone.", "english": "He/She listens to music.", "literal": "he/she song listens", "note": "The stem vowel is o before -e, u before -i: আমি শুনি (aami shuni)." },
+    { "native": "আমি বাংলা একটু বুঝি।", "roman": "aami baanglaa ektu bujhi.", "english": "I understand a little Bengali.", "literal": "I Bengali a-little understand", "note": "" },
+    { "native": "মা রান্না করেন।", "roman": "maa raannaa koren.", "english": "Mother cooks.", "literal": "mother cooking does", "note": "" },
+    { "native": "তুই কোথায় থাকিস?", "roman": "tui kothaay thaakish?", "english": "Where do you live? (intimate)", "literal": "you where stay", "note": "" },
+    { "native": "ওরা বিকেলে ফুটবল খেলে।", "roman": "oraa bikele phutbol khele.", "english": "They play football in the afternoon.", "literal": "they afternoon-in football play", "note": "" },
+    { "native": "আমি চিঠি লিখি।", "roman": "aami chithi likhi.", "english": "I write letters.", "literal": "I letter write", "note": "The stem vowel is i before -i, e before -e: সে লেখে (she lekhe)." },
+    { "native": "দোকানটা দশটায় খোলে।", "roman": "dokaantaa doshtaay khole.", "english": "The shop opens at ten.", "literal": "shop-the ten-at opens", "note": "" }
+  ]
+}

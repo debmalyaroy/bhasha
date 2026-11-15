@@ -1,0 +1,62 @@
+{
+  "id": "continuous",
+  "level": "3 · Verbs",
+  "title": "Happening now",
+  "description": "Say what is happening at this moment, and what was happening at some moment in the past.",
+  "guide": [
+    {
+      "title": "Stem + rahaa + 'to be'",
+      "text": "For an action in progress Hindi uses three separate words: the bare stem of the verb, then रहा (rahaa), then the present of 'to be'. मैं खा रहा हूँ, piece by piece 'I eat staying am', means 'I am eating'.\n\nरहा is the part that agrees with the subject: रहा (rahaa) for one male, रहे (rahe) for males in the plural and for आप and तुम addressed to a man, रही (rahee) for any female subject.\n\nThe stem never changes. So once you know रहा, रहे, रही and the forms of 'to be', you can put any verb into this tense: कर रहा हूँ (am doing), जा रही है (she is going), आ रहे हैं (are coming).",
+      "examples": [
+        { "native": "मैं खाना खा रहा हूँ।", "roman": "main khaanaa khaa rahaa hoon.", "english": "I am eating. (man speaking)" },
+        { "native": "वह सो रही है।", "roman": "vah so rahee hai.", "english": "She is sleeping." },
+        { "native": "बच्चे खेल रहे हैं।", "roman": "bachche khel rahe hain.", "english": "The children are playing." },
+        { "native": "आप क्या कर रहे हैं?", "roman": "aap kyaa kar rahe hain?", "english": "What are you doing? (to a man)" }
+      ]
+    },
+    {
+      "title": "Things that happen by themselves",
+      "text": "Weather, noises and many other events are expressed with a noun plus होना (to be, to happen) or another simple verb, and the verb agrees with that noun.\n\nबारिश (rain) is feminine: बारिश हो रही है, 'rain is happening', that is, 'it is raining'. फ़ोन is masculine: फ़ोन बज रहा है, 'the phone is ringing'.\n\nA very large number of Hindi verbs are made this way, from a noun or adjective plus करना (to do) or होना (to happen): बात करना ('to do talk', to talk), इंतज़ार करना (to wait), काम करना (to work). In the continuous they simply become बात कर रहे हैं, इंतज़ार कर रहा हूँ.",
+      "examples": [
+        { "native": "बारिश हो रही है।", "roman": "baarish ho rahee hai.", "english": "It is raining." },
+        { "native": "फ़ोन बज रहा है।", "roman": "fon baj rahaa hai.", "english": "The phone is ringing." },
+        { "native": "वे बात कर रहे हैं।", "roman": "ve baat kar rahe hain.", "english": "They are talking." },
+        { "native": "हम आपका इंतज़ार कर रहे हैं।", "roman": "ham aapkaa intazaar kar rahe hain.", "english": "We are waiting for you." }
+      ]
+    },
+    {
+      "title": "Was doing; and 'I am going tomorrow'",
+      "text": "Replace the present of 'to be' with था, थी, थे, थीं and you have the past continuous: मैं सो रहा था, 'I was sleeping'; वह सो रही थी, 'she was sleeping'.\n\nAs in English, the present continuous is also used for a firm plan in the near future: मैं कल दिल्ली जा रहा हूँ, 'I am going to Delhi tomorrow'.\n\nThe negative keeps the helping verb more often than the habitual tense does: मैं नहीं जा रहा हूँ or मैं नहीं जा रहा, 'I am not going'.",
+      "examples": [
+        { "native": "मैं सो रहा था।", "roman": "main so rahaa thaa.", "english": "I was sleeping. (man speaking)" },
+        { "native": "मैं कल दिल्ली जा रहा हूँ।", "roman": "main kal dillee jaa rahaa hoon.", "english": "I am going to Delhi tomorrow. (man speaking)" },
+        { "native": "मैं नहीं जा रहा हूँ।", "roman": "main naheen jaa rahaa hoon.", "english": "I am not going. (man speaking)" }
+      ]
+    },
+    {
+      "title": "A trap: sitting, standing, wearing",
+      "text": "English says 'he is sitting' for someone who is already seated. Hindi sees that as a state, not an action in progress, and uses a different form: वह बैठा है (vah baithaa hai), literally 'he is seated'. वह बैठ रहा है would mean that he is in the act of lowering himself onto the chair.\n\nThe same goes for standing (वह खड़ा है, 'he is standing'), lying down, and wearing clothes. Keep the continuous for real ongoing activity.",
+      "examples": [
+        { "native": "वह वहाँ बैठा है।", "roman": "vah vahaan baithaa hai.", "english": "He is sitting there.", "literal": "he there seated is" },
+        { "native": "वह वहाँ बैठी है।", "roman": "vah vahaan baithee hai.", "english": "She is sitting there." },
+        { "native": "वह बाहर खड़ा है।", "roman": "vah baahar kharaa hai.", "english": "He is standing outside." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मैं खाना खा रहा हूँ।", "roman": "main khaanaa khaa rahaa hoon.", "english": "I am eating.", "literal": "I food eat -ing am", "note": "A woman says: ... खा रही हूँ (khaa rahee hoon)." },
+    { "native": "आप क्या कर रहे हैं?", "roman": "aap kyaa kar rahe hain?", "english": "What are you doing?", "literal": "you what do -ing are", "note": "To a woman: ... कर रही हैं? (kar rahee hain?)" },
+    { "native": "वह सो रही है।", "roman": "vah so rahee hai.", "english": "She is sleeping.", "literal": "she sleep -ing is", "note": "'He is sleeping' is वह सो रहा है (vah so rahaa hai)." },
+    { "native": "बारिश हो रही है।", "roman": "baarish ho rahee hai.", "english": "It is raining.", "literal": "rain happen -ing is" },
+    { "native": "मैं आ रहा हूँ।", "roman": "main aa rahaa hoon.", "english": "I am coming.", "literal": "I come -ing am", "note": "A woman says: मैं आ रही हूँ (main aa rahee hoon)." },
+    { "native": "बच्चे खेल रहे हैं।", "roman": "bachche khel rahe hain.", "english": "The children are playing.", "literal": "children play -ing are" },
+    { "native": "हम आपका इंतज़ार कर रहे हैं।", "roman": "ham aapkaa intazaar kar rahe hain.", "english": "We are waiting for you.", "literal": "we your waiting do -ing are" },
+    { "native": "आप कहाँ जा रहे हैं?", "roman": "aap kahaan jaa rahe hain?", "english": "Where are you going?", "literal": "you where go -ing are", "note": "To a woman: ... जा रही हैं? (jaa rahee hain?)" },
+    { "native": "मैं किताब पढ़ रहा हूँ।", "roman": "main kitaab parh rahaa hoon.", "english": "I am reading a book.", "literal": "I book read -ing am", "note": "A woman says: ... पढ़ रही हूँ (parh rahee hoon)." },
+    { "native": "फ़ोन बज रहा है।", "roman": "fon baj rahaa hai.", "english": "The phone is ringing.", "literal": "phone ring -ing is" },
+    { "native": "वह क्या कह रहा है?", "roman": "vah kyaa kah rahaa hai?", "english": "What is he saying?", "literal": "he what say -ing is", "note": "Of a woman: वह क्या कह रही है? (vah kyaa kah rahee hai?)" },
+    { "native": "वे बात कर रहे हैं।", "roman": "ve baat kar rahe hain.", "english": "They are talking.", "literal": "they talk do -ing are" },
+    { "native": "मैं सो रहा था।", "roman": "main so rahaa thaa.", "english": "I was sleeping.", "literal": "I sleep -ing was", "note": "A woman says: मैं सो रही थी (main so rahee thee)." },
+    { "native": "मैं कल दिल्ली जा रहा हूँ।", "roman": "main kal dillee jaa rahaa hoon.", "english": "I am going to Delhi tomorrow.", "literal": "I tomorrow Delhi go -ing am", "note": "A woman says: ... जा रही हूँ (jaa rahee hoon)." }
+  ]
+}

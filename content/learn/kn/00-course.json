@@ -1,0 +1,258 @@
+{
+  "code": "kn",
+  "name": "Kannada",
+  "nativeName": "ಕನ್ನಡ",
+  "script": "Kannada",
+  "ttsLocale": "kn-IN",
+  "about": [
+    {
+      "title": "How the Kannada script works",
+      "text": "Kannada is written left to right in units called aksharas. An akshara is not a single letter of the English kind: it is a whole syllable - a vowel on its own, or a consonant together with the vowel that follows it.\n\nEvery consonant letter already contains the short vowel 'a'. So ಕ is not 'k' but 'ka', and ಮ is 'ma'. To get any other vowel you attach a vowel sign to the consonant (ಕಿ ki, ಕು ku). To get a bare consonant with no vowel you add the 'killer' stroke on top (ಕ್ k).\n\nThe good news for an English speaker: Kannada is read exactly as it is written. The built-in 'a' is always pronounced, even at the end of a word - ಮರ is ma-ra, never 'mar' - and there are no silent letters. (This is different from Hindi, where the final 'a' is dropped.) Once you know the letters you can read any word aloud correctly.",
+      "examples": [
+        { "native": "ಮರ", "roman": "mara", "english": "tree (ma + ra: both built-in vowels are spoken)" },
+        { "native": "ಮನೆ", "roman": "mane", "english": "house (ma + ne)" },
+        { "native": "ಕನ್ನಡ", "roman": "kannada", "english": "Kannada (ka + nna + da)" },
+        { "native": "ಬಸ್", "roman": "bas", "english": "bus (the stroke on the last letter removes its vowel)" }
+      ]
+    },
+    {
+      "title": "Vowels: independent letters and vowel signs",
+      "text": "Each vowel has two shapes. The independent letter (ಅ ಆ ಇ ಈ ...) is used only when the vowel begins a word or syllable on its own. After a consonant the same vowel is written as a sign attached to the consonant. The set of one consonant with every vowel sign is called the kaagunita, and children learn it by chanting: ka, kaa, ki, kee, ku, koo ...\n\nThe sign for short 'a' is nothing at all - a plain consonant already has it. Most signs change the top or the right-hand side of the letter. Notice that the ordinary top stroke of the consonant (the 'talekattu') disappears when the signs for i, ee, e and the killer stroke are added: ಕ becomes ಕಿ, ಕೆ, ಕ್.\n\nThe long signs for ee, e and o are made by adding the lengthening mark ೕ to the short sign: ಕಿ ki / ಕೀ kee, ಕೆ ke / ಕೇ ke (long), ಕೊ ko / ಕೋ ko (long). Spotting that extra mark is how you tell short from long when reading.",
+      "examples": [
+        { "native": "ಇಲಿ", "roman": "ili", "english": "mouse (independent i, then l with the i sign)" },
+        { "native": "ಕಾಲು", "roman": "kaalu", "english": "leg (k + aa sign, l + u sign)" },
+        { "native": "ನೀರು", "roman": "neeru", "english": "water (n + ee sign)" },
+        { "native": "ಹೂವು", "roman": "hoovu", "english": "flower (h + oo sign)" },
+        { "native": "ಕೈ", "roman": "kai", "english": "hand (k + ai sign)" }
+      ]
+    },
+    {
+      "title": "Short and long vowels change the meaning",
+      "text": "Kannada has five pairs of short and long vowels: a/aa, i/ee, u/oo, and also short and long e and short and long o. A long vowel is simply held about twice as long as the short one; its quality does not change. Length is not a detail - it makes different words.\n\nThe pair that surprises English speakers is e and o. Hindi and Sanskrit have only the long ones, but Kannada has both: ಎ is the short e of 'get', ಏ is the long e, like the vowel of 'gate' said without gliding. ಒ is a short o, ಓ a long 'oh' without the glide.\n\nIn this course's romanisation aa, ee and oo show the long a, i and u. Short and long e and o are both written simply as e and o (this keeps the spelling easy to read and matches what the lessons have always used), so for these two vowels trust the Kannada spelling and the notes: whenever a common word has a long e or o that you might get wrong, the note says so.",
+      "examples": [
+        { "native": "ಹಾಲು", "roman": "haalu", "english": "milk (long aa)" },
+        { "native": "ಹಲ್ಲು", "roman": "hallu", "english": "tooth (short a)" },
+        { "native": "ಎಲೆ", "roman": "ele", "english": "leaf (both e short)" },
+        { "native": "ಏಳು", "roman": "elu", "english": "seven (long e)" },
+        { "native": "ಕೊಡು", "roman": "kodu", "english": "give (short o)" },
+        { "native": "ಕೋಡು", "roman": "kodu", "english": "horn (long o) - same romanisation, different word" }
+      ]
+    },
+    {
+      "title": "Double and joined consonants: the ottakshara",
+      "text": "When two consonants come together with no vowel between them, the first is written normally and the second is written as a small form underneath or to the lower right of it. This small form is called an ottakshara (or 'ottu'). Most ottaksharas are just a miniature of the letter without its top stroke: ಕ್ಕ kka, ಗ್ಗ gga, ಲ್ಲ lla. A few have their own shape and must be learned: ತ (as in ತ್ತ tta), ನ (ನ್ನ nna), ಮ (ಮ್ಮ mma), ಯ (ಕ್ಯ kya), ರ (ಕ್ರ kra) and ಲ (ಕ್ಲ kla).\n\nA vowel sign is attached to the big letter on top, but it is pronounced after the whole cluster. In ಸ್ನೇಹಿತ (snehita, friend) the e sign sits on ಸ, yet you say s-n-e.\n\nDoubled consonants are extremely common in Kannada and must really be held longer, as in English 'bookkeeper' or 'unnamed'. Doubling changes the meaning, so do not skim over it.\n\nA few clusters have special names and sounds: ಕ್ಷ (ksha) and ಜ್ಞ (written j + ny, pronounced 'gnya' or 'jnya'; romanised jna here).",
+      "examples": [
+        { "native": "ಅಮ್ಮ", "roman": "amma", "english": "mother (double m)" },
+        { "native": "ಹತ್ತು", "roman": "hattu", "english": "ten (double t; the small lower t has its own shape)" },
+        { "native": "ಹಳ್ಳಿ", "roman": "halli", "english": "village (double retroflex l)" },
+        { "native": "ಹಳಿ", "roman": "hali", "english": "rail track (single l - a different word)" },
+        { "native": "ಸ್ನೇಹಿತ", "roman": "snehita", "english": "friend (s + n joined; the long e is said after the n)" },
+        { "native": "ಕ್ಷಮಿಸಿ", "roman": "kshamisi", "english": "sorry, excuse me" }
+      ]
+    },
+    {
+      "title": "The letter ra in clusters: arkavattu",
+      "text": "The consonant ರ (ra) behaves in two ways in a cluster.\n\nWhen r comes second (kra, pra, tra) it is written as an ordinary ottakshara, a small hook under the first letter: ಪ್ರ pra, ತ್ರ tra.\n\nWhen r comes first (rka, rya, rtha) Kannada normally does the opposite of what you expect: the following consonant is written full size, and the r is written after it as a separate sign that looks rather like the numeral ೯. This sign is called the arkavattu. So in ಸೂರ್ಯ you see soo + ya + the r-sign, but you read soo-r-ya: the r is pronounced before the consonant it follows on the page.\n\nThis is purely a spelling convention; the sound is a normal r.",
+      "examples": [
+        { "native": "ಸೂರ್ಯ", "roman": "soorya", "english": "sun (r is written after the y but spoken before it)" },
+        { "native": "ಕರ್ನಾಟಕ", "roman": "karnaataka", "english": "Karnataka" },
+        { "native": "ಅರ್ಥ", "roman": "artha", "english": "meaning" },
+        { "native": "ವರ್ಷ", "roman": "varsha", "english": "year" },
+        { "native": "ಪ್ರಶ್ನೆ", "roman": "prashne", "english": "question (here r comes second: an ordinary ottakshara)" }
+      ]
+    },
+    {
+      "title": "Aspirated, dental and retroflex consonants",
+      "text": "The 25 main consonants are arranged in five rows by where the tongue touches: k-row (back of the mouth), ch-row (palate), retroflex t-row, dental t-row and p-row (lips). Each row has: plain, aspirated, voiced, voiced aspirated, nasal.\n\nAspirated letters (ಖ kha, ಘ gha, ಛ chha, ಥ tha, ಧ dha, ಫ pha, ಭ bha ...) are said with a puff of breath. They occur mostly in words borrowed from Sanskrit; in everyday speech many speakers pronounce them almost like the plain letters, but they must be spelled correctly. Note that 'th' in this course is never the English th of 'think': it is t plus breath.\n\nDental versus retroflex is the distinction that matters most. For the dentals ತ ದ ನ the tip of the tongue touches the back of the upper teeth (softer than English t, d). For the retroflexes ಟ ಡ ಣ the tongue tip curls back and strikes the roof of the mouth (English t and d sound retroflex to Kannada ears, which is why 'doctor' is written ಡಾಕ್ಟರ್). Kannada also has a retroflex l, ಳ, made with the tongue curled back, beside the ordinary ಲ.\n\nThe romanisation in this course does not mark the difference (both ತ and ಟ are t, both ದ and ಡ are d, both ನ and ಣ are n, both ಲ and ಳ are l), so learn each word's spelling from the Kannada. Minimal pairs below show why it matters.\n\nಫ is 'pha' in Sanskrit words but is used for the English f sound in loanwords, where this course writes f (ಕಾಫಿ kaafi, ಫೋನ್ fon).",
+      "examples": [
+        { "native": "ಹಲ್ಲಿ", "roman": "halli", "english": "lizard (ordinary l)" },
+        { "native": "ಹಳ್ಳಿ", "roman": "halli", "english": "village (retroflex l)" },
+        { "native": "ಅನ್ನ", "roman": "anna", "english": "cooked rice (dental n)" },
+        { "native": "ಅಣ್ಣ", "roman": "anna", "english": "elder brother (retroflex n)" },
+        { "native": "ಹತ್ತು", "roman": "hattu", "english": "ten (dental t)" },
+        { "native": "ಹುಟ್ಟು", "roman": "huttu", "english": "birth (retroflex t)" }
+      ]
+    },
+    {
+      "title": "Anusvara and visarga",
+      "text": "The small circle ಂ written after a letter is the anusvara (called 'sonne', which also means zero). It stands for a nasal sound whose exact value depends on the consonant that follows: it becomes the nasal made in the same place as that consonant.\n\nBefore k, g it sounds like ng (ಅಂಗಡಿ an-ga-di, as in 'finger'). Before ch, j, t, d (dental or retroflex) it is n (ಸಂಜೆ sanje, ಗಂಟೆ gante, ಬಂದೆ bande). Before p, b it is m (ತುಂಬಾ tumbaa). Before s, sh, h and at the end of a word it is m (ಮಾಂಸ maamsa). The romanisation writes n or m accordingly.\n\nKannada prefers the anusvara to a written nasal conjunct, so you write ಬಂದೆ rather than ಬನ್ದೆ. But a doubled nasal is written as a real double letter, never with the circle: ಅಮ್ಮ, ಕನ್ನಡ, ಅಣ್ಣ.\n\nThe two small circles ಃ are the visarga, a light breathy 'h' that echoes the vowel before it. It appears only in a few Sanskrit words such as ದುಃಖ (sorrow) and ಬಹುಶಃ (perhaps).",
+      "examples": [
+        { "native": "ಅಂಗಡಿ", "roman": "angadi", "english": "shop (ng before g)" },
+        { "native": "ಸಂಜೆ", "roman": "sanje", "english": "evening (n before j)" },
+        { "native": "ಗಂಟೆ", "roman": "gante", "english": "hour, o'clock, bell (retroflex n before retroflex t)" },
+        { "native": "ತುಂಬಾ", "roman": "tumbaa", "english": "very, a lot (m before b)" },
+        { "native": "ಮಾಂಸ", "roman": "maamsa", "english": "meat (m before s)" },
+        { "native": "ದುಃಖ", "roman": "duhkha", "english": "sorrow (visarga)" }
+      ]
+    },
+    {
+      "title": "Spoken and written Kannada",
+      "text": "Kannada has a formal written style (used in books, newspapers, news broadcasts and speeches) and an everyday spoken style, and they differ noticeably, mainly in verb endings. Nobody chats in the written style.\n\nThis course teaches the standard spoken Kannada of Bengaluru and Mysuru, and the main phrase is always in the spoken form. Where the written form is noticeably different, it is given in the note or in the unit guide, so that you can also recognise it when you read.\n\nThe main differences: (1) the present tense is shortened - written maaduttene, spoken maadteeni (I do); (2) person endings differ a little - written -ene, -eve, -eeri; spoken -eeni, -eevi, -eera; (3) in the past tense a short vowel is dropped before the endings -ru, -ri, -lu - written bandaru, spoken bandru (they came); (4) 'it does' is written maaduttade, spoken maadutte; (5) 'not' forms are shortened - written maaduvudilla, spoken maadalla.\n\nOne convention in this course: forms built on the infinitive, such as hogabeku (must go), barabahudu (may come) and baralilla (did not come), are written in full. In fast speech their middle 'a' is often dropped too (hogbeku, barlilla); both are understood everywhere.\n\nSpoken forms have no single official spelling, so you will see small variations in messages and film subtitles (for example ಮಾಡ್ತೀನಿ and ಮಾಡ್ತೇನೆ). The spellings used here are the common ones.",
+      "examples": [
+        { "native": "ಮಾಡ್ತೀನಿ", "roman": "maadteeni", "english": "I do / I will do - spoken" },
+        { "native": "ಮಾಡುತ್ತೇನೆ", "roman": "maaduttene", "english": "I do / I will do - written" },
+        { "native": "ಬಂದ್ರು", "roman": "bandru", "english": "they came - spoken" },
+        { "native": "ಬಂದರು", "roman": "bandaru", "english": "they came - written" },
+        { "native": "ಬರಲ್ಲ", "roman": "baralla", "english": "does not / will not come - spoken" },
+        { "native": "ಬರುವುದಿಲ್ಲ", "roman": "baruvudilla", "english": "does not / will not come - written" }
+      ]
+    },
+    {
+      "title": "How Kannada words are built: endings and sandhi",
+      "text": "Kannada is an agglutinating language: instead of separate little words like 'to', 'in', 'from', 'my', 'not' and 'can', it adds endings to the noun or verb, one after another. mane is 'house'; manege is 'to the house'; maneyalli is 'in the house'; maneyallide is 'it is in the house'.\n\nWhen an ending is attached, the sounds at the join adjust. This is called sandhi. The three everyday patterns are: a final u drops before a vowel (hesaru + enu = hesarenu, 'what name?'); a linking y appears after i and e (mane + alli = maneyalli); a linking v, d, n or in appears after a and u depending on the type of noun (mara + alli = maradalli, huduga + ige = huduganige, ooru + alli = oorinalli). The units on case endings teach these one at a time.\n\nShort common words also fuse with the verb: elli + ide = ellide (where is it?), chennaagi + ide = chennaagide (it is good), hege + iddeera = hegiddeera (how are you?). When a long word puzzles you, look for a familiar word at its beginning and peel the endings off from the right.",
+      "examples": [
+        { "native": "ಮನೆಯಲ್ಲಿ", "roman": "maneyalli", "english": "in the house (mane + y + alli)" },
+        { "native": "ಮರದಲ್ಲಿ", "roman": "maradalli", "english": "in the tree (mara + d + alli)" },
+        { "native": "ಊರಿಗೆ", "roman": "oorige", "english": "to the town (ooru + ige; the u drops)" },
+        { "native": "ಹೆಸರೇನು", "roman": "hesarenu", "english": "what name? (hesaru + enu)" },
+        { "native": "ಎಲ್ಲಿದೆ", "roman": "ellide", "english": "where is it? (elli + ide)" }
+      ]
+    },
+    {
+      "title": "Romanisation key used in this course",
+      "text": "The romanisation is a pronunciation aid, always in lower case. Read every letter; nothing is silent.\n\nVowels: a as in 'about' (short), aa as in 'father', i as in 'bit', ee as in 'feet', u as in 'put', oo as in 'food', e as in 'get' (short) or the 'a' of 'gate' without the glide (long), o short or long 'oh' without the glide, ai as in 'my', au as in 'now', ru for the vowel ಋ.\n\nNot marked: the length of e and o; dental versus retroflex (t, d, n, l each stand for two letters). The Kannada spelling shows these, and the notes point out the cases that matter.\n\nConsonants: ch is always as in 'church'; chh is the same with breath. g is always hard as in 'go'. A consonant followed by h (kh, gh, th, dh, ph, bh, jh) is that consonant plus a puff of breath - th is never the English 'th'. sh covers both ಶ and ಷ. v is a soft sound between English v and w. Double letters (nn, ll, tt, mm, chch) are held longer. jn stands for ಜ್ಞ, usually said 'gny'. f is used for ಫ in English loanwords.\n\nThe anusvara is written n or m according to how it sounds. English loanwords are romanised the way Kannada speakers say and spell them (bas, fon, daaktar, taim), not in their English spelling.",
+      "examples": [
+        { "native": "ಚೆನ್ನಾಗಿದೆ", "roman": "chennaagide", "english": "it is good (ch, double n, long aa)" },
+        { "native": "ಧನ್ಯವಾದಗಳು", "roman": "dhanyavaadagalu", "english": "thank you (dh = d + breath; the last l is retroflex)" },
+        { "native": "ಊಟ", "roman": "oota", "english": "meal (long oo; retroflex t)" },
+        { "native": "ಜ್ಞಾನ", "roman": "jnaana", "english": "knowledge (usually pronounced gnyaana)" },
+        { "native": "ಡಾಕ್ಟರ್", "roman": "daaktar", "english": "doctor (loanword, as Kannada speakers say it)" }
+      ]
+    }
+  ],
+  "letters": [
+    {
+      "group": "Vowels",
+      "note": "The thirteen vowels in everyday use, in traditional order. These independent shapes are used only at the start of a word or syllable; after a consonant the vowel is written as a sign (see Vowel signs). Short and long vowels come in pairs.",
+      "items": [
+        { "char": "ಅ", "roman": "a", "example": "ಅಮ್ಮ", "exampleRoman": "amma", "exampleMeaning": "mother", "note": "Short, like the 'a' of 'about' or the 'u' of 'cup'. It is built into every consonant letter." },
+        { "char": "ಆ", "roman": "aa", "example": "ಆನೆ", "exampleRoman": "aane", "exampleMeaning": "elephant", "note": "Long, as in 'father'. Hold it twice as long as ಅ." },
+        { "char": "ಇ", "roman": "i", "example": "ಇಲಿ", "exampleRoman": "ili", "exampleMeaning": "mouse", "note": "Short, as in 'bit'." },
+        { "char": "ಈ", "roman": "ee", "example": "ಈರುಳ್ಳಿ", "exampleRoman": "eerulli", "exampleMeaning": "onion", "note": "Long, as in 'feet'. On its own ಈ is also the word for 'this' before a noun." },
+        { "char": "ಉ", "roman": "u", "example": "ಉಪ್ಪು", "exampleRoman": "uppu", "exampleMeaning": "salt", "note": "Short, as in 'put'. Most native Kannada nouns and verb stems end in this vowel." },
+        { "char": "ಊ", "roman": "oo", "example": "ಊಟ", "exampleRoman": "oota", "exampleMeaning": "meal", "note": "Long, as in 'food'. Easily confused in shape with ಉ: the long letter has the extra curl on the right." },
+        { "char": "ಋ", "roman": "ru", "example": "ಋಷಿ", "exampleRoman": "rushi", "exampleMeaning": "sage", "note": "Found only in Sanskrit words; pronounced 'ru' in Kannada. An older long form (ೠ) is no longer used." },
+        { "char": "ಎ", "roman": "e", "example": "ಎಲೆ", "exampleRoman": "ele", "exampleMeaning": "leaf", "note": "Short e, as in 'get'." },
+        { "char": "ಏ", "roman": "e (long)", "example": "ಏಣಿ", "exampleRoman": "eni", "exampleMeaning": "ladder", "note": "Long e, like the vowel of 'gate' held steady without gliding. Romanised e like the short one - the Kannada letter shows the length." },
+        { "char": "ಐ", "roman": "ai", "example": "ಐದು", "exampleRoman": "aidu", "exampleMeaning": "five", "note": "A glide, like the 'y' of 'my'." },
+        { "char": "ಒ", "roman": "o", "example": "ಒಂಟೆ", "exampleRoman": "onte", "exampleMeaning": "camel", "note": "Short o, a clipped version of the 'o' in 'go'." },
+        { "char": "ಓ", "roman": "o (long)", "example": "ಓಲೆ", "exampleRoman": "ole", "exampleMeaning": "earring", "note": "Long o, as in 'go' but without the glide to 'u'. Romanised o like the short one." },
+        { "char": "ಔ", "roman": "au", "example": "ಔಷಧ", "exampleRoman": "aushadha", "exampleMeaning": "medicine", "note": "A glide, like the 'ow' of 'now'. Rare; mostly in Sanskrit words." }
+      ]
+    },
+    {
+      "group": "Consonants",
+      "note": "The 34 consonants in traditional order: five rows of five (k, ch, retroflex t, dental t, p - each row: plain, aspirated, voiced, voiced aspirated, nasal), then the nine unclassified consonants. Each letter is named and read with its built-in 'a'.",
+      "items": [
+        { "char": "ಕ", "roman": "ka", "example": "ಕಣ್ಣು", "exampleRoman": "kannu", "exampleMeaning": "eye", "note": "Like the k of 'skin' - no puff of breath." },
+        { "char": "ಖ", "roman": "kha", "example": "ಖರ್ಜೂರ", "exampleRoman": "kharjoora", "exampleMeaning": "date (fruit)", "note": "k with a puff of breath, like the k of 'kite' said strongly. Mostly in borrowed words." },
+        { "char": "ಗ", "roman": "ga", "example": "ಗಡಿಯಾರ", "exampleRoman": "gadiyaara", "exampleMeaning": "clock", "note": "Always hard, as in 'go'." },
+        { "char": "ಘ", "roman": "gha", "example": "ಘಂಟೆ", "exampleRoman": "ghante", "exampleMeaning": "bell", "note": "g with breath. Rare; the everyday word for 'hour/o'clock' is spelled with plain ಗ: ಗಂಟೆ." },
+        { "char": "ಙ", "roman": "nga", "example": "ವಾಙ್ಮಯ", "exampleRoman": "vaangmaya", "exampleMeaning": "literature", "note": "The 'ng' of 'sing'. Almost never written; the anusvara ಂ is used instead (ಅಂಗಡಿ)." },
+        { "char": "ಚ", "roman": "cha", "example": "ಚಮಚ", "exampleRoman": "chamacha", "exampleMeaning": "spoon", "note": "As in 'church', without breath." },
+        { "char": "ಛ", "roman": "chha", "example": "ಛತ್ರಿ", "exampleRoman": "chhatri", "exampleMeaning": "umbrella", "note": "ch with a puff of breath." },
+        { "char": "ಜ", "roman": "ja", "example": "ಜನ", "exampleRoman": "jana", "exampleMeaning": "people", "note": "As in 'jam'." },
+        { "char": "ಝ", "roman": "jha", "example": "ಝರಿ", "exampleRoman": "jhari", "exampleMeaning": "stream, small waterfall", "note": "j with breath. Very rare." },
+        { "char": "ಞ", "roman": "nya", "example": "ಜ್ಞಾನ", "exampleRoman": "jnaana", "exampleMeaning": "knowledge", "note": "The 'ny' of 'canyon'. In practice seen only as the lower half of the conjunct ಜ್ಞ." },
+        { "char": "ಟ", "roman": "ta", "example": "ಟೋಪಿ", "exampleRoman": "topi", "exampleMeaning": "cap", "note": "Retroflex t: curl the tongue tip back to the roof of the mouth. Used for English t in loanwords. The o here is long." },
+        { "char": "ಠ", "roman": "tha", "example": "ಕಂಠ", "exampleRoman": "kantha", "exampleMeaning": "throat, voice", "note": "Retroflex t with breath. Rare. Never the English 'th'." },
+        { "char": "ಡ", "roman": "da", "example": "ಡಬ್ಬ", "exampleRoman": "dabba", "exampleMeaning": "box, tin", "note": "Retroflex d, tongue curled back. Very common in Kannada verbs: maadu, nodu, kodu." },
+        { "char": "ಢ", "roman": "dha", "example": "ದೃಢ", "exampleRoman": "drudha", "exampleMeaning": "firm, strong", "note": "Retroflex d with breath. Rare." },
+        { "char": "ಣ", "roman": "na", "example": "ಹಣ", "exampleRoman": "hana", "exampleMeaning": "money", "note": "Retroflex n, tongue curled back. Do not confuse with dental ನ: ಅಣ್ಣ (elder brother) but ಅನ್ನ (cooked rice)." },
+        { "char": "ತ", "roman": "ta", "example": "ತಲೆ", "exampleRoman": "tale", "exampleMeaning": "head", "note": "Dental t: tongue tip on the back of the upper teeth, softer than English t." },
+        { "char": "ಥ", "roman": "tha", "example": "ರಥ", "exampleRoman": "ratha", "exampleMeaning": "chariot", "note": "Dental t with breath. Not the English 'th' of 'think'." },
+        { "char": "ದ", "roman": "da", "example": "ದನ", "exampleRoman": "dana", "exampleMeaning": "cattle", "note": "Dental d, tongue on the teeth - close to the 'th' of 'this' but a full stop sound." },
+        { "char": "ಧ", "roman": "dha", "example": "ಧನ", "exampleRoman": "dhana", "exampleMeaning": "wealth", "note": "Dental d with breath, as in ಧನ್ಯವಾದ (thanks)." },
+        { "char": "ನ", "roman": "na", "example": "ನಗು", "exampleRoman": "nagu", "exampleMeaning": "smile, laughter", "note": "Dental n, the ordinary n. Far more common than retroflex ಣ." },
+        { "char": "ಪ", "roman": "pa", "example": "ಪದ", "exampleRoman": "pada", "exampleMeaning": "word", "note": "Like the p of 'spin' - no puff of breath." },
+        { "char": "ಫ", "roman": "pha", "example": "ಫಲ", "exampleRoman": "phala", "exampleMeaning": "fruit, result", "note": "p with breath in Sanskrit words; used for the English f in loanwords (ಕಾಫಿ kaafi, ಫೋನ್ fon)." },
+        { "char": "ಬ", "roman": "ba", "example": "ಬಳೆ", "exampleRoman": "bale", "exampleMeaning": "bangle", "note": "As in 'bat'." },
+        { "char": "ಭ", "roman": "bha", "example": "ಭಾಷೆ", "exampleRoman": "bhaashe", "exampleMeaning": "language", "note": "b with breath." },
+        { "char": "ಮ", "roman": "ma", "example": "ಮನೆ", "exampleRoman": "mane", "exampleMeaning": "house", "note": "As in 'man'. Its small subscript form (in ಮ್ಮ) looks different from the full letter." },
+        { "char": "ಯ", "roman": "ya", "example": "ಯಜಮಾನ", "exampleRoman": "yajamaana", "exampleMeaning": "owner, head of the house", "note": "As in 'yes'. Also appears as the linking sound when endings are added: mane + alli = maneyalli." },
+        { "char": "ರ", "roman": "ra", "example": "ರಸ್ತೆ", "exampleRoman": "raste", "exampleMeaning": "road", "note": "A lightly tapped r, as in Spanish or Scottish English - always pronounced, never silent." },
+        { "char": "ಲ", "roman": "la", "example": "ಲವಂಗ", "exampleRoman": "lavanga", "exampleMeaning": "clove", "note": "The ordinary clear l of 'leaf'." },
+        { "char": "ವ", "roman": "va", "example": "ವನ", "exampleRoman": "vana", "exampleMeaning": "forest", "note": "Between English v and w: the lip touches the teeth only lightly." },
+        { "char": "ಶ", "roman": "sha", "example": "ಶಾಲೆ", "exampleRoman": "shaale", "exampleMeaning": "school", "note": "As in 'ship'." },
+        { "char": "ಷ", "roman": "sha", "example": "ಷಟ್ಕೋನ", "exampleRoman": "shatkona", "exampleMeaning": "hexagon", "note": "Retroflex sh; in practice pronounced the same as ಶ. Common inside words: ಇಷ್ಟ (liking), ವರ್ಷ (year)." },
+        { "char": "ಸ", "roman": "sa", "example": "ಸರ", "exampleRoman": "sara", "exampleMeaning": "necklace, chain", "note": "As in 'sun' - never z." },
+        { "char": "ಹ", "roman": "ha", "example": "ಹಣ್ಣು", "exampleRoman": "hannu", "exampleMeaning": "fruit", "note": "As in 'hat'. Many everyday words begin with it: ಹೌದು, ಹೋಗು, ಹೇಳು." },
+        { "char": "ಳ", "roman": "la", "example": "ಮಳೆ", "exampleRoman": "male", "exampleMeaning": "rain", "note": "Retroflex l: curl the tongue tip back. Never begins a word. Do not confuse with ಲ: ಹಳ್ಳಿ (village) but ಹಲ್ಲಿ (lizard). Two old letters, ಱ and ೞ, are no longer used." }
+      ]
+    },
+    {
+      "group": "Vowel signs",
+      "note": "The twelve vowel signs, shown on the consonant ಕ (ka). The same signs attach to every consonant, though a few letters change shape slightly. A plain ಕ already carries the short a.",
+      "items": [
+        { "char": "ಕಾ", "roman": "kaa", "example": "ಕಾಗೆ", "exampleRoman": "kaage", "exampleMeaning": "crow", "note": "The aa sign is a stroke added on the right." },
+        { "char": "ಕಿ", "roman": "ki", "example": "ಕಿವಿ", "exampleRoman": "kivi", "exampleMeaning": "ear", "note": "The i sign replaces the top stroke with a loop." },
+        { "char": "ಕೀ", "roman": "kee", "example": "ಕೀಲಿ", "exampleRoman": "keeli", "exampleMeaning": "key", "note": "The i sign plus the lengthening mark ೕ." },
+        { "char": "ಕು", "roman": "ku", "example": "ಕುರಿ", "exampleRoman": "kuri", "exampleMeaning": "sheep", "note": "The u sign is a hook on the right." },
+        { "char": "ಕೂ", "roman": "koo", "example": "ಕೂದಲು", "exampleRoman": "koodalu", "exampleMeaning": "hair", "note": "A longer hook with an extra curl. Compare carefully with ಕು." },
+        { "char": "ಕೃ", "roman": "kru", "example": "ಕೃಷಿ", "exampleRoman": "krushi", "exampleMeaning": "agriculture", "note": "The sign for ಋ, written below. Only in Sanskrit words." },
+        { "char": "ಕೆ", "roman": "ke", "example": "ಕೆರೆ", "exampleRoman": "kere", "exampleMeaning": "lake", "note": "Short e: the top stroke becomes a small flag." },
+        { "char": "ಕೇ", "roman": "ke (long)", "example": "ಕೇಳು", "exampleRoman": "kelu", "exampleMeaning": "listen, ask", "note": "Long e: the short e sign plus the lengthening mark ೕ." },
+        { "char": "ಕೈ", "roman": "kai", "example": "ಕೈ", "exampleRoman": "kai", "exampleMeaning": "hand", "note": "The e sign plus a tail below." },
+        { "char": "ಕೊ", "roman": "ko", "example": "ಕೊಡೆ", "exampleRoman": "kode", "exampleMeaning": "umbrella", "note": "Short o: the e sign plus the oo-like hook on the right." },
+        { "char": "ಕೋ", "roman": "ko (long)", "example": "ಕೋಳಿ", "exampleRoman": "koli", "exampleMeaning": "hen, chicken", "note": "Long o: the short o sign plus the lengthening mark ೕ." },
+        { "char": "ಕೌ", "roman": "kau", "example": "ಕೌಶಲ", "exampleRoman": "kaushala", "exampleMeaning": "skill", "note": "Mostly in Sanskrit words - but it is also in the everyday ಹೌದು (haudu, yes)." }
+      ]
+    },
+    {
+      "group": "Other signs",
+      "note": "Signs that are not vowels or consonants themselves but change how a letter is read. They are shown here on ಅ or ಕ because they cannot stand alone.",
+      "items": [
+        { "char": "ಅಂ", "roman": "am", "example": "ಅಂಗಡಿ", "exampleRoman": "angadi", "exampleMeaning": "shop", "note": "Anusvara (the circle ಂ): a nasal that takes its exact sound from the next consonant - ng before k/g, n before ch/j/t/d, m before p/b and at the end of a word." },
+        { "char": "ಅಃ", "roman": "aha", "example": "ದುಃಖ", "exampleRoman": "duhkha", "exampleMeaning": "sorrow", "note": "Visarga (the two circles ಃ): a light breathy h after the vowel. Only in a few Sanskrit words." },
+        { "char": "ಕ್", "roman": "k", "example": "ಬಸ್", "exampleRoman": "bas", "exampleMeaning": "bus", "note": "The vowel-killer stroke (virama, or halant) removes the built-in a. It is seen mainly at the end of English loanwords; inside a word the next consonant is written as an ottakshara instead." },
+        { "char": "ರ್ಕ", "roman": "rka", "example": "ಸೂರ್ಯ", "exampleRoman": "soorya", "exampleMeaning": "sun", "note": "Arkavattu: when r comes before another consonant it is written as this sign after that consonant, but pronounced before it." }
+      ]
+    },
+    {
+      "group": "Common conjuncts",
+      "note": "The most frequent joined consonants. The second consonant is written small below or beside the first (ottakshara). Doubled consonants come first because they are everywhere in Kannada; hold them longer than a single consonant.",
+      "items": [
+        { "char": "ಕ್ಕ", "roman": "kka", "example": "ಅಕ್ಕ", "exampleRoman": "akka", "exampleMeaning": "elder sister", "note": "Double k. Also in the 'to' ending -kke: ಮರಕ್ಕೆ (to the tree)." },
+        { "char": "ಚ್ಚ", "roman": "chcha", "example": "ಹೆಚ್ಚು", "exampleRoman": "hechchu", "exampleMeaning": "more", "note": "Double ch: hold the stop before releasing it." },
+        { "char": "ಜ್ಜ", "roman": "jja", "example": "ಅಜ್ಜಿ", "exampleRoman": "ajji", "exampleMeaning": "grandmother", "note": "Double j." },
+        { "char": "ಟ್ಟ", "roman": "tta", "example": "ಬೆಟ್ಟ", "exampleRoman": "betta", "exampleMeaning": "hill", "note": "Double retroflex t. Common in past tenses: ಕೊಟ್ಟೆ (I gave)." },
+        { "char": "ಡ್ಡ", "roman": "dda", "example": "ದೊಡ್ಡ", "exampleRoman": "dodda", "exampleMeaning": "big", "note": "Double retroflex d." },
+        { "char": "ಣ್ಣ", "roman": "nna", "example": "ಅಣ್ಣ", "exampleRoman": "anna", "exampleMeaning": "elder brother", "note": "Double retroflex n, as in ಕಣ್ಣು (eye), ಹಣ್ಣು (fruit), ಬಣ್ಣ (colour)." },
+        { "char": "ತ್ತ", "roman": "tta", "example": "ಹತ್ತು", "exampleRoman": "hattu", "exampleMeaning": "ten", "note": "Double dental t. The small ತ underneath has its own shape - learn it, it is very common." },
+        { "char": "ದ್ದ", "roman": "dda", "example": "ಉದ್ದ", "exampleRoman": "udda", "exampleMeaning": "long, tall", "note": "Double dental d. In most 'am/is/are' forms: ಇದ್ದೀನಿ, ಇದ್ದಾರೆ (but not ಇದೆ, ಇವೆ)." },
+        { "char": "ನ್ನ", "roman": "nna", "example": "ಅನ್ನ", "exampleRoman": "anna", "exampleMeaning": "cooked rice", "note": "Double dental n. In ನನ್ನ (my), ನಿನ್ನೆ (yesterday) and the object ending -annu." },
+        { "char": "ಪ್ಪ", "roman": "ppa", "example": "ಅಪ್ಪ", "exampleRoman": "appa", "exampleMeaning": "father", "note": "Double p." },
+        { "char": "ಬ್ಬ", "roman": "bba", "example": "ಹಬ್ಬ", "exampleRoman": "habba", "exampleMeaning": "festival", "note": "Double b, as in ಒಬ್ಬ (one person)." },
+        { "char": "ಮ್ಮ", "roman": "mma", "example": "ನಮ್ಮ", "exampleRoman": "namma", "exampleMeaning": "our", "note": "Double m. The small ಮ has its own shape." },
+        { "char": "ಲ್ಲ", "roman": "lla", "example": "ಇಲ್ಲ", "exampleRoman": "illa", "exampleMeaning": "no, is not", "note": "Double ordinary l, in ಇಲ್ಲಿ (here), ಅಲ್ಲಿ (there) and the 'in' ending -alli." },
+        { "char": "ಳ್ಳ", "roman": "lla", "example": "ಹಳ್ಳಿ", "exampleRoman": "halli", "exampleMeaning": "village", "note": "Double retroflex l, as in ಒಳ್ಳೆಯ (good), ಬೆಳ್ಳಿ (silver)." },
+        { "char": "ಸ್ಸ", "roman": "ssa", "example": "ಬಸ್ಸು", "exampleRoman": "bassu", "exampleMeaning": "bus", "note": "Double s. Loanwords ending in a consonant often get a Kannada -u, doubling the consonant: bas becomes bassu." },
+        { "char": "ಕ್ಷ", "roman": "ksha", "example": "ಕ್ಷಮಿಸಿ", "exampleRoman": "kshamisi", "exampleMeaning": "sorry, excuse me", "note": "k + sh. Often taught as an extra letter of the alphabet." },
+        { "char": "ಜ್ಞ", "roman": "jna", "example": "ವಿಜ್ಞಾನ", "exampleRoman": "vijnaana", "exampleMeaning": "science", "note": "Written j + ny but usually pronounced 'gnya'. Often taught as an extra letter of the alphabet." },
+        { "char": "ತ್ರ", "roman": "tra", "example": "ರಾತ್ರಿ", "exampleRoman": "raatri", "exampleMeaning": "night", "note": "t + r. The small hook under the letter is the subscript form of ರ." },
+        { "char": "ಪ್ರ", "roman": "pra", "example": "ಪ್ರಶ್ನೆ", "exampleRoman": "prashne", "exampleMeaning": "question", "note": "p + r, with the same r hook." },
+        { "char": "ಸ್ತ", "roman": "sta", "example": "ರಸ್ತೆ", "exampleRoman": "raste", "exampleMeaning": "road", "note": "s + dental t, as in ಪುಸ್ತಕ (book)." },
+        { "char": "ಷ್ಟ", "roman": "shta", "example": "ಇಷ್ಟ", "exampleRoman": "ishta", "exampleMeaning": "liking", "note": "sh + retroflex t, as in ಎಷ್ಟು (how much), ಕಷ್ಟ (difficulty)." },
+        { "char": "ಸ್ವ", "roman": "sva", "example": "ಸ್ವಲ್ಪ", "exampleRoman": "svalpa", "exampleMeaning": "a little", "note": "s + v. The same word also contains the conjunct l + p." },
+        { "char": "ಲ್ಕ", "roman": "lka", "example": "ನಾಲ್ಕು", "exampleRoman": "naalku", "exampleMeaning": "four", "note": "l + k." },
+        { "char": "ಸ್ಕ", "roman": "ska", "example": "ನಮಸ್ಕಾರ", "exampleRoman": "namaskaara", "exampleMeaning": "hello, greetings", "note": "s + k. The aa sign is attached to the big ಸ but is said after the k." }
+      ]
+    },
+    {
+      "group": "Numerals",
+      "note": "Kannada has its own digits, seen on buses, old signboards, calendars and government documents; the international digits 0-9 are used alongside them everywhere. The example is the number word.",
+      "items": [
+        { "char": "೦", "roman": "0", "example": "ಸೊನ್ನೆ", "exampleRoman": "sonne", "exampleMeaning": "zero", "note": "The same word 'sonne' names the anusvara circle." },
+        { "char": "೧", "roman": "1", "example": "ಒಂದು", "exampleRoman": "ondu", "exampleMeaning": "one", "note": "" },
+        { "char": "೨", "roman": "2", "example": "ಎರಡು", "exampleRoman": "eradu", "exampleMeaning": "two", "note": "" },
+        { "char": "೩", "roman": "3", "example": "ಮೂರು", "exampleRoman": "mooru", "exampleMeaning": "three", "note": "" },
+        { "char": "೪", "roman": "4", "example": "ನಾಲ್ಕು", "exampleRoman": "naalku", "exampleMeaning": "four", "note": "" },
+        { "char": "೫", "roman": "5", "example": "ಐದು", "exampleRoman": "aidu", "exampleMeaning": "five", "note": "" },
+        { "char": "೬", "roman": "6", "example": "ಆರು", "exampleRoman": "aaru", "exampleMeaning": "six", "note": "" },
+        { "char": "೭", "roman": "7", "example": "ಏಳು", "exampleRoman": "elu", "exampleMeaning": "seven", "note": "The e is long." },
+        { "char": "೮", "roman": "8", "example": "ಎಂಟು", "exampleRoman": "entu", "exampleMeaning": "eight", "note": "The e is short." },
+        { "char": "೯", "roman": "9", "example": "ಒಂಬತ್ತು", "exampleRoman": "ombattu", "exampleMeaning": "nine", "note": "The digit looks like the arkavattu sign - do not mix them up." }
+      ]
+    }
+  ]
+}

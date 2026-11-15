@@ -1,0 +1,57 @@
+{
+  "id": "possession",
+  "level": "2 · How sentences work",
+  "title": "My, your, his: possession",
+  "description": "Say whose something is, with pronouns and with nouns.",
+  "guide": [
+    {
+      "title": "Possessive pronouns",
+      "text": "Each pronoun has a possessive form that goes before the noun and never changes, whatever the noun is:\n\nnaanu - ನನ್ನ (nanna) my; naavu - ನಮ್ಮ (namma) our; neenu - ನಿನ್ನ (ninna) your, familiar; neevu - ನಿಮ್ಮ (nimma) your, polite or plural; avanu - ಅವನ (avana) his; avalu - ಅವಳ (avala) her; avaru - ಅವರ (avara) their, or his/her respectfully; adu - ಅದರ (adara) its, of that; idu - ಇದರ (idara) of this; yaaru - ಯಾರ (yaara) whose.\n\nKannada speakers very often say namma ('our') where English says 'my' - for home, family, town and country: namma mane ('our house', even if you live alone), namma appa ('our father' = my father), namma ooru, namma bengalooru. Saying nanna mane is not wrong, but namma sounds warmer and more natural.",
+      "examples": [
+        { "native": "ನನ್ನ ಹೆಸರು", "roman": "nanna hesaru", "english": "my name" },
+        { "native": "ನಿಮ್ಮ ಮನೆ", "roman": "nimma mane", "english": "your house (polite)" },
+        { "native": "ಅವನ ಹೆಸರು", "roman": "avana hesaru", "english": "his name" },
+        { "native": "ಅವಳ ಹೆಸರು", "roman": "avala hesaru", "english": "her name" },
+        { "native": "ಅವರ ಮನೆ", "roman": "avara mane", "english": "their house / his or her house (respectful)" },
+        { "native": "ನಮ್ಮ ಮನೆ", "roman": "namma mane", "english": "our house / my home" }
+      ]
+    },
+    {
+      "title": "Possessive of nouns: the ending -a",
+      "text": "A noun is made possessive (the 'of' or apostrophe-s form, called the genitive) by adding -a. The possessor comes first, as with English 's: appana kaaru, 'father's car'. A linking sound is needed, and it depends on how the noun ends:\n\nPeople whose name or title ends in -a add -na: appa - ಅಪ್ಪನ (appana) father's; snehita - ಸ್ನೇಹಿತನ (snehitana) friend's; raama - raamana.\n\nThings ending in -a add -da: mara - ಮರದ (marada) of the tree; pustaka - pustakada.\n\nNouns ending in -i or -e add -ya: mane - ಮನೆಯ (maneya) of the house; hudugi - hudugiya, the girl's.\n\nNouns ending in -u drop the u and add -ina: ooru - ಊರಿನ (oorina) of the town; bengalooru - bengaloorina. Words for people ending in -u just replace u with a: avanu - avana, magalu (daughter) - magala.\n\nIn fast speech the ending is often dropped where the meaning is clear: mane baagilu, 'the house door'.",
+      "examples": [
+        { "native": "ಅಪ್ಪನ ಕಾರು", "roman": "appana kaaru", "english": "father's car" },
+        { "native": "ಸ್ನೇಹಿತನ ಹೆಸರು", "roman": "snehitana hesaru", "english": "the friend's name" },
+        { "native": "ಮರದ ಎಲೆ", "roman": "marada ele", "english": "the leaf of the tree" },
+        { "native": "ಮನೆಯ ಬಾಗಿಲು", "roman": "maneya baagilu", "english": "the door of the house" },
+        { "native": "ಊರಿನ ಹೆಸರು", "roman": "oorina hesaru", "english": "the name of the town" }
+      ]
+    },
+    {
+      "title": "Mine, yours, whose: adding -du",
+      "text": "To use a possessive on its own, without a noun after it ('mine', 'yours', 'Ravi's'), add -du, which stands for 'thing': ನನ್ನದು (nannadu) mine, ನಮ್ಮದು (nammadu) ours, ನಿನ್ನದು (ninnadu) and ನಿಮ್ಮದು (nimmadu) yours, ಅವನದು (avanadu) his, ಅವಳದು (avaladu) hers, ಅವರದು (avaradu) theirs, ಯಾರದು (yaaradu) whose.\n\nTo ask a yes/no question add the long -aa: nimmadu + aa = ನಿಮ್ಮದಾ? (nimmadaa?) 'Is it yours?'. To deny, add alla: nannadu alla, 'it is not mine'.",
+      "examples": [
+        { "native": "ಇದು ಯಾರದು?", "roman": "idu yaaradu?", "english": "Whose is this?" },
+        { "native": "ಇದು ನನ್ನದು.", "roman": "idu nannadu.", "english": "This is mine." },
+        { "native": "ಈ ಬ್ಯಾಗ್ ನಿಮ್ಮದಾ?", "roman": "ee byaag nimmadaa?", "english": "Is this bag yours?" },
+        { "native": "ಇದು ನನ್ನದು ಅಲ್ಲ.", "roman": "idu nannadu alla.", "english": "This is not mine." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇದು ನನ್ನ ಫೋನ್.", "roman": "idu nanna fon.", "english": "This is my phone.", "literal": "this my phone", "note": "The o in fon is long." },
+    { "native": "ನಿಮ್ಮ ಮನೆ ಎಲ್ಲಿದೆ?", "roman": "nimma mane ellide?", "english": "Where is your house?", "literal": "your house where-is", "note": "ellide = elli + ide." },
+    { "native": "ಅವನ ಹೆಸರು ರವಿ.", "roman": "avana hesaru ravi.", "english": "His name is Ravi.", "literal": "his name Ravi", "note": "" },
+    { "native": "ಅವಳ ಹೆಸರು ಗೀತಾ.", "roman": "avala hesaru geetaa.", "english": "Her name is Geetha.", "literal": "her name Geetha", "note": "" },
+    { "native": "ಅವರ ಮನೆ ದೊಡ್ಡದು.", "roman": "avara mane doddadu.", "english": "Their house is big.", "literal": "their house big-one", "note": "Could also be 'his house' or 'her house', said respectfully." },
+    { "native": "ಇದು ನಮ್ಮ ಮನೆ.", "roman": "idu namma mane.", "english": "This is our house.", "literal": "this our house", "note": "Also the natural way to say 'this is my home'." },
+    { "native": "ಇದು ಯಾರದು?", "roman": "idu yaaradu?", "english": "Whose is this?", "literal": "this whose-thing", "note": "" },
+    { "native": "ಇದು ನನ್ನದು.", "roman": "idu nannadu.", "english": "This is mine.", "literal": "this my-thing", "note": "" },
+    { "native": "ಈ ಬ್ಯಾಗ್ ನಿಮ್ಮದಾ?", "roman": "ee byaag nimmadaa?", "english": "Is this bag yours?", "literal": "this bag your-thing?", "note": "nimmadu + -aa. ee = 'this' before a noun." },
+    { "native": "ಅದು ಅಪ್ಪನ ಕಾರು.", "roman": "adu appana kaaru.", "english": "That is Dad's car.", "literal": "that father's car", "note": "appa + na." },
+    { "native": "ಮನೆಯ ಬಾಗಿಲು ತೆರೆದಿದೆ.", "roman": "maneya baagilu teredide.", "english": "The door of the house is open.", "literal": "house's door open-is", "note": "In speech often just mane baagilu." },
+    { "native": "ಇದರ ಹೆಸರು ಏನು?", "roman": "idara hesaru enu?", "english": "What is the name of this?", "literal": "this-of name what", "note": "idara = of this (thing)." },
+    { "native": "ನನ್ನ ಸ್ನೇಹಿತನ ಹೆಸರು ರಾಜ್.", "roman": "nanna snehitana hesaru raaj.", "english": "My friend's name is Raj.", "literal": "my friend's name Raj", "note": "A female friend is snehite (ಸ್ನೇಹಿತೆ); her possessive is snehiteya." },
+    { "native": "ನಿನ್ನ ಪುಸ್ತಕ ಇಲ್ಲಿದೆ.", "roman": "ninna pustaka illide.", "english": "Your book is here. (to a friend)", "literal": "your book here-is", "note": "ninna is the familiar 'your'; polite: nimma." }
+  ]
+}

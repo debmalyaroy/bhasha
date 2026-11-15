@@ -1,0 +1,63 @@
+{
+  "id": "continuous",
+  "level": "3 · Verbs",
+  "title": "Happening now",
+  "description": "Say what is going on at this moment, what is about to happen and what was going on, with the -chh- forms.",
+  "guide": [
+    {
+      "title": "Stem + ছ + ending",
+      "text": "The present continuous - 'I am doing' - is made by adding -ছ- (-chh-) and the personal ending to the stem. The stem takes its 'high' vowel (the one used before -i).\n\nকরা to do:\nআমি করছি (korchhi) I am doing\nতুমি করছ (korchho) you are doing, familiar\nতুই করছিস (korchhish) you are doing, intimate\nসে করছে (korchhe) he/she is doing\nআপনি / তিনি করছেন (korchhen) you are doing (polite), he/she is doing (respected)\n\nThe তুমি form is spelt without a vowel sign but ends in o: করছ = korchho.\n\nIn the same way: বলছি (bolchhi) I am saying; দেখছি (dekhchhi) I am looking; আসছি (aashchhi) I am coming; থাকছি (thaakchhi) I am staying; লিখছি (likhchhi) I am writing; শুনছি (shunchhi) I am listening.\n\nThe negative just adds না: আমি করছি না।",
+      "examples": [
+        { "native": "আমি করছি", "roman": "aami korchhi", "english": "I am doing" },
+        { "native": "তুমি করছ", "roman": "tumi korchho", "english": "you are doing (familiar)" },
+        { "native": "তুই করছিস", "roman": "tui korchhish", "english": "you are doing (intimate)" },
+        { "native": "সে করছে", "roman": "she korchhe", "english": "he/she is doing" },
+        { "native": "আপনি করছেন", "roman": "aapni korchhen", "english": "you are doing (polite)" }
+      ]
+    },
+    {
+      "title": "After a vowel: -চ্ছ-",
+      "text": "When the stem ends in a vowel, the sign is doubled to -চ্ছ- (-chchh-).\n\nখাওয়া: খাচ্ছি (khaachchhi), খাচ্ছ (khaachchho), খাচ্ছিস, খাচ্ছে, খাচ্ছেন\nযাওয়া: যাচ্ছি (jaachchhi), যাচ্ছ, যাচ্ছিস, যাচ্ছে, যাচ্ছেন\nদেওয়া: দিচ্ছি (dichchhi), দিচ্ছ, দিচ্ছিস, দিচ্ছে, দিচ্ছেন\nনেওয়া: নিচ্ছি (nichchhi), নিচ্ছ, নিচ্ছিস, নিচ্ছে, নিচ্ছেন\nহওয়া: হচ্ছি (hochchhi), হচ্ছ, হচ্ছিস, হচ্ছে, হচ্ছেন\n\nহচ্ছে, 'is happening', is how Bengali reports weather and events: বৃষ্টি হচ্ছে 'it is raining', কী হচ্ছে? 'what is going on?'",
+      "examples": [
+        { "native": "আমি ভাত খাচ্ছি।", "roman": "aami bhaat khaachchhi.", "english": "I am having my meal." },
+        { "native": "আমি বাড়ি যাচ্ছি।", "roman": "aami baari jaachchhi.", "english": "I am going home." },
+        { "native": "বৃষ্টি হচ্ছে।", "roman": "brishti hochchhe.", "english": "It is raining." },
+        { "native": "কী হচ্ছে?", "roman": "kee hochchhe?", "english": "What is going on?" }
+      ]
+    },
+    {
+      "title": "Now, and very soon",
+      "text": "The continuous is used for what is in progress at this moment, as in English.\n\nIt is also used for the immediate future, especially with verbs of movement. আমি আসছি, 'I am coming', is what you say as you LEAVE a room or a shop for a moment: 'I'll be right back'. কাল আমি দিল্লি যাচ্ছি is 'I am going to Delhi tomorrow'.\n\nUnlike English, Bengali is happy to use the continuous with verbs of feeling and understanding: আমি বুঝতে পারছি না, 'I am not able to understand'; ভালো লাগছে, 'it is feeling good'.\n\nFor a state that began in the past and still continues, Bengali uses a present tense where English says 'have been': আমি দু বছর এখানে আছি - 'I have been here for two years'.",
+      "examples": [
+        { "native": "আমি আসছি।", "roman": "aami aashchhi.", "english": "I'm coming. / I'll be right back." },
+        { "native": "ট্রেন আসছে।", "roman": "tren aashchhe.", "english": "The train is coming." },
+        { "native": "আপনি কী করছেন?", "roman": "aapni kee korchhen?", "english": "What are you doing?" }
+      ]
+    },
+    {
+      "title": "Was doing",
+      "text": "For the past continuous, put -ছিল- (-chhil-) in place of -ছ- and use the past set of endings (-aam, -e, -i, -o, -en):\n\nআমি করছিলাম (korchhilaam) I was doing\nতুমি করছিলে (korchhile)\nতুই করছিলি (korchhili)\nসে করছিল (korchhilo)\nআপনি / তিনি করছিলেন (korchhilen)\n\nAfter a vowel: খাচ্ছিলাম (khaachchhilaam) I was eating; যাচ্ছিলাম (jaachchhilaam) I was going.",
+      "examples": [
+        { "native": "আমি তখন পড়ছিলাম।", "roman": "aami tokhon porchhilaam.", "english": "I was studying then." },
+        { "native": "সে ঘুমোচ্ছিল।", "roman": "she ghumochchhilo.", "english": "He/She was sleeping." },
+        { "native": "আপনি কী বলছিলেন?", "roman": "aapni kee bolchhilen?", "english": "What were you saying?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আপনি কী করছেন?", "roman": "aapni kee korchhen?", "english": "What are you doing?", "literal": "you what are-doing", "note": "" },
+    { "native": "আমি ভাত খাচ্ছি।", "roman": "aami bhaat khaachchhi.", "english": "I am having my meal.", "literal": "I rice am-eating", "note": "'Eating rice' is the ordinary way to say having lunch or dinner." },
+    { "native": "আমি বাড়ি যাচ্ছি।", "roman": "aami baari jaachchhi.", "english": "I am going home.", "literal": "I home am-going", "note": "" },
+    { "native": "আমি আসছি।", "roman": "aami aashchhi.", "english": "I'm coming. / I'll be right back.", "literal": "I am-coming", "note": "Said when stepping out for a moment, and also as a goodbye." },
+    { "native": "বৃষ্টি হচ্ছে।", "roman": "brishti hochchhe.", "english": "It is raining.", "literal": "rain is-happening", "note": "" },
+    { "native": "ও ঘুমোচ্ছে।", "roman": "o ghumochchhe.", "english": "He/She is sleeping.", "literal": "he/she is-sleeping", "note": "Kolkata form. In Bangladesh: ঘুমাচ্ছে (ghumaachchhe)." },
+    { "native": "তুমি কী দেখছ?", "roman": "tumi kee dekhchho?", "english": "What are you watching? (familiar)", "literal": "you what are-seeing", "note": "" },
+    { "native": "তুই কী খাচ্ছিস?", "roman": "tui kee khaachchhish?", "english": "What are you eating? (intimate)", "literal": "you what are-eating", "note": "" },
+    { "native": "বাচ্চারা খেলছে।", "roman": "baachchaaraa khelchhe.", "english": "The children are playing.", "literal": "children are-playing", "note": "" },
+    { "native": "মা রান্না করছেন।", "roman": "maa raannaa korchhen.", "english": "Mother is cooking.", "literal": "mother cooking is-doing", "note": "" },
+    { "native": "আমি আপনার কথা শুনছি।", "roman": "aami aapnaar kothaa shunchhi.", "english": "I am listening to you.", "literal": "I your words am-hearing", "note": "" },
+    { "native": "ট্রেন আসছে।", "roman": "tren aashchhe.", "english": "The train is coming.", "literal": "train is-coming", "note": "" },
+    { "native": "আমি একটা চিঠি লিখছি।", "roman": "aami ektaa chithi likhchhi.", "english": "I am writing a letter.", "literal": "I one letter am-writing", "note": "" },
+    { "native": "আমি তখন পড়ছিলাম।", "roman": "aami tokhon porchhilaam.", "english": "I was studying then.", "literal": "I then was-reading", "note": "" }
+  ]
+}

@@ -1,0 +1,29 @@
+name: Set up the Android build
+description: JDK, Android SDK packages, Gradle cache and the pinned third-party sources.
+
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-java@v4
+      with:
+        distribution: temurin
+        java-version: "17"
+
+    - name: Install Android SDK packages
+      shell: bash
+      run: |
+        yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
+        "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" \
+          "platforms;android-36" "build-tools;36.0.0" "ndk;28.2.13676358" "cmake;3.31.6" > /dev/null
+
+    - uses: gradle/actions/setup-gradle@v4
+
+    - name: Cache third-party sources
+      uses: actions/cache@v4
+      with:
+        path: engine/third_party
+        key: third-party-${{ hashFiles('tools/fetch_third_party.sh') }}
+
+    - name: Fetch third-party sources
+      shell: bash
+      run: bash tools/fetch_third_party.sh

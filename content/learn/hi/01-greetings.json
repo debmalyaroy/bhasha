@@ -1,0 +1,64 @@
+{
+  "id": "greetings",
+  "level": "1 · First words",
+  "title": "Greetings & basics",
+  "description": "Say hello and goodbye, ask how someone is, thank people and apologise.",
+  "guide": [
+    {
+      "title": "One greeting for every hour",
+      "text": "नमस्ते (namaste) works at any time of day, to anyone, for both hello and goodbye. It is usually said with the palms pressed together in front of the chest and a slight nod. नमस्कार (namaskaar) means the same and sounds a little more formal; you hear it in speeches, on the news and when greeting a group.\n\nHindi has no everyday equivalent of 'good morning' or 'good afternoon'. Phrases such as शुभ रात्रि (shubh raatri, good night) exist, but they are bookish; in ordinary life people say नमस्ते again, or use the English phrase. When you leave, नमस्ते or फिर मिलेंगे (phir milenge, 'we will meet again') is enough.\n\nYou will also hear greetings tied to a community, such as सलाम (salaam) or आदाब (aadaab) among Muslims and सत श्री अकाल (sat shree akaal) among Sikhs. नमस्ते is understood and welcome everywhere.",
+      "examples": [
+        { "native": "नमस्ते", "roman": "namaste", "english": "Hello / Goodbye" },
+        { "native": "नमस्कार", "roman": "namaskaar", "english": "Hello (more formal)" },
+        { "native": "फिर मिलेंगे", "roman": "phir milenge", "english": "See you again", "literal": "again will-meet" }
+      ]
+    },
+    {
+      "title": "Asking how someone is",
+      "text": "The question is आप कैसे हैं? (aap kaise hain?), word for word 'you how are?'. Notice two things that hold for all of Hindi: the verb comes last, and the question word sits just before it.\n\nकैसे is said to a man. To a woman the word takes the feminine ending: आप कैसी हैं? (aap kaisee hain?). It is the person you are talking to who decides the ending, not your own gender.\n\nThe usual answers are मैं ठीक हूँ (main theek hoon, 'I am fine'), बढ़िया (barhiyaa, 'great'), or सब ठीक है (sab theek hai, 'all is well'). Then return the question with और आप? (aur aap?, 'and you?').",
+      "examples": [
+        { "native": "आप कैसे हैं?", "roman": "aap kaise hain?", "english": "How are you? (to a man)" },
+        { "native": "आप कैसी हैं?", "roman": "aap kaisee hain?", "english": "How are you? (to a woman)" },
+        { "native": "मैं ठीक हूँ।", "roman": "main theek hoon.", "english": "I am fine." },
+        { "native": "बढ़िया", "roman": "barhiyaa", "english": "Great" },
+        { "native": "और आप?", "roman": "aur aap?", "english": "And you?" }
+      ]
+    },
+    {
+      "title": "Thank you and sorry",
+      "text": "धन्यवाद (dhanyavaad) is the formal, Sanskrit-derived 'thank you'; शुक्रिया (shukriyaa), from Persian, is just as common in conversation, and so is the English 'thank you'. All three are fine.\n\nA cultural point: between family members and close friends thanks are said far less often than in English, because saying them can create distance. With strangers, shopkeepers and hosts, thank freely.\n\nमाफ़ कीजिए (maaf keejiye) literally asks 'please forgive'. It covers both 'sorry' and 'excuse me'. The standard reply to either thanks or an apology is कोई बात नहीं (koee baat naheen), 'it's nothing'.",
+      "examples": [
+        { "native": "धन्यवाद", "roman": "dhanyavaad", "english": "Thank you" },
+        { "native": "शुक्रिया", "roman": "shukriyaa", "english": "Thanks" },
+        { "native": "माफ़ कीजिए", "roman": "maaf keejiye", "english": "Sorry / Excuse me" },
+        { "native": "कोई बात नहीं।", "roman": "koee baat naheen.", "english": "It's nothing. / No problem.", "literal": "any matter not" }
+      ]
+    },
+    {
+      "title": "The little word jee",
+      "text": "जी (jee) is a marker of respect with no exact English equivalent. Put before हाँ (yes) or नहीं (no) it makes the answer polite: जी हाँ, जी नहीं. Put after a name or a title it works like 'Mr', 'Mrs' or 'sir': राज जी, डॉक्टर जी, पिताजी (father).\n\nOn its own, जी can mean 'yes', or with a rising tone 'pardon?'. You cannot overuse it with people older than you or people you have just met.",
+      "examples": [
+        { "native": "जी हाँ", "roman": "jee haan", "english": "Yes (polite)" },
+        { "native": "जी नहीं", "roman": "jee naheen", "english": "No (polite)" },
+        { "native": "ठीक है", "roman": "theek hai", "english": "Okay", "literal": "fine is" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "नमस्ते", "roman": "namaste", "english": "Hello", "note": "Works at any time of day, for both hello and goodbye." },
+    { "native": "नमस्कार", "roman": "namaskaar", "english": "Hello (formal)", "note": "The same greeting in a slightly more formal style." },
+    { "native": "आप कैसे हैं?", "roman": "aap kaise hain?", "english": "How are you?", "literal": "you how are", "note": "To a woman say: आप कैसी हैं? (aap kaisee hain?)" },
+    { "native": "मैं ठीक हूँ।", "roman": "main theek hoon.", "english": "I am fine.", "literal": "I fine am" },
+    { "native": "और आप?", "roman": "aur aap?", "english": "And you?", "literal": "and you" },
+    { "native": "सब ठीक है?", "roman": "sab theek hai?", "english": "Is everything all right?", "literal": "all fine is", "note": "Without the rising tone it is the answer: 'Everything is fine.'" },
+    { "native": "धन्यवाद", "roman": "dhanyavaad", "english": "Thank you", "note": "'shukriyaa' (शुक्रिया) is just as common in everyday speech." },
+    { "native": "शुक्रिया", "roman": "shukriyaa", "english": "Thanks", "note": "Slightly less formal than धन्यवाद." },
+    { "native": "माफ़ कीजिए", "roman": "maaf keejiye", "english": "Sorry / Excuse me", "literal": "forgiven please-do" },
+    { "native": "जी हाँ", "roman": "jee haan", "english": "Yes", "literal": "(respect) yes", "note": "'jee' adds politeness; plain 'haan' is casual." },
+    { "native": "जी नहीं", "roman": "jee naheen", "english": "No", "literal": "(respect) no" },
+    { "native": "ठीक है", "roman": "theek hai", "english": "Okay", "literal": "fine is" },
+    { "native": "स्वागत है।", "roman": "svaagat hai.", "english": "Welcome.", "literal": "welcome is", "note": "Said to someone arriving. It is not used as a reply to 'thank you'." },
+    { "native": "फिर मिलेंगे", "roman": "phir milenge", "english": "See you again", "literal": "again will-meet" },
+    { "native": "शुभ रात्रि", "roman": "shubh raatri", "english": "Good night", "literal": "auspicious night", "note": "Formal and bookish; in daily life people say 'good night' in English or simply नमस्ते." }
+  ]
+}

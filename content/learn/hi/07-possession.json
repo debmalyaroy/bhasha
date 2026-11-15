@@ -1,0 +1,64 @@
+{
+  "id": "possession",
+  "level": "2 · How sentences work",
+  "title": "My, your, his",
+  "description": "Say whose something is, with my, your, his, her, our, their and the Hindi 's.",
+  "guide": [
+    {
+      "title": "My, your, our",
+      "text": "The possessive words are: मेरा (meraa, my), हमारा (hamaaraa, our), तुम्हारा (tumhaaraa, your, familiar), आपका (aapkaa, your, polite), and तेरा (teraa, your, intimate).\n\nThe key rule: these words behave like adjectives and agree with the thing owned, NOT with the owner. Before a masculine singular noun they end in -aa, before a feminine noun in -ee, and before a masculine plural noun (or a respected person) in -e.\n\nSo both a man and a woman say मेरा घर (my house, masculine), मेरी किताब (my book, feminine) and मेरे बच्चे (my children, plural). Whether the speaker is male or female makes no difference.\n\nEvery Hindi noun is either masculine or feminine, and you have to learn the gender with the noun. A rough guide: nouns ending in -aa are mostly masculine (कमरा, लड़का), nouns ending in -ee are mostly feminine (गाड़ी, लड़की), and the rest must be memorised.",
+      "examples": [
+        { "native": "मेरा घर", "roman": "meraa ghar", "english": "my house (masculine noun)" },
+        { "native": "मेरी किताब", "roman": "meree kitaab", "english": "my book (feminine noun)" },
+        { "native": "मेरे बच्चे", "roman": "mere bachche", "english": "my children (plural)" },
+        { "native": "आपकी गाड़ी", "roman": "aapkee gaaree", "english": "your car (feminine noun)" },
+        { "native": "हमारा घर", "roman": "hamaaraa ghar", "english": "our house" }
+      ]
+    },
+    {
+      "title": "His, her, its, their",
+      "text": "'His', 'her' and 'its' are one word: उसका (uskaa), or इसका (iskaa) for someone or something close by. 'Their' is उनका (unkaa) or इनका (inkaa); उनका is also the respectful way to say 'his' or 'her' about one person.\n\nAgain the ending follows the thing owned: उसका नाम is 'his name' or 'her name' (नाम is masculine); उसकी गाड़ी is 'his car' or 'her car' (गाड़ी is feminine). Hindi does not tell you whether the owner is a he or a she; English does not tell you the gender of the car. Each language marks a different thing.\n\n'Whose' is किसका (kiskaa), with the same endings.",
+      "examples": [
+        { "native": "उसका नाम क्या है?", "roman": "uskaa naam kyaa hai?", "english": "What is his name? / What is her name?" },
+        { "native": "उसकी गाड़ी", "roman": "uskee gaaree", "english": "his car / her car" },
+        { "native": "उनका बेटा डॉक्टर है।", "roman": "unkaa betaa doktar hai.", "english": "Their son is a doctor." },
+        { "native": "यह किसका बैग है?", "roman": "yah kiskaa baig hai?", "english": "Whose bag is this?" }
+      ]
+    },
+    {
+      "title": "The Hindi 's: kaa, kee, ke",
+      "text": "With a noun, possession is shown by का (kaa) placed after the owner, exactly like English 's: राज का घर, 'Raj's house'. The same word translates 'of': घर का दरवाज़ा, 'the door of the house', literally 'house's door'.\n\nका agrees with the thing owned in the usual way: राज का घर (masculine), राज की गाड़ी (feminine), राज के बच्चे (plural).\n\nका is a postposition, so the owner in front of it takes the oblique form that you will study in the next unit. For now notice one consequence: मेरा भाई ('my brother') becomes मेरे भाई का नाम ('my brother's name'), with मेरे instead of मेरा.",
+      "examples": [
+        { "native": "राज का घर", "roman": "raaj kaa ghar", "english": "Raj's house" },
+        { "native": "यह राज की गाड़ी है।", "roman": "yah raaj kee gaaree hai.", "english": "This is Raj's car." },
+        { "native": "राज के बच्चे", "roman": "raaj ke bachche", "english": "Raj's children" },
+        { "native": "मेरे भाई का नाम अमित है।", "roman": "mere bhaaee kaa naam amit hai.", "english": "My brother's name is Amit." }
+      ]
+    },
+    {
+      "title": "One's own: apnaa",
+      "text": "When the owner is the same person as the subject of the sentence, Hindi does not repeat मेरा, आपका or उसका. It uses अपना (apnaa, 'one's own') instead, with the usual endings अपना, अपनी, अपने.\n\n'I am doing my work' is मैं अपना काम कर रहा हूँ, not मैं मेरा काम .... 'Please write your name' is अपना नाम लिखिए.\n\nThis removes an ambiguity English has. वह अपनी किताब पढ़ रहा है means he is reading his own book; वह उसकी किताब पढ़ रहा है means he is reading someone else's.",
+      "examples": [
+        { "native": "मैं अपना काम कर रहा हूँ।", "roman": "main apnaa kaam kar rahaa hoon.", "english": "I am doing my work. (man speaking)" },
+        { "native": "अपना ध्यान रखिए।", "roman": "apnaa dhyaan rakhiye.", "english": "Take care of yourself." },
+        { "native": "वह अपनी किताब पढ़ रहा है।", "roman": "vah apnee kitaab parh rahaa hai.", "english": "He is reading his (own) book." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "यह मेरी किताब है।", "roman": "yah meree kitaab hai.", "english": "This is my book.", "literal": "this my book is", "note": "मेरी because किताब is feminine; it has nothing to do with the speaker's gender." },
+    { "native": "आपका घर कहाँ है?", "roman": "aapkaa ghar kahaan hai?", "english": "Where is your house?", "literal": "your house where is" },
+    { "native": "उसका नाम क्या है?", "roman": "uskaa naam kyaa hai?", "english": "What is his name?", "literal": "his name what is", "note": "The same sentence means 'What is her name?'" },
+    { "native": "यह राज की गाड़ी है।", "roman": "yah raaj kee gaaree hai.", "english": "This is Raj's car.", "literal": "this Raj 's car is" },
+    { "native": "हमारा घर पास में है।", "roman": "hamaaraa ghar paas mein hai.", "english": "Our house is nearby.", "literal": "our house near in is" },
+    { "native": "तुम्हारा फ़ोन कहाँ है?", "roman": "tumhaaraa fon kahaan hai?", "english": "Where is your phone? (to a friend)", "literal": "your phone where is" },
+    { "native": "उनका बेटा डॉक्टर है।", "roman": "unkaa betaa doktar hai.", "english": "Their son is a doctor.", "literal": "their son doctor is", "note": "उनका is also the respectful 'his' or 'her' about one person." },
+    { "native": "यह किसका बैग है?", "roman": "yah kiskaa baig hai?", "english": "Whose bag is this?", "literal": "this whose bag is" },
+    { "native": "मेरे भाई का नाम अमित है।", "roman": "mere bhaaee kaa naam amit hai.", "english": "My brother's name is Amit.", "literal": "my brother 's name Amit is", "note": "मेरा becomes मेरे because भाई is followed by the postposition का." },
+    { "native": "मेरी माँ का घर दिल्ली में है।", "roman": "meree maan kaa ghar dillee mein hai.", "english": "My mother's house is in Delhi.", "literal": "my mother 's house Delhi in is" },
+    { "native": "मैं अपना काम कर रहा हूँ।", "roman": "main apnaa kaam kar rahaa hoon.", "english": "I am doing my work.", "literal": "I own work do -ing am", "note": "A woman says: ... कर रही हूँ (kar rahee hoon). अपना, not मेरा, because the owner is the subject." },
+    { "native": "यह आपकी चाबी है?", "roman": "yah aapkee chaabee hai?", "english": "Is this your key?", "literal": "this your key is" },
+    { "native": "अपना ध्यान रखिए।", "roman": "apnaa dhyaan rakhiye.", "english": "Take care of yourself.", "literal": "own care please-keep", "note": "A warm thing to say when parting." },
+    { "native": "ये मेरे बच्चे हैं।", "roman": "ye mere bachche hain.", "english": "These are my children.", "literal": "these my children are" }
+  ]
+}

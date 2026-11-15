@@ -1,0 +1,53 @@
+{
+  "id": "weather",
+  "level": "4 · Everyday situations",
+  "title": "Weather and seasons",
+  "description": "Talk about heat, rain, cold and storms, say how the weather feels to you, and name the seasons.",
+  "guide": [
+    {
+      "title": "Weather happens",
+      "text": "There is no 'it' in Bengali weather sentences. The weather itself is the subject, and it happens, falls, rises or gives.\n\nবৃষ্টি (brishti) rain: বৃষ্টি হচ্ছে or বৃষ্টি পড়ছে, 'rain is happening / falling'.\nরোদ (rod) sunshine: রোদ উঠেছে, 'the sun has come out'.\nমেঘ (megh) cloud: মেঘ করেছে, 'it has clouded over'.\nহাওয়া (haaowaa) wind: হাওয়া দিচ্ছে, 'the wind is blowing' (in Bangladesh the usual word is বাতাস, baataash).\nঝড় (jhor) storm: ঝড় আসছে, 'a storm is coming'.\nকুয়াশা (kuyaashaa) fog: কুয়াশা পড়েছে।\n\nHeat and cold 'fall' too: গরম পড়েছে, 'the hot weather has set in'; ঠান্ডা পড়েছে, 'it has turned cold'.\n\nA plain description needs no verb: আজ খুব গরম, 'it is very hot today'; আকাশ পরিষ্কার, 'the sky is clear'.",
+      "examples": [
+        { "native": "বৃষ্টি পড়ছে।", "roman": "brishti porchhe.", "english": "It's raining." },
+        { "native": "রোদ উঠেছে।", "roman": "rod uthechhe.", "english": "The sun has come out." },
+        { "native": "আকাশে মেঘ করেছে।", "roman": "aakaashe megh korechhe.", "english": "It has clouded over." },
+        { "native": "খুব হাওয়া দিচ্ছে।", "roman": "khub haaowaa dichchhe.", "english": "It's very windy." },
+        { "native": "আজ খুব গরম।", "roman": "aaj khub gorom.", "english": "It is very hot today." }
+      ]
+    },
+    {
+      "title": "How it feels to you",
+      "text": "To say that YOU feel hot or cold, use লাগা 'to strike, to feel' with yourself in the possessive: আমার গরম লাগছে, 'I feel hot'; আমার ঠান্ডা লাগছে, 'I feel cold'.\n\nDo not say আমি গরম or আমি ঠান্ডা: that describes your temperature to the touch, or your temper.\n\nThe same verb gives liking: শীতকাল আমার ভালো লাগে, 'I like winter'.\n\nAnd with the perfect, catching a cold: আমার ঠান্ডা লেগেছে।",
+      "examples": [
+        { "native": "আমার ঠান্ডা লাগছে।", "roman": "aamaar thaandaa laagchhe.", "english": "I feel cold." },
+        { "native": "আমার গরম লাগছে।", "roman": "aamaar gorom laagchhe.", "english": "I feel hot." },
+        { "native": "শীতকাল আমার ভালো লাগে।", "roman": "sheetkaal aamaar bhaalo laage.", "english": "I like winter." }
+      ]
+    },
+    {
+      "title": "Six seasons",
+      "text": "The Bengali year traditionally has six seasons of two months each:\n\nগ্রীষ্ম (greeshsho) summer - the hot months before the rains\nবর্ষা (borshaa) the monsoon\nশরৎ (shorot) early autumn - clear skies, the season of Durga Puja\nহেমন্ত (hemonto) late autumn - harvest\nশীত (sheet) winter\nবসন্ত (boshonto) spring\n\nIn everyday talk three matter most, with কাল (kaal) 'season, time' attached: গরমকাল (goromkaal) the hot season, বর্ষাকাল (borshaakaal) the rainy season, শীতকাল (sheetkaal) the cold season.\n\nThe Bengali new year, পয়লা বৈশাখ (poylaa boishaakh), falls in mid-April at the start of summer.",
+      "examples": [
+        { "native": "বর্ষাকালে খুব বৃষ্টি হয়।", "roman": "borshaakaale khub brishti hoy.", "english": "It rains a lot in the monsoon." },
+        { "native": "শীতকালে ঠান্ডা পড়ে।", "roman": "sheetkaale thaandaa pore.", "english": "It gets cold in winter." },
+        { "native": "এখন বসন্ত।", "roman": "ekhon boshonto.", "english": "It is spring now." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আজ খুব গরম পড়েছে।", "roman": "aaj khub gorom porechhe.", "english": "It has turned very hot today.", "literal": "today very heat has-fallen", "note": "" },
+    { "native": "বৃষ্টি পড়ছে।", "roman": "brishti porchhe.", "english": "It's raining.", "literal": "rain is-falling", "note": "Equally common: বৃষ্টি হচ্ছে (brishti hochchhe)." },
+    { "native": "আমার ঠান্ডা লাগছে।", "roman": "aamaar thaandaa laagchhe.", "english": "I feel cold.", "literal": "my cold is-striking", "note": "" },
+    { "native": "আকাশে মেঘ করেছে।", "roman": "aakaashe megh korechhe.", "english": "It has clouded over.", "literal": "sky-in cloud has-done", "note": "" },
+    { "native": "রোদ উঠেছে।", "roman": "rod uthechhe.", "english": "The sun has come out.", "literal": "sunshine has-risen", "note": "" },
+    { "native": "ছাতা নিয়ে যান।", "roman": "chhaataa niye jaan.", "english": "Take an umbrella with you.", "literal": "umbrella having-taken go", "note": "" },
+    { "native": "খুব হাওয়া দিচ্ছে।", "roman": "khub haaowaa dichchhe.", "english": "It's very windy.", "literal": "much wind is-giving", "note": "In Bangladesh: বাতাস (baataash) for wind." },
+    { "native": "আজ আকাশ পরিষ্কার।", "roman": "aaj aakaash porishkaar.", "english": "The sky is clear today.", "literal": "today sky clear", "note": "" },
+    { "native": "বর্ষাকালে খুব বৃষ্টি হয়।", "roman": "borshaakaale khub brishti hoy.", "english": "It rains a lot in the monsoon.", "literal": "rainy-season-in much rain happens", "note": "" },
+    { "native": "শীতকাল আমার ভালো লাগে।", "roman": "sheetkaal aamaar bhaalo laage.", "english": "I like winter.", "literal": "winter my good feels", "note": "" },
+    { "native": "ঝড় আসছে।", "roman": "jhor aashchhe.", "english": "A storm is coming.", "literal": "storm is-coming", "note": "" },
+    { "native": "বৃষ্টি থেমে গেছে।", "roman": "brishti theme gechhe.", "english": "The rain has stopped.", "literal": "rain having-stopped has-gone", "note": "" },
+    { "native": "কাল রাতে খুব বৃষ্টি হয়েছে।", "roman": "kaal raate khub brishti hoyechhe.", "english": "It rained a lot last night.", "literal": "yesterday night-at much rain has-happened", "note": "" },
+    { "native": "রাস্তায় জল জমেছে।", "roman": "raastaay jol jomechhe.", "english": "The road is waterlogged.", "literal": "road-on water has-collected", "note": "A familiar sight in Kolkata and Dhaka after heavy rain." }
+  ]
+}

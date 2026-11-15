@@ -1,0 +1,66 @@
+{
+  "id": "pronouns",
+  "level": "2 · How sentences work",
+  "title": "Pronouns and respect",
+  "description": "Choose the right word for 'you' and 'he/she' - polite, familiar or intimate - and match the verb ending to it.",
+  "guide": [
+    {
+      "title": "Three words for 'you'",
+      "text": "Bengali makes you choose a level of respect every time you say 'you'.\n\nআপনি (aapni) - polite. For strangers, older people, teachers, officials, your friends' parents, anyone you would call Mr or Ms. When in doubt, use this.\n\nতুমি (tumi) - familiar. For friends, colleagues of your own age, your spouse, children, and usually your own parents and relatives. Moving from আপনি to তুমি is a step of friendship, and the older or senior person normally suggests it.\n\nতুই (tui) - intimate. For close childhood friends, younger brothers and sisters, small children, and by some people to servants or in anger. Used to the wrong person it is insulting. Learn to recognise it; do not use it until a Bengali friend uses it with you.\n\nThe plurals are আপনারা (aapnaaraa), তোমরা (tomraa) and তোরা (toraa).",
+      "examples": [
+        { "native": "আপনি কেমন আছেন?", "roman": "aapni kemon aachhen?", "english": "How are you? (polite)" },
+        { "native": "তুমি কেমন আছ?", "roman": "tumi kemon aachho?", "english": "How are you? (familiar)" },
+        { "native": "তুই কেমন আছিস?", "roman": "tui kemon aachhish?", "english": "How are you? (intimate)" }
+      ]
+    },
+    {
+      "title": "The verb ending follows the pronoun",
+      "text": "Each level has its own verb ending, and the same five endings run through every tense. In the simple present of করা (to do) they are:\n\nআমি করি - I do (-i)\nতুমি করো - you do, familiar (-o)\nতুই করিস - you do, intimate (-ish)\nসে করে - he/she does, ordinary (-e)\nআপনি করেন, তিনি করেন - you do (polite), he/she does (respected) (-en)\n\nNotice that polite 'you' and respected 'he/she' share one ending. The verb is the same for singular and plural: আমরা করি 'we do', তারা করে 'they do'.\n\nBecause the ending tells you the level, mixing them - আপনি with a তুমি ending - is a real mistake, like saying 'you is' in English, and it can sound rude.",
+      "examples": [
+        { "native": "আমি করি", "roman": "aami kori", "english": "I do" },
+        { "native": "তুমি করো", "roman": "tumi koro", "english": "you do (familiar)" },
+        { "native": "তুই করিস", "roman": "tui korish", "english": "you do (intimate)" },
+        { "native": "সে করে", "roman": "she kore", "english": "he/she does (ordinary)" },
+        { "native": "আপনি করেন", "roman": "aapni koren", "english": "you do (polite)" },
+        { "native": "তিনি করেন", "roman": "tini koren", "english": "he/she does (respected)" }
+      ]
+    },
+    {
+      "title": "He and she: one word, two levels, three distances",
+      "text": "There is no difference between 'he' and 'she'. Instead Bengali marks respect and distance.\n\nOrdinary (for friends, children, people you would call তুমি or তুই, and in neutral narration): সে (she) 'he/she' in general; ও (o) 'he/she over there'; এ (e) 'he/she right here'.\n\nRespected (for anyone you would call আপনি, and for elders): তিনি (tini); উনি (uni) 'that person there'; ইনি (ini) 'this person here'. These take the -en ending.\n\nIn everyday speech ও and উনি are the commonest; সে and তিনি are used for someone not present and in writing.\n\nPlurals: তারা (taaraa), ওরা (oraa), এরা (eraa) 'they'; respected তাঁরা (taanraa), ওঁরা (onraa), এঁরা (enraa) - spelt with the nasal sign. 'It' for a thing is সেটা, ওটা or এটা.",
+      "examples": [
+        { "native": "ও বাংলা বলে।", "roman": "o baanglaa bole.", "english": "He/She speaks Bengali (ordinary)." },
+        { "native": "উনি বাংলা বলেন।", "roman": "uni baanglaa bolen.", "english": "He/She speaks Bengali (respected)." },
+        { "native": "সে আমার বন্ধু।", "roman": "she aamaar bondhu.", "english": "He/She is my friend." },
+        { "native": "তিনি আমার শিক্ষক।", "roman": "tini aamaar shikkhok.", "english": "He/She is my teacher." },
+        { "native": "ওরা এখানে থাকে।", "roman": "oraa ekhaane thaake.", "english": "They live here." }
+      ]
+    },
+    {
+      "title": "The full set",
+      "text": "I: আমি (aami) - we: আমরা (aamraa)\nyou, polite: আপনি - আপনারা\nyou, familiar: তুমি - তোমরা\nyou, intimate: তুই - তোরা\nhe/she, ordinary: সে, ও, এ - তারা, ওরা, এরা\nhe/she, respected: তিনি, উনি, ইনি - তাঁরা, ওঁরা, এঁরা\n\nAs the object of a verb ('me', 'you', 'him/her') the pronouns take the ending -কে: আমাকে (aamaake), আপনাকে (aapnaake), তোমাকে (tomaake), তোকে (toke), তাকে (taake), ওকে (oke), তাঁকে (taanke), ওঁকে (onke). The possessive forms ('my', 'your') are in the next unit.",
+      "examples": [
+        { "native": "আমরা বন্ধু।", "roman": "aamraa bondhu.", "english": "We are friends." },
+        { "native": "আপনারা বসুন।", "roman": "aapnaaraa boshun.", "english": "Please sit down, all of you." },
+        { "native": "তোমরা কী করছ?", "roman": "tomraa kee korchho?", "english": "What are you all doing? (familiar)" },
+        { "native": "আমি ওকে চিনি।", "roman": "aami oke chini.", "english": "I know him/her." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "তুমি কেমন আছ?", "roman": "tumi kemon aachho?", "english": "How are you? (familiar)", "literal": "you how are", "note": "The ending -o is written without a vowel sign in আছ, but it is said." },
+    { "native": "তুই কেমন আছিস?", "roman": "tui kemon aachhish?", "english": "How are you? (intimate)", "literal": "you how are", "note": "Only between very close friends or to a child." },
+    { "native": "আপনি কোথায় যাচ্ছেন?", "roman": "aapni kothaay jaachchhen?", "english": "Where are you going? (polite)", "literal": "you where are-going", "note": "" },
+    { "native": "তুমি কোথায় যাচ্ছ?", "roman": "tumi kothaay jaachchho?", "english": "Where are you going? (familiar)", "literal": "you where are-going", "note": "" },
+    { "native": "তুই কোথায় যাচ্ছিস?", "roman": "tui kothaay jaachchhish?", "english": "Where are you going? (intimate)", "literal": "you where are-going", "note": "" },
+    { "native": "সে আমার বন্ধু।", "roman": "she aamaar bondhu.", "english": "He/She is my friend.", "literal": "he/she my friend", "note": "" },
+    { "native": "তিনি আমার শিক্ষক।", "roman": "tini aamaar shikkhok.", "english": "He/She is my teacher.", "literal": "he/she my teacher", "note": "The respectful pronoun, as a teacher deserves." },
+    { "native": "উনি বাংলা বলেন।", "roman": "uni baanglaa bolen.", "english": "He/She speaks Bengali (respected).", "literal": "that-person Bengali speaks", "note": "The ending -en matches উনি." },
+    { "native": "ও বাংলা বলে।", "roman": "o baanglaa bole.", "english": "He/She speaks Bengali (ordinary).", "literal": "he/she Bengali speaks", "note": "The ending -e matches ও." },
+    { "native": "আমরা বন্ধু।", "roman": "aamraa bondhu.", "english": "We are friends.", "literal": "we friend", "note": "" },
+    { "native": "তোমরা কী করছ?", "roman": "tomraa kee korchho?", "english": "What are you all doing? (familiar)", "literal": "you-all what are-doing", "note": "" },
+    { "native": "ওরা এখানে থাকে।", "roman": "oraa ekhaane thaake.", "english": "They live here.", "literal": "they here stay", "note": "" },
+    { "native": "আপনারা বসুন।", "roman": "aapnaaraa boshun.", "english": "Please sit down, all of you.", "literal": "you-all sit", "note": "" },
+    { "native": "আমাকে তুমি বলুন।", "roman": "aamaake tumi bolun.", "english": "Please call me 'tumi'.", "literal": "me-to tumi say", "note": "How someone invites you to drop the formal আপনি." }
+  ]
+}

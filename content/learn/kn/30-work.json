@@ -1,0 +1,53 @@
+{
+  "id": "work",
+  "level": "4 · Everyday situations",
+  "title": "At work or study",
+  "description": "Talk about your job, your studies and the day's work with colleagues and classmates.",
+  "guide": [
+    {
+      "title": "Work words",
+      "text": "ಕೆಲಸ (kelasa) is 'work' and also 'job': kelasa maadu, 'to work'; kelasa ide, 'there is work (to do)'; kelasa sikkitu, '(I) got a job'.\n\nWhere you work takes the locative: kampaniyalli (in a company), byaankinalli (in a bank), shaaleyalli (in a school), aaspatreyalli (in a hospital).\n\nOffice life borrows heavily from English, with Kannada verbs and endings: meeting ide (there is a meeting), meel kalisi (send a mail), raje haaku (to put in for leave), let aaytu (it got late). ಸಂಬಳ (sambala) is 'salary'; ರಜೆ (raje) is 'leave, holiday'.\n\nಮುಗಿ (mugi) is 'to come to an end' and ಮುಗಿಸು (mugisu) 'to finish something': kelasa mugiyitu, 'the work ended'; kelasa mugiside, 'I finished the work'. Many Kannada verbs come in such pairs, the second with -isu meaning 'cause it to happen': nillu / nillisu (stop), kali / kalisu (learn / teach).",
+      "examples": [
+        { "native": "ಇವತ್ತು ತುಂಬಾ ಕೆಲಸ ಇದೆ.", "roman": "ivattu tumbaa kelasa ide.", "english": "There is a lot of work today." },
+        { "native": "ಮೀಟಿಂಗ್ ಎಷ್ಟು ಗಂಟೆಗೆ?", "roman": "meeting eshtu gantege?", "english": "What time is the meeting?" },
+        { "native": "ನಾನು ನಾಳೆ ರಜೆ ಹಾಕ್ತೀನಿ.", "roman": "naanu naale raje haakteeni.", "english": "I'll take leave tomorrow." },
+        { "native": "ಈ ಕೆಲಸ ಇವತ್ತೇ ಮುಗಿಸಬೇಕು.", "roman": "ee kelasa ivatte mugisabeku.", "english": "This work must be finished today itself." }
+      ]
+    },
+    {
+      "title": "Studying",
+      "text": "ಓದು (odu, long o) means both 'read' and 'study': enu odtiddeera? 'what are you studying?'; naanu injiniyaring odtiddeeni.\n\nಕಲಿ (kali) is 'learn': kannada kaleetiddeeni, 'I am learning Kannada'. ಬರೆ (bare) is 'write': bareeteeni, 'I write'; bareyiri, 'please write'.\n\nಶಾಲೆ (shaale) school; ಕಾಲೇಜು (kaaleju) college; ಪರೀಕ್ಷೆ (pareekshe) exam; ಪಾಠ (paatha) lesson; ವಿದ್ಯಾರ್ಥಿ (vidyaarthi) student; ಶಿಕ್ಷಕ (shikshaka) teacher - though 'teechar' and 'saar / medam' are what students actually say.\n\nUnderstanding 'happens to you': nanage artha aagutte, 'I understand'; artha aagalilla, 'I didn't understand'; artha aaytaa? 'did you understand?'. artha means 'meaning'.",
+      "examples": [
+        { "native": "ನೀವು ಏನು ಓದ್ತಿದ್ದೀರ?", "roman": "neevu enu odtiddeera?", "english": "What are you studying?" },
+        { "native": "ನಾಳೆ ಪರೀಕ್ಷೆ ಇದೆ.", "roman": "naale pareekshe ide.", "english": "There is an exam tomorrow." },
+        { "native": "ಅರ್ಥ ಆಯ್ತಾ?", "roman": "artha aaytaa?", "english": "Did you understand?" },
+        { "native": "ನನಗೆ ಇದು ಅರ್ಥ ಆಗಲಿಲ್ಲ.", "roman": "nanage idu artha aagalilla.", "english": "I didn't understand this." }
+      ]
+    },
+    {
+      "title": "'Not yet' and 'still going on'",
+      "text": "ಇನ್ನೂ (innoo) means 'still' with a positive verb and 'yet' with a negative one.\n\nWith the negative perfect (participle + illa) it gives 'has not ... yet': sambala innoo bandilla, 'the salary hasn't come yet'; kelasa innoo mugidilla, 'the work isn't finished yet'; avaru innoo bandilla, 'they haven't come yet'.\n\nWith the continuous it gives 'still ...ing': innoo kelasa maadtiddeeni, 'I am still working'.\n\nಆಗಲೇ (aagale) is 'already': aagale mugiside, 'I have already finished'.\n\nTo ask how something is going, use nade, 'walk, go on': kelasa hege nadeetide? 'how is the work going?'. The stock answer is chennaagi nadeetide, 'it is going well'.",
+      "examples": [
+        { "native": "ಸಂಬಳ ಇನ್ನೂ ಬಂದಿಲ್ಲ.", "roman": "sambala innoo bandilla.", "english": "The salary hasn't come yet." },
+        { "native": "ಕೆಲಸ ಹೇಗೆ ನಡೀತಿದೆ?", "roman": "kelasa hege nadeetide?", "english": "How is work going?" },
+        { "native": "ಚೆನ್ನಾಗಿ ನಡೀತಿದೆ.", "roman": "chennaagi nadeetide.", "english": "It is going well." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಾನು ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡ್ತೀನಿ.", "roman": "naanu saaftver kampaniyalli kelasa maadteeni.", "english": "I work at a software company.", "literal": "I software company-in work do", "note": "" },
+    { "native": "ನನ್ನ ಆಫೀಸ್ ಇಲ್ಲೇ ಹತ್ತಿರ ಇದೆ.", "roman": "nanna aafees ille hattira ide.", "english": "My office is right near here.", "literal": "my office right-here near is", "note": "" },
+    { "native": "ಇವತ್ತು ತುಂಬಾ ಕೆಲಸ ಇದೆ.", "roman": "ivattu tumbaa kelasa ide.", "english": "There is a lot of work today.", "literal": "today much work is", "note": "" },
+    { "native": "ಮೀಟಿಂಗ್ ಎಷ್ಟು ಗಂಟೆಗೆ?", "roman": "meeting eshtu gantege?", "english": "What time is the meeting?", "literal": "meeting how-many o'clock-at", "note": "" },
+    { "native": "ನಾನು ನಾಳೆ ರಜೆ ಹಾಕ್ತೀನಿ.", "roman": "naanu naale raje haakteeni.", "english": "I'll take leave tomorrow.", "literal": "I tomorrow leave put", "note": "raje haaku = to apply for leave." },
+    { "native": "ಈ ಕೆಲಸ ಇವತ್ತೇ ಮುಗಿಸಬೇಕು.", "roman": "ee kelasa ivatte mugisabeku.", "english": "This work must be finished today itself.", "literal": "this work today-itself finish-must", "note": "ivattu + emphatic -e; the final e is long." },
+    { "native": "ನೀವು ಏನು ಓದ್ತಿದ್ದೀರ?", "roman": "neevu enu odtiddeera?", "english": "What are you studying?", "literal": "you what are-studying", "note": "Could also mean 'What are you reading?'" },
+    { "native": "ನಾನು ಇಂಜಿನಿಯರಿಂಗ್ ಓದ್ತಿದ್ದೀನಿ.", "roman": "naanu injiniyaring odtiddeeni.", "english": "I am studying engineering.", "literal": "I engineering am-studying", "note": "" },
+    { "native": "ನಾಳೆ ಪರೀಕ್ಷೆ ಇದೆ.", "roman": "naale pareekshe ide.", "english": "There is an exam tomorrow.", "literal": "tomorrow exam is", "note": "" },
+    { "native": "ನನಗೆ ಇದು ಅರ್ಥ ಆಗಲಿಲ್ಲ.", "roman": "nanage idu artha aagalilla.", "english": "I didn't understand this.", "literal": "me-to this meaning did-not-happen", "note": "" },
+    { "native": "ಇನ್ನೊಂದು ಸಲ ವಿವರಿಸಿ.", "roman": "innondu sala vivarisi.", "english": "Please explain once more.", "literal": "one-more time explain", "note": "vivarisu = to explain." },
+    { "native": "ನಿಮ್ಮ ಸಹಾಯ ಬೇಕು.", "roman": "nimma sahaaya beku.", "english": "I need your help.", "literal": "your help wanted", "note": "" },
+    { "native": "ಕೆಲಸ ಹೇಗೆ ನಡೀತಿದೆ?", "roman": "kelasa hege nadeetide?", "english": "How is work going?", "literal": "work how is-going", "note": "Written: nadeyuttide (ನಡೆಯುತ್ತಿದೆ)." },
+    { "native": "ಸಂಬಳ ಇನ್ನೂ ಬಂದಿಲ್ಲ.", "roman": "sambala innoo bandilla.", "english": "The salary hasn't come yet.", "literal": "salary yet has-not-come", "note": "bandu + illa." }
+  ]
+}

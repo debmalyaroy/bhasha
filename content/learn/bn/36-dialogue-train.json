@@ -1,0 +1,42 @@
+{
+  "id": "dialogue-train",
+  "level": "5 · Conversation",
+  "title": "Dialogue: meeting someone on a train",
+  "description": "Follow and take part in a complete polite conversation with a stranger, from the first question to the goodbye.",
+  "guide": [
+    {
+      "title": "The situation",
+      "text": "You get into a train at Howrah and start talking to the passenger beside you. The phrases of this unit are the lines of the conversation in order; read them from top to bottom as a script. The two speakers do not strictly alternate (the other passenger sometimes says two lines in a row) - the notes say who is speaking.\n\nBoth speakers are adults who have never met, so everything is in the polite আপনি form: যাচ্ছেন, বলেন, শিখলেন, খাবেন. Listen for the -en ending throughout.\n\nThe conversation follows the usual course of Bengali small talk: where are you going, how do you know Bengali, how do you like it here - and then tea.",
+      "examples": [
+        { "native": "আপনি কোথায় যাচ্ছেন?", "roman": "aapni kothaay jaachchhen?", "english": "Where are you going?" },
+        { "native": "চা খাবেন?", "roman": "chaa khaaben?", "english": "Will you have some tea?" }
+      ]
+    },
+    {
+      "title": "Things to notice",
+      "text": "তো (to) appears twice. In আপনি তো বেশ ভালো বাংলা বলেন it expresses pleasant surprise: 'why, you speak Bengali quite well!' In দুটো চা দিন তো it makes a request casual and friendly: 'two teas here, will you'.\n\nনা না - the modest double 'no' with which a compliment is turned aside.\n\nএকটু একটু পারি - 'I can (manage) a little'. পারা used alone means 'to be able to cope with, to know how'.\n\nকেমন লাগছে? - 'how is it feeling?' - asks for your impression so far, so it is continuous. The answer keeps the same verb: খুব ভালো লাগছে।\n\nগরমটা একটু বেশি - 'the heat is a bit much'. -টা on গরম makes it 'the heat (here)'.\n\nখেতে পারি - 'I could have some': a polite, unhurried yes.\n\nআমারও - 'mine too': the reply to ভালো লাগল, because the full sentence would be আমারও ভালো লাগল।",
+      "examples": [
+        { "native": "না না, একটু একটু পারি।", "roman": "naa naa, ektu ektu paari.", "english": "No, no, I can manage only a little." },
+        { "native": "এ দেশ কেমন লাগছে?", "roman": "e desh kemon laagchhe?", "english": "How do you like this country?" },
+        { "native": "হ্যাঁ, খেতে পারি।", "roman": "hyaan, khete paari.", "english": "Yes, I could have some." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "নমস্কার, এই সিটটা কি খালি?", "roman": "nomoshkaar, ei sittaa ki khaali?", "english": "Hello, is this seat free?", "literal": "hello, this seat-the (question) empty", "note": "You, getting in." },
+    { "native": "হ্যাঁ, বসুন।", "roman": "hyaan, boshun.", "english": "Yes, have a seat.", "literal": "yes, sit", "note": "The other passenger." },
+    { "native": "আপনি কোথায় যাচ্ছেন?", "roman": "aapni kothaay jaachchhen?", "english": "Where are you going?", "literal": "you where are-going", "note": "The other passenger." },
+    { "native": "আমি শান্তিনিকেতন যাচ্ছি।", "roman": "aami shaantiniketon jaachchhi.", "english": "I am going to Santiniketan.", "literal": "I Santiniketan am-going", "note": "You. A destination needs no ending with যাওয়া." },
+    { "native": "আপনি তো বেশ ভালো বাংলা বলেন!", "roman": "aapni to besh bhaalo baanglaa bolen!", "english": "You speak Bengali quite well!", "literal": "you (surprise) quite good Bengali speak", "note": "The other passenger." },
+    { "native": "না না, একটু একটু পারি।", "roman": "naa naa, ektu ektu paari.", "english": "No, no, I can manage only a little.", "literal": "no no, a-little a-little I-can", "note": "You." },
+    { "native": "কোথায় শিখলেন?", "roman": "kothaay shikhlen?", "english": "Where did you learn it?", "literal": "where you-learnt", "note": "The other passenger." },
+    { "native": "কলকাতায়, এক বন্ধুর কাছে।", "roman": "kolkaataay, ek bondhur kaachhe.", "english": "In Kolkata, from a friend.", "literal": "Kolkata-in, one friend's near", "note": "You. To learn 'from' a person is কাছে." },
+    { "native": "এ দেশ কেমন লাগছে?", "roman": "e desh kemon laagchhe?", "english": "How do you like this country?", "literal": "this country how is-feeling", "note": "The other passenger." },
+    { "native": "খুব ভালো লাগছে, তবে গরমটা একটু বেশি।", "roman": "khub bhaalo laagchhe, tobe goromtaa ektu beshi.", "english": "I like it a lot, though it's a bit too hot.", "literal": "very good is-feeling, though heat-the a-little much", "note": "You." },
+    { "native": "চা খাবেন?", "roman": "chaa khaaben?", "english": "Will you have some tea?", "literal": "tea you-will-eat", "note": "The other passenger." },
+    { "native": "হ্যাঁ, খেতে পারি।", "roman": "hyaan, khete paari.", "english": "Yes, I could have some.", "literal": "yes, to-eat I-can", "note": "You." },
+    { "native": "দাদা, দুটো চা দিন তো।", "roman": "daadaa, duto chaa din to.", "english": "Two teas here, please.", "literal": "elder-brother, two tea give (will-you)", "note": "The other passenger, to the tea seller." },
+    { "native": "আপনার সঙ্গে কথা বলে ভালো লাগল।", "roman": "aapnaar shonge kothaa bole bhaalo laaglo.", "english": "It was nice talking to you.", "literal": "your with words having-spoken good felt", "note": "You, at the end of the journey." },
+    { "native": "আমারও। আবার দেখা হবে।", "roman": "aamaaro. aabaar dekhaa hobe.", "english": "Likewise. See you again.", "literal": "mine-too. again meeting will-be", "note": "The other passenger." }
+  ]
+}

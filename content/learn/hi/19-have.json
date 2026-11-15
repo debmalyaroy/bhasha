@@ -1,0 +1,62 @@
+{
+  "id": "have",
+  "level": "3 · Verbs",
+  "title": "Have and have not",
+  "description": "Say what you have, in the three different ways Hindi uses for things, relatives and feelings.",
+  "guide": [
+    {
+      "title": "Things you own or carry: ke paas",
+      "text": "Hindi has no verb 'to have'. Instead it says that something 'is' in some relation to you, and the relation depends on what kind of thing it is.\n\nFor objects you own or have with you (a car, money, a pen, a ticket, a phone) and also for time, use के पास (ke paas, 'near'): मेरे पास गाड़ी है, word for word 'near me a car is', means 'I have a car'.\n\nThe owner takes the possessive form before पास: मेरे पास (I have), हमारे पास (we have), तुम्हारे पास (you have, familiar), आपके पास (you have, polite), उसके पास (he or she has), उनके पास (they have), राज के पास (Raj has).\n\nThe verb agrees with the thing possessed: है for one thing, हैं for several. पैसे (money) is plural in Hindi, so मेरे पास पैसे नहीं हैं.",
+      "examples": [
+        { "native": "मेरे पास गाड़ी है।", "roman": "mere paas gaaree hai.", "english": "I have a car." },
+        { "native": "क्या आपके पास पेन है?", "roman": "kyaa aapke paas pen hai?", "english": "Do you have a pen?" },
+        { "native": "उसके पास पैसे नहीं हैं।", "roman": "uske paas paise naheen hain.", "english": "He has no money. / She has no money." },
+        { "native": "मेरे पास समय नहीं है।", "roman": "mere paas samay naheen hai.", "english": "I don't have time." }
+      ]
+    },
+    {
+      "title": "Relatives and parts of the body: the possessive",
+      "text": "You do not 'have' your brother near you like a pen. For family members, friends and parts of your own body, Hindi uses the plain possessive with 'to be': मेरा एक भाई है, 'my one brother is', means 'I have a brother'.\n\nThe possessive agrees with the relative in the usual way: मेरा एक बेटा है (I have a son), मेरी दो बहनें हैं (I have two sisters), मेरे दो भाई हैं (I have two brothers), उनके तीन बच्चे हैं (they have three children).\n\nMany speakers use the unchanging form मेरे for all relatives (मेरे एक भाई है); you will hear both.",
+      "examples": [
+        { "native": "मेरा एक बेटा है।", "roman": "meraa ek betaa hai.", "english": "I have one son." },
+        { "native": "मेरी दो बहनें हैं।", "roman": "meree do bahnen hain.", "english": "I have two sisters." },
+        { "native": "उनके तीन बच्चे हैं।", "roman": "unke teen bachche hain.", "english": "They have three children." }
+      ]
+    },
+    {
+      "title": "Illnesses, feelings and things to do: ko",
+      "text": "What happens to you or is felt by you (a fever, a headache, a cold, hurry, hope, worry, work to be done) is 'to' you, with the same forms as with चाहिए: मुझे, हमें, आपको, उसे, उन्हें.\n\nमुझे बुखार है, 'to me fever is', means 'I have a fever'. मुझे जल्दी है, 'to me hurry is', means 'I am in a hurry'. मुझे एक काम है, 'I have something to do'.",
+      "examples": [
+        { "native": "मुझे सिरदर्द है।", "roman": "mujhe sirdard hai.", "english": "I have a headache." },
+        { "native": "मुझे जल्दी है।", "roman": "mujhe jaldee hai.", "english": "I am in a hurry." },
+        { "native": "मुझे एक काम है।", "roman": "mujhe ek kaam hai.", "english": "I have something to do." }
+      ]
+    },
+    {
+      "title": "There is, there are",
+      "text": "'There is' needs no special word. Say where, then what, then है or हैं: यहाँ एक अच्छा होटल है, 'here a good hotel is', means 'there is a good hotel here'. कमरे में पंखा नहीं है, 'there is no fan in the room'.\n\nThe difference from 'the hotel is here' lies only in the order: होटल यहाँ है. What is already known comes first; the new information comes just before the verb.",
+      "examples": [
+        { "native": "यहाँ एक अच्छा होटल है।", "roman": "yahaan ek achchhaa hotal hai.", "english": "There is a good hotel here." },
+        { "native": "कमरे में पंखा नहीं है।", "roman": "kamre mein pankhaa naheen hai.", "english": "There is no fan in the room." },
+        { "native": "होटल यहाँ है।", "roman": "hotal yahaan hai.", "english": "The hotel is here." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मेरे पास गाड़ी है।", "roman": "mere paas gaaree hai.", "english": "I have a car.", "literal": "my near car is" },
+    { "native": "मेरे पास समय नहीं है।", "roman": "mere paas samay naheen hai.", "english": "I don't have time.", "literal": "my near time not is" },
+    { "native": "क्या आपके पास पेन है?", "roman": "kyaa aapke paas pen hai?", "english": "Do you have a pen?", "literal": "(question) your near pen is" },
+    { "native": "उसके पास पैसे नहीं हैं।", "roman": "uske paas paise naheen hain.", "english": "He has no money.", "literal": "his near money not are", "note": "The same sentence means 'She has no money'. पैसे is plural, so हैं." },
+    { "native": "आपके पास कितने पैसे हैं?", "roman": "aapke paas kitne paise hain?", "english": "How much money do you have?", "literal": "your near how-many money are" },
+    { "native": "क्या आपके पास खुले पैसे हैं?", "roman": "kyaa aapke paas khule paise hain?", "english": "Do you have change?", "literal": "(question) your near loose money are", "note": "Small change is खुले पैसे (khule paise) or छुट्टे (chhutte)." },
+    { "native": "मेरे पास एक सवाल है।", "roman": "mere paas ek savaal hai.", "english": "I have a question.", "literal": "my near one question is" },
+    { "native": "मेरी दो बहनें हैं।", "roman": "meree do bahnen hain.", "english": "I have two sisters.", "literal": "my two sisters are" },
+    { "native": "मेरा एक बेटा है।", "roman": "meraa ek betaa hai.", "english": "I have one son.", "literal": "my one son is" },
+    { "native": "उनके तीन बच्चे हैं।", "roman": "unke teen bachche hain.", "english": "They have three children.", "literal": "their three children are" },
+    { "native": "मुझे सिरदर्द है।", "roman": "mujhe sirdard hai.", "english": "I have a headache.", "literal": "to-me headache is" },
+    { "native": "मुझे जल्दी है।", "roman": "mujhe jaldee hai.", "english": "I am in a hurry.", "literal": "to-me hurry is" },
+    { "native": "मुझे एक काम है।", "roman": "mujhe ek kaam hai.", "english": "I have something to do.", "literal": "to-me one work is" },
+    { "native": "यहाँ एक अच्छा होटल है।", "roman": "yahaan ek achchhaa hotal hai.", "english": "There is a good hotel here.", "literal": "here one good hotel is" },
+    { "native": "कमरे में पंखा नहीं है।", "roman": "kamre mein pankhaa naheen hai.", "english": "There is no fan in the room.", "literal": "room in fan not is" }
+  ]
+}

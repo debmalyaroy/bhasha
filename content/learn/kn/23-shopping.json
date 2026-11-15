@@ -1,0 +1,82 @@
+{
+  "id": "shopping",
+  "level": "4 · Everyday situations",
+  "title": "Shopping, numbers 11-100 and money",
+  "description": "Count to a hundred and beyond, ask prices, bargain and pay.",
+  "guide": [
+    {
+      "title": "Eleven to nineteen",
+      "text": "The teens are built on hattu (ten), which shrinks to han- or hadi- in front of the unit:\n\n11 hannondu, 12 hanneradu, 13 hadimooru, 14 hadinaalku, 15 hadinaidu, 16 hadinaaru, 17 ಹದಿನೇಳು (hadinelu, long e), 18 ಹದಿನೆಂಟು (hadinentu), 19 ಹತ್ತೊಂಬತ್ತು (hattombattu).\n\nNotice that 19 keeps the full hattu: hattu + ombattu.",
+      "examples": [
+        { "native": "ಹನ್ನೊಂದು", "roman": "hannondu", "english": "eleven (11)" },
+        { "native": "ಹನ್ನೆರಡು", "roman": "hanneradu", "english": "twelve (12)" },
+        { "native": "ಹದಿಮೂರು", "roman": "hadimooru", "english": "thirteen (13)" },
+        { "native": "ಹದಿನಾಲ್ಕು", "roman": "hadinaalku", "english": "fourteen (14)" },
+        { "native": "ಹದಿನೈದು", "roman": "hadinaidu", "english": "fifteen (15)" },
+        { "native": "ಹದಿನಾರು", "roman": "hadinaaru", "english": "sixteen (16)" }
+      ]
+    },
+    {
+      "title": "The tens",
+      "text": "The tens end in -vattu or -pattu (a worn-down hattu):\n\n20 ippattu, 30 moovattu, 40 nalavattu, 50 aivattu, 60 aravattu, 70 eppattu, 80 ಎಂಬತ್ತು (embattu), 90 ತೊಂಬತ್ತು (tombattu), 100 ನೂರು (nooru).\n\nTake care with the similar-sounding pairs: eppattu (70) and embattu (80); ombattu (9) and tombattu (90).\n\n1,000 is ಸಾವಿರ (saavira); 100,000 is ಲಕ್ಷ (laksha), the 'lakh' used all over India; ten million is ಕೋಟಿ (koti), a 'crore'.",
+      "examples": [
+        { "native": "ಇಪ್ಪತ್ತು", "roman": "ippattu", "english": "twenty (20)" },
+        { "native": "ಮೂವತ್ತು", "roman": "moovattu", "english": "thirty (30)" },
+        { "native": "ನಲವತ್ತು", "roman": "nalavattu", "english": "forty (40)" },
+        { "native": "ಐವತ್ತು", "roman": "aivattu", "english": "fifty (50)" },
+        { "native": "ಅರವತ್ತು", "roman": "aravattu", "english": "sixty (60)" },
+        { "native": "ಎಪ್ಪತ್ತು", "roman": "eppattu", "english": "seventy (70)" }
+      ]
+    },
+    {
+      "title": "Putting numbers together",
+      "text": "Tens and units join into one word, ten first, and the final u of the ten drops before a vowel (sandhi again): ippattu + ondu = ippattondu (21); ippattu + aidu = ippattaidu (25); moovattu + aaru = moovattaaru (36); nalavattu + eradu = nalavatteradu (42). Before a consonant the u becomes a: ಇಪ್ಪತ್ತಮೂರು (ippattamooru) 23, ಇಪ್ಪತ್ತನಾಲ್ಕು (ippattanaalku) 24; in fast speech that a is swallowed: ippatmooru, ippatnaalku.\n\nHundreds: 100 nooru, 200 ಇನ್ನೂರು (innooru), 300 ಮುನ್ನೂರು (munnooru), 400 ನಾನೂರು (naanooru), 500 ಐನೂರು (ainooru), then aarunooru, elunooru, entunooru, ombainooru. A hundred plus something is noora ...: ನೂರ ಐವತ್ತು (noora aivattu) 150, usually run together as nooraivattu.\n\nThousands: eradu saavira (2,000), hattu saavira (10,000).",
+      "examples": [
+        { "native": "ಇಪ್ಪತ್ತೊಂದು", "roman": "ippattondu", "english": "twenty-one (21)" },
+        { "native": "ಇಪ್ಪತ್ತೈದು", "roman": "ippattaidu", "english": "twenty-five (25)" },
+        { "native": "ಮೂವತ್ತಾರು", "roman": "moovattaaru", "english": "thirty-six (36)" },
+        { "native": "ನೂರ ಐವತ್ತು", "roman": "noora aivattu", "english": "one hundred and fifty (150)" },
+        { "native": "ಐನೂರು", "roman": "ainooru", "english": "five hundred (500)" },
+        { "native": "ಎರಡು ಸಾವಿರ", "roman": "eradu saavira", "english": "two thousand (2,000)" }
+      ]
+    },
+    {
+      "title": "Prices and bargaining",
+      "text": "The rupee is ರೂಪಾಯಿ (roopaayi). The noun stays singular after a number: nooru roopaayi, 'a hundred rupees'.\n\nTo ask a price: idara bele eshtu? ('what is the price of this?') or simply ಇದು ಎಷ್ಟು? (idu eshtu?), 'how much is this?'. For produce sold by weight: keji eshtu? 'how much a kilo?'.\n\n'For a hundred rupees' uses the dative: nooru roopaayige kodi, 'give it for a hundred'.\n\nBargaining words: ದುಬಾರಿ (dubaari) expensive; ಜಾಸ್ತಿ (jaasti) too much; ಕಡಿಮೆ ಮಾಡಿ (kadime maadi) reduce it; ಕೊನೆ ಬೆಲೆ (kone bele) last price. In markets and with street vendors bargaining is expected; in shops with fixed prices it is not.\n\nಒಟ್ಟು (ottu) is 'total'; ಚಿಲ್ಲರೆ (chillare) is 'small change'.",
+      "examples": [
+        { "native": "ಇದರ ಬೆಲೆ ಎಷ್ಟು?", "roman": "idara bele eshtu?", "english": "How much is this?" },
+        { "native": "ಇದು ತುಂಬಾ ದುಬಾರಿ.", "roman": "idu tumbaa dubaari.", "english": "This is too expensive." },
+        { "native": "ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಿ.", "roman": "svalpa kadime maadi.", "english": "Please reduce the price a little." },
+        { "native": "ನೂರು ರೂಪಾಯಿಗೆ ಕೊಡಿ.", "roman": "nooru roopaayige kodi.", "english": "Give it for a hundred rupees." },
+        { "native": "ಒಟ್ಟು ಎಷ್ಟಾಯ್ತು?", "roman": "ottu eshtaaytu?", "english": "How much is it altogether?" }
+      ]
+    },
+    {
+      "title": "Halves, quarters and weights",
+      "text": "ಅರ್ಧ (ardha) is 'half': ardha keji, 'half a kilo'. ಕಾಲು (kaalu) is 'a quarter' (and also 'leg'); ಮುಕ್ಕಾಲು (mukkaalu) is 'three quarters'.\n\n'And a half' is -ವರೆ (-vare) joined to the number, whose final u lengthens to oo: ಒಂದೂವರೆ (ondoovare) one and a half; ಎರಡೂವರೆ (eradoovare) two and a half; mooroovare, three and a half.\n\nWeights and measures use the English words: ಕೆಜಿ (keji) kilo; ಗ್ರಾಂ (graam) gram; ಲೀಟರ್ (leetar) litre. A dozen is ಡಜನ್ (dajan) - bananas are sold by the dozen.",
+      "examples": [
+        { "native": "ಅರ್ಧ ಕೆಜಿ", "roman": "ardha keji", "english": "half a kilo" },
+        { "native": "ಒಂದೂವರೆ ಕೆಜಿ", "roman": "ondoovare keji", "english": "one and a half kilos" },
+        { "native": "ಕಾಲು ಕೆಜಿ", "roman": "kaalu keji", "english": "a quarter kilo" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇದರ ಬೆಲೆ ಎಷ್ಟು?", "roman": "idara bele eshtu?", "english": "How much is this?", "literal": "this-of price how-much", "note": "In shops people often just say 'idu eshtu?' (ಇದು ಎಷ್ಟು?)." },
+    { "native": "ಇದು ತುಂಬಾ ದುಬಾರಿ.", "roman": "idu tumbaa dubaari.", "english": "This is too expensive.", "literal": "this very expensive", "note": "" },
+    { "native": "ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಿ.", "roman": "svalpa kadime maadi.", "english": "Please reduce the price a little.", "literal": "a-little less make", "note": "The standard bargaining phrase." },
+    { "native": "ನನಗೆ ಇದು ಬೇಕು.", "roman": "nanage idu beku.", "english": "I want this.", "literal": "me-to this wanted", "note": "'nanage ... beku' = 'I want / need ...'. The e in beku is long." },
+    { "native": "ನನಗೆ ಬೇಡ.", "roman": "nanage beda.", "english": "I don't want it.", "literal": "me-to not-wanted", "note": "" },
+    { "native": "ಇದಕ್ಕಿಂತ ದೊಡ್ಡ ಸೈಜ್ ಇದೆಯಾ?", "roman": "idakkinta dodda saij ideyaa?", "english": "Do you have a bigger size?", "literal": "this-than big size is?", "note": "idakkinta = than this. For 'smaller': chikka (ಚಿಕ್ಕ)." },
+    { "native": "ಬೇರೆ ಒಂದು ತೋರಿಸಿ.", "roman": "bere ondu torisi.", "english": "Please show me another one.", "literal": "different one show", "note": "bere (long e) = other, different." },
+    { "native": "ಕಾರ್ಡ್ ತಗೋತೀರಾ?", "roman": "kaard tagoteeraa?", "english": "Can I pay by card?", "literal": "card will-you-take?", "note": "Literally 'Do you take cards?' (spoken form). Written: tegedukollutteeraa? (ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?)" },
+    { "native": "ಒಂದು ಚೀಲ ಕೊಡಿ.", "roman": "ondu cheela kodi.", "english": "Please give me a bag.", "literal": "one bag give", "note": "In Bengaluru shops a carry bag is often called 'kavar' (ಕವರ್)." },
+    { "native": "ನಾನು ಸುಮ್ಮನೆ ನೋಡ್ತಿದ್ದೀನಿ.", "roman": "naanu summane nodtiddeeni.", "english": "I am just looking.", "literal": "I simply am-looking", "note": "summane = just, for no particular reason." },
+    { "native": "ಇಪ್ಪತ್ತೈದು ರೂಪಾಯಿ.", "roman": "ippattaidu roopaayi.", "english": "Twenty-five rupees.", "literal": "twenty-five rupee", "note": "ippattu + aidu." },
+    { "native": "ನೂರು ರೂಪಾಯಿಗೆ ಕೊಡಿ.", "roman": "nooru roopaayige kodi.", "english": "Give it for a hundred rupees.", "literal": "hundred rupee-for give", "note": "The dative -ge gives 'for (a price)'." },
+    { "native": "ಅರ್ಧ ಕೆಜಿ ಟೊಮೇಟೊ ಕೊಡಿ.", "roman": "ardha keji tometo kodi.", "english": "Half a kilo of tomatoes, please.", "literal": "half kilo tomato give", "note": "No word for 'of'." },
+    { "native": "ಒಟ್ಟು ಎಷ್ಟಾಯ್ತು?", "roman": "ottu eshtaaytu?", "english": "How much is it altogether?", "literal": "total how-much-happened", "note": "eshtu + aaytu." },
+    { "native": "ಚಿಲ್ಲರೆ ಇದೆಯಾ?", "roman": "chillare ideyaa?", "english": "Do you have change?", "literal": "small-change is?", "note": "" },
+    { "native": "ಐವತ್ತು ರೂಪಾಯಿ ಜಾಸ್ತಿ ಆಯ್ತು.", "roman": "aivattu roopaayi jaasti aaytu.", "english": "Fifty rupees is too much.", "literal": "fifty rupee too-much happened", "note": "" }
+  ]
+}

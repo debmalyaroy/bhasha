@@ -1,0 +1,64 @@
+{
+  "id": "word-order",
+  "level": "2 · How sentences work",
+  "title": "Word order and 'to be'",
+  "description": "Build simple sentences: say what something is, where it is, and put the verb where Kannada wants it.",
+  "guide": [
+    {
+      "title": "The verb comes last",
+      "text": "English says 'I eat rice': subject, verb, object. Kannada says 'I rice eat': subject, object, verb. The verb is always the last word of the sentence, and everything else lines up before it.\n\nWords like 'to', 'in' and 'from' are not separate words placed before the noun; they are endings attached after it: ಶಾಲೆ (shaale) 'school', ಶಾಲೆಗೆ (shaalege) 'to school'. So 'He goes to school' is 'he school-to goes'.\n\nThe order of the pieces before the verb is fairly free, and the subject can be left out when the verb ending makes it obvious: ಹೋಗ್ತೀನಿ (hogteeni) alone means 'I am going', because -eeni can only be 'I'.\n\nKannada has no words for 'a' and 'the'.",
+      "examples": [
+        { "native": "ನಾನು ಅನ್ನ ತಿಂತೀನಿ.", "roman": "naanu anna tinteeni.", "english": "I eat rice. (I rice eat)" },
+        { "native": "ಅವನು ಶಾಲೆಗೆ ಹೋಗ್ತಾನೆ.", "roman": "avanu shaalege hogtaane.", "english": "He goes to school. (he school-to goes)" },
+        { "native": "ಹೋಗ್ತೀನಿ.", "roman": "hogteeni.", "english": "I am going. / I will go." }
+      ]
+    },
+    {
+      "title": "'X is Y': no verb at all",
+      "text": "When you say what something or someone is - a name, a job, a kind of thing - Kannada uses no verb. Just put the two side by side: ಇದು ಪುಸ್ತಕ (idu pustaka), 'this (is a) book'.\n\nTo make it negative add ಅಲ್ಲ (alla) at the end: ಇದು ಪುಸ್ತಕ ಅಲ್ಲ (idu pustaka alla), 'this is not a book'. alla never changes, whoever the subject is.\n\nಇದು (idu) is 'this (thing)' and ಅದು (adu) is 'that (thing)'.",
+      "examples": [
+        { "native": "ಇದು ಪುಸ್ತಕ.", "roman": "idu pustaka.", "english": "This is a book." },
+        { "native": "ಅವಳು ಡಾಕ್ಟರ್.", "roman": "avalu daaktar.", "english": "She is a doctor." },
+        { "native": "ಅದು ನನ್ನ ಮನೆ.", "roman": "adu nanna mane.", "english": "That is my house." },
+        { "native": "ಇದು ನನ್ನ ಮನೆ ಅಲ್ಲ.", "roman": "idu nanna mane alla.", "english": "This is not my house." }
+      ]
+    },
+    {
+      "title": "'X is somewhere' and 'there is X': the verb iru",
+      "text": "When you say where something is, or that something exists, you do need a verb: ಇರು (iru), 'to be (somewhere), to exist, to stay'. Its present forms change with the subject:\n\nnaanu iddeeni (I am), neenu iddeeya (you are, familiar), avanu iddaane (he is), avalu iddaale (she is), adu ide (it is), naavu iddeevi (we are), neevu iddeera (you are, polite or plural), avaru iddaare (they are; he or she is, respectful), avu ive (they are, of things).\n\nThe negative of all of these is the single word ಇಲ್ಲ (illa): avaru illa, 'he/she is not here'; neeru illa, 'there is no water'.\n\nSo Kannada separates two meanings of English 'is': 'is a doctor' (no verb, negative alla) and 'is at home' (iru, negative illa).\n\nWritten forms differ only slightly: iddene, iddeeya, iddaane, iddaale, ide, iddeve, iddeeri, iddaare, ive.",
+      "examples": [
+        { "native": "ನಾನು ಮನೆಯಲ್ಲಿ ಇದ್ದೀನಿ.", "roman": "naanu maneyalli iddeeni.", "english": "I am at home." },
+        { "native": "ಅವನು ಇಲ್ಲಿ ಇದ್ದಾನೆ.", "roman": "avanu illi iddaane.", "english": "He is here." },
+        { "native": "ಅವಳು ಅಲ್ಲಿ ಇದ್ದಾಳೆ.", "roman": "avalu alli iddaale.", "english": "She is there." },
+        { "native": "ಪುಸ್ತಕ ಇಲ್ಲಿ ಇದೆ.", "roman": "pustaka illi ide.", "english": "The book is here." },
+        { "native": "ಪುಸ್ತಕಗಳು ಇಲ್ಲಿ ಇವೆ.", "roman": "pustakagalu illi ive.", "english": "The books are here." },
+        { "native": "ಇಲ್ಲಿ ನೀರು ಇಲ್ಲ.", "roman": "illi neeru illa.", "english": "There is no water here." }
+      ]
+    },
+    {
+      "title": "Position words follow the noun",
+      "text": "'On the table' is 'table's on': the noun takes the possessive ending and the position word comes after it. ಮೇಜು (meju) 'table' becomes ಮೇಜಿನ (mejina) 'of the table', then ಮೇಲೆ (mele) 'on, above'.\n\nUseful position words: mele (on, above), kelage (under, below), olage (inside), horage (outside), hattira (near), munde (in front), hinde (behind). Several of them can also stand alone as adverbs: horage iddaare, 'they are outside'.\n\nShort words often fuse with ide: illi + ide = illide (it is here), elli + ide = ellide (where is it?).",
+      "examples": [
+        { "native": "ಪುಸ್ತಕ ಮೇಜಿನ ಮೇಲೆ ಇದೆ.", "roman": "pustaka mejina mele ide.", "english": "The book is on the table." },
+        { "native": "ಮಕ್ಕಳು ಹೊರಗೆ ಇದ್ದಾರೆ.", "roman": "makkalu horage iddaare.", "english": "The children are outside." },
+        { "native": "ಅಂಗಡಿ ಹತ್ತಿರ ಇದೆ.", "roman": "angadi hattira ide.", "english": "The shop is nearby." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇದು ಪುಸ್ತಕ.", "roman": "idu pustaka.", "english": "This is a book.", "literal": "this book", "note": "No word for 'is' and no word for 'a'." },
+    { "native": "ಅದು ನನ್ನ ಮನೆ.", "roman": "adu nanna mane.", "english": "That is my house.", "literal": "that my house", "note": "" },
+    { "native": "ಇದು ನನ್ನ ಮನೆ ಅಲ್ಲ.", "roman": "idu nanna mane alla.", "english": "This is not my house.", "literal": "this my house is-not", "note": "alla denies what something is." },
+    { "native": "ಅವಳು ಡಾಕ್ಟರ್.", "roman": "avalu daaktar.", "english": "She is a doctor.", "literal": "she doctor", "note": "For a doctor you respect, say avaru daaktar." },
+    { "native": "ನಾನು ಮನೆಯಲ್ಲಿ ಇದ್ದೀನಿ.", "roman": "naanu maneyalli iddeeni.", "english": "I am at home.", "literal": "I house-in am", "note": "mane + alli = maneyalli. Written: iddene (ಇದ್ದೇನೆ)." },
+    { "native": "ಅವರು ಆಫೀಸಿನಲ್ಲಿ ಇದ್ದಾರೆ.", "roman": "avaru aafeesinalli iddaare.", "english": "He is at the office.", "literal": "he(respectful) office-in is", "note": "avaru is 'they' and also the respectful 'he' or 'she'. Often shortened to aafeesalli (ಆಫೀಸಲ್ಲಿ)." },
+    { "native": "ಪುಸ್ತಕ ಮೇಜಿನ ಮೇಲೆ ಇದೆ.", "roman": "pustaka mejina mele ide.", "english": "The book is on the table.", "literal": "book table's on is", "note": "Both meju and mele have a long e." },
+    { "native": "ಇಲ್ಲಿ ನೀರು ಇಲ್ಲ.", "roman": "illi neeru illa.", "english": "There is no water here.", "literal": "here water is-not", "note": "illi = here; illa = is not. Do not mix them up." },
+    { "native": "ನಾನು ಅನ್ನ ತಿಂತೀನಿ.", "roman": "naanu anna tinteeni.", "english": "I eat rice.", "literal": "I rice eat", "note": "Written: tinnuttene (ತಿನ್ನುತ್ತೇನೆ). anna with dental nn is cooked rice." },
+    { "native": "ಅವನು ಶಾಲೆಗೆ ಹೋಗ್ತಾನೆ.", "roman": "avanu shaalege hogtaane.", "english": "He goes to school.", "literal": "he school-to goes", "note": "Written: hoguttaane (ಹೋಗುತ್ತಾನೆ)." },
+    { "native": "ನಾವು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಇದ್ದೀವಿ.", "roman": "naavu bengaloorinalli iddeevi.", "english": "We are in Bengaluru.", "literal": "we Bengaluru-in are", "note": "Written: iddeve (ಇದ್ದೇವೆ)." },
+    { "native": "ಮಕ್ಕಳು ಹೊರಗೆ ಇದ್ದಾರೆ.", "roman": "makkalu horage iddaare.", "english": "The children are outside.", "literal": "children outside are", "note": "makkalu is the irregular plural of magu (child)." },
+    { "native": "ನೀವು ಎಲ್ಲಿ ಇದ್ದೀರ?", "roman": "neevu elli iddeera?", "english": "Where are you?", "literal": "you where are", "note": "Usually fused: elliddeera? (ಎಲ್ಲಿದ್ದೀರ?). Written: iddeeri (ಇದ್ದೀರಿ)." },
+    { "native": "ಅಂಗಡಿ ಹತ್ತಿರ ಇದೆ.", "roman": "angadi hattira ide.", "english": "The shop is nearby.", "literal": "shop near is", "note": "" }
+  ]
+}

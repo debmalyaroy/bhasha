@@ -1,0 +1,54 @@
+{
+  "id": "numbers",
+  "level": "1 · First words",
+  "title": "Numbers 1-10",
+  "description": "Count from zero to ten and say how many of something you want.",
+  "guide": [
+    {
+      "title": "Counting to ten",
+      "text": "The numbers one to ten are एक, दो, तीन, चार, पाँच, छह, सात, आठ, नौ, दस. They never change: there is no masculine or feminine form, and no special form before a postposition.\n\nPronunciation points. तीन (teen), सात (saat) and दस (das) have dental t and d, with the tongue on the teeth; आठ (aath) ends in a retroflex, breathy t. पाँच (paanch) has a nasal vowel. छह is written chhah but is nearly always said 'chhe'. नौ (nau) has the open o of 'saw'.\n\nHindi has its own digits (१ २ ३ ...), shown in the notes and in the Letters section. On price tags, phones, clocks and banknotes you will mostly see the international digits 1, 2, 3.",
+      "examples": [
+        { "native": "एक, दो, तीन", "roman": "ek, do, teen", "english": "one, two, three" },
+        { "native": "चार, पाँच, छह", "roman": "chaar, paanch, chhah", "english": "four, five, six" },
+        { "native": "सात, आठ, नौ, दस", "roman": "saat, aath, nau, das", "english": "seven, eight, nine, ten" }
+      ]
+    },
+    {
+      "title": "Number + noun",
+      "text": "The number goes before the noun, as in English: दो चाय (do chaay, 'two teas'), तीन लोग (teen log, 'three people').\n\nएक (ek) also does duty for 'a/an' when you want to stress that it is one thing: एक चाय दीजिए, 'one tea, please' or 'a tea, please'.\n\nNouns do have plural forms, which you will meet gradually. The two commonest patterns: masculine nouns ending in -aa change it to -e (लड़का larkaa, 'boy' becomes दो लड़के do larke, 'two boys'), and feminine nouns ending in a consonant add -en (किताब kitaab, 'book' becomes दो किताबें do kitaaben). Many masculine nouns do not change at all: एक घर, दो घर ('one house, two houses').",
+      "examples": [
+        { "native": "दो चाय", "roman": "do chaay", "english": "two teas" },
+        { "native": "तीन लोग", "roman": "teen log", "english": "three people" },
+        { "native": "दो लड़के", "roman": "do larke", "english": "two boys" },
+        { "native": "दो किताबें", "roman": "do kitaaben", "english": "two books" },
+        { "native": "चार घर", "roman": "chaar ghar", "english": "four houses" }
+      ]
+    },
+    {
+      "title": "How many?",
+      "text": "'How many' is कितने (kitne) for masculine things and people in general, and कितनी (kitnee) for feminine things. Asked on its own, कितने? is enough.\n\nTo answer, the number alone will do, or number plus noun. When ordering or buying, end with दीजिए (deejiye, 'please give'): दो चाय दीजिए, 'two teas, please'.",
+      "examples": [
+        { "native": "कितने?", "roman": "kitne?", "english": "How many?" },
+        { "native": "कितने लोग?", "roman": "kitne log?", "english": "How many people?" },
+        { "native": "कितनी किताबें?", "roman": "kitnee kitaaben?", "english": "How many books?" },
+        { "native": "दो चाय दीजिए।", "roman": "do chaay deejiye.", "english": "Two teas, please." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "शून्य", "roman": "shoonya", "english": "Zero (0)", "note": "Numeral: ०. When reading out phone numbers people usually say 'zero' in English." },
+    { "native": "एक", "roman": "ek", "english": "One (1)", "note": "Numeral: १" },
+    { "native": "दो", "roman": "do", "english": "Two (2)", "note": "Numeral: २" },
+    { "native": "तीन", "roman": "teen", "english": "Three (3)", "note": "Numeral: ३" },
+    { "native": "चार", "roman": "chaar", "english": "Four (4)", "note": "Numeral: ४" },
+    { "native": "पाँच", "roman": "paanch", "english": "Five (5)", "note": "Numeral: ५. The vowel is nasalised." },
+    { "native": "छह", "roman": "chhah", "english": "Six (6)", "note": "Numeral: ६. Usually pronounced 'chhe'." },
+    { "native": "सात", "roman": "saat", "english": "Seven (7)", "note": "Numeral: ७" },
+    { "native": "आठ", "roman": "aath", "english": "Eight (8)", "note": "Numeral: ८" },
+    { "native": "नौ", "roman": "nau", "english": "Nine (9)", "note": "Numeral: ९" },
+    { "native": "दस", "roman": "das", "english": "Ten (10)", "note": "Numeral: १०" },
+    { "native": "कितने?", "roman": "kitne?", "english": "How many?", "note": "For feminine things: कितनी? (kitnee?)" },
+    { "native": "तीन लोग", "roman": "teen log", "english": "Three people", "literal": "three people", "note": "A useful answer when a restaurant asks how many you are." },
+    { "native": "दो चाय दीजिए।", "roman": "do chaay deejiye.", "english": "Two teas, please.", "literal": "two tea please-give" }
+  ]
+}

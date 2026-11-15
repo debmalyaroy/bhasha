@@ -1,0 +1,75 @@
+{
+  "id": "shopping",
+  "level": "4 · Everyday situations",
+  "title": "Shopping, money and bigger numbers",
+  "description": "Ask prices, understand numbers up to a hundred and beyond, bargain and pay.",
+  "guide": [
+    {
+      "title": "Asking the price",
+      "text": "The standard question is यह कितने का है? (yah kitne kaa hai?), literally 'this is of how many (rupees)?'. The का agrees with the thing: कितने का for a masculine item, कितने की for a feminine one (यह साड़ी कितने की है?), कितने के for several.\n\nYou can also ask कितने में? ('for how much?'), or use the nouns दाम (daam) and कीमत (keemat), both 'price': इसका दाम क्या है?\n\nThe currency is the rupee: एक रुपया (ek rupayaa), 'one rupee'; दो रुपये (do rupaye), 'two rupees', also spelt रुपए. Prices by weight are given as 'fifty rupees kilo': पचास रुपये किलो. To offer a price, use में: सौ रुपये में दीजिए, 'give it for a hundred rupees'.",
+      "examples": [
+        { "native": "यह कितने का है?", "roman": "yah kitne kaa hai?", "english": "How much is this?" },
+        { "native": "यह साड़ी कितने की है?", "roman": "yah saaree kitne kee hai?", "english": "How much is this sari?" },
+        { "native": "पचास रुपये किलो", "roman": "pachaas rupaye kilo", "english": "Fifty rupees a kilo" },
+        { "native": "कुल कितना हुआ?", "roman": "kul kitnaa huaa?", "english": "How much is it altogether?" }
+      ]
+    },
+    {
+      "title": "Eleven to twenty",
+      "text": "The teens are single words that have to be learnt: ग्यारह (gyaarah, 11), बारह (baarah, 12), तेरह (terah, 13), चौदह (chaudah, 14), पंद्रह (pandrah, 15), सोलह (solah, 16), सत्रह (satrah, 17), अठारह (athaarah, 18), उन्नीस (unnees, 19), बीस (bees, 20).\n\nThe final ह of 11 to 18 is weak; in speech these sound like 'gyaara', 'baara', 'tera' and so on.\n\nउन्नीस (19) is literally 'one less than twenty'. The same idea, उन- (un-) before the next ten, gives 29, 39, 49 and so on up to 79: उनतीस (untees, 29), उनतालीस (untaalees, 39). The last two are different: 89 is नवासी (navaasee) and 99 is निन्यानवे (ninyaanve).",
+      "examples": [
+        { "native": "ग्यारह, बारह, तेरह, चौदह, पंद्रह", "roman": "gyaarah, baarah, terah, chaudah, pandrah", "english": "11, 12, 13, 14, 15" },
+        { "native": "सोलह, सत्रह, अठारह, उन्नीस, बीस", "roman": "solah, satrah, athaarah, unnees, bees", "english": "16, 17, 18, 19, 20" },
+        { "native": "बीस रुपये", "roman": "bees rupaye", "english": "Twenty rupees" }
+      ]
+    },
+    {
+      "title": "The tens, and the numbers in between",
+      "text": "The tens are: दस (das, 10), बीस (bees, 20), तीस (tees, 30), चालीस (chaalees, 40), पचास (pachaas, 50), साठ (saath, 60), सत्तर (sattar, 70), अस्सी (assee, 80), नब्बे (nabbe, 90), सौ (sau, 100).\n\nThe numbers in between are a real challenge: Hindi has a separate fused word for every number up to 100. The unit comes first and the ten second, both worn down: इक्कीस (ikkees, 21) is 'one-twenty', पच्चीस (pachchees, 25) is 'five-twenty', पैंतालीस (paintaalees, 45) is 'five-forty', पचहत्तर (pachhattar, 75) is 'five-seventy', निन्यानवे (ninyaanve, 99) is 'nine-ninety'.\n\nDo not try to learn all hundred at once. Learn the tens, 25, 50 and 75 first; you can understand most prices with those. And you can always fall back on English numbers, which every shopkeeper knows.\n\nAbove a hundred it becomes regular: एक सौ बीस (120), दो सौ (200), हज़ार (hazaar, 1,000). Large sums are counted in लाख (laakh, 100,000) and करोड़ (karor, 10 million), not in millions.",
+      "examples": [
+        { "native": "तीस, चालीस, पचास, साठ", "roman": "tees, chaalees, pachaas, saath", "english": "30, 40, 50, 60" },
+        { "native": "सत्तर, अस्सी, नब्बे, सौ", "roman": "sattar, assee, nabbe, sau", "english": "70, 80, 90, 100" },
+        { "native": "इक्कीस, पच्चीस, उनतीस", "roman": "ikkees, pachchees, untees", "english": "21, 25, 29" },
+        { "native": "पैंतालीस, पचहत्तर, निन्यानवे", "roman": "paintaalees, pachhattar, ninyaanve", "english": "45, 75, 99" },
+        { "native": "दो सौ रुपये", "roman": "do sau rupaye", "english": "Two hundred rupees" },
+        { "native": "एक हज़ार", "roman": "ek hazaar", "english": "One thousand" }
+      ]
+    },
+    {
+      "title": "Halves and quarters",
+      "text": "Hindi has special words for fractions, used all the time with money, weights and clock times.\n\nआधा (aadhaa): half. आधा किलो, 'half a kilo'.\nडेढ़ (derh): one and a half. डेढ़ सौ is 150, डेढ़ किलो is a kilo and a half.\nढाई (dhaaee): two and a half. ढाई सौ is 250.\nसाढ़े (saarhe): plus a half, used from three upwards. साढ़े तीन सौ is 350.\nसवा (savaa): plus a quarter. सवा सौ is 125.\nपौने (paune): minus a quarter. पौने दो सौ is 175.",
+      "examples": [
+        { "native": "आधा किलो टमाटर दीजिए।", "roman": "aadhaa kilo tamaatar deejiye.", "english": "Half a kilo of tomatoes, please." },
+        { "native": "डेढ़ सौ रुपये", "roman": "derh sau rupaye", "english": "One hundred and fifty rupees" },
+        { "native": "ढाई सौ रुपये", "roman": "dhaaee sau rupaye", "english": "Two hundred and fifty rupees" }
+      ]
+    },
+    {
+      "title": "Bargaining and paying",
+      "text": "In markets and small shops without price tags, bargaining is expected and good-humoured. The classic moves are यह बहुत महँगा है ('this is very expensive') and थोड़ा कम कीजिए ('make it a little less'), followed by your own offer with में. In shops with fixed prices ('fixed price' is the phrase used) it is not done.\n\nमिलना (milnaa), 'to be available, to be got', is the shop verb: इससे बड़ा साइज़ मिलेगा? 'Will a bigger size be available?' And चलना (chalnaa, 'to go, to work') asks whether something is accepted: क्या कार्ड चलेगा? 'Will a card do?'",
+      "examples": [
+        { "native": "थोड़ा कम कीजिए।", "roman": "thoraa kam keejiye.", "english": "Please reduce the price a little." },
+        { "native": "सौ रुपये में दीजिए।", "roman": "sau rupaye mein deejiye.", "english": "Give it to me for a hundred rupees." },
+        { "native": "क्या कार्ड चलेगा?", "roman": "kyaa kaard chalegaa?", "english": "Can I pay by card?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "यह कितने का है?", "roman": "yah kitne kaa hai?", "english": "How much is this?", "literal": "this how-many of is" },
+    { "native": "यह बहुत महँगा है।", "roman": "yah bahut mahangaa hai.", "english": "This is too expensive.", "literal": "this very expensive is" },
+    { "native": "थोड़ा कम कीजिए।", "roman": "thoraa kam keejiye.", "english": "Please reduce the price a little.", "literal": "a-little less please-do", "note": "The standard bargaining phrase." },
+    { "native": "सौ रुपये में दीजिए।", "roman": "sau rupaye mein deejiye.", "english": "Give it to me for a hundred rupees.", "literal": "hundred rupees in please-give" },
+    { "native": "बीस रुपये", "roman": "bees rupaye", "english": "Twenty rupees", "literal": "twenty rupees" },
+    { "native": "पचास रुपये किलो", "roman": "pachaas rupaye kilo", "english": "Fifty rupees a kilo", "literal": "fifty rupees kilo" },
+    { "native": "डेढ़ सौ रुपये", "roman": "derh sau rupaye", "english": "One hundred and fifty rupees", "literal": "one-and-a-half hundred rupees" },
+    { "native": "आधा किलो टमाटर दीजिए।", "roman": "aadhaa kilo tamaatar deejiye.", "english": "Half a kilo of tomatoes, please.", "literal": "half kilo tomato please-give" },
+    { "native": "मुझे यह चाहिए।", "roman": "mujhe yah chaahiye.", "english": "I want this.", "literal": "to-me this is-wanted", "note": "'mujhe ... chaahiye' = 'I want / need ...'." },
+    { "native": "मुझे नहीं चाहिए।", "roman": "mujhe naheen chaahiye.", "english": "I don't want it.", "literal": "to-me not is-wanted" },
+    { "native": "इससे बड़ा साइज़ मिलेगा?", "roman": "isse baraa saaiz milegaa?", "english": "Do you have a bigger size?", "literal": "this-than big size will-be-available" },
+    { "native": "कोई और दिखाइए।", "roman": "koee aur dikhaaiye.", "english": "Please show me another one.", "literal": "any other please-show" },
+    { "native": "कुल कितना हुआ?", "roman": "kul kitnaa huaa?", "english": "How much is it altogether?", "literal": "total how-much became" },
+    { "native": "क्या कार्ड चलेगा?", "roman": "kyaa kaard chalegaa?", "english": "Can I pay by card?", "literal": "(question) card will-work" },
+    { "native": "एक थैला दीजिए।", "roman": "ek thailaa deejiye.", "english": "Please give me a bag.", "literal": "one bag please-give" },
+    { "native": "मैं बस देख रहा हूँ।", "roman": "main bas dekh rahaa hoon.", "english": "I am just looking.", "literal": "I just look -ing am", "note": "A woman says: मैं बस देख रही हूँ (... dekh rahee hoon)." }
+  ]
+}

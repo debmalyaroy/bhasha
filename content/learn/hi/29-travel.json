@@ -1,0 +1,63 @@
+{
+  "id": "travel",
+  "level": "4 · Everyday situations",
+  "title": "Travel and staying somewhere",
+  "description": "Buy tickets, find your train and your seat, and deal with a hotel room.",
+  "guide": [
+    {
+      "title": "Rooms and what they cost",
+      "text": "To ask for a room use मुझे ... चाहिए: मुझे एक कमरा चाहिए, 'I need a room'. To see it first, which is quite normal, say कमरा दिखाइए.\n\nकिराया (kiraayaa) is the rent or charge, and 'per night' is expressed with का: एक रात का कितना किराया है?, literally 'one night's how much rent is?'.\n\nTo ask whether the room has something, put कमरे में ('in the room') first: क्या कमरे में एसी है? Hotel vocabulary is largely English: एसी (esee, AC), वाई-फ़ाई (vaaee-faaee, Wi-Fi), चेकआउट (chekaaut, checkout). गर्म पानी is hot water, नाश्ता (naashtaa) is breakfast, and शामिल (shaamil) means 'included'.",
+      "examples": [
+        { "native": "मुझे एक कमरा चाहिए।", "roman": "mujhe ek kamraa chaahiye.", "english": "I need a room." },
+        { "native": "एक रात का कितना किराया है?", "roman": "ek raat kaa kitnaa kiraayaa hai?", "english": "How much is it for one night?" },
+        { "native": "क्या कमरे में एसी है?", "roman": "kyaa kamre mein esee hai?", "english": "Is there AC in the room?" },
+        { "native": "क्या नाश्ता शामिल है?", "roman": "kyaa naashtaa shaamil hai?", "english": "Is breakfast included?" }
+      ]
+    },
+    {
+      "title": "Tickets, trains and buses",
+      "text": "A ticket 'to' a place is a ticket 'of' that place: दिल्ली का टिकट, 'a Delhi ticket'. (टिकट is treated as masculine by some speakers and feminine by others, so you will also hear दिल्ली की टिकट.)\n\nFor departure times ask कितने बजे? ('at what o'clock?'). The verb for a train or bus leaving is छूटना (chhootnaa) or निकलना (nikalnaa), and for arriving पहुँचना (pahunchnaa): ट्रेन कितने बजे छूटती है? 'What time does the train leave?'\n\nUseful words: प्लेटफ़ॉर्म (pletform, platform), सीट (seet, seat), सामान (saamaan, luggage), खाली (khaalee, empty, free). To ask whether a seat is taken: यह सीट खाली है? ट्रेन (train) and बस (bus) are both feminine.",
+      "examples": [
+        { "native": "मुझे दिल्ली का एक टिकट चाहिए।", "roman": "mujhe dillee kaa ek tikat chaahiye.", "english": "I need a ticket to Delhi." },
+        { "native": "ट्रेन कितने बजे छूटती है?", "roman": "tren kitne baje chhoottee hai?", "english": "What time does the train leave?" },
+        { "native": "यह सीट खाली है?", "roman": "yah seet khaalee hai?", "english": "Is this seat free?" },
+        { "native": "ट्रेन कब पहुँचेगी?", "roman": "tren kab pahunchegee?", "english": "When will the train arrive?" }
+      ]
+    },
+    {
+      "title": "The handy word vaalaa",
+      "text": "वाला (vaalaa) turns almost any word into a description meaning 'the one with, the one of, the one for'. It agrees like an -aa adjective: वाला, वाली, वाले.\n\nखिड़की वाली सीट is 'the window seat' ('the seat with the window'). दिल्ली वाली ट्रेन is 'the Delhi train'. ऊपर वाला कमरा is 'the upstairs room'. यह वाला is 'this one'.\n\nAfter a noun it also names the person who deals in something: चाय वाला (the tea seller), ऑटो वाला (the auto-rickshaw driver), सब्ज़ी वाला (the vegetable seller).\n\nAfter the -ने form of a verb it means 'about to': ट्रेन आने वाली है, 'the train is about to arrive'.",
+      "examples": [
+        { "native": "मुझे खिड़की वाली सीट चाहिए।", "roman": "mujhe khirkee vaalee seet chaahiye.", "english": "I'd like a window seat." },
+        { "native": "दिल्ली वाली ट्रेन", "roman": "dillee vaalee tren", "english": "the Delhi train" },
+        { "native": "यह वाला दीजिए।", "roman": "yah vaalaa deejiye.", "english": "Give me this one." },
+        { "native": "ट्रेन आने वाली है।", "roman": "tren aane vaalee hai.", "english": "The train is about to arrive." }
+      ]
+    },
+    {
+      "title": "Staying and stopping",
+      "text": "रुकना (ruknaa) means both 'to stop' and 'to stay' somewhere temporarily: मैं तीन दिन रुकूँगा, 'I will stay three days'. For living somewhere permanently the verb is रहना (rahnaa). A period of time needs no word for 'for': तीन दिन, 'for three days'; एक हफ़्ता, 'for a week'.\n\nWhen something in the room does not work, describe what is not happening: गर्म पानी नहीं आ रहा है, 'hot water is not coming'; एसी नहीं चल रहा है, 'the AC is not running'.",
+      "examples": [
+        { "native": "मैं तीन दिन रुकूँगा।", "roman": "main teen din rukoongaa.", "english": "I will stay for three days. (man speaking)" },
+        { "native": "गर्म पानी नहीं आ रहा है।", "roman": "garm paanee naheen aa rahaa hai.", "english": "There is no hot water." },
+        { "native": "एसी नहीं चल रहा है।", "roman": "esee naheen chal rahaa hai.", "english": "The AC is not working." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मुझे एक कमरा चाहिए।", "roman": "mujhe ek kamraa chaahiye.", "english": "I need a room.", "literal": "to-me one room is-wanted" },
+    { "native": "कमरा दिखाइए।", "roman": "kamraa dikhaaiye.", "english": "Please show me the room.", "literal": "room please-show" },
+    { "native": "एक रात का कितना किराया है?", "roman": "ek raat kaa kitnaa kiraayaa hai?", "english": "How much is it for one night?", "literal": "one night 's how-much rent is" },
+    { "native": "क्या कमरे में एसी है?", "roman": "kyaa kamre mein esee hai?", "english": "Is there AC in the room?", "literal": "(question) room in AC is" },
+    { "native": "क्या नाश्ता शामिल है?", "roman": "kyaa naashtaa shaamil hai?", "english": "Is breakfast included?", "literal": "(question) breakfast included is" },
+    { "native": "मैं तीन दिन रुकूँगा।", "roman": "main teen din rukoongaa.", "english": "I will stay for three days.", "literal": "I three days will-stay", "note": "A woman says: ... रुकूँगी (rukoongee)." },
+    { "native": "गर्म पानी नहीं आ रहा है।", "roman": "garm paanee naheen aa rahaa hai.", "english": "There is no hot water.", "literal": "hot water not come -ing is" },
+    { "native": "चेकआउट कितने बजे है?", "roman": "chekaaut kitne baje hai?", "english": "What time is checkout?", "literal": "checkout how-many o'clock is" },
+    { "native": "मुझे दिल्ली का एक टिकट चाहिए।", "roman": "mujhe dillee kaa ek tikat chaahiye.", "english": "I need a ticket to Delhi.", "literal": "to-me Delhi 's one ticket is-wanted" },
+    { "native": "ट्रेन कितने बजे छूटती है?", "roman": "tren kitne baje chhoottee hai?", "english": "What time does the train leave?", "literal": "train how-many o'clock leaving is" },
+    { "native": "प्लेटफ़ॉर्म नंबर क्या है?", "roman": "pletform nambar kyaa hai?", "english": "What is the platform number?", "literal": "platform number what is" },
+    { "native": "यह सीट खाली है?", "roman": "yah seet khaalee hai?", "english": "Is this seat free?", "literal": "this seat empty is" },
+    { "native": "मुझे खिड़की वाली सीट चाहिए।", "roman": "mujhe khirkee vaalee seet chaahiye.", "english": "I'd like a window seat.", "literal": "to-me window one-with seat is-wanted" },
+    { "native": "मेरा सामान कहाँ है?", "roman": "meraa saamaan kahaan hai?", "english": "Where is my luggage?", "literal": "my luggage where is" }
+  ]
+}

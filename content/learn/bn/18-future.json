@@ -1,0 +1,65 @@
+{
+  "id": "future",
+  "level": "3 · Verbs",
+  "title": "The future",
+  "description": "Say what you will do, make plans and offers, and use the time words for tomorrow, later and next week.",
+  "guide": [
+    {
+      "title": "Stem + ব + ending",
+      "text": "The future adds -ব- (-b-) and its own endings to the stem:\n\nআমি করব (korbo) I will do\nতুমি করবে (korbe) you will do, familiar\nতুই করবি (korbi) you will do, intimate\nসে করবে (korbe) he/she will do\nআপনি / তিনি করবেন (korben) you will do (polite), he/she will do (respected)\n\nNote that তুমি and সে share a form in the future. The first person is spelt করব, without a vowel sign, but ends in o: korbo. (You will also see করবো.)\n\nThe stem takes its 'high' vowel: লেখা - লিখব (likhbo); শোনা - শুনব (shunbo); কেনা - কিনব (kinbo).\n\nRegular verbs: বলা - বলব (bolbo); দেখা - দেখব (dekhbo); আসা - আসব (aashbo); থাকা - থাকব (thaakbo).\n\nThe negative adds না: আমি করব না।",
+      "examples": [
+        { "native": "আমি করব", "roman": "aami korbo", "english": "I will do" },
+        { "native": "তুমি করবে", "roman": "tumi korbe", "english": "you will do (familiar)" },
+        { "native": "তুই করবি", "roman": "tui korbi", "english": "you will do (intimate)" },
+        { "native": "সে করবে", "roman": "she korbe", "english": "he/she will do" },
+        { "native": "আপনি করবেন", "roman": "aapni korben", "english": "you will do (polite)" }
+      ]
+    },
+    {
+      "title": "Eat, go, give, take, be",
+      "text": "The vowel stems:\n\nখাওয়া: খাব (khaabo), খাবে, খাবি, খাবে, খাবেন\nযাওয়া: যাব (jaabo), যাবে, যাবি, যাবে, যাবেন\nদেওয়া: দেব (debo), দেবে, দিবি, দেবে, দেবেন\nনেওয়া: নেব (nebo), নেবে, নিবি, নেবে, নেবেন\nহওয়া: হব (hobo), হবে, হবি, হবে, হবেন\n\nIn দেওয়া and নেওয়া the তুই form goes back to i: দিবি, নিবি.\n\nহবে, 'will be, will happen', is extremely common: কাল বৃষ্টি হবে 'it will rain tomorrow'; কী হবে? 'what will happen?'; হবে না 'it won't work, it won't do'; দেখা হবে 'we'll meet'. Since the zero verb has no future, হবে also supplies 'will be': ভালো হবে, 'it will be good'. For 'will be (somewhere)' use থাকা, 'to stay': আমি বাড়িতে থাকব।",
+      "examples": [
+        { "native": "আমি এটা নেব।", "roman": "aami etaa nebo.", "english": "I'll take this one." },
+        { "native": "আমরা পরশু যাব।", "roman": "aamraa porshu jaabo.", "english": "We will go the day after tomorrow." },
+        { "native": "কাল বৃষ্টি হবে।", "roman": "kaal brishti hobe.", "english": "It will rain tomorrow." },
+        { "native": "তুই যাবি?", "roman": "tui jaabi?", "english": "Will you go? (intimate)" },
+        { "native": "আমি বাড়িতে থাকব।", "roman": "aami baarite thaakbo.", "english": "I will be at home." }
+      ]
+    },
+    {
+      "title": "What the future is used for",
+      "text": "Besides plain future time, this tense has three everyday uses.\n\nIntention: 'I want to go to the airport' is simply আমি এয়ারপোর্টে যাব, 'I will go'. To a shopkeeper, আমি এটা নেব - 'I'll take this'.\n\nOffers and polite questions: চা খাবেন? 'Will you have tea?'; আপনি কী খাবেন? 'What will you have?'; একটু সরবেন? 'Would you move over a little?'\n\nAsking what to do, in the first person: কী করব? 'What shall I do?'; কোথায় রাখব? 'Where shall I put it?'\n\nRemember that the continuous is also used for a fixed plan with a verb of movement: কাল যাচ্ছি।",
+      "examples": [
+        { "native": "আপনি কী খাবেন?", "roman": "aapni kee khaaben?", "english": "What will you have (to eat)?" },
+        { "native": "চা খাবেন?", "roman": "chaa khaaben?", "english": "Will you have some tea?" },
+        { "native": "কী করব?", "roman": "kee korbo?", "english": "What shall I do?" },
+        { "native": "আমি দেখব।", "roman": "aami dekhbo.", "english": "I'll see." }
+      ]
+    },
+    {
+      "title": "Time words",
+      "text": "আজ (aaj) today\nকাল (kaal) tomorrow - and also yesterday; the verb tense tells which. To be explicit: আগামীকাল (aagaameekaal) tomorrow, গতকাল (gotokaal) yesterday.\nপরশু (porshu) the day after tomorrow - and also the day before yesterday\nএখন (ekhon) now; এক্ষুনি (ekkhuni) right now, this minute\nপরে (pore) later; আগে (aage) before, earlier\nআগামী (aagaamee) next, coming: আগামী সপ্তাহে (aagaamee shoptaahe) next week\nগত (goto) last: গত মাসে (goto maashe) last month\nসামনের (shaamner) and পরের (porer) are the everyday words for 'next': সামনের সপ্তাহে।",
+      "examples": [
+        { "native": "আমি কাল আসব।", "roman": "aami kaal aashbo.", "english": "I will come tomorrow." },
+        { "native": "আমি পরে ফোন করব।", "roman": "aami pore phon korbo.", "english": "I will call later." },
+        { "native": "উনি আগামী সপ্তাহে ফিরবেন।", "roman": "uni aagaamee shoptaahe phirben.", "english": "He/She will return next week." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি কাল আসব।", "roman": "aami kaal aashbo.", "english": "I will come tomorrow.", "literal": "I tomorrow will-come", "note": "'kaal' means both tomorrow and yesterday; the verb tense tells which." },
+    { "native": "আপনি কী খাবেন?", "roman": "aapni kee khaaben?", "english": "What will you have (to eat)?", "literal": "you what will-eat", "note": "" },
+    { "native": "আমি পরে ফোন করব।", "roman": "aami pore phon korbo.", "english": "I will call later.", "literal": "I later phone will-do", "note": "" },
+    { "native": "আমরা পরশু যাব।", "roman": "aamraa porshu jaabo.", "english": "We will go the day after tomorrow.", "literal": "we day-after-tomorrow will-go", "note": "" },
+    { "native": "তুমি কখন আসবে?", "roman": "tumi kokhon aashbe?", "english": "When will you come? (familiar)", "literal": "you when will-come", "note": "" },
+    { "native": "সে আজ আসবে না।", "roman": "she aaj aashbe naa.", "english": "He/She won't come today.", "literal": "he/she today will-come not", "note": "" },
+    { "native": "আমি আপনাকে টাকাটা দেব।", "roman": "aami aapnaake taakaataa debo.", "english": "I will give you the money.", "literal": "I you-to money-the will-give", "note": "" },
+    { "native": "কাল বৃষ্টি হবে।", "roman": "kaal brishti hobe.", "english": "It will rain tomorrow.", "literal": "tomorrow rain will-be", "note": "" },
+    { "native": "আমি এটা নেব।", "roman": "aami etaa nebo.", "english": "I'll take this one.", "literal": "I this will-take", "note": "" },
+    { "native": "তুই যাবি?", "roman": "tui jaabi?", "english": "Will you go? (intimate)", "literal": "you will-go", "note": "" },
+    { "native": "আমি দেখব।", "roman": "aami dekhbo.", "english": "I'll see.", "literal": "I will-see", "note": "Also 'I'll look into it'." },
+    { "native": "কী হবে?", "roman": "kee hobe?", "english": "What will happen?", "literal": "what will-be", "note": "" },
+    { "native": "আমরা একসঙ্গে খাব।", "roman": "aamraa ekshonge khaabo.", "english": "We will eat together.", "literal": "we together will-eat", "note": "" },
+    { "native": "উনি আগামী সপ্তাহে ফিরবেন।", "roman": "uni aagaamee shoptaahe phirben.", "english": "He/She will return next week.", "literal": "that-person coming week-in will-return", "note": "" }
+  ]
+}

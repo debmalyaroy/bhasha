@@ -1,0 +1,54 @@
+{
+  "id": "have",
+  "level": "3 · Verbs",
+  "title": "Have and have not",
+  "description": "Say what you have and do not have: relatives, things, time, money and ailments.",
+  "guide": [
+    {
+      "title": "There is no verb 'to have'",
+      "text": "Kannada says 'to me there is ...' or 'near me there is ...'. The verb is iru (ide, iddaane, iddaale, iddaare, ive), and it agrees with the thing possessed, not with the owner.\n\nPattern 1 - dative + iru. Used for relatives, friends, time, work, questions, feelings, illnesses, and anything that is not a physical object you carry: nanage obba tamma iddaane, 'to me one younger-brother is' = 'I have a younger brother'; nanage samaya ide, 'I have time'; nanage talenovu ide, 'I have a headache'.\n\nBecause the verb agrees with what is possessed: obba tamma iddaane (he is), obbalu akka iddaale (she is), ibbaru makkalu iddaare (they are), ondu prashne ide (it is).\n\nWhen counting relatives, remember the human number words: obba / obbalu, ibbaru, mooru jana.",
+      "examples": [
+        { "native": "ನನಗೆ ಒಬ್ಬ ತಮ್ಮ ಇದ್ದಾನೆ.", "roman": "nanage obba tamma iddaane.", "english": "I have a younger brother." },
+        { "native": "ನನಗೆ ಒಬ್ಬಳು ಅಕ್ಕ ಇದ್ದಾಳೆ.", "roman": "nanage obbalu akka iddaale.", "english": "I have an elder sister." },
+        { "native": "ಅವರಿಗೆ ಮೂರು ಜನ ಮಕ್ಕಳು ಇದ್ದಾರೆ.", "roman": "avarige mooru jana makkalu iddaare.", "english": "They have three children." },
+        { "native": "ನನಗೆ ಒಂದು ಪ್ರಶ್ನೆ ಇದೆ.", "roman": "nanage ondu prashne ide.", "english": "I have a question." }
+      ]
+    },
+    {
+      "title": "Things you own or have on you: hattira",
+      "text": "Pattern 2 - possessive + ಹತ್ತಿರ (hattira, 'near') + iru. Used for objects and money that you own or have with you: nanna hattira hana ide, 'near me money is' = 'I have money'; avana hattira baik ide, 'he has a motorbike'.\n\nIn fast speech hattira is shortened to hatra (ಹತ್ರ): nan hatra hana ide.\n\nThe written language also uses ಬಳಿ (bali) in the same way: nanna bali hana ide.\n\nFor what a place has, use the locative: namma maneyalli eradu naayi ive, 'in our house there are two dogs' = 'we have two dogs'.",
+      "examples": [
+        { "native": "ನನ್ನ ಹತ್ತಿರ ಹಣ ಇದೆ.", "roman": "nanna hattira hana ide.", "english": "I have money." },
+        { "native": "ಅವನ ಹತ್ತಿರ ಬೈಕ್ ಇದೆ.", "roman": "avana hattira baik ide.", "english": "He has a motorbike." },
+        { "native": "ನಿಮ್ಮ ಹತ್ತಿರ ಪೆನ್ ಇದೆಯಾ?", "roman": "nimma hattira pen ideyaa?", "english": "Do you have a pen?" },
+        { "native": "ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಎರಡು ನಾಯಿ ಇವೆ.", "roman": "namma maneyalli eradu naayi ive.", "english": "We have two dogs at home." }
+      ]
+    },
+    {
+      "title": "Not having, and having in the past",
+      "text": "The negative is ಇಲ್ಲ (illa) in place of the form of iru, for every person and number: nanage samaya illa, 'I have no time'; nanna hattira chillare illa, 'I have no change'.\n\nQuestion: ideyaa? / iddaaraa? - nimma hattira pen ideyaa? 'do you have a pen?'; nimage makkalu iddaaraa? 'do you have children?'. In a question with eshtu the verb is often left out: nimage eshtu makkalu? 'how many children do you have?'\n\nPast: ಇತ್ತು (ittu) for things, ಇದ್ದ (idda) / ಇದ್ಲು (idlu) / ಇದ್ರು (idru) for people; negative ಇರಲಿಲ್ಲ (iralilla). nanna hattira kaaru ittu, 'I had a car'; nanage samaya iralilla, 'I had no time'.",
+      "examples": [
+        { "native": "ನನಗೆ ಸಮಯ ಇಲ್ಲ.", "roman": "nanage samaya illa.", "english": "I have no time." },
+        { "native": "ನನ್ನ ಹತ್ತಿರ ಚಿಲ್ಲರೆ ಇಲ್ಲ.", "roman": "nanna hattira chillare illa.", "english": "I don't have change." },
+        { "native": "ನನ್ನ ಹತ್ತಿರ ಕಾರು ಇತ್ತು.", "roman": "nanna hattira kaaru ittu.", "english": "I had a car." },
+        { "native": "ನನಗೆ ಸಮಯ ಇರಲಿಲ್ಲ.", "roman": "nanage samaya iralilla.", "english": "I had no time." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನನ್ನ ಹತ್ತಿರ ಹಣ ಇದೆ.", "roman": "nanna hattira hana ide.", "english": "I have money.", "literal": "my near money is", "note": "In speech also duddu (ದುಡ್ಡು) for money, and hatra (ಹತ್ರ) for hattira." },
+    { "native": "ನನ್ನ ಹತ್ತಿರ ಚಿಲ್ಲರೆ ಇಲ್ಲ.", "roman": "nanna hattira chillare illa.", "english": "I don't have change.", "literal": "my near small-change is-not", "note": "Useful with auto drivers and at small shops." },
+    { "native": "ನಿಮ್ಮ ಹತ್ತಿರ ಪೆನ್ ಇದೆಯಾ?", "roman": "nimma hattira pen ideyaa?", "english": "Do you have a pen?", "literal": "your near pen is?", "note": "" },
+    { "native": "ನನಗೆ ಒಬ್ಬ ತಮ್ಮ ಇದ್ದಾನೆ.", "roman": "nanage obba tamma iddaane.", "english": "I have a younger brother.", "literal": "me-to one younger-brother is", "note": "obba = one (male person); the verb is masculine." },
+    { "native": "ನನಗೆ ಒಬ್ಬಳು ಅಕ್ಕ ಇದ್ದಾಳೆ.", "roman": "nanage obbalu akka iddaale.", "english": "I have an elder sister.", "literal": "me-to one elder-sister is", "note": "obbalu = one (female person); the verb is feminine. Many speakers would use the respectful iddaare for an elder sister." },
+    { "native": "ಅವರಿಗೆ ಮೂರು ಜನ ಮಕ್ಕಳು ಇದ್ದಾರೆ.", "roman": "avarige mooru jana makkalu iddaare.", "english": "They have three children.", "literal": "them-to three persons children are", "note": "Written: moovaru makkalu (ಮೂವರು ಮಕ್ಕಳು)." },
+    { "native": "ನನಗೆ ಸಮಯ ಇಲ್ಲ.", "roman": "nanage samaya illa.", "english": "I have no time.", "literal": "me-to time is-not", "note": "People also say taim illa (ಟೈಮ್ ಇಲ್ಲ)." },
+    { "native": "ನನಗೆ ತಲೆನೋವು ಇದೆ.", "roman": "nanage talenovu ide.", "english": "I have a headache.", "literal": "me-to headache is", "note": "tale (head) + novu (pain); the o is long." },
+    { "native": "ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಎರಡು ನಾಯಿ ಇವೆ.", "roman": "namma maneyalli eradu naayi ive.", "english": "We have two dogs at home.", "literal": "our house-in two dog are", "note": "ive is the neuter plural of ide." },
+    { "native": "ನನ್ನ ಹತ್ತಿರ ಕಾರು ಇತ್ತು.", "roman": "nanna hattira kaaru ittu.", "english": "I had a car.", "literal": "my near car was", "note": "" },
+    { "native": "ನಿಮಗೆ ಎಷ್ಟು ಮಕ್ಕಳು?", "roman": "nimage eshtu makkalu?", "english": "How many children do you have?", "literal": "you-to how-many children", "note": "The verb iddaare can be left out." },
+    { "native": "ಅವನ ಹತ್ತಿರ ಬೈಕ್ ಇದೆ.", "roman": "avana hattira baik ide.", "english": "He has a motorbike.", "literal": "his near bike is", "note": "" },
+    { "native": "ನನಗೆ ಒಂದು ಪ್ರಶ್ನೆ ಇದೆ.", "roman": "nanage ondu prashne ide.", "english": "I have a question.", "literal": "me-to one question is", "note": "" },
+    { "native": "ಅವಳಿಗೆ ಕೆಲಸ ಇಲ್ಲ.", "roman": "avalige kelasa illa.", "english": "She doesn't have a job.", "literal": "her-to work is-not", "note": "Can also mean 'she has no work to do (just now)'." }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "connectors",
+  "level": "5 · Conversation",
+  "title": "Joining sentences",
+  "description": "Link ideas with and, or, but, so, because, if, when and that, and with the -e and -le forms of the verb.",
+  "guide": [
+    {
+      "title": "And, also, or, but",
+      "text": "আর (aar) is the everyday 'and'; it also means 'more, else'. এবং (ebong) is the written, formal 'and'.\n\nও (o) is 'too, also, even'. It is attached to the END of the word it applies to: আমিও, 'I too'; এটাও, 'this one as well'. Between two nouns it can mean 'and': মা ও বাবা।\n\nবা (baa) and অথবা (othobaa) are 'or' in statements. In a question offering a choice, 'or' is না (naa): চা না কফি? 'tea or coffee?'\n\nকিন্তু (kintu) is 'but'. তবে (tobe) is a softer 'but, though, however'.",
+      "examples": [
+        { "native": "আমি চা আর বিস্কুট খাব।", "roman": "aami chaa aar biskut khaabo.", "english": "I will have tea and biscuits." },
+        { "native": "আমিও যাব।", "roman": "aamio jaabo.", "english": "I will go too." },
+        { "native": "চা না কফি?", "roman": "chaa naa kophi?", "english": "Tea or coffee?" },
+        { "native": "ইচ্ছে আছে, কিন্তু সময় নেই।", "roman": "ichchhe aachhe, kintu shomoy nei.", "english": "I'd like to, but I have no time." }
+      ]
+    },
+    {
+      "title": "So and because",
+      "text": "তাই (taai) is 'so, therefore': বৃষ্টি হচ্ছে, তাই যাইনি - 'it's raining, so I haven't gone'.\n\nকারণ (kaaron) is 'because' and comes, as in English, before the reason: আমি যাব না, কারণ আমার জ্বর।\n\nThe most natural spoken way puts the reason FIRST, followed by বলে (bole, literally 'having said'): আমার জ্বর বলে আমি যাব না - 'I have a fever, saying which, I won't go'.\n\nজন্য (jonno) after a possessive also gives a reason: বৃষ্টির জন্য, 'because of the rain'; সেই জন্য or সেজন্য, 'for that reason'.",
+      "examples": [
+        { "native": "বৃষ্টি হচ্ছে, তাই যাইনি।", "roman": "brishti hochchhe, taai jaaini.", "english": "It's raining, so I haven't gone." },
+        { "native": "আমি যাব না, কারণ আমার জ্বর।", "roman": "aami jaabo naa, kaaron aamaar jor.", "english": "I won't go because I have a fever." },
+        { "native": "আমার জ্বর বলে আমি যাব না।", "roman": "aamaar jor bole aami jaabo naa.", "english": "I won't go, as I have a fever." }
+      ]
+    },
+    {
+      "title": "If and when: the -le form",
+      "text": "The compact way to say 'if' or 'when' is a verb form ending in -লে (-le), made on the same stem as the simple past. It does not change for person.\n\nকরা - করলে (korle) if/when (someone) does\nহওয়া - হলে (hole); যাওয়া - গেলে (gele); আসা - এলে (ele); খাওয়া - খেলে (khele); দেওয়া - দিলে (dile); পাওয়া - পেলে (pele)\n\nবৃষ্টি হলে আমি যাব না - 'rain if-happens, I won't go'.\nআপনি এলে আমরা খাব - 'you when-come, we will eat'.\n\nThe negative puts না BEFORE the verb: না হলে (naa hole) 'if not, otherwise'; আপনি না এলে, 'if you don't come'.\n\nThe fuller pattern uses the pair যদি (jodi) 'if' ... তাহলে (taahole) or তবে 'then', with ordinary tenses: যদি পারেন, তাহলে আসবেন।\n\nতাহলে on its own is the conversational 'then, in that case'.",
+      "examples": [
+        { "native": "বৃষ্টি হলে আমি যাব না।", "roman": "brishti hole aami jaabo naa.", "english": "If it rains, I won't go." },
+        { "native": "আপনি এলে আমরা খাব।", "roman": "aapni ele aamraa khaabo.", "english": "When you come, we will eat." },
+        { "native": "যদি পারেন, তাহলে আসবেন।", "roman": "jodi paaren, taahole aashben.", "english": "If you can, do come." },
+        { "native": "না হলে কাল আসব।", "roman": "naa hole kaal aashbo.", "english": "Otherwise I'll come tomorrow." }
+      ]
+    },
+    {
+      "title": "Pairs: when ... then, what ... that",
+      "text": "Bengali likes to build longer sentences in matched pairs: a word beginning with য- (j-) opens the first half, and its partner beginning with ত- or স- answers it in the second.\n\nযখন (jokhon) when ... তখন (tokhon) then\nযা (jaa) what ... তা (taa) or তাই (taai) that\nযে (je) who, the one who ... সে (she) he/she\nযেখানে (jekhaane) where ... সেখানে (shekhaane) there\nযত (joto) as much ... তত (toto) so much\n\nযখন সময় পাব, তখন করব - 'when I get time, then I'll do it'.\nআপনি যা বলবেন, তাই হবে - 'what you say, just that will be'.\n\nযে is also the plain 'that' after verbs of knowing and saying: আমি জানি যে সে আসবে, 'I know that he will come'. It is often left out.",
+      "examples": [
+        { "native": "যখন সময় পাব, তখন করব।", "roman": "jokhon shomoy paabo, tokhon korbo.", "english": "I'll do it when I get time." },
+        { "native": "আপনি যা বলবেন, তাই হবে।", "roman": "aapni jaa bolben, taai hobe.", "english": "It will be just as you say." },
+        { "native": "আমি জানি যে সে আসবে।", "roman": "aami jaani je she aashbe.", "english": "I know that he/she will come." }
+      ]
+    },
+    {
+      "title": "Doing one thing after another",
+      "text": "Two actions by the same person are joined not with 'and' but by putting the first verb in the -e form ('having done'): খেয়ে আসুন, 'having eaten, come'; বাড়ি গিয়ে ফোন করব, 'having gone home, I'll phone' - I'll phone when I get home.\n\n'Before' and 'after' follow the verbal noun in the possessive: খাওয়ার পরে (khaaowaar pore) 'after eating'; যাওয়ার আগে (jaaowaar aage) 'before going'.\n\n'While doing' is the -te form said twice: যেতে যেতে (jete jete) 'while going, on the way'; খেতে খেতে, 'while eating'.",
+      "examples": [
+        { "native": "খেয়ে আসুন।", "roman": "kheye aashun.", "english": "Come after you have eaten." },
+        { "native": "বাড়ি গিয়ে ফোন করব।", "roman": "baari giye phon korbo.", "english": "I'll phone when I get home." },
+        { "native": "খাওয়ার পরে কথা হবে।", "roman": "khaaowaar pore kothaa hobe.", "english": "We'll talk after the meal." },
+        { "native": "যাওয়ার আগে বলবেন।", "roman": "jaaowaar aage bolben.", "english": "Tell me before you go." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি চা আর বিস্কুট খাব।", "roman": "aami chaa aar biskut khaabo.", "english": "I will have tea and biscuits.", "literal": "I tea and biscuit will-eat", "note": "" },
+    { "native": "চা না কফি?", "roman": "chaa naa kophi?", "english": "Tea or coffee?", "literal": "tea or coffee", "note": "In a question offering a choice, না means 'or'." },
+    { "native": "আমিও যাব।", "roman": "aamio jaabo.", "english": "I will go too.", "literal": "I-too will-go", "note": "ও is attached to the word it applies to." },
+    { "native": "ইচ্ছে আছে, কিন্তু সময় নেই।", "roman": "ichchhe aachhe, kintu shomoy nei.", "english": "I'd like to, but I have no time.", "literal": "wish is, but time is-not", "note": "ইচ্ছে is the spoken form of ইচ্ছা (ichchhaa)." },
+    { "native": "বৃষ্টি হচ্ছে, তাই যাইনি।", "roman": "brishti hochchhe, taai jaaini.", "english": "It's raining, so I haven't gone.", "literal": "rain is-happening, so I-go-not(past)", "note": "" },
+    { "native": "আমি যাব না, কারণ আমার জ্বর।", "roman": "aami jaabo naa, kaaron aamaar jor.", "english": "I won't go because I have a fever.", "literal": "I will-go not, because my fever", "note": "" },
+    { "native": "বৃষ্টি হলে আমি যাব না।", "roman": "brishti hole aami jaabo naa.", "english": "If it rains, I won't go.", "literal": "rain if-happens I will-go not", "note": "" },
+    { "native": "আপনি এলে আমরা খাব।", "roman": "aapni ele aamraa khaabo.", "english": "When you come, we will eat.", "literal": "you when-come we will-eat", "note": "The -le form covers both 'if' and 'when'." },
+    { "native": "যদি পারেন, তাহলে আসবেন।", "roman": "jodi paaren, taahole aashben.", "english": "If you can, do come.", "literal": "if you-can, then you-will-come", "note": "" },
+    { "native": "যখন সময় পাব, তখন করব।", "roman": "jokhon shomoy paabo, tokhon korbo.", "english": "I'll do it when I get time.", "literal": "when time I-will-get, then I-will-do", "note": "" },
+    { "native": "আমি জানি যে সে আসবে।", "roman": "aami jaani je she aashbe.", "english": "I know that he/she will come.", "literal": "I know that he/she will-come", "note": "" },
+    { "native": "আপনি যা বলবেন, তাই হবে।", "roman": "aapni jaa bolben, taai hobe.", "english": "It will be just as you say.", "literal": "you what will-say, that-very will-be", "note": "" },
+    { "native": "খেয়ে আসুন।", "roman": "kheye aashun.", "english": "Come after you have eaten.", "literal": "having-eaten come", "note": "" },
+    { "native": "খাওয়ার পরে কথা হবে।", "roman": "khaaowaar pore kothaa hobe.", "english": "We'll talk after the meal.", "literal": "eating's after talk will-be", "note": "" }
+  ]
+}

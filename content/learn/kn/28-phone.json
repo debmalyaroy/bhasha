@@ -1,0 +1,53 @@
+{
+  "id": "phone",
+  "level": "4 · Everyday situations",
+  "title": "Phone and appointments",
+  "description": "Make and answer phone calls, ask for someone, and fix a time to meet.",
+  "guide": [
+    {
+      "title": "On the phone",
+      "text": "'To phone' is fon maadu, literally 'do phone'; many people also say kaal maadu. 'To message' is mesej maadu. The person you call is in the dative: nimage fon maadteeni, 'I'll call you'.\n\nA call begins with ಹಲೋ (halo). To ask who is calling: yaaru maataadtirodu? - 'who (is it that is) speaking?'. maataadtirodu is the spoken verbal noun 'the one speaking'; the written form is ಮಾತಾಡುತ್ತಿರುವುದು (maataaduttiruvudu).\n\nTo say who you are: naanu ravi maataadtiddeeni, 'I Ravi am-speaking'.\n\nWhen the line is bad: ಕೇಳಿಸ್ತಿಲ್ಲ (kelistilla), 'it is not audible' = 'I can't hear you'; svalpa joraagi maataadi, 'speak a little louder'. kelisu means 'to be heard'; kelistide is 'I can hear you'.\n\nTo end a call people say fon idteeni, 'I'll put the phone down', or simply sari, sigona.",
+      "examples": [
+        { "native": "ಹಲೋ, ಯಾರು ಮಾತಾಡ್ತಿರೋದು?", "roman": "halo, yaaru maataadtirodu?", "english": "Hello, who is speaking?" },
+        { "native": "ನಾನು ರವಿ ಮಾತಾಡ್ತಿದ್ದೀನಿ.", "roman": "naanu ravi maataadtiddeeni.", "english": "This is Ravi speaking." },
+        { "native": "ಕೇಳಿಸ್ತಿಲ್ಲ.", "roman": "kelistilla.", "english": "I can't hear you." },
+        { "native": "ಸ್ವಲ್ಪ ಜೋರಾಗಿ ಮಾತಾಡಿ.", "roman": "svalpa joraagi maataadi.", "english": "Please speak a little louder." }
+      ]
+    },
+    {
+      "title": "Asking for someone",
+      "text": "To ask whether someone is there, use the respectful plural of iru with the question ending: ravi iddaaraa? 'Is Ravi there?'. Adding ಅವರು (avaru) after a name is the polite equivalent of Mr or Ms: ravi avaru iddaaraa?\n\nPossible answers: iddaare, 'yes, he is'; avaru eega illa, 'he is not here now'; horage hogiddaare, 'he has gone out'; ondu nimisha, 'one moment'.\n\nTo leave word: naanu fon maadidde anta heli, 'please say that I called' (anta marks what is to be said - see the unit on joining sentences).",
+      "examples": [
+        { "native": "ರವಿ ಇದ್ದಾರಾ?", "roman": "ravi iddaaraa?", "english": "Is Ravi there?" },
+        { "native": "ಅವರು ಈಗ ಇಲ್ಲ.", "roman": "avaru eega illa.", "english": "He isn't here right now." },
+        { "native": "ಅವರು ಹೊರಗೆ ಹೋಗಿದ್ದಾರೆ.", "roman": "avaru horage hogiddaare.", "english": "He has gone out." },
+        { "native": "ಆಮೇಲೆ ಫೋನ್ ಮಾಡಿ.", "roman": "aamele fon maadi.", "english": "Please call later." }
+      ]
+    },
+    {
+      "title": "Fixing a time",
+      "text": "ಸಿಗು (sigu) means 'to be found, to be got' and is the everyday verb for 'meet': sigona, 'let's meet'; naale sigteeni, 'I'll see you tomorrow'.\n\nTo ask whether something is possible, use the -oke form + aaguttaa?: naale sigoke aaguttaa? 'is it possible to meet tomorrow?'. Answers: aagutte, 'yes, that works'; aagalla, 'no, I can't'.\n\nTime expressions: eshtu gantege? 'at what time?'; hattu gantege, 'at ten'; sanje aidu gantege, 'at five in the evening'; naale beligge, 'tomorrow morning'.\n\n'Late' is tada, or far more often the English word: letaagi, 'late (as an adverb)'; let aagutte, 'it will get late'.\n\nAppointments use the English word: apaayintment.",
+      "examples": [
+        { "native": "ನಾಳೆ ಸಿಗೋಕೆ ಆಗುತ್ತಾ?", "roman": "naale sigoke aaguttaa?", "english": "Can we meet tomorrow?" },
+        { "native": "ಎಷ್ಟು ಗಂಟೆಗೆ ಸಿಗೋಣ?", "roman": "eshtu gantege sigona?", "english": "What time shall we meet?" },
+        { "native": "ನಾಳೆ ಆಗಲ್ಲ, ನಾಡಿದ್ದು ಆಗುತ್ತೆ.", "roman": "naale aagalla, naadiddu aagutte.", "english": "Tomorrow isn't possible; the day after is fine." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಹಲೋ, ಯಾರು ಮಾತಾಡ್ತಿರೋದು?", "roman": "halo, yaaru maataadtirodu?", "english": "Hello, who is speaking?", "literal": "hello, who speaking", "note": "Written: maataaduttiruvudu (ಮಾತಾಡುತ್ತಿರುವುದು)." },
+    { "native": "ನಾನು ರವಿ ಮಾತಾಡ್ತಿದ್ದೀನಿ.", "roman": "naanu ravi maataadtiddeeni.", "english": "This is Ravi speaking.", "literal": "I Ravi am-speaking", "note": "Put your own name in place of Ravi." },
+    { "native": "ರವಿ ಇದ್ದಾರಾ?", "roman": "ravi iddaaraa?", "english": "Is Ravi there?", "literal": "Ravi is?", "note": "iddaare + -aa. More formal: ravi avaru iddaaraa?" },
+    { "native": "ಅವರು ಈಗ ಇಲ್ಲ.", "roman": "avaru eega illa.", "english": "He isn't here right now.", "literal": "he(respectful) now is-not", "note": "" },
+    { "native": "ಆಮೇಲೆ ಫೋನ್ ಮಾಡಿ.", "roman": "aamele fon maadi.", "english": "Please call later.", "literal": "later phone do", "note": "" },
+    { "native": "ನಿಮ್ಮ ನಂಬರ್ ಹೇಳಿ.", "roman": "nimma nambar heli.", "english": "Please tell me your number.", "literal": "your number tell", "note": "" },
+    { "native": "ಸ್ವಲ್ಪ ಜೋರಾಗಿ ಮಾತಾಡಿ.", "roman": "svalpa joraagi maataadi.", "english": "Please speak a little louder.", "literal": "a-little loudly speak", "note": "" },
+    { "native": "ಕೇಳಿಸ್ತಿಲ್ಲ.", "roman": "kelistilla.", "english": "I can't hear you.", "note": "Literally 'it is not being heard'. Written: kelisuttilla (ಕೇಳಿಸುತ್ತಿಲ್ಲ)." },
+    { "native": "ನಾನು ನಿಮಗೆ ಮೆಸೇಜ್ ಮಾಡ್ತೀನಿ.", "roman": "naanu nimage mesej maadteeni.", "english": "I'll message you.", "literal": "I you-to message do", "note": "" },
+    { "native": "ನಾಳೆ ಸಿಗೋಕೆ ಆಗುತ್ತಾ?", "roman": "naale sigoke aaguttaa?", "english": "Can we meet tomorrow?", "literal": "tomorrow to-meet happens?", "note": "Written: sigalu aaguttadeyaa? (ಸಿಗಲು ಆಗುತ್ತದೆಯಾ?)" },
+    { "native": "ಎಷ್ಟು ಗಂಟೆಗೆ ಸಿಗೋಣ?", "roman": "eshtu gantege sigona?", "english": "What time shall we meet?", "literal": "how-many o'clock-at let-us-meet", "note": "" },
+    { "native": "ಡಾಕ್ಟರ್ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಬೇಕು.", "roman": "daaktar apaayintment beku.", "english": "I need a doctor's appointment.", "literal": "doctor appointment wanted", "note": "" },
+    { "native": "ನಾನು ಹತ್ತು ನಿಮಿಷ ಲೇಟಾಗಿ ಬರ್ತೀನಿ.", "roman": "naanu hattu nimisha letaagi barteeni.", "english": "I'll be ten minutes late.", "literal": "I ten minute late come", "note": "letaagi = let + aagi, 'being late'. Pure Kannada: tadavaagi (ತಡವಾಗಿ)." },
+    { "native": "ಸರಿ, ಫೋನ್ ಇಡ್ತೀನಿ.", "roman": "sari, fon idteeni.", "english": "Okay, I'll hang up now.", "literal": "okay, phone I-put", "note": "The usual way to close a call." }
+  ]
+}

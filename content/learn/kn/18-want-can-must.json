@@ -1,0 +1,65 @@
+{
+  "id": "want-can-must",
+  "level": "3 · Verbs",
+  "title": "Want, need, can, must",
+  "description": "Say what you want, what you have to do, what you can and cannot do, and what is allowed.",
+  "guide": [
+    {
+      "title": "Wanting a thing: dative + beku",
+      "text": "'I want water' is ನನಗೆ ನೀರು ಬೇಕು (nanage neeru beku), literally 'to-me water is-wanted'. The person who wants is in the dative (nanage, nimage, avanige, avalige, avarige, namage), the thing wanted is the subject, and ಬೇಕು (beku) never changes.\n\nbeku covers both 'want' and 'need'.\n\nNegative: ಬೇಡ (beda) - nanage beda, 'I don't want (it)'. A softer 'I don't need it' is ಬೇಕಾಗಿಲ್ಲ (bekaagilla).\nQuestion: ಬೇಕಾ? (bekaa?) - nimage enu beku? 'what do you want?'; neeru bekaa? 'do you want water?'\nPast: ಬೇಕಿತ್ತು (bekittu) 'wanted, was needed' - also a polite way to ask in a shop: nanage ondu pen bekittu, 'I was wanting a pen'.\n\nThis 'dative subject' pattern - the person in the dative, the feeling or thing as subject - is one of the keys to Kannada. You will meet it again with knowing, liking, having, being hungry and being ill.",
+      "examples": [
+        { "native": "ನನಗೆ ನೀರು ಬೇಕು.", "roman": "nanage neeru beku.", "english": "I want water." },
+        { "native": "ನಿಮಗೆ ಏನಾದರೂ ಬೇಕಾ?", "roman": "nimage enaadaroo bekaa?", "english": "Do you need anything?" },
+        { "native": "ಅವರಿಗೆ ಟೀ ಬೇಡ.", "roman": "avarige tee beda.", "english": "They don't want tea." },
+        { "native": "ನನಗೆ ಒಂದು ಪೆನ್ ಬೇಕಿತ್ತು.", "roman": "nanage ondu pen bekittu.", "english": "I wanted a pen. / I'd like a pen." }
+      ]
+    },
+    {
+      "title": "Having to do something: verb + -abeku",
+      "text": "Attach beku to a verb stem with a linking -a- and you get 'must, have to, need to, should': ಹೋಗಬೇಕು (hogabeku) must go; ಮಾಡಬೇಕು (maadabeku) must do; ಬರಬೇಕು (barabeku) must come; ತಿನ್ನಬೇಕು (tinnabeku) must eat; ನೋಡಬೇಕು (nodabeku) must see; ಕೊಡಬೇಕು (kodabeku) must give; ಇರಬೇಕು (irabeku) must be. Verbs in -i and -e insert y: kudiyabeku (must drink), iliyabeku (must get down).\n\nThe form is the same for every person. The person is usually in the plain form (naanu hogabeku); with the dative (nanage hogabeku) the sense leans towards 'I want to go'.\n\nStronger: insert the emphatic -e: ಬರಲೇಬೇಕು (baralebeku) 'really must come'.\n\nNegatives - three different meanings:\nneedn't: ಬರಬೇಕಾಗಿಲ್ಲ (barabekaagilla), 'there is no need to come'.\ndon't (command): ಬರಬೇಡಿ (barabedi).\nmust not, shouldn't: ಬರಬಾರದು (barabaaradu).\n\nPast: ಹೋಗಬೇಕಿತ್ತು (hogabekittu) 'had to go / should have gone'.",
+      "examples": [
+        { "native": "ನಾನು ಮನೆಗೆ ಹೋಗಬೇಕು.", "roman": "naanu manege hogabeku.", "english": "I have to go home." },
+        { "native": "ಏನು ಮಾಡಬೇಕು?", "roman": "enu maadabeku?", "english": "What should I do?" },
+        { "native": "ನೀವು ಬರಲೇಬೇಕು.", "roman": "neevu baralebeku.", "english": "You really must come." },
+        { "native": "ನೀವು ಬರಬೇಕಾಗಿಲ್ಲ.", "roman": "neevu barabekaagilla.", "english": "You don't need to come." },
+        { "native": "ಇಲ್ಲಿ ಫೋಟೋ ತೆಗೆಯಬಾರದು.", "roman": "illi foto tegeyabaaradu.", "english": "You must not take photos here." }
+      ]
+    },
+    {
+      "title": "Can: knowing how (barutte) and being able (aagutte)",
+      "text": "Kannada separates two kinds of 'can'.\n\nA skill you have learned 'comes to you': dative + skill + ಬರುತ್ತೆ (barutte). nanage kannada barutte, 'I can speak Kannada (Kannada comes to me)'. With a verb, use the -oke form: nanage eejoke barutte, 'I know how to swim'. Negative: ಬರಲ್ಲ (baralla). You will also hear barutte pronounced baratte.\n\nBeing able to do something on a given occasion 'happens for you': dative + verb in -oke + ಆಗುತ್ತೆ (aagutte). nanage baroke aagutte, 'I can come (it is possible for me)'. Negative: ಆಗಲ್ಲ (aagalla) - nanage baroke aagalla, 'I can't come'. Past: aaytu / aagalilla, 'managed to / couldn't'.\n\nThe -oke form ('to do, for doing') is made by adding -ಓಕೆ (-oke) to the stem: maadoke, hogoke, baroke, tinnoke, nodoke, odoke, kodoke; verbs in -i and -e insert y: kudiyoke, bareyoke. In written Kannada it is the infinitive in -alu: maadalu, baralu - so 'I can't come' is written nanage baralu aaguvudilla.",
+      "examples": [
+        { "native": "ನನಗೆ ಕನ್ನಡ ಓದೋಕೆ ಬರುತ್ತೆ.", "roman": "nanage kannada odoke barutte.", "english": "I can read Kannada." },
+        { "native": "ನನಗೆ ಈಜೋಕೆ ಬರಲ್ಲ.", "roman": "nanage eejoke baralla.", "english": "I can't swim." },
+        { "native": "ನನಗೆ ಇವತ್ತು ಬರೋಕೆ ಆಗಲ್ಲ.", "roman": "nanage ivattu baroke aagalla.", "english": "I can't come today." },
+        { "native": "ನಿಮಗೆ ಸಹಾಯ ಮಾಡೋಕೆ ಆಗುತ್ತಾ?", "roman": "nimage sahaaya maadoke aaguttaa?", "english": "Can you help?" }
+      ]
+    },
+    {
+      "title": "May (permission) and liking",
+      "text": "Permission and possibility use -ಅಬಹುದು (-abahudu), 'may, can': neevu illi kootkollabahudu, 'you may sit here'. To ask permission add -aa: ಬರಬಹುದಾ? (barabahudaa?) 'may I come?'. The refusal is -baaradu.\n\nLiking is another dative pattern: dative + thing + ಇಷ್ಟ (ishta), 'liking'. nanage dose ishta, 'I like dosa'. Negative: ishta illa. To like doing something, use the -odu form of the verb (the spoken verbal noun, 'the doing'): nanage ododu ishta, 'I like reading'; nanage aduge maadodu ishta, 'I like cooking'.",
+      "examples": [
+        { "native": "ನೀವು ಇಲ್ಲಿ ಕೂತ್ಕೊಳ್ಳಬಹುದು.", "roman": "neevu illi kootkollabahudu.", "english": "You may sit here." },
+        { "native": "ನಾನು ಒಳಗೆ ಬರಬಹುದಾ?", "roman": "naanu olage barabahudaa?", "english": "May I come in?" },
+        { "native": "ನನಗೆ ಮಸಾಲೆ ದೋಸೆ ಇಷ್ಟ.", "roman": "nanage masaale dose ishta.", "english": "I like masala dosa." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನನಗೆ ನೀರು ಬೇಕು.", "roman": "nanage neeru beku.", "english": "I want water.", "literal": "me-to water wanted", "note": "beku = want or need. The e is long." },
+    { "native": "ನಿಮಗೆ ಏನಾದರೂ ಬೇಕಾ?", "roman": "nimage enaadaroo bekaa?", "english": "Do you need anything?", "literal": "you-to anything wanted?", "note": "enaadaroo = anything at all. In speech: enaadroo (ಏನಾದ್ರೂ)." },
+    { "native": "ನಾನು ಮನೆಗೆ ಹೋಗಬೇಕು.", "roman": "naanu manege hogabeku.", "english": "I have to go home.", "literal": "I house-to go-must", "note": "Fast speech: hogbeku (ಹೋಗ್ಬೇಕು)." },
+    { "native": "ನೀವು ಬರಲೇಬೇಕು.", "roman": "neevu baralebeku.", "english": "You really must come.", "literal": "you come-indeed-must", "note": "The inserted long -e- adds insistence - a warm way to invite someone." },
+    { "native": "ನೀವು ಬರಬೇಕಾಗಿಲ್ಲ.", "roman": "neevu barabekaagilla.", "english": "You don't need to come.", "literal": "you come-need-is-not", "note": "'Needn't' - different from barabedi, 'don't come'." },
+    { "native": "ನನಗೆ ಕನ್ನಡ ಓದೋಕೆ ಬರುತ್ತೆ.", "roman": "nanage kannada odoke barutte.", "english": "I can read Kannada.", "literal": "me-to Kannada to-read comes", "note": "Written: nanage kannada odalu baruttade (ಓದಲು ಬರುತ್ತದೆ)." },
+    { "native": "ನನಗೆ ಈಜೋಕೆ ಬರಲ್ಲ.", "roman": "nanage eejoke baralla.", "english": "I can't swim.", "literal": "me-to to-swim comes-not", "note": "eeju = to swim." },
+    { "native": "ನನಗೆ ಇವತ್ತು ಬರೋಕೆ ಆಗಲ್ಲ.", "roman": "nanage ivattu baroke aagalla.", "english": "I can't come today.", "literal": "me-to today to-come happens-not", "note": "Written: baralu aaguvudilla (ಬರಲು ಆಗುವುದಿಲ್ಲ)." },
+    { "native": "ನಿಮಗೆ ಸಹಾಯ ಮಾಡೋಕೆ ಆಗುತ್ತಾ?", "roman": "nimage sahaaya maadoke aaguttaa?", "english": "Can you help?", "literal": "you-to help to-do happens?", "note": "A polite way to ask a favour." },
+    { "native": "ನೀವು ಇಲ್ಲಿ ಕೂತ್ಕೊಳ್ಳಬಹುದು.", "roman": "neevu illi kootkollabahudu.", "english": "You may sit here.", "literal": "you here sit-may", "note": "" },
+    { "native": "ನಾನು ಒಳಗೆ ಬರಬಹುದಾ?", "roman": "naanu olage barabahudaa?", "english": "May I come in?", "literal": "I inside come-may?", "note": "" },
+    { "native": "ಇಲ್ಲಿ ಫೋಟೋ ತೆಗೆಯಬಾರದು.", "roman": "illi foto tegeyabaaradu.", "english": "You must not take photos here.", "literal": "here photo take-must-not", "note": "foto tege = to take a photo." },
+    { "native": "ನನಗೆ ಮಸಾಲೆ ದೋಸೆ ಇಷ್ಟ.", "roman": "nanage masaale dose ishta.", "english": "I like masala dosa.", "literal": "me-to masala dosa liking", "note": "The o of dose is long." },
+    { "native": "ನನಗೆ ನಿದ್ದೆ ಮಾಡಬೇಕು.", "roman": "nanage nidde maadabeku.", "english": "I need to sleep.", "literal": "me-to sleep do-must", "note": "With the dative nanage the sense is 'I feel the need to'." },
+    { "native": "ಏನು ಮಾಡಬೇಕು?", "roman": "enu maadabeku?", "english": "What should I do?", "literal": "what do-must", "note": "" }
+  ]
+}

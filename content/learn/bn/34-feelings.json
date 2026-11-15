@@ -1,0 +1,57 @@
+{
+  "id": "feelings",
+  "level": "5 · Conversation",
+  "title": "Feelings and opinions",
+  "description": "Say how you feel, what you think, and whether you agree - using the 'it happens to me' pattern that Bengali prefers.",
+  "guide": [
+    {
+      "title": "Feelings happen to you",
+      "text": "A few feelings are plain adjectives, used with আমি and no verb: আমি খুশি (khushi) 'I am happy'; আমি ক্লান্ত (klaanto) 'I am tired'; আমি অবাক (obaak) 'I am astonished'.\n\nBut most feelings are nouns that 'happen' or 'do' or 'come' to a person, who is put in the possessive. You do not say 'I am afraid' but 'my fear is doing'.\n\nভয় করা - আমার ভয় করছে (bhoy korchhe) I am scared\nরাগ হওয়া - আমার রাগ হচ্ছে (raag hochchhe) I am getting angry\nলজ্জা করা - আমার লজ্জা করছে (lojjaa korchhe) I feel shy, embarrassed\nঘুম পাওয়া - আমার ঘুম পাচ্ছে (ghum paachchhe) I am sleepy\nকষ্ট হওয়া - আমার কষ্ট হচ্ছে (koshto hochchhe) I am suffering, it is hard for me\nআনন্দ হওয়া - আমার খুব আনন্দ হচ্ছে (aanondo hochchhe) I am very glad\n\nমন (mon) is the mind or heart: আমার মন খারাপ, 'my mind is bad' - I am feeling low; মন ভালো নেই, 'I'm not in good spirits'.",
+      "examples": [
+        { "native": "আমি খুব খুশি।", "roman": "aami khub khushi.", "english": "I am very happy." },
+        { "native": "আমার ভয় করছে।", "roman": "aamaar bhoy korchhe.", "english": "I am scared." },
+        { "native": "আমার খুব রাগ হচ্ছে।", "roman": "aamaar khub raag hochchhe.", "english": "I am very angry." },
+        { "native": "আমার ঘুম পাচ্ছে।", "roman": "aamaar ghum paachchhe.", "english": "I am feeling sleepy." },
+        { "native": "আমার মন খারাপ।", "roman": "aamaar mon khaaraap.", "english": "I am feeling low." }
+      ]
+    },
+    {
+      "title": "Good and bad: লাগা",
+      "text": "লাগা 'to strike, to feel' is the general verb of reaction. With ভালো it is liking and enjoyment; with খারাপ, dislike and feeling bad.\n\nআমার খুব ভালো লাগছে - I am feeling very good / I am enjoying this.\nআমার খুব খারাপ লাগছে - I feel very bad (sorry, upset or unwell).\nখুব ভালো লাগল - I enjoyed it very much (said afterwards).\nকেমন লাগল? - How did you like it?\n\n'To love' is one word, ভালোবাসা (bhaalobaashaa), and is a normal verb with আমি as subject: আমি তোমাকে ভালোবাসি। It is used for people; for things you love, say খুব ভালো লাগে or খুব ভালোবাসি - both are heard.",
+      "examples": [
+        { "native": "আমার খুব ভালো লাগছে।", "roman": "aamaar khub bhaalo laagchhe.", "english": "I am feeling very good." },
+        { "native": "আমার খুব খারাপ লাগছে।", "roman": "aamaar khub khaaraap laagchhe.", "english": "I feel very bad (about it)." },
+        { "native": "খুব ভালো লাগল।", "roman": "khub bhaalo laaglo.", "english": "I enjoyed it very much." },
+        { "native": "আমি তোমাকে ভালোবাসি।", "roman": "aami tomaake bhaalobaashi.", "english": "I love you." }
+      ]
+    },
+    {
+      "title": "I think, in my opinion",
+      "text": "'I think' is আমার মনে হয় (aamaar mone hoy), 'in my mind it happens'. The thing you think simply follows: আমার মনে হয় বৃষ্টি হবে, 'I think it will rain'. For an impression of the moment: মনে হচ্ছে, 'it seems'.\n\nTo ask: আপনার কী মনে হয়? 'What do you think?'\n\nমত (mot) is 'opinion': আমার মতে (aamaar mote) 'in my opinion'; একমত (ekmot) 'of one opinion': আমি আপনার সঙ্গে একমত, 'I agree with you'.\n\nঠিক (thik) right; ভুল (bhul) wrong, a mistake: আপনি ঠিকই বলছেন, 'you are quite right'; আমার ভুল হয়েছে, 'I made a mistake'.\n\nপছন্দ (pochhondo) 'liking': আমার এটা পছন্দ, 'I like this'; পছন্দ নয়, 'I don't like it'.\n\nTo reassure someone: চিন্তা করবেন না, 'don't worry'; কিছু হবে না, 'nothing will happen'.",
+      "examples": [
+        { "native": "আমার মনে হয় বৃষ্টি হবে।", "roman": "aamaar mone hoy brishti hobe.", "english": "I think it will rain." },
+        { "native": "আপনার কী মনে হয়?", "roman": "aapnaar kee mone hoy?", "english": "What do you think?" },
+        { "native": "আমি আপনার সঙ্গে একমত।", "roman": "aami aapnaar shonge ekmot.", "english": "I agree with you." },
+        { "native": "আপনি ঠিকই বলছেন।", "roman": "aapni thiki bolchhen.", "english": "You are quite right." },
+        { "native": "আমার এটা পছন্দ নয়।", "roman": "aamaar etaa pochhondo noy.", "english": "I don't like this." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি খুব খুশি।", "roman": "aami khub khushi.", "english": "I am very happy.", "literal": "I very happy", "note": "" },
+    { "native": "আমার মন খারাপ।", "roman": "aamaar mon khaaraap.", "english": "I am feeling low.", "literal": "my mind bad", "note": "" },
+    { "native": "আমার খুব ভালো লাগছে।", "roman": "aamaar khub bhaalo laagchhe.", "english": "I am feeling very good.", "literal": "my very good is-feeling", "note": "Also 'I am really enjoying this'." },
+    { "native": "আমার খুব খারাপ লাগছে।", "roman": "aamaar khub khaaraap laagchhe.", "english": "I feel very bad (about it).", "literal": "my very bad is-feeling", "note": "A sincere way to say you are sorry about something." },
+    { "native": "খুব ভালো লাগল।", "roman": "khub bhaalo laaglo.", "english": "I enjoyed it very much.", "literal": "very good felt", "note": "Said after a meal, a visit, a film." },
+    { "native": "আমার ভয় করছে।", "roman": "aamaar bhoy korchhe.", "english": "I am scared.", "literal": "my fear is-doing", "note": "" },
+    { "native": "আমার ঘুম পাচ্ছে।", "roman": "aamaar ghum paachchhe.", "english": "I am feeling sleepy.", "literal": "my sleep is-getting", "note": "" },
+    { "native": "আমার খুব রাগ হচ্ছে।", "roman": "aamaar khub raag hochchhe.", "english": "I am very angry.", "literal": "my much anger is-happening", "note": "" },
+    { "native": "আমি তোমাকে ভালোবাসি।", "roman": "aami tomaake bhaalobaashi.", "english": "I love you.", "literal": "I you-to love", "note": "Always with তুমি: love is not formal." },
+    { "native": "আমার মনে হয় বৃষ্টি হবে।", "roman": "aamaar mone hoy brishti hobe.", "english": "I think it will rain.", "literal": "my mind-in happens rain will-be", "note": "" },
+    { "native": "আপনার কী মনে হয়?", "roman": "aapnaar kee mone hoy?", "english": "What do you think?", "literal": "your what mind-in happens", "note": "" },
+    { "native": "আমি আপনার সঙ্গে একমত।", "roman": "aami aapnaar shonge ekmot.", "english": "I agree with you.", "literal": "I your with one-opinion", "note": "" },
+    { "native": "আপনি ঠিকই বলছেন।", "roman": "aapni thiki bolchhen.", "english": "You are quite right.", "literal": "you right-indeed are-saying", "note": "" },
+    { "native": "আমার এটা পছন্দ নয়।", "roman": "aamaar etaa pochhondo noy.", "english": "I don't like this.", "literal": "my this liking is-not", "note": "" },
+    { "native": "চিন্তা করবেন না।", "roman": "chintaa korben naa.", "english": "Don't worry.", "literal": "worry you-will-do not", "note": "" }
+  ]
+}

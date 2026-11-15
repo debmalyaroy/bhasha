@@ -1,0 +1,70 @@
+{
+  "id": "dialogues",
+  "level": "5 · Conversation",
+  "title": "Three complete dialogues",
+  "description": "Follow and take part in three real-life exchanges: meeting a neighbour, ordering at an eatery and taking an auto.",
+  "guide": [
+    {
+      "title": "How to use this unit",
+      "text": "Each of the next three sections is a short conversation between two people, A and B, given line by line. Nothing in them is new grammar: every form has been taught in an earlier unit. Read each dialogue aloud several times, first as A and then as B, until you can say your lines without looking.\n\nThings to notice as you read: the verb is always last; subjects are dropped when the verb ending makes them clear; yes/no questions end in a long -aa; and requests end in the polite -i.\n\nThe practice phrases below are the same lines, so the quiz will test whether you really understood each one.",
+      "examples": [
+        { "native": "ನಮಸ್ಕಾರ.", "roman": "namaskaara.", "english": "Hello." },
+        { "native": "ಹೋಗಿ ಬರ್ತೀನಿ.", "roman": "hogi barteeni.", "english": "Goodbye, I'm off." }
+      ]
+    },
+    {
+      "title": "Dialogue 1: Meeting a neighbour",
+      "text": "A is a long-time resident; B has just moved in. A opens with a guess ('are you new here?'), which is friendlier than a direct 'who are you?'. hosabaru is 'a new person' (from hosa, 'new'), in the respectful plural, and -aa makes it a question.\n\nB answers with the past tense bande ('I came') and no pronoun. ooru is one's home town. In the last two lines A pays the standard compliment, and B gives the standard modest reply with the continuous form kaleetiddeeni, 'I am learning'.\n\nLines: A, B, A, B, A, B.",
+      "examples": [
+        { "native": "ನಮಸ್ಕಾರ, ನೀವು ಇಲ್ಲಿ ಹೊಸಬರಾ?", "roman": "namaskaara, neevu illi hosabaraa?", "english": "A: Hello, are you new here?" },
+        { "native": "ಹೌದು, ಹೋದ ವಾರ ಬಂದೆ.", "roman": "haudu, hoda vaara bande.", "english": "B: Yes, I came last week." },
+        { "native": "ನಿಮ್ಮ ಊರು ಯಾವುದು?", "roman": "nimma ooru yaavudu?", "english": "A: Which is your home town?" },
+        { "native": "ನನ್ನ ಊರು ಲಂಡನ್.", "roman": "nanna ooru landan.", "english": "B: I'm from London." },
+        { "native": "ಕನ್ನಡ ಚೆನ್ನಾಗಿ ಮಾತಾಡ್ತೀರ!", "roman": "kannada chennaagi maataadteera!", "english": "A: You speak Kannada well!" },
+        { "native": "ಇಲ್ಲ, ಈಗ ಕಲೀತಿದ್ದೀನಿ.", "roman": "illa, eega kaleetiddeeni.", "english": "B: No, I'm learning now." }
+      ]
+    },
+    {
+      "title": "Dialogue 2: At a small eatery",
+      "text": "A is the person at the counter of a darshini, the stand-up eateries found all over Bengaluru; B is the customer.\n\nenu kodali? is 'what shall I give?' - the -ali form used with a question word. B orders with numbers and kodi. kudiyoke is the -oke form of kudi: 'to drink, for drinking'. In A's last line, two questions with -aa give the either/or choice: 'will you eat right here, or will you take it away?'. B answers with tinteeni and then asks the bill with eshtaaytu?, 'how much did it come to?'.\n\nLines: A, B, A, B, A, B.",
+      "examples": [
+        { "native": "ಏನು ಕೊಡಲಿ?", "roman": "enu kodali?", "english": "A: What can I get you?" },
+        { "native": "ಎರಡು ಇಡ್ಲಿ, ಒಂದು ವಡೆ ಕೊಡಿ.", "roman": "eradu idli, ondu vade kodi.", "english": "B: Two idlis and one vada, please." },
+        { "native": "ಕುಡಿಯೋಕೆ ಏನು ಬೇಕು?", "roman": "kudiyoke enu beku?", "english": "A: What would you like to drink?" },
+        { "native": "ಒಂದು ಕಾಫಿ, ಸಕ್ಕರೆ ಕಡಿಮೆ.", "roman": "ondu kaafi, sakkare kadime.", "english": "B: One coffee, less sugar." },
+        { "native": "ಇಲ್ಲೇ ತಿಂತೀರಾ, ತಗೊಂಡು ಹೋಗ್ತೀರಾ?", "roman": "ille tinteeraa, tagondu hogteeraa?", "english": "A: Will you eat here or take it away?" },
+        { "native": "ಇಲ್ಲೇ ತಿಂತೀನಿ. ಎಷ್ಟಾಯ್ತು?", "roman": "ille tinteeni. eshtaaytu?", "english": "B: I'll eat here. How much is it?" }
+      ]
+    },
+    {
+      "title": "Dialogue 3: Taking an auto",
+      "text": "A is the passenger, B the auto-rickshaw driver. A names the place with the 'to' ending (-kke after a name ending in -a) and asks barteeraa?, 'will you come?'. B agrees with the same verb in the 'I' form: barteeni.\n\neshtu aagutte? is 'how much will it be?'. meetar mele ippattu is 'twenty on top of the meter' - a common demand; mele is 'on, above'.\n\nThe last two lines are A's instructions during the ride: svalpa bega softens 'go fast', and ille edagade is 'right here, on the left side'.\n\nLines: A, B, A, B, A, A.",
+      "examples": [
+        { "native": "ಆಟೋ! ಜಯನಗರಕ್ಕೆ ಬರ್ತೀರಾ?", "roman": "aato! jayanagarakke barteeraa?", "english": "A: Auto! Will you go to Jayanagar?" },
+        { "native": "ಬರ್ತೀನಿ, ಕೂತ್ಕೊಳ್ಳಿ.", "roman": "barteeni, kootkolli.", "english": "B: Yes, get in." },
+        { "native": "ಎಷ್ಟು ಆಗುತ್ತೆ?", "roman": "eshtu aagutte?", "english": "A: How much will it be?" },
+        { "native": "ಮೀಟರ್ ಮೇಲೆ ಇಪ್ಪತ್ತು ಕೊಡಿ.", "roman": "meetar mele ippattu kodi.", "english": "B: Meter plus twenty." },
+        { "native": "ಸರಿ, ಸ್ವಲ್ಪ ಬೇಗ ಹೋಗಿ.", "roman": "sari, svalpa bega hogi.", "english": "A: All right, please go a bit fast." },
+        { "native": "ಇಲ್ಲೇ ಎಡಗಡೆ ನಿಲ್ಲಿಸಿ.", "roman": "ille edagade nillisi.", "english": "A: Stop right here on the left." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಮಸ್ಕಾರ, ನೀವು ಇಲ್ಲಿ ಹೊಸಬರಾ?", "roman": "namaskaara, neevu illi hosabaraa?", "english": "Hello, are you new here?", "literal": "hello, you here new-person?", "note": "Dialogue 1, A. hosabaru + -aa." },
+    { "native": "ಹೌದು, ಹೋದ ವಾರ ಬಂದೆ.", "roman": "haudu, hoda vaara bande.", "english": "Yes, I came last week.", "literal": "yes, gone week I-came", "note": "Dialogue 1, B. No pronoun needed: bande can only be 'I came' here." },
+    { "native": "ನನ್ನ ಊರು ಲಂಡನ್.", "roman": "nanna ooru landan.", "english": "I'm from London.", "literal": "my town London", "note": "Dialogue 1, B. Answers 'nimma ooru yaavudu?'" },
+    { "native": "ಕನ್ನಡ ಚೆನ್ನಾಗಿ ಮಾತಾಡ್ತೀರ!", "roman": "kannada chennaagi maataadteera!", "english": "You speak Kannada well!", "literal": "Kannada well you-speak", "note": "Dialogue 1, A." },
+    { "native": "ಇಲ್ಲ, ಈಗ ಕಲೀತಿದ್ದೀನಿ.", "roman": "illa, eega kaleetiddeeni.", "english": "No, I'm learning now.", "literal": "no, now I-am-learning", "note": "Dialogue 1, B." },
+    { "native": "ಏನು ಕೊಡಲಿ?", "roman": "enu kodali?", "english": "What can I get you?", "literal": "what shall-I-give", "note": "Dialogue 2, A. What the person serving asks." },
+    { "native": "ಎರಡು ಇಡ್ಲಿ, ಒಂದು ವಡೆ ಕೊಡಿ.", "roman": "eradu idli, ondu vade kodi.", "english": "Two idlis and one vada, please.", "literal": "two idli, one vada give", "note": "Dialogue 2, B." },
+    { "native": "ಕುಡಿಯೋಕೆ ಏನು ಬೇಕು?", "roman": "kudiyoke enu beku?", "english": "What would you like to drink?", "literal": "to-drink what wanted", "note": "Dialogue 2, A." },
+    { "native": "ಒಂದು ಕಾಫಿ, ಸಕ್ಕರೆ ಕಡಿಮೆ.", "roman": "ondu kaafi, sakkare kadime.", "english": "One coffee, less sugar.", "literal": "one coffee, sugar less", "note": "Dialogue 2, B." },
+    { "native": "ಇಲ್ಲೇ ತಿಂತೀರಾ, ತಗೊಂಡು ಹೋಗ್ತೀರಾ?", "roman": "ille tinteeraa, tagondu hogteeraa?", "english": "Will you eat here or take it away?", "literal": "right-here will-you-eat? having-taken will-you-go?", "note": "Dialogue 2, A. In practice people say 'paarsel' for takeaway." },
+    { "native": "ಇಲ್ಲೇ ತಿಂತೀನಿ. ಎಷ್ಟಾಯ್ತು?", "roman": "ille tinteeni. eshtaaytu?", "english": "I'll eat here. How much is it?", "literal": "right-here I-eat. how-much-happened", "note": "Dialogue 2, B." },
+    { "native": "ಆಟೋ! ಜಯನಗರಕ್ಕೆ ಬರ್ತೀರಾ?", "roman": "aato! jayanagarakke barteeraa?", "english": "Auto! Will you go to Jayanagar?", "literal": "auto! Jayanagar-to will-you-come?", "note": "Dialogue 3, A. Jayanagar is a neighbourhood of Bengaluru." },
+    { "native": "ಬರ್ತೀನಿ, ಕೂತ್ಕೊಳ್ಳಿ.", "roman": "barteeni, kootkolli.", "english": "Yes, get in.", "literal": "I-come, sit", "note": "Dialogue 3, B. The verb repeated in the 'I' form means 'yes'." },
+    { "native": "ಮೀಟರ್ ಮೇಲೆ ಇಪ್ಪತ್ತು ಕೊಡಿ.", "roman": "meetar mele ippattu kodi.", "english": "Meter plus twenty.", "literal": "meter above twenty give", "note": "Dialogue 3, B. Twenty rupees more than the meter shows." },
+    { "native": "ಸರಿ, ಸ್ವಲ್ಪ ಬೇಗ ಹೋಗಿ.", "roman": "sari, svalpa bega hogi.", "english": "All right, please go a bit fast.", "literal": "okay, a-little fast go", "note": "Dialogue 3, A." },
+    { "native": "ಇಲ್ಲೇ ಎಡಗಡೆ ನಿಲ್ಲಿಸಿ.", "roman": "ille edagade nillisi.", "english": "Stop right here on the left.", "literal": "right-here left-side stop", "note": "Dialogue 3, A. Right side: balagade (ಬಲಗಡೆ)." }
+  ]
+}

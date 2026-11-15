@@ -1,0 +1,56 @@
+{
+  "id": "this-that",
+  "level": "2 · How sentences work",
+  "title": "This, that, here, there",
+  "description": "Point to things, places, amounts and ways of doing something, near and far.",
+  "guide": [
+    {
+      "title": "The i- / a- / e- system",
+      "text": "Kannada pointing words come in neat sets of three. A word beginning with i- points to something near ('this'), the same word beginning with a- points to something far ('that'), and with e- or yaa- it asks a question ('which?').\n\nThing: ಇದು (idu) this - ಅದು (adu) that - ಯಾವುದು (yaavudu) which one / ಏನು (enu) what.\nPlace: ಇಲ್ಲಿ (illi) here - ಅಲ್ಲಿ (alli) there - ಎಲ್ಲಿ (elli) where.\nTime: ಈಗ (eega) now - ಆಗ (aaga) then - ಯಾವಾಗ (yaavaaga) when.\nManner: ಹೀಗೆ (heege) like this - ಹಾಗೆ (haage) like that - ಹೇಗೆ (hege) how.\nAmount: ಇಷ್ಟು (ishtu) this much - ಅಷ್ಟು (ashtu) that much - ಎಷ್ಟು (eshtu) how much.\nPerson: ivanu / avanu, ivalu / avalu, ivaru / avaru - yaaru.\n\nLearn one column and you know all three.",
+      "examples": [
+        { "native": "ಇಲ್ಲಿ ಬನ್ನಿ.", "roman": "illi banni.", "english": "Come here." },
+        { "native": "ಅಲ್ಲಿ ನೋಡಿ.", "roman": "alli nodi.", "english": "Look there." },
+        { "native": "ಹೀಗೆ ಮಾಡಿ.", "roman": "heege maadi.", "english": "Do it like this." },
+        { "native": "ಹಾಗೆ ಅಲ್ಲ.", "roman": "haage alla.", "english": "Not like that." },
+        { "native": "ಇಷ್ಟು ಸಾಕು.", "roman": "ishtu saaku.", "english": "This much is enough." }
+      ]
+    },
+    {
+      "title": "ee and aa before a noun; idu and adu on their own",
+      "text": "English uses 'this' both before a noun ('this house') and alone ('this is a house'). Kannada uses two different words.\n\nBefore a noun use the long vowels ಈ (ee) 'this' and ಆ (aa) 'that'. They never change: ee mane (this house), ee manegalu (these houses), aa hudugi (that girl).\n\nStanding alone as the subject or object use ಇದು (idu) and ಅದು (adu), with plurals ಇವು (ivu) 'these' and ಅವು (avu) 'those': idu mane, 'this is a house'.\n\nSo ee mane chennaagide is 'this house is nice', but idu chennaagide is 'this is nice'.",
+      "examples": [
+        { "native": "ಈ ಮನೆ ಚೆನ್ನಾಗಿದೆ.", "roman": "ee mane chennaagide.", "english": "This house is nice." },
+        { "native": "ಆ ಅಂಗಡಿ ದೂರ ಇದೆ.", "roman": "aa angadi doora ide.", "english": "That shop is far." },
+        { "native": "ಇದು ಬೇಕು, ಅದು ಬೇಡ.", "roman": "idu beku, adu beda.", "english": "I want this one, not that one." },
+        { "native": "ಇವು ನನ್ನ ಚಪ್ಪಲಿಗಳು.", "roman": "ivu nanna chappaligalu.", "english": "These are my sandals." }
+      ]
+    },
+    {
+      "title": "Endings on pointing words, and the emphatic -e",
+      "text": "The place words take case endings directly: illige (to here), illinda (from here), allige (to there), allinda (from there).\n\nidu and adu take endings on the stems ida- and ada-: idannu (this, as object), idakke (to/for this), idara (of this), idaralli (in this), idakkinta (than this).\n\nA long -e added to almost any word means 'only, itself, the very': ಇಲ್ಲೇ (ille) right here; ಅಲ್ಲೇ (alle) right there; ಈಗಲೇ (eegale) right now; ಅದೇ (ade) that very one, the same; ಇದೇ (ide) this very one; ಇವತ್ತೇ (ivatte) today itself. This little ending is extremely common in speech.\n\nಆಮೇಲೆ (aamele) literally 'on top of that' means 'afterwards, later'.",
+      "examples": [
+        { "native": "ಇಲ್ಲಿಂದ ಅಲ್ಲಿಗೆ ಹೋಗಿ.", "roman": "illinda allige hogi.", "english": "Go from here to there." },
+        { "native": "ನಾನು ಇಲ್ಲೇ ಇದ್ದೀನಿ.", "roman": "naanu ille iddeeni.", "english": "I am right here." },
+        { "native": "ಅದೇ ಬಸ್.", "roman": "ade bas.", "english": "That's the very bus." },
+        { "native": "ಈಗಲೇ ಬನ್ನಿ.", "roman": "eegale banni.", "english": "Come right now." },
+        { "native": "ಈಗ ಬೇಡ, ಆಮೇಲೆ.", "roman": "eega beda, aamele.", "english": "Not now, later." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಈ ಮನೆ ಚೆನ್ನಾಗಿದೆ.", "roman": "ee mane chennaagide.", "english": "This house is nice.", "literal": "this house good-is", "note": "ee before a noun; idu when standing alone." },
+    { "native": "ಆ ಅಂಗಡಿ ದೂರ ಇದೆ.", "roman": "aa angadi doora ide.", "english": "That shop is far.", "literal": "that shop far is", "note": "" },
+    { "native": "ಇದು ಬೇಕು, ಅದು ಬೇಡ.", "roman": "idu beku, adu beda.", "english": "I want this one, not that one.", "literal": "this wanted, that not-wanted", "note": "" },
+    { "native": "ಇಲ್ಲಿ ಬನ್ನಿ.", "roman": "illi banni.", "english": "Come here.", "literal": "here come", "note": "" },
+    { "native": "ಅಲ್ಲಿ ನೋಡಿ.", "roman": "alli nodi.", "english": "Look there.", "literal": "there look", "note": "The o of nodi is long." },
+    { "native": "ಇವು ನನ್ನ ಚಪ್ಪಲಿಗಳು.", "roman": "ivu nanna chappaligalu.", "english": "These are my sandals.", "literal": "these my sandals", "note": "Shoes are left at the door of homes and temples." },
+    { "native": "ಹೀಗೆ ಮಾಡಿ.", "roman": "heege maadi.", "english": "Do it like this.", "literal": "like-this do", "note": "heege (like this) has a long ee; hege (how) has a long e." },
+    { "native": "ಹಾಗೆ ಅಲ್ಲ.", "roman": "haage alla.", "english": "Not like that.", "literal": "like-that is-not", "note": "" },
+    { "native": "ಇಷ್ಟು ಸಾಕು.", "roman": "ishtu saaku.", "english": "This much is enough.", "literal": "this-much enough", "note": "" },
+    { "native": "ಇಲ್ಲಿಂದ ಅಲ್ಲಿಗೆ ಹೋಗಿ.", "roman": "illinda allige hogi.", "english": "Go from here to there.", "literal": "here-from there-to go", "note": "" },
+    { "native": "ನಾನು ಇಲ್ಲೇ ಇದ್ದೀನಿ.", "roman": "naanu ille iddeeni.", "english": "I am right here.", "literal": "I right-here am", "note": "illi + emphatic -e; the final e is long." },
+    { "native": "ಈಗ ಬೇಡ, ಆಮೇಲೆ.", "roman": "eega beda, aamele.", "english": "Not now, later.", "literal": "now not-wanted, afterwards", "note": "" },
+    { "native": "ಅದೇ ಬಸ್.", "roman": "ade bas.", "english": "That's the very bus.", "literal": "that-very bus", "note": "adu + emphatic -e." },
+    { "native": "ಅಷ್ಟು ದೂರ ಇಲ್ಲ.", "roman": "ashtu doora illa.", "english": "It isn't that far.", "literal": "that-much far is-not", "note": "" }
+  ]
+}

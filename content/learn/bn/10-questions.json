@@ -1,0 +1,64 @@
+{
+  "id": "questions",
+  "level": "2 · How sentences work",
+  "title": "Asking questions",
+  "description": "Ask what, who, where, when, why, how and how much, and turn any statement into a yes/no question.",
+  "guide": [
+    {
+      "title": "Question words stay in place",
+      "text": "English moves the question word to the front. Bengali leaves it where the answer would go, which is normally just before the verb.\n\nআপনি কোথায় যাচ্ছেন? - 'you where are-going?' The answer drops into the same slot: আমি বাজারে যাচ্ছি।\n\nThe main question words:\nকী (kee) what\nকে (ke) who - কার (kaar) whose - কাকে (kaake) whom, to whom\nকোথায় (kothaay) where\nকখন (kokhon) when, at what time - কবে (kobe) when, on what day\nকেন (keno) why\nকেমন (kemon) how, what like\nকোন (kon) which\nকত (koto) how much\nকী করে (kee kore) or কীভাবে (keebhaabe) how, in what way\n\nMost of them begin with ক, just as English ones begin with wh-. In কেন and কেমন the e is the a of 'cat'.",
+      "examples": [
+        { "native": "এটা কী?", "roman": "etaa kee?", "english": "What is this?" },
+        { "native": "উনি কে?", "roman": "uni ke?", "english": "Who is he/she?" },
+        { "native": "আপনি কোথায় যাচ্ছেন?", "roman": "aapni kothaay jaachchhen?", "english": "Where are you going?" },
+        { "native": "আপনি কখন আসবেন?", "roman": "aapni kokhon aashben?", "english": "When will you come?" },
+        { "native": "আপনি কেন হাসছেন?", "roman": "aapni keno haashchhen?", "english": "Why are you laughing?" }
+      ]
+    },
+    {
+      "title": "Yes/no questions: কি with a short i",
+      "text": "To ask a yes/no question, you can simply say the statement with a rising tone: আপনি বাঙালি? 'You are Bengali?'\n\nOr you can add the little word কি (ki), usually right after the subject: আপনি কি বাঙালি? It has no meaning of its own; it only announces that a yes/no question is coming, like 'do' or 'is' at the start of an English question.\n\nThis কি is spelt with the SHORT vowel sign. The word for 'what', কী, is spelt with the LONG one. They sound almost the same (কী carries the stress), but in writing the difference matters:\n\nআপনি কি খাবেন? - Will you eat? (yes or no)\nআপনি কী খাবেন? - What will you eat?\n\nTo answer, repeat the verb: খাব (I will) or খাব না (I won't).",
+      "examples": [
+        { "native": "আপনি কি বাঙালি?", "roman": "aapni ki baangaali?", "english": "Are you Bengali?" },
+        { "native": "তুমি কি আসবে?", "roman": "tumi ki aashbe?", "english": "Will you come?" },
+        { "native": "আপনি কি খাবেন?", "roman": "aapni ki khaaben?", "english": "Will you eat?" },
+        { "native": "আপনি কী খাবেন?", "roman": "aapni kee khaaben?", "english": "What will you have (to eat)?" }
+      ]
+    },
+    {
+      "title": "How much and how many",
+      "text": "কত (koto) asks for an amount or a number: কত টাকা? 'how much money?'; কত দূর? 'how far?'. It is also the word for asking any number - a price, a phone number, a date, someone's age: আপনার বয়স কত? 'what is your age?'\n\nFor counting things, add the classifier: কটা (kotaa) 'how many (things)', কজন (kojon) 'how many (people)'. These are often written ক'টা and ক'জন, or in full কয়টা, কয়জন.\n\nকটা is also how you ask the time: কটা বাজে?",
+      "examples": [
+        { "native": "কত টাকা?", "roman": "koto taakaa?", "english": "How much (money)?" },
+        { "native": "আপনার বয়স কত?", "roman": "aapnaar boyosh koto?", "english": "How old are you?" },
+        { "native": "কটা চাই?", "roman": "kotaa chaai?", "english": "How many do you want?" },
+        { "native": "কজন আসবে?", "roman": "kojon aashbe?", "english": "How many people will come?" }
+      ]
+    },
+    {
+      "title": "Checking: তো and না",
+      "text": "Two small words turn a statement into 'isn't it?' or 'won't you?'.\n\nতো (to) at the end of a sentence expects the answer yes: আপনি চা খাবেন তো? 'You'll have tea, won't you?'; ভালো তো? 'All well, I hope?'\n\nতাই না? (taai naa), literally 'so, no?', is the general tag 'isn't that so?'.\n\nনা (naa) alone at the end also works as a tag: খুব গরম, না? 'Very hot, isn't it?'",
+      "examples": [
+        { "native": "আপনি চা খাবেন তো?", "roman": "aapni chaa khaaben to?", "english": "You'll have tea, won't you?" },
+        { "native": "ভালো তো?", "roman": "bhaalo to?", "english": "All well, I hope?" },
+        { "native": "তাই না?", "roman": "taai naa?", "english": "Isn't that so?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "এটা কী?", "roman": "etaa kee?", "english": "What is this?", "literal": "this what", "note": "কী with the long vowel sign means 'what'." },
+    { "native": "উনি কে?", "roman": "uni ke?", "english": "Who is he/she?", "literal": "that-person who", "note": "" },
+    { "native": "আপনি কোথায় যাচ্ছেন?", "roman": "aapni kothaay jaachchhen?", "english": "Where are you going?", "literal": "you where are-going", "note": "" },
+    { "native": "আপনি কখন আসবেন?", "roman": "aapni kokhon aashben?", "english": "When will you come?", "literal": "you when will-come", "note": "কখন asks for a time of day; কবে (kobe) asks for a day or date." },
+    { "native": "আপনি কেন হাসছেন?", "roman": "aapni keno haashchhen?", "english": "Why are you laughing?", "literal": "you why are-laughing", "note": "" },
+    { "native": "কত টাকা?", "roman": "koto taakaa?", "english": "How much (money)?", "literal": "how-much money", "note": "টাকা is the rupee in India and the taka in Bangladesh, and also simply 'money'." },
+    { "native": "কোন বাসটা যাবে?", "roman": "kon baastaa jaabe?", "english": "Which bus will go there?", "literal": "which bus-the will-go", "note": "" },
+    { "native": "এটা কার?", "roman": "etaa kaar?", "english": "Whose is this?", "literal": "this whose", "note": "" },
+    { "native": "আপনি কাকে খুঁজছেন?", "roman": "aapni kaake khunjchhen?", "english": "Who are you looking for?", "literal": "you whom are-searching", "note": "" },
+    { "native": "এটা কী করে খোলে?", "roman": "etaa kee kore khole?", "english": "How does this open?", "literal": "this what doing opens", "note": "কী করে, 'doing what', is the everyday 'how'." },
+    { "native": "কজন আসবে?", "roman": "kojon aashbe?", "english": "How many people will come?", "literal": "how-many-persons will-come", "note": "" },
+    { "native": "আপনি কি বাঙালি?", "roman": "aapni ki baangaali?", "english": "Are you Bengali?", "literal": "you (question) Bengali", "note": "কি with the short vowel sign only marks a yes/no question." },
+    { "native": "তুমি কি আসবে?", "roman": "tumi ki aashbe?", "english": "Will you come?", "literal": "you (question) will-come", "note": "Familiar form." },
+    { "native": "আপনি চা খাবেন তো?", "roman": "aapni chaa khaaben to?", "english": "You'll have tea, won't you?", "literal": "you tea will-eat (surely)", "note": "Bengali 'eats' tea, water and all other drinks." }
+  ]
+}

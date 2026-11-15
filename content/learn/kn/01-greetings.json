@@ -1,0 +1,54 @@
+{
+  "id": "greetings",
+  "level": "1 · First words",
+  "title": "Greetings & basics",
+  "description": "Say hello and goodbye, ask how someone is, thank people and give simple answers.",
+  "guide": [
+    {
+      "title": "One greeting for every time of day",
+      "text": "ನಮಸ್ಕಾರ (namaskaara) works for hello and goodbye, morning or night, to anyone. ನಮಸ್ತೆ (namaste) is also understood. Kannada does have words for 'good morning' and 'good night' (shubhodaya, shubha raatri), but they are formal and sound like a radio announcer; in real life people say namaskaara, or just the English 'good morning'.\n\nWhen leaving, Kannada speakers do not say 'I am going' - that sounds as if you will never return. They say ಹೋಗಿ ಬರ್ತೀನಿ (hogi barteeni), 'I will go and come back'. The person staying replies ಹೋಗಿ ಬನ್ನಿ (hogi banni), 'go and come'.",
+      "examples": [
+        { "native": "ನಮಸ್ಕಾರ", "roman": "namaskaara", "english": "Hello / Goodbye" },
+        { "native": "ಶುಭೋದಯ", "roman": "shubhodaya", "english": "Good morning (formal)" },
+        { "native": "ಹೋಗಿ ಬರ್ತೀನಿ.", "roman": "hogi barteeni.", "english": "Goodbye (said by the person leaving)" },
+        { "native": "ಹೋಗಿ ಬನ್ನಿ.", "roman": "hogi banni.", "english": "Goodbye (said by the person staying)" }
+      ]
+    },
+    {
+      "title": "How are you? - and how the words fuse",
+      "text": "ಹೇಗೆ (hege) means 'how' and ಇದ್ದೀರ (iddeera) means 'you are'. Said together they fuse into one word: hege + iddeera = hegiddeera. In the same way the answer is ಚೆನ್ನಾಗಿ (chennaagi, 'well') + ಇದ್ದೀನಿ (iddeeni, 'I am') = chennaagiddeeni. This fusing of a short word with 'is/am/are' happens all the time, so learn to hear the two parts.\n\nಚೆನ್ನಾಗಿದ್ದೀರಾ? (chennaagiddeeraa?) with a long aa at the end is a yes/no question: 'Are you well?' The final -aa is the question marker. With a question word such as hege you do not need it.\n\nನೀವು (neevu) is the polite 'you' and is the one to use with adults you do not know well. To a child or a close friend you would say ನೀನು ಹೇಗಿದ್ದೀಯ? (neenu hegiddeeya?).\n\nA very common friendly greeting around mealtimes is ಊಟ ಆಯ್ತಾ? - 'Have you eaten?' It is not an invitation; just answer ಆಯ್ತು (aaytu, 'done').",
+      "examples": [
+        { "native": "ನೀವು ಹೇಗಿದ್ದೀರ?", "roman": "neevu hegiddeera?", "english": "How are you? (polite)" },
+        { "native": "ನೀನು ಹೇಗಿದ್ದೀಯ?", "roman": "neenu hegiddeeya?", "english": "How are you? (to a friend or child)" },
+        { "native": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ.", "roman": "naanu chennaagiddeeni.", "english": "I am fine." },
+        { "native": "ನೀವು?", "roman": "neevu?", "english": "And you?" },
+        { "native": "ಊಟ ಆಯ್ತಾ?", "roman": "oota aaytaa?", "english": "Have you eaten?" }
+      ]
+    },
+    {
+      "title": "Thank you, sorry and short answers",
+      "text": "ಧನ್ಯವಾದಗಳು (dhanyavaadagalu) is 'thank you'. It is correct and appreciated, but among themselves people mostly say the English 'thanks', or show thanks with a smile and a polite verb form. ಕ್ಷಮಿಸಿ (kshamisi) is both 'sorry' and 'excuse me'.\n\nಹೌದು (haudu) is 'yes', ಇಲ್ಲ (illa) is 'no', and ಸರಿ (sari) is 'okay, right'. The unit 'Yes, no and polite words' looks at these more closely, because Kannada has three different words where English has 'no'.",
+      "examples": [
+        { "native": "ಧನ್ಯವಾದಗಳು", "roman": "dhanyavaadagalu", "english": "Thank you" },
+        { "native": "ಕ್ಷಮಿಸಿ", "roman": "kshamisi", "english": "Sorry / Excuse me" },
+        { "native": "ಸರಿ", "roman": "sari", "english": "Okay" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಮಸ್ಕಾರ", "roman": "namaskaara", "english": "Hello", "note": "Works at any time of day, for both hello and goodbye." },
+    { "native": "ನೀವು ಹೇಗಿದ್ದೀರ?", "roman": "neevu hegiddeera?", "english": "How are you?", "literal": "you how-are", "note": "The first e is long. neevu is the polite 'you'. Often written with a long final vowel, ಹೇಗಿದ್ದೀರಾ; the formal written form is ಹೇಗಿದ್ದೀರಿ (hegiddeeri)." },
+    { "native": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ.", "roman": "naanu chennaagiddeeni.", "english": "I am fine.", "literal": "I well-am", "note": "Spoken form; in writing it is chennaagiddene (ಚೆನ್ನಾಗಿದ್ದೇನೆ)." },
+    { "native": "ಚೆನ್ನಾಗಿದ್ದೀರಾ?", "roman": "chennaagiddeeraa?", "english": "Are you well?", "note": "The long -aa at the end makes it a yes/no question. Answer: ಚೆನ್ನಾಗಿದ್ದೀನಿ (chennaagiddeeni)." },
+    { "native": "ಧನ್ಯವಾದಗಳು", "roman": "dhanyavaadagalu", "english": "Thank you", "note": "In casual speech most people simply say 'thanks'." },
+    { "native": "ಕ್ಷಮಿಸಿ", "roman": "kshamisi", "english": "Sorry / Excuse me", "note": "Literally 'forgive (me)'." },
+    { "native": "ಹೌದು", "roman": "haudu", "english": "Yes", "note": "" },
+    { "native": "ಇಲ್ಲ", "roman": "illa", "english": "No", "note": "Also means 'is not there'." },
+    { "native": "ಸರಿ", "roman": "sari", "english": "Okay", "note": "Also means 'correct'." },
+    { "native": "ಮತ್ತೆ ಸಿಗೋಣ", "roman": "matte sigona", "english": "See you again", "literal": "again let-us-meet", "note": "The o is long. The ending -ona means 'let us'." },
+    { "native": "ಶುಭ ರಾತ್ರಿ", "roman": "shubha raatri", "english": "Good night", "literal": "auspicious night", "note": "Formal; many people just say 'good night'." },
+    { "native": "ಶುಭೋದಯ", "roman": "shubhodaya", "english": "Good morning", "note": "Formal - heard on the radio and in schools. The o is long." },
+    { "native": "ಹೋಗಿ ಬರ್ತೀನಿ.", "roman": "hogi barteeni.", "english": "Goodbye, I'm off.", "literal": "having-gone I-will-come", "note": "The normal way to take leave: 'I'll go and come back'. Written form: hogi baruttene (ಹೋಗಿ ಬರುತ್ತೇನೆ)." },
+    { "native": "ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ.", "roman": "banni, kootkolli.", "english": "Come in, please sit down.", "literal": "come, sit", "note": "What a host says to a guest. Written form of the second word: kulitukolli (ಕುಳಿತುಕೊಳ್ಳಿ)." }
+  ]
+}

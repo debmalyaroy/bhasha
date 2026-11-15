@@ -1,0 +1,67 @@
+{
+  "id": "negation",
+  "level": "2 · How sentences work",
+  "title": "Saying no: negation",
+  "description": "Say that something is not so, is not there, did not happen, is not wanted or must not be done.",
+  "guide": [
+    {
+      "title": "illa and alla",
+      "text": "ಇಲ್ಲ (illa) is the negative of iru, 'to be (somewhere), to exist'. It says that something or someone is not present or does not exist, and it is the same for every person: naanu illa, avaru illa, neeru illa.\n\nಅಲ್ಲ (alla) is the negative of the verbless 'X is Y' sentence. It says that something is not what was claimed: naanu daaktar alla, 'I am not a doctor'; idu sari alla, 'this is not right'.\n\nA quick test: if the positive sentence would use ide / iddaare, the negative is illa. If the positive sentence has no verb, the negative is alla.\n\nWith question-word + -oo, a negative gives 'nobody, nothing, nowhere': yaaroo illa (nobody is here), enoo illa (there is nothing), elloo illa (it is nowhere).",
+      "examples": [
+        { "native": "ಅವರು ಮನೆಯಲ್ಲಿ ಇಲ್ಲ.", "roman": "avaru maneyalli illa.", "english": "He / She is not at home." },
+        { "native": "ನಾನು ಡಾಕ್ಟರ್ ಅಲ್ಲ.", "roman": "naanu daaktar alla.", "english": "I am not a doctor." },
+        { "native": "ಇದು ಸರಿ ಅಲ್ಲ.", "roman": "idu sari alla.", "english": "This is not right." },
+        { "native": "ಯಾರೂ ಇಲ್ಲ.", "roman": "yaaroo illa.", "english": "Nobody is here." }
+      ]
+    },
+    {
+      "title": "Negating a verb: -alla and -alilla",
+      "text": "Negative verbs are wonderfully simple in spoken Kannada, because they do not change with the person.\n\nDon't / doesn't / won't: verb stem + -alla. maadu - ಮಾಡಲ್ಲ (maadalla), hogu - ಹೋಗಲ್ಲ (hogalla), baa - ಬರಲ್ಲ (baralla), tinnu - ತಿನ್ನಲ್ಲ (tinnalla), kudi - ಕುಡಿಯಲ್ಲ (kudiyalla), nodu - ನೋಡಲ್ಲ (nodalla), kelu - ಕೇಳಲ್ಲ (kelalla), kodu - ಕೊಡಲ್ಲ (kodalla), iru - ಇರಲ್ಲ (iralla), aagu - ಆಗಲ್ಲ (aagalla). naanu baralla, avanu baralla, avaru baralla: I, he, they won't come. The written form is the verbal noun + illa: maaduvudilla, baruvudilla.\n\nDidn't: verb stem + -alilla (the infinitive in -alu plus illa). ಮಾಡಲಿಲ್ಲ (maadalilla), ಹೋಗಲಿಲ್ಲ (hogalilla), ಬರಲಿಲ್ಲ (baralilla), ತಿನ್ನಲಿಲ್ಲ (tinnalilla), ಕೊಡಲಿಲ್ಲ (kodalilla), ಆಗಲಿಲ್ಲ (aagalilla). Again one form for all persons. In fast speech the a drops: maadlilla, barlilla.\n\nIsn't / aren't ...-ing: stem + -tilla. ಬರ್ತಿಲ್ಲ (bartilla) is not coming; ಮಾಡ್ತಿಲ್ಲ (maadtilla) is not doing; ಆಗ್ತಿಲ್ಲ (aagtilla) is not happening.",
+      "examples": [
+        { "native": "ನಾನು ಮಾಂಸ ತಿನ್ನಲ್ಲ.", "roman": "naanu maamsa tinnalla.", "english": "I don't eat meat." },
+        { "native": "ನಾನು ನಾಳೆ ಬರಲ್ಲ.", "roman": "naanu naale baralla.", "english": "I won't come tomorrow." },
+        { "native": "ಅವನು ನಿನ್ನೆ ಬರಲಿಲ್ಲ.", "roman": "avanu ninne baralilla.", "english": "He didn't come yesterday." },
+        { "native": "ನಾನು ಏನೂ ಮಾಡಲಿಲ್ಲ.", "roman": "naanu enoo maadalilla.", "english": "I didn't do anything." },
+        { "native": "ಮಳೆ ಬರ್ತಿಲ್ಲ.", "roman": "male bartilla.", "english": "It isn't raining." }
+      ]
+    },
+    {
+      "title": "Don't! and must not",
+      "text": "A negative command is the verb stem + -a + ಬೇಡ (beda): ಹೋಗಬೇಡ (hogabeda), 'don't go', to a friend or child. For the polite form add -i: ಹೋಗಬೇಡಿ (hogabedi). Likewise maadabedi (don't do), barabedi (don't come), mareyabedi (don't forget).\n\nA rule or prohibition - 'one must not, it is not allowed' - uses stem + -a + ಬಾರದು (baaradu): illi nillisabaaradu, 'one must not stop here'. This is what you see on signs.\n\nIn fast speech the linking a is dropped: hogbedi, maadbedi, maadbaardu.",
+      "examples": [
+        { "native": "ಅಲ್ಲಿ ಹೋಗಬೇಡಿ.", "roman": "alli hogabedi.", "english": "Please don't go there." },
+        { "native": "ಚಿಂತೆ ಮಾಡಬೇಡಿ.", "roman": "chinte maadabedi.", "english": "Don't worry." },
+        { "native": "ಹೋಗಬೇಡ.", "roman": "hogabeda.", "english": "Don't go. (to a friend or child)" },
+        { "native": "ಇಲ್ಲಿ ಗಾಡಿ ನಿಲ್ಲಿಸಬಾರದು.", "roman": "illi gaadi nillisabaaradu.", "english": "You must not park here." }
+      ]
+    },
+    {
+      "title": "Negatives of want, know, like and can",
+      "text": "Several everyday words have their own negative partner:\n\nಬೇಕು (beku) want/need - ಬೇಡ (beda) don't want.\nಗೊತ್ತು (gottu) know - ಗೊತ್ತಿಲ್ಲ (gottilla) don't know.\nಇಷ್ಟ (ishta) like - ಇಷ್ಟ ಇಲ್ಲ (ishta illa) don't like.\nಬರುತ್ತೆ (barutte) 'comes' = know how to - ಬರಲ್ಲ (baralla) can't, don't know how.\nಆಗುತ್ತೆ (aagutte) 'happens' = is possible - ಆಗಲ್ಲ (aagalla) can't be done, not possible.\nಸಾಕು (saaku) enough - ಸಾಲಲ್ಲ (saalalla) not enough.\n\nAll of these take the person in the dative: nanage beda, nanage gottilla, nanage baralla.",
+      "examples": [
+        { "native": "ನನಗೆ ಕಾಫಿ ಬೇಡ.", "roman": "nanage kaafi beda.", "english": "I don't want coffee." },
+        { "native": "ನನಗೆ ಗೊತ್ತಿಲ್ಲ.", "roman": "nanage gottilla.", "english": "I don't know." },
+        { "native": "ನನಗೆ ಇಷ್ಟ ಇಲ್ಲ.", "roman": "nanage ishta illa.", "english": "I don't like it." },
+        { "native": "ನನಗೆ ಹಿಂದಿ ಬರಲ್ಲ.", "roman": "nanage hindi baralla.", "english": "I can't speak Hindi." },
+        { "native": "ಇದು ಆಗಲ್ಲ.", "roman": "idu aagalla.", "english": "This can't be done." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಅವರು ಮನೆಯಲ್ಲಿ ಇಲ್ಲ.", "roman": "avaru maneyalli illa.", "english": "He is not at home.", "literal": "he(respectful) house-in is-not", "note": "illa is the same for every person." },
+    { "native": "ನಾನು ಡಾಕ್ಟರ್ ಅಲ್ಲ.", "roman": "naanu daaktar alla.", "english": "I am not a doctor.", "literal": "I doctor am-not", "note": "alla, not illa: you are denying what you are." },
+    { "native": "ನಾನು ಮಾಂಸ ತಿನ್ನಲ್ಲ.", "roman": "naanu maamsa tinnalla.", "english": "I don't eat meat.", "literal": "I meat eat-not", "note": "Written: tinnuvudilla (ತಿನ್ನುವುದಿಲ್ಲ)." },
+    { "native": "ನಾನು ನಾಳೆ ಬರಲ್ಲ.", "roman": "naanu naale baralla.", "english": "I won't come tomorrow.", "literal": "I tomorrow come-not", "note": "Written: baruvudilla (ಬರುವುದಿಲ್ಲ)." },
+    { "native": "ಅವನು ನಿನ್ನೆ ಬರಲಿಲ್ಲ.", "roman": "avanu ninne baralilla.", "english": "He didn't come yesterday.", "literal": "he yesterday came-not", "note": "Fast speech: barlilla (ಬರ್ಲಿಲ್ಲ)." },
+    { "native": "ನಾನು ಏನೂ ಮಾಡಲಿಲ್ಲ.", "roman": "naanu enoo maadalilla.", "english": "I didn't do anything.", "literal": "I anything did-not", "note": "enu + -oo = enoo, 'anything'." },
+    { "native": "ಅಲ್ಲಿ ಹೋಗಬೇಡಿ.", "roman": "alli hogabedi.", "english": "Please don't go there.", "literal": "there go-don't", "note": "To a friend or child: hogabeda (ಹೋಗಬೇಡ)." },
+    { "native": "ಇಲ್ಲಿ ಗಾಡಿ ನಿಲ್ಲಿಸಬಾರದು.", "roman": "illi gaadi nillisabaaradu.", "english": "You must not park here.", "literal": "here vehicle stop-must-not", "note": "gaadi is any vehicle. -baaradu states a rule." },
+    { "native": "ನನಗೆ ಕಾಫಿ ಬೇಡ.", "roman": "nanage kaafi beda.", "english": "I don't want coffee.", "literal": "me-to coffee not-wanted", "note": "" },
+    { "native": "ನನಗೆ ಹಿಂದಿ ಬರಲ್ಲ.", "roman": "nanage hindi baralla.", "english": "I can't speak Hindi.", "literal": "me-to Hindi comes-not", "note": "A language 'comes to you' in Kannada." },
+    { "native": "ಇದು ಸರಿ ಅಲ್ಲ.", "roman": "idu sari alla.", "english": "This is not right.", "literal": "this correct is-not", "note": "" },
+    { "native": "ಯಾರೂ ಇಲ್ಲ.", "roman": "yaaroo illa.", "english": "Nobody is here.", "literal": "anyone is-not", "note": "yaaru + -oo = yaaroo." },
+    { "native": "ಚಿಂತೆ ಮಾಡಬೇಡಿ.", "roman": "chinte maadabedi.", "english": "Don't worry.", "literal": "worry do-don't", "note": "" },
+    { "native": "ನನಗೆ ಇಷ್ಟ ಇಲ್ಲ.", "roman": "nanage ishta illa.", "english": "I don't like it.", "literal": "me-to liking is-not", "note": "" },
+    { "native": "ಮಳೆ ಬರ್ತಿಲ್ಲ.", "roman": "male bartilla.", "english": "It isn't raining.", "literal": "rain is-not-coming", "note": "Written: baruttilla (ಬರುತ್ತಿಲ್ಲ)." }
+  ]
+}

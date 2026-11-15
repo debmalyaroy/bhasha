@@ -1,0 +1,64 @@
+{
+  "id": "classifiers",
+  "level": "2 · How sentences work",
+  "title": "Counting and 'the': -taa, -ti, -jon, -khaanaa",
+  "description": "Use the classifier endings to say 'the', to count things and people, and to talk about a little or a lot.",
+  "guide": [
+    {
+      "title": "-টা: 'the', and the counting ending",
+      "text": "The ending -টা (-taa) has two jobs.\n\nOn a noun it means 'the': বই 'book' - বইটা 'the book'; চাবি 'key' - চাবিটা 'the key'. Use it when both of you know which one is meant.\n\nOn a number it lets you count things: একটা বই 'one book, a book', পাঁচটা বই 'five books'. A number cannot normally stand directly before a noun without it. The noun stays singular.\n\nKolkata speech has three irregular forms: দুটো (duto), তিনটে (tinte), চারটে (chaarte). Everything else is regular: একটা, পাঁচটা, ছটা, সাতটা, আটটা, নটা, দশটা. Bangladesh standard uses -টা throughout: দুইটা, তিনটা, চারটা.\n\nIt also attaches to other counting words: কটা (kotaa) 'how many?', কয়েকটা (koyektaa) 'a few', অনেকগুলো 'many'.",
+      "examples": [
+        { "native": "বইটা কোথায়?", "roman": "boitaa kothaay?", "english": "Where is the book?" },
+        { "native": "একটা কলা দিন।", "roman": "ektaa kolaa din.", "english": "Give me a banana, please." },
+        { "native": "তিনটে টিকিট দিন।", "roman": "tinte tikit din.", "english": "Three tickets, please." },
+        { "native": "চারটে ডিম লাগবে।", "roman": "chaarte dim laagbe.", "english": "I need four eggs." },
+        { "native": "কটা চাই?", "roman": "kotaa chaai?", "english": "How many do you want?" }
+      ]
+    },
+    {
+      "title": "Number before or after the noun",
+      "text": "Where you put the counted number changes the meaning.\n\nNumber + classifier BEFORE the noun is indefinite: দুটো বই - 'two books' (any two).\n\nNoun first, then number + classifier, is definite: বই দুটো - 'the two books'.\n\nIn the same way একটা বই is 'a book', and বইটা is 'the book'.",
+      "examples": [
+        { "native": "দুটো বই", "roman": "duto boi", "english": "two books" },
+        { "native": "বই দুটো আমার।", "roman": "boi duto aamaar.", "english": "The two books are mine." },
+        { "native": "আমার দুটো ছেলে।", "roman": "aamaar duto chhele.", "english": "I have two sons." }
+      ]
+    },
+    {
+      "title": "-টি, -জন, -খানা",
+      "text": "-টি (-ti) is a gentler version of -টা. It suggests that the thing is small, dear or being spoken of politely, and it is the normal form in writing: একটি ছেলে 'a boy', ছেলেটি 'the boy', মেয়েটি 'the girl'. In speech -টা about a person can sound offhand; -টি never does.\n\n-জন (-jon) counts people: একজন (ekjon), দুজন (dujon), তিনজন, কজন? It goes on the number only, never on the noun: একজন লোক 'a man', দুজন ছাত্র 'two students'. People can also be counted with -টা or -টি when they are children or when you are being casual: দুটো ছেলে.\n\n-খানা (-khaanaa) is used for solid, flat or made objects - books, letters, saris, plates, houses, rooms: একখানা শাড়ি 'a sari', বইখানা 'the book'. It is optional (-টা is always possible) but you will hear it often in West Bengal. A lighter form is -খানি.",
+      "examples": [
+        { "native": "ছেলেটি খুব ভালো।", "roman": "chheleti khub bhaalo.", "english": "The boy is very nice." },
+        { "native": "একজন লোক এসেছেন।", "roman": "ekjon lok eshechhen.", "english": "A man has come." },
+        { "native": "এখানে পাঁচজন আছে।", "roman": "ekhaane paanchjon aachhe.", "english": "There are five people here." },
+        { "native": "একখানা শাড়ি দেখান।", "roman": "ekkhaanaa shaari dekhaan.", "english": "Show me a sari, please." }
+      ]
+    },
+    {
+      "title": "Plural, and 'a little'",
+      "text": "-গুলো (-gulo) is the plural of -টা: 'the ...s'. বইগুলো 'the books', এগুলো 'these'. The politer and written form is -গুলি (-guli). It is only used when the plural is definite and no number is given; after a number the noun stays bare.\n\nFor people, the plural ending is -রা (-raa): ছেলেরা 'the boys', বাচ্চারা 'the children'.\n\n-টুকু (-tuku) means 'the little bit of': জলটুকু 'that little bit of water', এইটুকু 'just this much'.\n\nএকটু (ektu) is 'a little' of something you cannot count, and by extension the word that softens every request: একটু চিনি 'a little sugar', একটু দাঁড়ান 'wait a little'. Do not confuse it with একটা, 'one (thing)'.",
+      "examples": [
+        { "native": "বইগুলো টেবিলে রাখুন।", "roman": "boigulo tebile raakhun.", "english": "Put the books on the table." },
+        { "native": "বাচ্চারা খেলছে।", "roman": "baachchaaraa khelchhe.", "english": "The children are playing." },
+        { "native": "একটু চিনি দিন।", "roman": "ektu chini din.", "english": "A little sugar, please." },
+        { "native": "জলটুকু খেয়ে নিন।", "roman": "joltuku kheye nin.", "english": "Drink up that little bit of water." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "বইটা কোথায়?", "roman": "boitaa kothaay?", "english": "Where is the book?", "literal": "book-the where", "note": "" },
+    { "native": "একটা কলা দিন।", "roman": "ektaa kolaa din.", "english": "Give me a banana, please.", "literal": "one-piece banana give", "note": "" },
+    { "native": "আমার দুটো ছেলে।", "roman": "aamaar duto chhele.", "english": "I have two sons.", "literal": "my two-pieces son", "note": "For family members the verb আছে is often left out." },
+    { "native": "তিনটে টিকিট দিন।", "roman": "tinte tikit din.", "english": "Three tickets, please.", "literal": "three-pieces ticket give", "note": "In Bangladesh: তিনটা (tintaa)." },
+    { "native": "চারটে ডিম লাগবে।", "roman": "chaarte dim laagbe.", "english": "I need four eggs.", "literal": "four-pieces egg will-be-needed", "note": "In Bangladesh: চারটা (chaartaa)." },
+    { "native": "কটা চাই?", "roman": "kotaa chaai?", "english": "How many do you want?", "literal": "how-many-pieces want", "note": "" },
+    { "native": "বই দুটো আমার।", "roman": "boi duto aamaar.", "english": "The two books are mine.", "literal": "book two-pieces my", "note": "Number after the noun = definite." },
+    { "native": "ছেলেটি খুব ভালো।", "roman": "chheleti khub bhaalo.", "english": "The boy is very nice.", "literal": "boy-the very good", "note": "-ti is the polite, affectionate form of -taa." },
+    { "native": "একজন লোক এসেছেন।", "roman": "ekjon lok eshechhen.", "english": "A man has come.", "literal": "one-person man has-come", "note": "The respectful verb ending is used for an adult stranger." },
+    { "native": "এখানে পাঁচজন আছে।", "roman": "ekhaane paanchjon aachhe.", "english": "There are five people here.", "literal": "here five-persons are", "note": "" },
+    { "native": "একখানা শাড়ি দেখান।", "roman": "ekkhaanaa shaari dekhaan.", "english": "Show me a sari, please.", "literal": "one-piece sari show", "note": "-khaanaa suits flat, made objects." },
+    { "native": "বইগুলো টেবিলে রাখুন।", "roman": "boigulo tebile raakhun.", "english": "Put the books on the table.", "literal": "book-the(plural) table-on put", "note": "" },
+    { "native": "একটু চিনি দিন।", "roman": "ektu chini din.", "english": "A little sugar, please.", "literal": "a-little sugar give", "note": "একটু for things you cannot count." },
+    { "native": "জলটুকু খেয়ে নিন।", "roman": "joltuku kheye nin.", "english": "Drink up that little bit of water.", "literal": "water-the-bit having-drunk take", "note": "" }
+  ]
+}

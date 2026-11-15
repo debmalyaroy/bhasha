@@ -1,0 +1,83 @@
+{
+  "id": "shopping",
+  "level": "4 · Everyday situations",
+  "title": "Shopping, money and numbers to 100",
+  "description": "Ask prices, understand the answer, bargain and pay, using the numbers from eleven to a hundred.",
+  "guide": [
+    {
+      "title": "Eleven to sixteen",
+      "text": "Bengali numbers up to a hundred are not built by a simple rule like 'twenty-one, twenty-two': each one is a single word that has to be learnt. The good news is that the pattern is visible once you know the units and the tens, and that everyone understands you if you say the digits one by one.\n\nThe numbers from eleven to eighteen all end in a spoken -o, now usually written with ো.",
+      "examples": [
+        { "native": "এগারো", "roman": "egaaro", "english": "eleven (11)" },
+        { "native": "বারো", "roman": "baaro", "english": "twelve (12)" },
+        { "native": "তেরো", "roman": "tero", "english": "thirteen (13)" },
+        { "native": "চোদ্দো", "roman": "choddo", "english": "fourteen (14)" },
+        { "native": "পনেরো", "roman": "ponero", "english": "fifteen (15)" },
+        { "native": "ষোলো", "roman": "sholo", "english": "sixteen (16)" }
+      ]
+    },
+    {
+      "title": "Seventeen to thirty",
+      "text": "Nineteen is 'one less than twenty': উনিশ. The same উন- prefix gives 29 (উনত্রিশ), 39 (উনচল্লিশ) and so on.\n\nTwenty is কুড়ি (kuri) in West Bengal and বিশ (bish) in Bangladesh; both are understood everywhere. The twenties are built on the older form: একুশ (ekush) 21, বাইশ (baaish) 22, তেইশ (teish) 23, চব্বিশ (chobbish) 24, পঁচিশ (ponchish) 25.\n\nThirty is তিরিশ in everyday speech, ত্রিশ (trish) in writing.",
+      "examples": [
+        { "native": "সতেরো", "roman": "shotero", "english": "seventeen (17)" },
+        { "native": "আঠারো", "roman": "aathaaro", "english": "eighteen (18)" },
+        { "native": "উনিশ", "roman": "unish", "english": "nineteen (19)" },
+        { "native": "কুড়ি", "roman": "kuri", "english": "twenty (20)" },
+        { "native": "পঁচিশ", "roman": "ponchish", "english": "twenty-five (25)" },
+        { "native": "তিরিশ", "roman": "tirish", "english": "thirty (30)" }
+      ]
+    },
+    {
+      "title": "The tens",
+      "text": "With the tens you can understand most prices, because shopkeepers round to five or ten.\n\nষাট (sixty) and সাত (seven) are both romanised shaat: sixty has the retroflex t (tongue curled back), seven the dental t (tongue on the teeth).\n\nA hundred is একশো (eksho), also written একশ. Then দুশো (dusho) 200, তিনশো 300, পাঁচশো 500; হাজার (haajaar) 1,000; লাখ (laakh) 100,000.",
+      "examples": [
+        { "native": "চল্লিশ", "roman": "chollish", "english": "forty (40)" },
+        { "native": "পঞ্চাশ", "roman": "ponchaash", "english": "fifty (50)" },
+        { "native": "ষাট", "roman": "shaat", "english": "sixty (60)" },
+        { "native": "সত্তর", "roman": "shottor", "english": "seventy (70)" },
+        { "native": "আশি", "roman": "aashi", "english": "eighty (80)" },
+        { "native": "নব্বই", "roman": "nobboi", "english": "ninety (90)" }
+      ]
+    },
+    {
+      "title": "Hundreds, and the 'half' words",
+      "text": "The currency is the টাকা (taakaa): the rupee in India, the taka in Bangladesh. The word also simply means 'money'. The amount comes first: পঞ্চাশ টাকা, 'fifty rupees'.\n\nBengali has special words for one and a half and two and a half, and they are used all the time with money, weights and clock times:\n\nদেড় (der) one and a half - দেড়শো 150, দেড় কিলো 1.5 kg\nআড়াই (aaraai) two and a half - আড়াইশো 250\nসাড়ে (shaare) 'plus a half', from three and a half upwards - সাড়ে তিনশো 350, সাড়ে পাঁচ কিলো 5.5 kg\n\nNever say সাড়ে এক or সাড়ে দুই.",
+      "examples": [
+        { "native": "একশো টাকা", "roman": "eksho taakaa", "english": "a hundred rupees" },
+        { "native": "দেড়শো টাকা", "roman": "dersho taakaa", "english": "a hundred and fifty rupees" },
+        { "native": "আড়াইশো টাকা", "roman": "aaraaisho taakaa", "english": "two hundred and fifty rupees" },
+        { "native": "সাড়ে তিনশো টাকা", "roman": "shaare tinsho taakaa", "english": "three hundred and fifty rupees" },
+        { "native": "এক হাজার টাকা", "roman": "ek haajaar taakaa", "english": "a thousand rupees" }
+      ]
+    },
+    {
+      "title": "Asking the price and bargaining",
+      "text": "দাম (daam) is 'price'. এটার দাম কত? 'What is the price of this?' - or just point and say কত? For things sold by weight: কত করে? (koto kore) 'how much each / per kilo?'\n\nIn markets and small shops without fixed prices, bargaining is expected and good-humoured. The standard moves: এত দাম! 'so much!'; একটু কম করুন, 'reduce it a little'; then name your figure with দেব, 'I'll give': দেড়শো টাকা দেব।\n\nTo close: ঠিক আছে, দিন - 'all right, give it to me'. To walk away politely: আমার লাগবে না - 'I won't need it'. To look without pressure: আমি শুধু দেখছি।\n\nখুচরো (khuchro) is small change; ফেরত (pherot) is the change you get back.",
+      "examples": [
+        { "native": "এটার দাম কত?", "roman": "etaar daam koto?", "english": "How much is this?" },
+        { "native": "একটু কম করুন।", "roman": "ektu kom korun.", "english": "Please reduce the price a little." },
+        { "native": "দেড়শো টাকা দেব।", "roman": "dersho taakaa debo.", "english": "I'll give a hundred and fifty rupees." },
+        { "native": "সব মিলিয়ে কত হলো?", "roman": "shob miliye koto holo?", "english": "How much is it altogether?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "এটার দাম কত?", "roman": "etaar daam koto?", "english": "How much is this?", "literal": "this-of price how-much", "note": "" },
+    { "native": "পঞ্চাশ টাকা।", "roman": "ponchaash taakaa.", "english": "Fifty rupees.", "literal": "fifty rupees", "note": "টাকা is the rupee in India and the taka in Bangladesh." },
+    { "native": "দামটা খুব বেশি।", "roman": "daamtaa khub beshi.", "english": "This is too expensive.", "literal": "price-the very much", "note": "Literally 'the price is very high'." },
+    { "native": "একটু কম করুন।", "roman": "ektu kom korun.", "english": "Please reduce the price a little.", "literal": "a-little less do", "note": "The standard bargaining phrase." },
+    { "native": "কুড়ি টাকা কম করুন।", "roman": "kuri taakaa kom korun.", "english": "Take twenty rupees off.", "literal": "twenty rupees less do", "note": "In Bangladesh twenty is বিশ (bish)." },
+    { "native": "দেড়শো টাকা দেব।", "roman": "dersho taakaa debo.", "english": "I'll give a hundred and fifty rupees.", "literal": "one-and-a-half-hundred rupees I-will-give", "note": "দেড় is 'one and a half'." },
+    { "native": "আমার এটা চাই।", "roman": "aamaar etaa chaai.", "english": "I want this.", "literal": "my this want", "note": "" },
+    { "native": "আমার লাগবে না।", "roman": "aamaar laagbe naa.", "english": "I don't want it.", "literal": "my will-be-needed not", "note": "Literally 'I won't need it' - a polite way to refuse." },
+    { "native": "এর চেয়ে বড় সাইজ আছে?", "roman": "er cheye boro saaij aachhe?", "english": "Do you have a bigger size?", "literal": "this's than big size is", "note": "" },
+    { "native": "অন্য একটা দেখান।", "roman": "onno ektaa dekhaan.", "english": "Please show me another one.", "literal": "other one show", "note": "" },
+    { "native": "আমি শুধু দেখছি।", "roman": "aami shudhu dekhchhi.", "english": "I am just looking.", "literal": "I only am-looking", "note": "" },
+    { "native": "এক কিলো আলু দিন।", "roman": "ek kilo aalu din.", "english": "One kilo of potatoes, please.", "literal": "one kilo potato give", "note": "" },
+    { "native": "সব মিলিয়ে কত হলো?", "roman": "shob miliye koto holo?", "english": "How much is it altogether?", "literal": "all having-combined how-much became", "note": "" },
+    { "native": "কার্ডে পেমেন্ট করা যাবে?", "roman": "kaarde pement koraa jaabe?", "english": "Can I pay by card?", "literal": "card-by payment doing will-go", "note": "" },
+    { "native": "খুচরো নেই।", "roman": "khuchro nei.", "english": "I have no change.", "literal": "small-change is-not", "note": "You will hear this from shopkeepers too." },
+    { "native": "একটা ব্যাগ দিন।", "roman": "ektaa byaag din.", "english": "Please give me a bag.", "literal": "one bag give", "note": "" }
+  ]
+}

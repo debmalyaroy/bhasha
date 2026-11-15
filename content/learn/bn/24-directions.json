@@ -1,0 +1,55 @@
+{
+  "id": "directions",
+  "level": "4 · Everyday situations",
+  "title": "Directions & getting around",
+  "description": "Ask where a place is, follow and give directions, and deal with taxis, rickshaws and buses.",
+  "guide": [
+    {
+      "title": "Where is it?",
+      "text": "'Where is X?' is X + কোথায়? with no verb: স্টেশনটা কোথায়? The -টা shows you mean a particular one - the station, the toilet, the hospital.\n\nTo ask the way: X কোন দিকে? (kon dike) 'which way is X?'; X কীভাবে যাব? (keebhaabe jaabo) 'how do I get to X?'\n\nDistance: কত দূর? (koto door) 'how far?'; কাছে (kaachhe) near; কাছেই (kaachhei) 'quite near, just here'; দূরে (doore) far; পাঁচ মিনিটের রাস্তা 'a five-minute walk'.\n\nThe little -ই (-i) on কাছেই is the emphatic particle: 'right nearby'.",
+      "examples": [
+        { "native": "রেল স্টেশনটা কোথায়?", "roman": "rel steshontaa kothaay?", "english": "Where is the railway station?" },
+        { "native": "বাথরুমটা কোথায়?", "roman": "baathrumtaa kothaay?", "english": "Where is the toilet?" },
+        { "native": "এখান থেকে কত দূর?", "roman": "ekhaan theke koto door?", "english": "How far is it from here?" },
+        { "native": "এটা কি কাছেই?", "roman": "etaa ki kaachhei?", "english": "Is it nearby?" }
+      ]
+    },
+    {
+      "title": "Left, right, straight",
+      "text": "ডান দিকে (daan dike) to the right\nবাঁ দিকে (baan dike) to the left - written form বাম দিকে (baam dike)\nসোজা (shojaa) straight on\nসামনে (shaamne) ahead, in front\nপেছনে (pechhone) behind, back\nমোড় (mor) a crossing, a street corner\nপাশে (paashe) beside; উল্টো দিকে (ulto dike) opposite, on the other side\n\nThe polite commands: যান (jaan) go; চলুন (cholun) go on, let's go; ঘুরুন (ghurun) turn; থামুন (thaamun) stop; দাঁড়ান (daanraan) stop and wait; নামুন (naamun) get down.\n\nদিক (dik) is 'direction, side'; with the 'at' ending it becomes দিকে.",
+      "examples": [
+        { "native": "সোজা যান।", "roman": "shojaa jaan.", "english": "Go straight." },
+        { "native": "বাঁ দিকে ঘুরুন।", "roman": "baan dike ghurun.", "english": "Turn left." },
+        { "native": "ডান দিকে ঘুরুন।", "roman": "daan dike ghurun.", "english": "Turn right." },
+        { "native": "এখানে থামুন।", "roman": "ekhaane thaamun.", "english": "Please stop here." }
+      ]
+    },
+    {
+      "title": "Taxis, rickshaws, buses",
+      "text": "To a taxi or rickshaw driver, first ask whether he will go: হাওড়া স্টেশন যাবেন? 'Will you go to Howrah station?' Then agree the fare: কত ভাড়া? or কত নেবেন? 'How much will you take?' ভাড়া (bhaaraa) is a fare or a rent.\n\nTo say where you want to go, use the plain future: আমি এয়ারপোর্টে যাব, 'I will go to the airport'.\n\nBy a means of transport takes the 'at' ending: বাসে, ট্রেনে, ট্যাক্সিতে, রিকশায় (rikshaay), মেট্রোয় (metroy). On foot is হেঁটে (hente), 'walking'.\n\nGetting on is ওঠা (othaa) and getting off is নামা (naamaa): এখানে নামব, 'I'll get off here'.\n\nOn a bus, ask the conductor: এই বাসটা কি ... যাবে?",
+      "examples": [
+        { "native": "হাওড়া স্টেশন যাবেন?", "roman": "haaoraa steshon jaaben?", "english": "Will you go to Howrah station?" },
+        { "native": "কত ভাড়া?", "roman": "koto bhaaraa?", "english": "How much is the fare?" },
+        { "native": "আমি এয়ারপোর্টে যাব।", "roman": "aami eyaarporte jaabo.", "english": "I want to go to the airport." },
+        { "native": "হেঁটে যাওয়া যাবে?", "roman": "hente jaaowaa jaabe?", "english": "Can I walk there?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "রেল স্টেশনটা কোথায়?", "roman": "rel steshontaa kothaay?", "english": "Where is the railway station?", "literal": "rail station-the where", "note": "" },
+    { "native": "বাথরুমটা কোথায়?", "roman": "baathrumtaa kothaay?", "english": "Where is the toilet?", "literal": "bathroom-the where", "note": "'baathrum' is the everyday polite word for toilet." },
+    { "native": "এখান থেকে কত দূর?", "roman": "ekhaan theke koto door?", "english": "How far is it from here?", "literal": "here from how-much far", "note": "" },
+    { "native": "এটা কি কাছেই?", "roman": "etaa ki kaachhei?", "english": "Is it nearby?", "literal": "this (question) near-indeed", "note": "Short 'ki' (কি) marks a yes/no question; long 'kee' (কী) means 'what'." },
+    { "native": "হেঁটে যাওয়া যাবে?", "roman": "hente jaaowaa jaabe?", "english": "Can I walk there?", "literal": "walking going will-go", "note": "" },
+    { "native": "সোজা যান।", "roman": "shojaa jaan.", "english": "Go straight.", "literal": "straight go", "note": "" },
+    { "native": "বাঁ দিকে ঘুরুন।", "roman": "baan dike ghurun.", "english": "Turn left.", "literal": "left direction-in turn", "note": "বাঁ has a nasal vowel. The written form is বাম (baam)." },
+    { "native": "ডান দিকে ঘুরুন।", "roman": "daan dike ghurun.", "english": "Turn right.", "literal": "right direction-in turn", "note": "" },
+    { "native": "এখানে থামুন।", "roman": "ekhaane thaamun.", "english": "Please stop here.", "literal": "here stop", "note": "To a taxi or rickshaw driver you can also say 'ekhaane daanraan' (এখানে দাঁড়ান)." },
+    { "native": "হাওড়া স্টেশন যাবেন?", "roman": "haaoraa steshon jaaben?", "english": "Will you go to Howrah station?", "literal": "Howrah station you-will-go", "note": "How to hail a taxi or rickshaw: ask whether the driver will go there." },
+    { "native": "কত ভাড়া?", "roman": "koto bhaaraa?", "english": "How much is the fare?", "literal": "how-much fare", "note": "" },
+    { "native": "আমি এয়ারপোর্টে যাব।", "roman": "aami eyaarporte jaabo.", "english": "I want to go to the airport.", "literal": "I airport-to will-go", "note": "Literally 'I will go to the airport'. The Bengali word is বিমানবন্দর (bimaanbondor)." },
+    { "native": "এই বাসটা কি পার্ক স্ট্রিট যাবে?", "roman": "ei baastaa ki paark strit jaabe?", "english": "Does this bus go to Park Street?", "literal": "this bus-the (question) Park Street will-go", "note": "" },
+    { "native": "মোড়ের মাথায় নামব।", "roman": "morer maathaay naambo.", "english": "I'll get off at the corner.", "literal": "crossing's head-at I-will-get-down", "note": "" },
+    { "native": "আমি রাস্তা হারিয়ে ফেলেছি।", "roman": "aami raastaa haariye phelechhi.", "english": "I have lost my way.", "literal": "I road having-lost have-thrown", "note": "" }
+  ]
+}

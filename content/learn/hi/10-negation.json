@@ -1,0 +1,62 @@
+{
+  "id": "negation",
+  "level": "2 · How sentences work",
+  "title": "Saying no",
+  "description": "Make sentences negative, tell someone not to do something, and say nothing, nobody and never.",
+  "guide": [
+    {
+      "title": "naheen goes before the verb",
+      "text": "To make a sentence negative, put नहीं (naheen) directly before the verb. यह ठीक है, 'this is right', becomes यह ठीक नहीं है, 'this is not right'.\n\nWith 'to be', नहीं comes before है, हूँ or हैं. With other verbs it comes before the main verb: मैं नहीं जानता, 'I do not know'.\n\nOne special habit: in the present tense the final है, हूँ or हैं is usually dropped in the negative. 'I eat meat' is मैं मांस खाता हूँ, but 'I don't eat meat' is normally just मैं मांस नहीं खाता. Keeping the हूँ is not wrong; it is simply heavier. The है of a plain 'is not' sentence can be dropped in speech too (मुझे नहीं पता, 'I don't know'), but it is safer to keep it there.",
+      "examples": [
+        { "native": "यह ठीक नहीं है।", "roman": "yah theek naheen hai.", "english": "This is not right." },
+        { "native": "वह घर पर नहीं है।", "roman": "vah ghar par naheen hai.", "english": "He is not at home." },
+        { "native": "मैं मांस नहीं खाता।", "roman": "main maans naheen khaataa.", "english": "I don't eat meat. (man speaking)" },
+        { "native": "मैं नहीं जानता।", "roman": "main naheen jaantaa.", "english": "I don't know. (man speaking)" }
+      ]
+    },
+    {
+      "title": "Don't! uses mat",
+      "text": "With commands and requests the negative word is मत (mat), not नहीं. It also goes before the verb: मत जाइए, 'please don't go'; शोर मत करो, 'don't make a noise'.\n\nWith the polite -iye form you will also hear and read न (na), which is a little gentler and more formal: न जाइए. On signs you often see it: यहाँ गाड़ी खड़ी न करें, 'do not park here'.",
+      "examples": [
+        { "native": "मत जाइए।", "roman": "mat jaaiye.", "english": "Please don't go." },
+        { "native": "चिंता मत कीजिए।", "roman": "chintaa mat keejiye.", "english": "Please don't worry." },
+        { "native": "वहाँ मत बैठिए।", "roman": "vahaan mat baithiye.", "english": "Please don't sit there." }
+      ]
+    },
+    {
+      "title": "Nothing, nobody, never, nowhere",
+      "text": "Hindi makes these by pairing an ordinary indefinite word with नहीं. There is no separate word like 'nothing'.\n\nकुछ (kuchh, something) + नहीं: nothing. कोई (koee, someone, any) + नहीं: nobody, none. कभी (kabhee, sometime, ever) + नहीं: never. कहीं (kaheen, somewhere) + नहीं: nowhere.\n\nThe two parts may stand together or be separated by other words, with नहीं before the verb as always: मैं कभी देर से नहीं आता, 'I never come late'.\n\nThe same indefinite words without नहीं are useful too: कुछ खाइए ('eat something'), कोई है? ('is anyone there?').",
+      "examples": [
+        { "native": "कुछ नहीं।", "roman": "kuchh naheen.", "english": "Nothing." },
+        { "native": "यहाँ कोई नहीं है।", "roman": "yahaan koee naheen hai.", "english": "There is nobody here." },
+        { "native": "मैं कभी देर से नहीं आता।", "roman": "main kabhee der se naheen aataa.", "english": "I never come late. (man speaking)" },
+        { "native": "कोई है?", "roman": "koee hai?", "english": "Is anyone there?" }
+      ]
+    },
+    {
+      "title": "Short negative answers",
+      "text": "A complete sentence is not needed. नहीं on its own is 'no'; with जी it is polite. अभी नहीं (abhee naheen) is 'not now', यहाँ नहीं 'not here', आज नहीं 'not today', मैं नहीं 'not me'. The word नहीं simply follows whatever it denies.",
+      "examples": [
+        { "native": "अभी नहीं।", "roman": "abhee naheen.", "english": "Not now." },
+        { "native": "आज नहीं।", "roman": "aaj naheen.", "english": "Not today." },
+        { "native": "यह मेरा नहीं है।", "roman": "yah meraa naheen hai.", "english": "This is not mine." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मैं नहीं जानता।", "roman": "main naheen jaantaa.", "english": "I don't know.", "literal": "I not knowing", "note": "A woman says: मैं नहीं जानती (main naheen jaantee)." },
+    { "native": "यह ठीक नहीं है।", "roman": "yah theek naheen hai.", "english": "This is not right.", "literal": "this right not is" },
+    { "native": "मैं मांस नहीं खाता।", "roman": "main maans naheen khaataa.", "english": "I don't eat meat.", "literal": "I meat not eating", "note": "A woman says: मैं मांस नहीं खाती (... khaatee). The final हूँ is dropped in the negative." },
+    { "native": "वह घर पर नहीं है।", "roman": "vah ghar par naheen hai.", "english": "He is not at home.", "literal": "he home at not is", "note": "The same sentence means 'She is not at home'." },
+    { "native": "मत जाइए।", "roman": "mat jaaiye.", "english": "Please don't go.", "literal": "don't please-go" },
+    { "native": "चिंता मत कीजिए।", "roman": "chintaa mat keejiye.", "english": "Please don't worry.", "literal": "worry don't please-do" },
+    { "native": "कुछ नहीं।", "roman": "kuchh naheen.", "english": "Nothing.", "literal": "something not" },
+    { "native": "यहाँ कोई नहीं है।", "roman": "yahaan koee naheen hai.", "english": "There is nobody here.", "literal": "here anyone not is" },
+    { "native": "मैं कभी देर से नहीं आता।", "roman": "main kabhee der se naheen aataa.", "english": "I never come late.", "literal": "I ever lateness with not coming", "note": "A woman says: ... नहीं आती (naheen aatee)." },
+    { "native": "अभी नहीं।", "roman": "abhee naheen.", "english": "Not now.", "literal": "right-now not" },
+    { "native": "मुझे हिंदी नहीं आती।", "roman": "mujhe hindee naheen aatee.", "english": "I don't know Hindi.", "literal": "to-me Hindi not coming", "note": "The same for men and women: the verb agrees with हिंदी." },
+    { "native": "मेरे पास पैसे नहीं हैं।", "roman": "mere paas paise naheen hain.", "english": "I don't have any money.", "literal": "my near money not are" },
+    { "native": "यह मेरा नहीं है।", "roman": "yah meraa naheen hai.", "english": "This is not mine.", "literal": "this mine not is" },
+    { "native": "मैं नहीं आ सकता।", "roman": "main naheen aa saktaa.", "english": "I can't come.", "literal": "I not come can", "note": "A woman says: मैं नहीं आ सकती (... aa saktee)." }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "negation",
+  "level": "2 · How sentences work",
+  "title": "Saying no: naa, noy, nei, -ni",
+  "description": "Make any sentence negative, choosing correctly between the four negatives of Bengali.",
+  "guide": [
+    {
+      "title": "না after the verb",
+      "text": "For most verbs, the negative is made by putting না (naa) AFTER the verb, at the very end of the sentence. This is the opposite of Hindi and of English.\n\nআমি যাব - I will go. আমি যাব না - I will not go.\nআমি মাছ খাই - I eat fish. আমি মাছ খাই না - I don't eat fish.\nআমি বুঝতে পারছি - I understand. আমি বুঝতে পারছি না - I don't understand.\n\nThis works for the simple present, the continuous tenses, the future and the simple past.",
+      "examples": [
+        { "native": "আমি যাব না।", "roman": "aami jaabo naa.", "english": "I will not go." },
+        { "native": "আমি মাছ খাই না।", "roman": "aami maachh khaai naa.", "english": "I don't eat fish." },
+        { "native": "আমি জানি না।", "roman": "aami jaani naa.", "english": "I don't know." },
+        { "native": "সে আজ আসবে না।", "roman": "she aaj aashbe naa.", "english": "He/She won't come today." }
+      ]
+    },
+    {
+      "title": "'Is not': নই, নও, নয়, নন",
+      "text": "A sentence with no verb - 'A is B' - has a special negative verb, which takes the personal endings:\n\nআমি ... নই (noi) - I am not\nতুমি ... নও (nou, said no-o) - you are not (familiar)\nতুই ... নস (nosh) - you are not (intimate)\nসে / এটা ... নয় (noy) - he/she/it is not\nআপনি / তিনি ... নন (non) - you are not (polite), he/she is not (respected)\n\nআমি ডাক্তার - I am a doctor. আমি ডাক্তার নই - I am not a doctor.\nএটা আমার - This is mine. এটা আমার নয় - This is not mine.\n\nIn casual speech many people just say না here (এটা আমার না), but নয় is the standard form and always correct.",
+      "examples": [
+        { "native": "আমি ডাক্তার নই।", "roman": "aami daaktaar noi.", "english": "I am not a doctor." },
+        { "native": "তুমি একা নও।", "roman": "tumi ekaa nou.", "english": "You are not alone." },
+        { "native": "এটা আমার নয়।", "roman": "etaa aamaar noy.", "english": "This is not mine." },
+        { "native": "উনি বাঙালি নন।", "roman": "uni baangaali non.", "english": "He/She is not Bengali." }
+      ]
+    },
+    {
+      "title": "'Is not there', 'do not have': নেই",
+      "text": "The negative of আছে is নেই (nei). You never say আছে না.\n\nনেই does not change for person or respect: আমি নেই, সে নেই, উনি নেই.\n\nIt means 'is not present', 'there is no ...' and 'do not have':\n\nও বাড়িতে নেই - He is not at home.\nএখানে কেউ নেই - There is nobody here.\nআমার সময় নেই - I have no time.\n\nIt also negates states expressed with আছে: আমি ভালো আছি 'I am well' - আমি ভালো নেই 'I am not well'.\n\nSo: এটা চা নয় (This is not tea - it is something else) but চা নেই (There is no tea).",
+      "examples": [
+        { "native": "এখানে কেউ নেই।", "roman": "ekhaane keu nei.", "english": "There is nobody here." },
+        { "native": "ও বাড়িতে নেই।", "roman": "o baarite nei.", "english": "He/She is not at home." },
+        { "native": "সময় নেই।", "roman": "shomoy nei.", "english": "There is no time." },
+        { "native": "আমি ভালো নেই।", "roman": "aami bhaalo nei.", "english": "I am not well." }
+      ]
+    },
+    {
+      "title": "'Did not', 'have not': -নি",
+      "text": "The completed tenses - 'I have eaten', 'I had gone' - do not take না. Their negative is made from the SIMPLE PRESENT form of the verb with -নি (-ni) attached:\n\nআমি খেয়েছি - I have eaten. আমি খাইনি - I haven't eaten / I didn't eat.\nসে এসেছে - He has come. সে আসেনি - He hasn't come / He didn't come.\nআমি বলেছিলাম - I had said. আমি বলিনি - I didn't say.\n\nSo the pattern is: খাই + নি, আসে + নি, যায় + নি, করেন + নি. The verb keeps the ending that matches its subject.\n\nএখনো ... -নি is 'not yet', and কখনো ... -নি is 'never'.\n\nThe negative of ছিল ('was') is ছিল না: কেউ ছিল না, 'nobody was there'.",
+      "examples": [
+        { "native": "আমি খাইনি।", "roman": "aami khaaini.", "english": "I haven't eaten." },
+        { "native": "সে আসেনি।", "roman": "she aasheni.", "english": "He/She didn't come." },
+        { "native": "আপনি বলেননি।", "roman": "aapni bolenni.", "english": "You didn't say." },
+        { "native": "এখনো হয়নি।", "roman": "ekhono hoyni.", "english": "It's not done yet." }
+      ]
+    },
+    {
+      "title": "'Don't!'",
+      "text": "A negative command is made with না after the verb, but the verb is in a future-type form rather than the plain command form.\n\nPolite (আপনি): the future form + না. যাবেন না - don't go. করবেন না - don't do (it).\n\nFamiliar (তুমি): a special form ending in -o, + না. যেয়ো না - don't go. কোরো না - don't do. বোলো না - don't say.\n\nIntimate (তুই): the present form + না. যাস না, করিস না.\n\nThe commands themselves are the subject of a later unit; for now, learn the polite pattern -ben naa.",
+      "examples": [
+        { "native": "ভয় পাবেন না।", "roman": "bhoy paaben naa.", "english": "Don't be afraid." },
+        { "native": "ওদিকে যাবেন না।", "roman": "odike jaaben naa.", "english": "Don't go that way." },
+        { "native": "চিন্তা কোরো না।", "roman": "chintaa koro naa.", "english": "Don't worry. (familiar)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি যাব না।", "roman": "aami jaabo naa.", "english": "I will not go.", "literal": "I will-go not", "note": "না follows the verb." },
+    { "native": "আমি মাছ খাই না।", "roman": "aami maachh khaai naa.", "english": "I don't eat fish.", "literal": "I fish eat not", "note": "" },
+    { "native": "আমি ডাক্তার নই।", "roman": "aami daaktaar noi.", "english": "I am not a doctor.", "literal": "I doctor am-not", "note": "" },
+    { "native": "তুমি একা নও।", "roman": "tumi ekaa nou.", "english": "You are not alone.", "literal": "you alone are-not", "note": "নও is two short syllables: no-o." },
+    { "native": "এটা আমার নয়।", "roman": "etaa aamaar noy.", "english": "This is not mine.", "literal": "this my is-not", "note": "" },
+    { "native": "উনি বাঙালি নন।", "roman": "uni baangaali non.", "english": "He/She is not Bengali.", "literal": "that-person Bengali is-not", "note": "নন is the respectful form, matching উনি." },
+    { "native": "এখানে কেউ নেই।", "roman": "ekhaane keu nei.", "english": "There is nobody here.", "literal": "here anyone is-not", "note": "" },
+    { "native": "আমি ভালো নেই।", "roman": "aami bhaalo nei.", "english": "I am not well.", "literal": "I well am-not", "note": "The negative of ভালো আছি." },
+    { "native": "আমি খাইনি।", "roman": "aami khaaini.", "english": "I haven't eaten.", "literal": "I eat-not(past)", "note": "Present form খাই + নি, not খেয়েছি না." },
+    { "native": "সে আসেনি।", "roman": "she aasheni.", "english": "He/She didn't come.", "literal": "he/she comes-not(past)", "note": "" },
+    { "native": "আমি কিছু বুঝিনি।", "roman": "aami kichhu bujhini.", "english": "I didn't understand anything.", "literal": "I anything understand-not(past)", "note": "কিছু with a negative means 'nothing'." },
+    { "native": "এখনো হয়নি।", "roman": "ekhono hoyni.", "english": "It's not done yet.", "literal": "yet happens-not(past)", "note": "" },
+    { "native": "আমি কখনো দিল্লি যাইনি।", "roman": "aami kokhono dilli jaaini.", "english": "I have never been to Delhi.", "literal": "I ever Delhi go-not(past)", "note": "" },
+    { "native": "ভয় পাবেন না।", "roman": "bhoy paaben naa.", "english": "Don't be afraid.", "literal": "fear you-will-get not", "note": "" },
+    { "native": "চিন্তা কোরো না।", "roman": "chintaa koro naa.", "english": "Don't worry. (familiar)", "literal": "worry do not", "note": "Polite form: চিন্তা করবেন না (chintaa korben naa)." }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "food",
+  "level": "4 · Everyday situations",
+  "title": "Food & drink",
+  "description": "Order food and drink, say what you do and do not eat, ask for more or less, and pay.",
+  "guide": [
+    {
+      "title": "Eating, drinking and the words for food",
+      "text": "One verb, খাওয়া (khaaowaa), covers eating, drinking and smoking: ভাত খাই 'I eat rice', চা খাই 'I drink tea', জল খান 'have some water'.\n\nThe core of a Bengali meal: ভাত (bhaat) cooked rice; ডাল (daal) lentils; মাছ (maachh) fish; মাংস (maangsho) meat; তরকারি (torkaari) a vegetable dish or curry; রুটি (ruti) flat bread; ডিম (dim) egg; দই (doi) yogurt; মিষ্টি (mishti) sweets.\n\nAlso: জল (jol) water; চা (chaa) tea; দুধ (dudh) milk; চিনি (chini) sugar; নুন (nun) salt.\n\nTastes: ঝাল (jhaal) chilli-hot; মিষ্টি (mishti) sweet; টক (tok) sour; নোনতা (nontaa) salty; তেতো (teto) bitter.\n\nনিরামিষ (niraamish) is vegetarian food; আমিষ (aamish) is fish, meat and eggs.\n\nBangladesh: water is পানি (paani), salt is লবণ (lobon), meat is often গোশত (gosht), and breakfast or a snack is নাস্তা (naastaa) where West Bengal says জলখাবার (jolkhaabaar).",
+      "examples": [
+        { "native": "মাছ আর ভাত", "roman": "maachh aar bhaat", "english": "fish and rice" },
+        { "native": "আমি নিরামিষ খাই।", "roman": "aami niraamish khaai.", "english": "I am vegetarian." },
+        { "native": "আমি মাংস খাই না।", "roman": "aami maangsho khaai naa.", "english": "I don't eat meat." },
+        { "native": "এতে কি মাছ আছে?", "roman": "ete ki maachh aachhe?", "english": "Is there fish in this?" }
+      ]
+    },
+    {
+      "title": "Asking for things",
+      "text": "To order or ask, name the thing and add দিন (din) 'give': এক কাপ চা দিন। The future form দেবেন (deben) is a shade more courteous and is used for instructions about how you want something: ঝাল কম দেবেন, 'put in less chilli'.\n\nQuantities come first: এক কাপ চা (a cup of tea), এক প্লেট ভাত (a plate of rice), দুটো রুটি (two rotis), একটু জল (a little water), আর একটু (a little more).\n\nNote the difference: এক কাপ uses the bare number before a measure word; একটা is used when you count the things themselves.\n\nকম (kom) is 'less' and বেশি (beshi) 'more': চিনি কম, 'less sugar'. 'Without' is ছাড়া (chhaaraa) after the noun: চিনি ছাড়া চা, 'tea without sugar'.\n\nTo refuse more food, say ব্যস (byas) 'enough' or আর লাগবে না, 'no more needed'. A good host will insist; refusing twice is normal.",
+      "examples": [
+        { "native": "এক কাপ চা দিন।", "roman": "ek kaap chaa din.", "english": "One tea, please." },
+        { "native": "আর একটু ভাত দিন।", "roman": "aar ektu bhaat din.", "english": "A little more rice, please." },
+        { "native": "ঝাল কম দেবেন।", "roman": "jhaal kom deben.", "english": "Please make it less spicy." },
+        { "native": "চায়ে চিনি দেবেন না।", "roman": "chaaye chini deben naa.", "english": "No sugar in the tea, please." },
+        { "native": "বিলটা দিন।", "roman": "biltaa din.", "english": "Please bring the bill." }
+      ]
+    },
+    {
+      "title": "Hungry, thirsty, full",
+      "text": "You are not hungry in Bengali; hunger 'gets' you. The person is in the possessive: আমার খিদে পেয়েছে, 'my hunger has got' - I am hungry. In the same way আমার তেষ্টা পেয়েছে (aamaar teshtaa peyechhe), 'I am thirsty'.\n\nWhen you have had enough: আমার পেট ভরে গেছে, 'my stomach has filled up'.\n\nTo praise the food, say it 'has turned out' well: খাবারটা খুব ভালো হয়েছে; or simply দারুণ! (daarun) 'terrific!'\n\nআপনি খেয়েছেন? - 'Have you eaten?' - is asked out of friendliness at any time around a mealtime. It is a greeting as much as a question.",
+      "examples": [
+        { "native": "আমার খিদে পেয়েছে।", "roman": "aamaar khide peyechhe.", "english": "I am hungry." },
+        { "native": "আমার পেট ভরে গেছে।", "roman": "aamaar pet bhore gechhe.", "english": "I am full." },
+        { "native": "খাবারটা খুব ভালো হয়েছে।", "roman": "khaabaartaa khub bhaalo hoyechhe.", "english": "The food is very tasty." },
+        { "native": "আপনি খেয়েছেন?", "roman": "aapni kheyechhen?", "english": "Have you eaten?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমার খিদে পেয়েছে।", "roman": "aamaar khide peyechhe.", "english": "I am hungry.", "literal": "my hunger has-got", "note": "Literally 'hunger has got me'." },
+    { "native": "একটু জল দিন।", "roman": "ektu jol din.", "english": "Please give me some water.", "literal": "a-little water give", "note": "In Bangladesh water is 'paani' (পানি)." },
+    { "native": "এক কাপ চা দিন।", "roman": "ek kaap chaa din.", "english": "One tea, please.", "literal": "one cup tea give", "note": "" },
+    { "native": "মেনুটা দেখি।", "roman": "menutaa dekhi.", "english": "Let me see the menu.", "literal": "menu-the I-see", "note": "The first-person present works as 'let me ...'." },
+    { "native": "এটা কী?", "roman": "etaa kee?", "english": "What is this?", "literal": "this what", "note": "" },
+    { "native": "এতে কি মাছ আছে?", "roman": "ete ki maachh aachhe?", "english": "Is there fish in this?", "literal": "this-in (question) fish is", "note": "" },
+    { "native": "আমি নিরামিষ খাই।", "roman": "aami niraamish khaai.", "english": "I am vegetarian.", "literal": "I vegetarian-food eat", "note": "Literally 'I eat vegetarian food'." },
+    { "native": "আমি মাংস খাই না।", "roman": "aami maangsho khaai naa.", "english": "I don't eat meat.", "literal": "I meat eat not", "note": "" },
+    { "native": "ঝাল কম দেবেন।", "roman": "jhaal kom deben.", "english": "Please make it less spicy.", "literal": "chilli-heat less you-will-give", "note": "" },
+    { "native": "চায়ে চিনি দেবেন না।", "roman": "chaaye chini deben naa.", "english": "No sugar in the tea, please.", "literal": "tea-in sugar you-will-give not", "note": "" },
+    { "native": "আর একটু ভাত দিন।", "roman": "aar ektu bhaat din.", "english": "A little more rice, please.", "literal": "more a-little rice give", "note": "" },
+    { "native": "ব্যস, আর লাগবে না।", "roman": "byas, aar laagbe naa.", "english": "That's enough, I don't want any more.", "literal": "enough, more will-be-needed not", "note": "" },
+    { "native": "আমার পেট ভরে গেছে।", "roman": "aamaar pet bhore gechhe.", "english": "I am full.", "literal": "my stomach having-filled has-gone", "note": "" },
+    { "native": "খাবারটা খুব ভালো হয়েছে।", "roman": "khaabaartaa khub bhaalo hoyechhe.", "english": "The food is very tasty.", "literal": "food-the very good has-become", "note": "Literally 'the food has turned out very well'." },
+    { "native": "আপনি খেয়েছেন?", "roman": "aapni kheyechhen?", "english": "Have you eaten?", "literal": "you have-eaten", "note": "A common friendly question, almost a greeting." },
+    { "native": "বিলটা দিন।", "roman": "biltaa din.", "english": "Please bring the bill.", "literal": "bill-the give", "note": "The ending -taa works like 'the'." }
+  ]
+}

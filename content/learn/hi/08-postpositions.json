@@ -1,0 +1,65 @@
+{
+  "id": "postpositions",
+  "level": "2 · How sentences work",
+  "title": "In, on, to, from, with",
+  "description": "Use the little words that follow nouns, and change the noun correctly in front of them.",
+  "guide": [
+    {
+      "title": "The basic postpositions",
+      "text": "Where English puts a preposition before the noun, Hindi puts a postposition after it. The main ones are:\n\nमें (mein): in, inside. कमरे में, 'in the room'.\nपर (par): on, at. मेज़ पर, 'on the table'; घर पर, 'at home'.\nसे (se): from; by, with (a means); than. दिल्ली से, 'from Delhi'; बस से, 'by bus'.\nको (ko): to; it also marks a specific person as the object of a verb. राज को बुलाइए, 'call Raj'.\nतक (tak): up to, until. सोमवार तक, 'until Monday'.\nका, की, के (kaa, kee, ke): of, 's.\n\nNote that में (mein, 'in') and मैं (main, 'I') are different words with different vowels.",
+      "examples": [
+        { "native": "किताब मेज़ पर है।", "roman": "kitaab mez par hai.", "english": "The book is on the table." },
+        { "native": "मैं बस से जाता हूँ।", "roman": "main bas se jaataa hoon.", "english": "I go by bus. (man speaking)" },
+        { "native": "राज को बुलाइए।", "roman": "raaj ko bulaaiye.", "english": "Please call Raj." },
+        { "native": "मैं सोमवार तक यहाँ हूँ।", "roman": "main somvaar tak yahaan hoon.", "english": "I am here until Monday." }
+      ]
+    },
+    {
+      "title": "The oblique: nouns change before a postposition",
+      "text": "A noun followed by a postposition takes a special form called the oblique. This is one of the most important rules in Hindi, and forgetting it is the commonest learner's mistake.\n\nSingular: masculine nouns ending in -aa change -aa to -e. कमरा (kamraa, room) becomes कमरे में (kamre mein, in the room); लड़का becomes लड़के को. Other singular nouns, masculine or feminine, do not change: घर में, मेज़ पर, गाड़ी में.\n\nPlural: every noun takes the ending -on (ों). कमरों में (kamron mein, in the rooms), लोगों को (logon ko, to the people), दोस्तों के साथ (doston ke saath, with friends), लड़कियों को (larkiyon ko, to the girls).\n\nAdjectives and possessives in -aa standing before the noun change to -e as well, singular or plural: मेरा बड़ा कमरा becomes मेरे बड़े कमरे में, 'in my big room'.",
+      "examples": [
+        { "native": "मैं कमरे में हूँ।", "roman": "main kamre mein hoon.", "english": "I am in the room." },
+        { "native": "बच्चे स्कूल में हैं।", "roman": "bachche skool mein hain.", "english": "The children are at school." },
+        { "native": "मैं दोस्तों के साथ हूँ।", "roman": "main doston ke saath hoon.", "english": "I am with friends." },
+        { "native": "मेरे कमरे में", "roman": "mere kamre mein", "english": "in my room" }
+      ]
+    },
+    {
+      "title": "Pronouns before a postposition",
+      "text": "Pronouns have oblique forms too, and the postposition is written joined to them.\n\nमैं becomes मुझ: मुझसे (mujhse, from me, with me), मुझको or, far more often, मुझे (mujhe, to me).\nतुम stays: तुमसे, तुमको or तुम्हें (tumhen).\nआप stays: आपसे, आपको.\nहम stays: हमसे, हमको or हमें (hamen).\nयह becomes इस and वह becomes उस: इसमें (ismein, in this), उससे (usse, from him or her), उसको or उसे (use, to him or her).\nये becomes इन and वे becomes उन: इनसे, उनको or उन्हें (unhen, to them).\nकौन (who) becomes किस: किससे (kisse, with whom), किसको (kisko, to whom).\n\nThe short forms मुझे, उसे, हमें, तुम्हें, उन्हें are the ones you will hear all the time.",
+      "examples": [
+        { "native": "मुझसे हिंदी में बात कीजिए।", "roman": "mujhse hindee mein baat keejiye.", "english": "Please talk to me in Hindi." },
+        { "native": "यह आपके लिए है।", "roman": "yah aapke liye hai.", "english": "This is for you." },
+        { "native": "उसे बुलाइए।", "roman": "use bulaaiye.", "english": "Please call him. / Please call her." },
+        { "native": "इसमें क्या है?", "roman": "ismein kyaa hai?", "english": "What is in this?" }
+      ]
+    },
+    {
+      "title": "Two-word postpositions with ke",
+      "text": "Many relations are expressed by के (ke) plus another word. The noun before के is in the oblique.\n\nके साथ (ke saath): with, together with. के लिए (ke liye): for. के पास (ke paas): near; in the possession of. के बाद (ke baad): after. के ऊपर (ke oopar): above, on top of. के नीचे (ke neeche): under. के अंदर (ke andar): inside. के बाहर (ke baahar): outside. के सामने (ke saamne): in front of, opposite. के पीछे (ke peechhe): behind. A few take की or से instead: की तरफ़ (kee taraf, towards), से पहले (se pahle, before).\n\nWith the pronouns मैं, हम, तुम the के merges into the possessive: मेरे साथ (with me), हमारे लिए (for us), तुम्हारे पास (near you). With the others it stays: आपके लिए, उसके साथ, उनके पास.",
+      "examples": [
+        { "native": "मेरे साथ चलिए।", "roman": "mere saath chaliye.", "english": "Please come with me." },
+        { "native": "दुकान घर के पास है।", "roman": "dukaan ghar ke paas hai.", "english": "The shop is near the house." },
+        { "native": "बैग कुर्सी के नीचे है।", "roman": "baig kursee ke neeche hai.", "english": "The bag is under the chair." },
+        { "native": "खाने के बाद", "roman": "khaane ke baad", "english": "after the meal" },
+        { "native": "खाने से पहले", "roman": "khaane se pahle", "english": "before the meal" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "किताब मेज़ पर है।", "roman": "kitaab mez par hai.", "english": "The book is on the table.", "literal": "book table on is" },
+    { "native": "मैं कमरे में हूँ।", "roman": "main kamre mein hoon.", "english": "I am in the room.", "literal": "I room in am", "note": "कमरा becomes कमरे before the postposition में." },
+    { "native": "मैं दिल्ली से आया हूँ।", "roman": "main dillee se aayaa hoon.", "english": "I have come from Delhi.", "literal": "I Delhi from come am", "note": "A woman says: मैं दिल्ली से आई हूँ (... aaee hoon)." },
+    { "native": "मेरे साथ चलिए।", "roman": "mere saath chaliye.", "english": "Please come with me.", "literal": "my with please-walk" },
+    { "native": "यह आपके लिए है।", "roman": "yah aapke liye hai.", "english": "This is for you.", "literal": "this your for is" },
+    { "native": "राज को बुलाइए।", "roman": "raaj ko bulaaiye.", "english": "Please call Raj.", "literal": "Raj to please-call" },
+    { "native": "मैं बस से जाता हूँ।", "roman": "main bas se jaataa hoon.", "english": "I go by bus.", "literal": "I bus by going am", "note": "A woman says: मैं बस से जाती हूँ (... jaatee hoon)." },
+    { "native": "दुकान घर के पास है।", "roman": "dukaan ghar ke paas hai.", "english": "The shop is near the house.", "literal": "shop house 's near is" },
+    { "native": "मैं सोमवार तक यहाँ हूँ।", "roman": "main somvaar tak yahaan hoon.", "english": "I am here until Monday.", "literal": "I Monday until here am" },
+    { "native": "बच्चे स्कूल में हैं।", "roman": "bachche skool mein hain.", "english": "The children are at school.", "literal": "children school in are" },
+    { "native": "खाने के बाद चाय पीजिए।", "roman": "khaane ke baad chaay peejiye.", "english": "Have tea after the meal.", "literal": "food 's after tea please-drink", "note": "खाना becomes खाने before के बाद." },
+    { "native": "मुझसे हिंदी में बात कीजिए।", "roman": "mujhse hindee mein baat keejiye.", "english": "Please talk to me in Hindi.", "literal": "me-with Hindi in talk please-do" },
+    { "native": "बैग कुर्सी के नीचे है।", "roman": "baig kursee ke neeche hai.", "english": "The bag is under the chair.", "literal": "bag chair 's under is" },
+    { "native": "मैं दोस्तों के साथ हूँ।", "roman": "main doston ke saath hoon.", "english": "I am with friends.", "literal": "I friends 's with am", "note": "दोस्त becomes दोस्तों: the oblique plural ending -on." }
+  ]
+}

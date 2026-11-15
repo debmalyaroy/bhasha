@@ -1,0 +1,61 @@
+{
+  "id": "introductions",
+  "level": "1 · First words",
+  "title": "Introductions",
+  "description": "Say who you are, where you are from and what you do, and ask the same of someone else.",
+  "guide": [
+    {
+      "title": "My name is ...",
+      "text": "मेरा नाम ... है (meraa naam ... hai) is 'my name ... is'. The name goes in the middle and the verb है (is) comes last. To ask, put क्या (kyaa, what) where the name would go: आपका नाम क्या है? 'your name what is?'.\n\nमेरा means 'my' and आपका means 'your' (polite). You will learn in a later unit that these words change their ending to match the thing owned; नाम (name) is masculine, so they end in -aa here.\n\nHindi has no word for 'a' or 'the'. मैं विद्यार्थी हूँ is simply 'I student am'.",
+      "examples": [
+        { "native": "आपका नाम क्या है?", "roman": "aapkaa naam kyaa hai?", "english": "What is your name?", "literal": "your name what is" },
+        { "native": "मेरा नाम राज है।", "roman": "meraa naam raaj hai.", "english": "My name is Raj.", "literal": "my name Raj is" },
+        { "native": "मैं राज हूँ।", "roman": "main raaj hoon.", "english": "I am Raj.", "literal": "I Raj am" }
+      ]
+    },
+    {
+      "title": "Words like 'from' and 'in' come after the noun",
+      "text": "English has prepositions: 'from America', 'in Delhi'. Hindi has postpositions: the little word follows the noun. अमेरिका से (amerikaa se) is 'America from'; दिल्ली में (dillee mein) is 'Delhi in'.\n\nSo 'I am from America' is built as मैं अमेरिका से हूँ, 'I America from am'. Swap in your own country: इंग्लैंड (inglaind, England), ऑस्ट्रेलिया (ostreliyaa, Australia), कनाडा (kanaadaa, Canada).",
+      "examples": [
+        { "native": "आप कहाँ से हैं?", "roman": "aap kahaan se hain?", "english": "Where are you from?", "literal": "you where from are" },
+        { "native": "मैं अमेरिका से हूँ।", "roman": "main amerikaa se hoon.", "english": "I am from America.", "literal": "I America from am" },
+        { "native": "मैं दिल्ली में रहता हूँ।", "roman": "main dillee mein rahtaa hoon.", "english": "I live in Delhi. (man speaking)", "literal": "I Delhi in living am" }
+      ]
+    },
+    {
+      "title": "Your verbs show whether you are a man or a woman",
+      "text": "Many Hindi verb forms end in -aa for a masculine subject and -ee for a feminine one. So a man and a woman say 'I live', 'I am learning' or 'I have come' slightly differently.\n\nA man says मैं रहता हूँ (main rahtaa hoon), a woman says मैं रहती हूँ (main rahtee hoon). A man says आया हूँ (aayaa hoon, 'have come'), a woman आई हूँ (aaee hoon).\n\nThe same applies when you speak to someone: आप क्या काम करते हैं? to a man, आप क्या काम करती हैं? to a woman. Throughout this course the main phrase gives the masculine form and the note gives the feminine one.",
+      "examples": [
+        { "native": "मैं हिंदी सीख रहा हूँ।", "roman": "main hindee seekh rahaa hoon.", "english": "I am learning Hindi. (man speaking)" },
+        { "native": "मैं हिंदी सीख रही हूँ।", "roman": "main hindee seekh rahee hoon.", "english": "I am learning Hindi. (woman speaking)" },
+        { "native": "आप क्या काम करते हैं?", "roman": "aap kyaa kaam karte hain?", "english": "What work do you do? (to a man)" },
+        { "native": "आप क्या काम करती हैं?", "roman": "aap kyaa kaam kartee hain?", "english": "What work do you do? (to a woman)" }
+      ]
+    },
+    {
+      "title": "Introducing someone with respect",
+      "text": "To introduce a person, Hindi uses the plural out of respect, even for one person: ये मेरे दोस्त हैं, word for word 'these my friends are', means 'this is my friend'. The singular यह मेरा दोस्त है is used for a child, or between young friends.\n\nAfter the introduction say आपसे मिलकर खुशी हुई (aapse milkar khushee huee), 'having met you, happiness happened'.",
+      "examples": [
+        { "native": "ये मेरे दोस्त हैं।", "roman": "ye mere dost hain.", "english": "This is my friend. (respectful)" },
+        { "native": "यह मेरा दोस्त है।", "roman": "yah meraa dost hai.", "english": "This is my friend. (casual)" },
+        { "native": "आपसे मिलकर खुशी हुई।", "roman": "aapse milkar khushee huee.", "english": "Nice to meet you." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "आपका नाम क्या है?", "roman": "aapkaa naam kyaa hai?", "english": "What is your name?", "literal": "your name what is" },
+    { "native": "मेरा नाम राज है।", "roman": "meraa naam raaj hai.", "english": "My name is Raj.", "literal": "my name Raj is", "note": "Replace 'raaj' with your own name." },
+    { "native": "आप कहाँ से हैं?", "roman": "aap kahaan se hain?", "english": "Where are you from?", "literal": "you where from are" },
+    { "native": "मैं अमेरिका से हूँ।", "roman": "main amerikaa se hoon.", "english": "I am from America.", "literal": "I America from am", "note": "'se' means 'from' and comes after the place." },
+    { "native": "आपसे मिलकर खुशी हुई।", "roman": "aapse milkar khushee huee.", "english": "Nice to meet you.", "literal": "you-with having-met happiness happened" },
+    { "native": "आप क्या काम करते हैं?", "roman": "aap kyaa kaam karte hain?", "english": "What work do you do?", "literal": "you what work doing are", "note": "To a woman: आप क्या काम करती हैं? (... kartee hain?)" },
+    { "native": "मैं विद्यार्थी हूँ।", "roman": "main vidyaarthee hoon.", "english": "I am a student.", "literal": "I student am", "note": "The English word 'student' (स्टूडेंट) is also very common in speech." },
+    { "native": "मैं इंजीनियर हूँ।", "roman": "main injeeniyar hoon.", "english": "I am an engineer.", "literal": "I engineer am", "note": "Most modern job titles are simply the English word: डॉक्टर (doktar), टीचर (teechar), मैनेजर (mainejar)." },
+    { "native": "मैं यहाँ घूमने आया हूँ।", "roman": "main yahaan ghoomne aayaa hoon.", "english": "I am here on a visit.", "literal": "I here to-travel-around come am", "note": "A woman says: मैं यहाँ घूमने आई हूँ (... aaee hoon)." },
+    { "native": "आप कहाँ रहते हैं?", "roman": "aap kahaan rahte hain?", "english": "Where do you live?", "literal": "you where living are", "note": "To a woman: आप कहाँ रहती हैं? (... rahtee hain?)" },
+    { "native": "मैं दिल्ली में रहता हूँ।", "roman": "main dillee mein rahtaa hoon.", "english": "I live in Delhi.", "literal": "I Delhi in living am", "note": "A woman says: मैं दिल्ली में रहती हूँ (... rahtee hoon)." },
+    { "native": "मैं हिंदी सीख रहा हूँ।", "roman": "main hindee seekh rahaa hoon.", "english": "I am learning Hindi.", "literal": "I Hindi learn -ing am", "note": "A woman says: मैं हिंदी सीख रही हूँ (... seekh rahee hoon)." },
+    { "native": "मुझे थोड़ी हिंदी आती है।", "roman": "mujhe thoree hindee aatee hai.", "english": "I know a little Hindi.", "literal": "to-me a-little Hindi comes", "note": "Languages and skills 'come to' you in Hindi. The sentence is the same for men and women, because the verb agrees with हिंदी." },
+    { "native": "ये मेरे दोस्त हैं।", "roman": "ye mere dost hain.", "english": "This is my friend.", "literal": "these my friend(s) are", "note": "The plural form is used for one person to show respect. The same sentence can also mean 'These are my friends'." }
+  ]
+}

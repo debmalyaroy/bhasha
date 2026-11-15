@@ -1,0 +1,66 @@
+{
+  "id": "past",
+  "level": "3 · Verbs",
+  "title": "The past",
+  "description": "Talk about what has happened, what happened at a definite time, how things were and what you used to do.",
+  "guide": [
+    {
+      "title": "Have done: -echh-",
+      "text": "The tense you need most is the present perfect. It is used for anything that has happened and still matters now - which covers most of what English says with a simple past in conversation: 'I ate', 'he left', 'did you see it?'\n\nIt is built on the -e form of the verb (করে, বলে, দেখে) + ছ + the present endings:\n\nআমি করেছি (korechhi) I have done / I did\nতুমি করেছ (korechho)\nতুই করেছিস (korechhish)\nসে করেছে (korechhe)\nআপনি / তিনি করেছেন (korechhen)\n\nThe essential verbs:\nবলা - বলেছি (bolechhi); দেখা - দেখেছি (dekhechhi); থাকা - থেকেছি (thekechhi)\nখাওয়া - খেয়েছি (kheyechhi); দেওয়া - দিয়েছি (diyechhi); নেওয়া - নিয়েছি (niyechhi); হওয়া - হয়েছি (hoyechhi)\nআসা - এসেছি (eshechhi)\nযাওয়া - গিয়েছি (giyechhi), in Kolkata speech almost always shortened to গেছি (gechhi): গেছ, গেছিস, গেছে, গেছেন.\n\nIts negative is the present form + নি: করিনি, যায়নি (see the unit on negation).",
+      "examples": [
+        { "native": "আমি বইটা পড়েছি।", "roman": "aami boitaa porechhi.", "english": "I have read the book." },
+        { "native": "আপনি খেয়েছেন?", "roman": "aapni kheyechhen?", "english": "Have you eaten?" },
+        { "native": "আমি টাকা দিয়েছি।", "roman": "aami taakaa diyechhi.", "english": "I have paid." },
+        { "native": "সে চলে গেছে।", "roman": "she chole gechhe.", "english": "He/She has left." },
+        { "native": "আমি আজ সকালে এসেছি।", "roman": "aami aaj shokaale eshechhi.", "english": "I came this morning." }
+      ]
+    },
+    {
+      "title": "Did: the simple past in -l-",
+      "text": "The simple past adds -ল- (-l-) and the past endings to the stem:\n\nআমি করলাম (korlaam) I did\nতুমি করলে (korle)\nতুই করলি (korli)\nসে করল (korlo)\nআপনি / তিনি করলেন (korlen)\n\nIt is used for something that happened just now or a moment ago, and for telling a story step by step: 'I went in, I saw him, he said ...'. For a single past fact in conversation the perfect (above) is more usual.\n\nThe essential verbs:\nবলা - বললাম (bollaam), বলল (bollo); দেখা - দেখলাম (dekhlaam); থাকা - থাকলাম (thaaklaam)\nখাওয়া - খেলাম (khelaam), খেল (khelo); দেওয়া - দিলাম (dilaam), দিল (dilo); নেওয়া - নিলাম (nilaam), নিল (nilo)\nহওয়া - হলাম (holaam), হলো (holo)\nআসা - এলাম (elaam), এলে, এলি, এল (elo), এলেন (elen)\nযাওয়া - গেলাম (gelaam), গেলে, গেলি, গেল (gelo), গেলেন (gelen)\n\nIn West Bengal you will also hear the first person with -লুম: করলুম, গেলুম.",
+      "examples": [
+        { "native": "আমি তাকে দেখলাম।", "roman": "aami taake dekhlaam.", "english": "I saw him/her." },
+        { "native": "ও কী বলল?", "roman": "o kee bollo?", "english": "What did he/she say?" },
+        { "native": "আপনি কখন এলেন?", "roman": "aapni kokhon elen?", "english": "When did you arrive?" },
+        { "native": "কী হলো?", "roman": "kee holo?", "english": "What happened?" }
+      ]
+    },
+    {
+      "title": "Did, back then: -echhil-",
+      "text": "When the event belongs to a finished time in the past - yesterday, last year, in childhood - Bengali uses the past perfect, where English still says 'went', 'came', 'saw'.\n\nIt is the -e form + ছিল + the past endings:\n\nআমি করেছিলাম (korechhilaam)\nতুমি করেছিলে (korechhile)\nতুই করেছিলি (korechhili)\nসে করেছিল (korechhilo)\nআপনি / তিনি করেছিলেন (korechhilen)\n\nযাওয়া - গিয়েছিলাম (giyechhilaam); আসা - এসেছিলাম (eshechhilaam); খাওয়া - খেয়েছিলাম (kheyechhilaam); দেওয়া - দিয়েছিলাম (diyechhilaam).\n\nA rule of thumb: with a past time word (কাল, গত বছর), use this tense.",
+      "examples": [
+        { "native": "আমি কাল এসেছিলাম।", "roman": "aami kaal eshechhilaam.", "english": "I came yesterday." },
+        { "native": "আমরা গত বছর দার্জিলিং গিয়েছিলাম।", "roman": "aamraa goto bochhor daarjiling giyechhilaam.", "english": "We went to Darjeeling last year." },
+        { "native": "আমি আপনাকে বলেছিলাম।", "roman": "aami aapnaake bolechhilaam.", "english": "I told you (back then)." }
+      ]
+    },
+    {
+      "title": "Was, and used to",
+      "text": "The past of both the zero verb and আছে is ছিল-:\n\nআমি ছিলাম (chhilaam) I was\nতুমি ছিলে (chhile)\nতুই ছিলি (chhili)\nসে ছিল (chhilo)\nআপনি / তিনি ছিলেন (chhilen)\n\nSo: আজ গরম (today is hot) - কাল গরম ছিল (yesterday was hot); আমার একটা গাড়ি আছে (I have a car) - আমার একটা গাড়ি ছিল (I had a car). The negative is ছিল না.\n\n'Used to do' is the habitual past: stem + -ত- (-t-) + the past endings (except that তুই takes -ish):\n\nআমি করতাম (kortaam) I used to do\nতুমি করতে (korte)\nতুই করতিস (kortish)\nসে করত (korto)\nআপনি / তিনি করতেন (korten)\n\nখাওয়া - খেতাম (khetaam); যাওয়া - যেতাম (jetaam); থাকা - থাকতাম (thaaktaam); আসা - আসতাম (aashtaam).",
+      "examples": [
+        { "native": "আমি তখন ছোট ছিলাম।", "roman": "aami tokhon chhoto chhilaam.", "english": "I was little then." },
+        { "native": "কাল খুব গরম ছিল।", "roman": "kaal khub gorom chhilo.", "english": "It was very hot yesterday." },
+        { "native": "তুমি কোথায় ছিলে?", "roman": "tumi kothaay chhile?", "english": "Where were you? (familiar)" },
+        { "native": "আমি আগে সিগারেট খেতাম।", "roman": "aami aage sigaaret khetaam.", "english": "I used to smoke." },
+        { "native": "আমরা কলকাতায় থাকতাম।", "roman": "aamraa kolkaataay thaaktaam.", "english": "We used to live in Kolkata." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আপনি খেয়েছেন?", "roman": "aapni kheyechhen?", "english": "Have you eaten?", "literal": "you have-eaten", "note": "A common friendly question, almost a greeting." },
+    { "native": "আমি বইটা পড়েছি।", "roman": "aami boitaa porechhi.", "english": "I have read the book.", "literal": "I book-the have-read", "note": "" },
+    { "native": "আমি আজ সকালে এসেছি।", "roman": "aami aaj shokaale eshechhi.", "english": "I came this morning.", "literal": "I today morning-in have-come", "note": "English 'came', but the perfect in Bengali: the day is not over." },
+    { "native": "সে চলে গেছে।", "roman": "she chole gechhe.", "english": "He/She has left.", "literal": "he/she having-moved has-gone", "note": "গেছে is the everyday short form of গিয়েছে (giyechhe)." },
+    { "native": "আমি টাকা দিয়েছি।", "roman": "aami taakaa diyechhi.", "english": "I have paid.", "literal": "I money have-given", "note": "" },
+    { "native": "আমি ওকে বলিনি।", "roman": "aami oke bolini.", "english": "I didn't tell him/her.", "literal": "I him/her-to say-not(past)", "note": "The negative of বলেছি." },
+    { "native": "আমি তাকে দেখলাম।", "roman": "aami taake dekhlaam.", "english": "I saw him/her.", "literal": "I him/her-to saw", "note": "Simple past: just now, or as part of a story." },
+    { "native": "ও কী বলল?", "roman": "o kee bollo?", "english": "What did he/she say?", "literal": "he/she what said", "note": "" },
+    { "native": "আপনি কখন এলেন?", "roman": "aapni kokhon elen?", "english": "When did you arrive?", "literal": "you when came", "note": "The past stem of আসা (to come) is এ-." },
+    { "native": "কী হলো?", "roman": "kee holo?", "english": "What happened?", "literal": "what happened", "note": "Also 'What's the matter?'" },
+    { "native": "আমরা গত বছর দার্জিলিং গিয়েছিলাম।", "roman": "aamraa goto bochhor daarjiling giyechhilaam.", "english": "We went to Darjeeling last year.", "literal": "we last year Darjeeling had-gone", "note": "A finished past time calls for the -echhil- tense." },
+    { "native": "আমি তখন ছোট ছিলাম।", "roman": "aami tokhon chhoto chhilaam.", "english": "I was little then.", "literal": "I then small was", "note": "" },
+    { "native": "কাল খুব গরম ছিল।", "roman": "kaal khub gorom chhilo.", "english": "It was very hot yesterday.", "literal": "yesterday very hot was", "note": "কাল is 'yesterday' here because the verb is past." },
+    { "native": "তুমি কোথায় ছিলে?", "roman": "tumi kothaay chhile?", "english": "Where were you? (familiar)", "literal": "you where were", "note": "" },
+    { "native": "আমি আগে সিগারেট খেতাম।", "roman": "aami aage sigaaret khetaam.", "english": "I used to smoke.", "literal": "I before cigarette used-to-eat", "note": "Smoking, too, is 'eating' in Bengali." }
+  ]
+}

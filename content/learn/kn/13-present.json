@@ -1,0 +1,67 @@
+{
+  "id": "present",
+  "level": "3 · Verbs",
+  "title": "Present tense: what you do",
+  "description": "Conjugate any verb in the present for every person, and talk about habits and plans.",
+  "guide": [
+    {
+      "title": "One tense for 'I do' and 'I will do' - singular",
+      "text": "The Kannada present tense (more exactly the 'non-past') covers habits ('I work'), general truths, and the near future ('I'll do it'). The verb is built from the stem + t + a personal ending.\n\nThe dictionary form of a verb is its stem, which is also the familiar command: ಮಾಡು (maadu) 'do, make'. In speech the final u drops before the t: maad- + teeni = maadteeni.\n\nThe singular endings: -teeni (I), -teeya (you, familiar), -taane (he), -taale (she). The neuter 'it' form keeps the u and ends in -utte: maadutte.\n\nWritten Kannada uses fuller forms with -utt-: maaduttene, maadutteeya, maaduttaane, maaduttaale, maaduttade. If you can say the spoken forms you will recognise these at once.",
+      "examples": [
+        { "native": "ನಾನು ಮಾಡ್ತೀನಿ.", "roman": "naanu maadteeni.", "english": "I do / I will do. (written: maaduttene)" },
+        { "native": "ನೀನು ಮಾಡ್ತೀಯ.", "roman": "neenu maadteeya.", "english": "You do. (familiar; written: maadutteeya)" },
+        { "native": "ಅವನು ಮಾಡ್ತಾನೆ.", "roman": "avanu maadtaane.", "english": "He does. (written: maaduttaane)" },
+        { "native": "ಅವಳು ಮಾಡ್ತಾಳೆ.", "roman": "avalu maadtaale.", "english": "She does. (written: maaduttaale)" },
+        { "native": "ಅದು ಮಾಡುತ್ತೆ.", "roman": "adu maadutte.", "english": "It does. (written: maaduttade)" }
+      ]
+    },
+    {
+      "title": "Plural and respectful forms",
+      "text": "The plural endings: -teevi (we), -teera (you, polite or plural), -taare (they; and he or she when you speak respectfully). Things in the plural take -tave.\n\nRemember that avaru + -taare is what you use for any single adult you respect: amma aduge maadtaare, 'Mother cooks'.\n\nWritten forms: maadutteve (we), maadutteeri (you), maaduttaare (they), maaduttave (they, things).\n\nFor the polite 'you', a statement ends in short -a (maadteera) and a yes/no question in long -aa (maadteeraa?). You will also hear and see -teeri, which is closer to the written form.",
+      "examples": [
+        { "native": "ನಾವು ಮಾಡ್ತೀವಿ.", "roman": "naavu maadteevi.", "english": "We do. (written: maadutteve)" },
+        { "native": "ನೀವು ಮಾಡ್ತೀರ.", "roman": "neevu maadteera.", "english": "You do. (polite; written: maadutteeri)" },
+        { "native": "ಅವರು ಮಾಡ್ತಾರೆ.", "roman": "avaru maadtaare.", "english": "They do. / He or she does. (respectful; written: maaduttaare)" },
+        { "native": "ಅವು ಮಾಡ್ತವೆ.", "roman": "avu maadtave.", "english": "They do. (things, animals; written: maaduttave)" }
+      ]
+    },
+    {
+      "title": "The ten most useful verbs",
+      "text": "Most verbs end in -u and behave exactly like maadu. Here are ten essential verbs with their 'I' form and their 'it' form:\n\nಮಾಡು maadu (do): maadteeni, maadutte.\nಹೋಗು hogu (go): hogteeni, hogutte.\nನೋಡು nodu (see, look): nodteeni, nodutte.\nಕೇಳು kelu (ask, listen): kelteeni, kelutte.\nಕೊಡು kodu (give): kodteeni, kodutte.\nಆಗು aagu (become, happen): aagteeni, aagutte.\nಇರು iru (be, stay): irteeni, irutte.\nಬಾ baa (come): irregular stem bar-: barteeni, barutte.\nತಿನ್ನು tinnu (eat): the stem shortens to tin-: tinteeni (spelled ತಿಂತೀನಿ), but tinnutte.\nಕುಡಿ kudi (drink): verbs ending in -i or -e lengthen that vowel: kudeeteeni (ಕುಡೀತೀನಿ), but kudiyutte. The same happens with kali (learn): kaleeteeni; bare (write): bareeteeni; kare (call): kareeteeni; nade (walk): nadeeteeni.\n\nEvery one of these then takes the full set of endings: hogteeni, hogteeya, hogtaane, hogtaale, hogutte, hogteevi, hogteera, hogtaare.\n\nNote on iru: 'I am (now)' is iddeeni, the special form you already know. irteeni means 'I will be / I usually am': naale maneyalli irteeni, 'I'll be at home tomorrow'.",
+      "examples": [
+        { "native": "ಹೋಗ್ತೀನಿ", "roman": "hogteeni", "english": "I go / I will go" },
+        { "native": "ಬರ್ತೀನಿ", "roman": "barteeni", "english": "I come / I will come" },
+        { "native": "ತಿಂತೀನಿ", "roman": "tinteeni", "english": "I eat / I will eat" },
+        { "native": "ಕುಡೀತೀನಿ", "roman": "kudeeteeni", "english": "I drink / I will drink" },
+        { "native": "ಕೊಡ್ತೀನಿ", "roman": "kodteeni", "english": "I give / I will give" },
+        { "native": "ಕೇಳ್ತೀನಿ", "roman": "kelteeni", "english": "I ask / I will ask" }
+      ]
+    },
+    {
+      "title": "Noun + maadu: making new verbs",
+      "text": "A huge number of everyday actions are a noun followed by maadu, 'do': kelasa maadu (do work = to work), aduge maadu (do cooking = to cook), oota maadu (do meal = to eat a meal), sahaaya maadu (do help = to help), snaana maadu (to bathe), nidde maadu (to sleep), fon maadu (to phone). English words slot in the same way: draiv maadu, 'to drive'.\n\nSo once you can conjugate maadu, you can say hundreds of things.\n\nWords such as ದಿನಾ (dinaa) 'every day', ಯಾವಾಗಲೂ (yaavaagaloo) 'always' and ಬೆಳಿಗ್ಗೆ (beligge) 'in the morning' mark the habitual meaning.",
+      "examples": [
+        { "native": "ಅಮ್ಮ ಅಡುಗೆ ಮಾಡ್ತಾರೆ.", "roman": "amma aduge maadtaare.", "english": "Mother cooks." },
+        { "native": "ನೀವು ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡ್ತೀರ?", "roman": "neevu elli kelasa maadteera?", "english": "Where do you work?" },
+        { "native": "ಅವರು ನನಗೆ ಸಹಾಯ ಮಾಡ್ತಾರೆ.", "roman": "avaru nanage sahaaya maadtaare.", "english": "They help me." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಾನು ಕನ್ನಡ ಮಾತಾಡ್ತೀನಿ.", "roman": "naanu kannada maataadteeni.", "english": "I speak Kannada.", "literal": "I Kannada speak", "note": "maataadu = to speak, talk. Written: maataaduttene (ಮಾತಾಡುತ್ತೇನೆ)." },
+    { "native": "ನೀನು ಏನು ಮಾಡ್ತೀಯ?", "roman": "neenu enu maadteeya?", "english": "What do you do? (to a friend)", "literal": "you what do", "note": "Familiar form. Polite: neevu enu maadteera?" },
+    { "native": "ಅವನು ಆಫೀಸಿಗೆ ಹೋಗ್ತಾನೆ.", "roman": "avanu aafeesige hogtaane.", "english": "He goes to the office.", "literal": "he office-to goes", "note": "Written: hoguttaane (ಹೋಗುತ್ತಾನೆ)." },
+    { "native": "ಅವಳು ಕಾಲೇಜಿಗೆ ಹೋಗ್ತಾಳೆ.", "roman": "avalu kaalejige hogtaale.", "english": "She goes to college.", "literal": "she college-to goes", "note": "Written: hoguttaale (ಹೋಗುತ್ತಾಳೆ)." },
+    { "native": "ನಾವು ಸಂಜೆ ಟೀ ಕುಡೀತೀವಿ.", "roman": "naavu sanje tee kudeeteevi.", "english": "We drink tea in the evening.", "literal": "we evening tea drink", "note": "Written: kudiyutteve (ಕುಡಿಯುತ್ತೇವೆ)." },
+    { "native": "ನೀವು ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡ್ತೀರ?", "roman": "neevu elli kelasa maadteera?", "english": "Where do you work?", "literal": "you where work do", "note": "Written: maadutteeri (ಮಾಡುತ್ತೀರಿ)." },
+    { "native": "ಅವರು ಬೆಳಿಗ್ಗೆ ಬೇಗ ಏಳ್ತಾರೆ.", "roman": "avaru beligge bega eltaare.", "english": "He gets up early in the morning.", "literal": "he(respectful) morning early gets-up", "note": "elu (long e) = to get up - the same spelling as 'seven'. Written: eluttaare (ಏಳುತ್ತಾರೆ)." },
+    { "native": "ಬಸ್ ಇಲ್ಲಿ ನಿಲ್ಲುತ್ತೆ.", "roman": "bas illi nillutte.", "english": "The bus stops here.", "literal": "bus here stops", "note": "Neuter form in -utte. Written: nilluttade (ನಿಲ್ಲುತ್ತದೆ)." },
+    { "native": "ನಾನು ದಿನಾ ವಾಕಿಂಗ್ ಹೋಗ್ತೀನಿ.", "roman": "naanu dinaa vaaking hogteeni.", "english": "I go for a walk every day.", "literal": "I daily walking go", "note": "dinaa = every day (from dina, day)." },
+    { "native": "ಅಮ್ಮ ಅಡುಗೆ ಮಾಡ್ತಾರೆ.", "roman": "amma aduge maadtaare.", "english": "Mother cooks.", "literal": "mother cooking does", "note": "Plural verb for respect." },
+    { "native": "ಮಕ್ಕಳು ಹಾಲು ಕುಡೀತಾರೆ.", "roman": "makkalu haalu kudeetaare.", "english": "The children drink milk.", "literal": "children milk drink", "note": "Written: kudiyuttaare (ಕುಡಿಯುತ್ತಾರೆ)." },
+    { "native": "ನಾಯಿ ಮಾಂಸ ತಿನ್ನುತ್ತೆ.", "roman": "naayi maamsa tinnutte.", "english": "The dog eats meat.", "literal": "dog meat eats", "note": "Animals take the neuter form. Written: tinnuttade (ತಿನ್ನುತ್ತದೆ)." },
+    { "native": "ನಾನು ರಾತ್ರಿ ಹತ್ತು ಗಂಟೆಗೆ ಮಲಗ್ತೀನಿ.", "roman": "naanu raatri hattu gantege malagteeni.", "english": "I go to bed at ten at night.", "literal": "I night ten o'clock-at lie-down", "note": "malagu = to lie down, go to sleep." },
+    { "native": "ನೀವು ಟೀವಿ ನೋಡ್ತೀರಾ?", "roman": "neevu teevi nodteeraa?", "english": "Do you watch TV?", "literal": "you TV watch?", "note": "Long -aa makes it a question." },
+    { "native": "ಅವರು ನನಗೆ ಸಹಾಯ ಮಾಡ್ತಾರೆ.", "roman": "avaru nanage sahaaya maadtaare.", "english": "They help me.", "literal": "they me-to help do", "note": "The person helped is in the dative: nanage." }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "participles",
+  "level": "3 · Verbs",
+  "title": "Linking actions and helper verbs",
+  "description": "Chain actions together ('go and come', 'eat and see'), say 'have done', and use the helper verbs that give Kannada its flavour.",
+  "guide": [
+    {
+      "title": "The 'having done' form",
+      "text": "Kannada does not join verbs with 'and'. Instead, every verb except the last is put in a short form meaning 'having done' (the verbal participle), and only the final verb carries tense and person: oota maadi banni, 'having-done meal, come' = 'eat and then come'.\n\nHow to form it:\nRegular verbs in -u change -u to -i: maadu - ಮಾಡಿ (maadi); hogu - ಹೋಗಿ (hogi); nodu - ನೋಡಿ (nodi); kelu - ಕೇಳಿ (keli); helu - ಹೇಳಿ (heli); aagu - ಆಗಿ (aagi). (This looks the same as the polite command; the position in the sentence tells you which it is.)\n\nVerbs with an irregular past use the past stem + u: baa - ಬಂದು (bandu); tinnu - ತಿಂದು (tindu); kudi - ಕುಡಿದು (kudidu); kodu - ಕೊಟ್ಟು (kottu); iru - ಇದ್ದು (iddu); tago - ತಗೊಂಡು (tagondu); kootko - ಕೂತ್ಕೊಂಡು (kootkondu); nillu - ನಿಂತು (nintu); elu - ಎದ್ದು (eddu); bare - ಬರೆದು (baredu); mare - ಮರೆತು (maretu).\n\nSeveral can be chained: angadige hogi, haalu tagondu, bega baa - 'go to the shop, get milk and come back quickly'.",
+      "examples": [
+        { "native": "ಊಟ ಮಾಡಿ ಬನ್ನಿ.", "roman": "oota maadi banni.", "english": "Have your meal and come." },
+        { "native": "ನಾನು ಅಂಗಡಿಗೆ ಹೋಗಿ ಬರ್ತೀನಿ.", "roman": "naanu angadige hogi barteeni.", "english": "I'll go to the shop and come back." },
+        { "native": "ಹಾಲು ತಗೊಂಡು ಬಾ.", "roman": "haalu tagondu baa.", "english": "Bring some milk. (take milk and come)" },
+        { "native": "ಕೂತ್ಕೊಂಡು ಮಾತಾಡೋಣ.", "roman": "kootkondu maataadona.", "english": "Let's sit and talk." }
+      ]
+    },
+    {
+      "title": "'Have done': participle + iru",
+      "text": "Add the present of iru to the participle and you get the perfect, 'have done': maadi + iddeeni = ಮಾಡಿದ್ದೀನಿ (maadiddeeni), 'I have done'.\n\nmaadiddeeni, maadiddeeya, maadiddaane, maadiddaale, maadide, maadiddeevi, maadiddeera, maadiddaare.\n\nWith irregular verbs: bandiddeeni (I have come), hogiddaare (they have gone), tindiddeeni (I have eaten), kottiddeeni (I have given), nodiddeeni (I have seen), bandide (it has come).\n\nCareful with the look-alikes: maadide can be 'I did' (past) or 'it has done' (perfect neuter). Context decides.\n\nNegative: participle + illa: ಬಂದಿಲ್ಲ (bandilla) hasn't come; ಮಾಡಿಲ್ಲ (maadilla) haven't done; ನೋಡಿಲ್ಲ (nodilla) haven't seen. Same for all persons.\n\nWith the past of iru you get 'had done': bandidde, 'I had come'.\n\nWritten forms: maadiddene, bandiddaare, bandide.",
+      "examples": [
+        { "native": "ನಾನು ಊಟ ಮಾಡಿದ್ದೀನಿ.", "roman": "naanu oota maadiddeeni.", "english": "I have eaten." },
+        { "native": "ಅವರು ಊರಿಗೆ ಹೋಗಿದ್ದಾರೆ.", "roman": "avaru oorige hogiddaare.", "english": "They have gone to their home town." },
+        { "native": "ಬಸ್ ಬಂದಿದೆ.", "roman": "bas bandide.", "english": "The bus has arrived." },
+        { "native": "ಅವರು ಇನ್ನೂ ಬಂದಿಲ್ಲ.", "roman": "avaru innoo bandilla.", "english": "They haven't come yet." },
+        { "native": "ನಾನು ಈ ಸಿನಿಮಾ ನೋಡಿಲ್ಲ.", "roman": "naanu ee sinimaa nodilla.", "english": "I haven't seen this film." }
+      ]
+    },
+    {
+      "title": "Helper verbs after the participle",
+      "text": "A participle followed by certain common verbs gives shades of meaning that English expresses with adverbs or not at all. The helper loses its own meaning.\n\nಬಿಡು (bidu, 'leave') - completely, once and for all, get it over with: maadibidi, 'get it done'; hogibidi, 'just go'; maretubitte, 'I clean forgot'; tindubitta, 'he ate it all up'.\n\nಕೊಳ್ಳು (kollu, spoken ko, 'take') - do it for oneself: tagolli, 'take (for yourself)'; kootkolli, 'sit yourself down'; nodkolli, 'look after it / see for yourself'; its 'I' form is -kolteeni: nodkolteeni, 'I'll take care of it'.\n\nಕೊಡು (kodu, 'give') - do it for someone else: helikodi, 'tell-give' = teach, explain; maadikodi, 'do it for me'; torisikodi, 'show me how'.\n\nನೋಡು (nodu, 'see') - try: tindu nodi, 'eat and see' = taste it; maadi nodi, 'try doing it'; keli nodi, 'try asking'.\n\nಹೋಗು (hogu, 'go') - something happens by itself, often unwanted: kaleduhogide, 'it has got lost'; mugiduhoytu, 'it got finished / used up'; haalaagihoytu, 'it got spoiled'.",
+      "examples": [
+        { "native": "ಬೇಗ ಮಾಡಿಬಿಡಿ.", "roman": "bega maadibidi.", "english": "Get it done quickly." },
+        { "native": "ನಾನು ಮರೆತುಬಿಟ್ಟೆ.", "roman": "naanu maretubitte.", "english": "I completely forgot." },
+        { "native": "ನಾನು ನೋಡ್ಕೊಳ್ತೀನಿ.", "roman": "naanu nodkolteeni.", "english": "I'll take care of it." },
+        { "native": "ನನಗೆ ಕನ್ನಡ ಹೇಳಿಕೊಡಿ.", "roman": "nanage kannada helikodi.", "english": "Please teach me Kannada." },
+        { "native": "ಇದನ್ನು ತಿಂದು ನೋಡಿ.", "roman": "idannu tindu nodi.", "english": "Try this. (eat and see)" },
+        { "native": "ಕೆಲಸ ಮುಗಿದುಹೋಯ್ತು.", "roman": "kelasa mugiduhoytu.", "english": "The work got finished." }
+      ]
+    },
+    {
+      "title": "'Without doing': the negative participle",
+      "text": "The opposite of 'having done' is 'without doing': verb stem + -ಅದೆ (-ade). maadu - ಮಾಡದೆ (maadade) without doing; hogu - hogade; helu - ಹೇಳದೆ (helade) without saying; baa - barade; tinnu - tinnade; nodu - nodade.\n\navanu enoo helade hoda, 'he went without saying anything'; oota maadade hogabedi, 'don't go without eating'.\n\nWith iru it makes a negative command or habit: barade irabedi, 'don't fail to come'.",
+      "examples": [
+        { "native": "ಅವನು ಏನೂ ಹೇಳದೆ ಹೋದ.", "roman": "avanu enoo helade hoda.", "english": "He left without saying anything." },
+        { "native": "ಊಟ ಮಾಡದೆ ಹೋಗಬೇಡಿ.", "roman": "oota maadade hogabedi.", "english": "Don't go without eating." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಊಟ ಮಾಡಿ ಬನ್ನಿ.", "roman": "oota maadi banni.", "english": "Have your meal and come.", "literal": "meal having-done come", "note": "" },
+    { "native": "ನಾನು ಅಂಗಡಿಗೆ ಹೋಗಿ ಬರ್ತೀನಿ.", "roman": "naanu angadige hogi barteeni.", "english": "I'll go to the shop and come back.", "literal": "I shop-to having-gone come", "note": "" },
+    { "native": "ಹಾಲು ತಗೊಂಡು ಬಾ.", "roman": "haalu tagondu baa.", "english": "Bring some milk. (to a friend or child)", "literal": "milk having-taken come", "note": "'Bring' is 'take and come'; 'take away' is tagondu hogu. Written: tegedukondu (ತೆಗೆದುಕೊಂಡು)." },
+    { "native": "ನಾನು ಊಟ ಮಾಡಿದ್ದೀನಿ.", "roman": "naanu oota maadiddeeni.", "english": "I have eaten.", "literal": "I meal have-done", "note": "Written: maadiddene (ಮಾಡಿದ್ದೇನೆ)." },
+    { "native": "ಅವರು ಊರಿಗೆ ಹೋಗಿದ್ದಾರೆ.", "roman": "avaru oorige hogiddaare.", "english": "They have gone to their home town.", "literal": "they town-to have-gone", "note": "" },
+    { "native": "ನಾನು ಮರೆತುಬಿಟ್ಟೆ.", "roman": "naanu maretubitte.", "english": "I completely forgot.", "literal": "I having-forgotten-left", "note": "Spoken short form: maretbitte (ಮರೆತ್ಬಿಟ್ಟೆ)." },
+    { "native": "ಇದನ್ನು ತಿಂದು ನೋಡಿ.", "roman": "idannu tindu nodi.", "english": "Try this, taste it.", "literal": "this having-eaten see", "note": "" },
+    { "native": "ನನಗೆ ಕನ್ನಡ ಹೇಳಿಕೊಡಿ.", "roman": "nanage kannada helikodi.", "english": "Please teach me Kannada.", "literal": "me-to Kannada tell-give", "note": "helikodu = to teach, explain to someone." },
+    { "native": "ನಾನು ನೋಡ್ಕೊಳ್ತೀನಿ.", "roman": "naanu nodkolteeni.", "english": "I'll take care of it.", "literal": "I see-for-myself", "note": "Written: nodikolluttene (ನೋಡಿಕೊಳ್ಳುತ್ತೇನೆ)." },
+    { "native": "ಕೆಲಸ ಮುಗಿದುಹೋಯ್ತು.", "roman": "kelasa mugiduhoytu.", "english": "The work got finished.", "literal": "work having-ended-went", "note": "mugi = to end. Written: mugiduhoyitu (ಮುಗಿದುಹೋಯಿತು)." },
+    { "native": "ಅವನು ಏನೂ ಹೇಳದೆ ಹೋದ.", "roman": "avanu enoo helade hoda.", "english": "He left without saying anything.", "literal": "he anything without-saying went", "note": "" },
+    { "native": "ಕೂತ್ಕೊಂಡು ಮಾತಾಡೋಣ.", "roman": "kootkondu maataadona.", "english": "Let's sit and talk.", "literal": "having-sat let-us-talk", "note": "Written: kulitukondu (ಕುಳಿತುಕೊಂಡು)." },
+    { "native": "ಬಸ್ ಬಂದಿದೆ.", "roman": "bas bandide.", "english": "The bus has arrived.", "literal": "bus has-come", "note": "bandu + ide." },
+    { "native": "ನಾನು ಈ ಸಿನಿಮಾ ನೋಡಿದ್ದೀನಿ.", "roman": "naanu ee sinimaa nodiddeeni.", "english": "I have seen this film.", "literal": "I this film have-seen", "note": "" },
+    { "native": "ಬೇಗ ಮಾಡಿಬಿಡಿ.", "roman": "bega maadibidi.", "english": "Get it done quickly.", "literal": "quickly do-leave", "note": "" }
+  ]
+}

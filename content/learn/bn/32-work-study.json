@@ -1,0 +1,55 @@
+{
+  "id": "work-study",
+  "level": "4 · Everyday situations",
+  "title": "At work or study",
+  "description": "Say what you do and where, talk about being busy or free, and ask for explanations in class or at the office.",
+  "guide": [
+    {
+      "title": "What do you do?",
+      "text": "কাজ (kaaj) is work; কাজ করা, to work. চাকরি (chaakri) is a salaried job; চাকরি করা, to be employed. ব্যবসা (byabshaa) is business.\n\nA profession is stated with no verb and no article: আমি শিক্ষক, 'I am a teacher'; উনি ইঞ্জিনিয়ার, 'he/she is an engineer'.\n\nWhere you work takes the 'at' ending: আমি একটা ব্যাংকে কাজ করি; আমি অফিসে যাচ্ছি.\n\nSome professions: শিক্ষক (shikkhok) teacher; ডাক্তার doctor; উকিল (ukil) lawyer; ব্যবসায়ী (byabshaayee) businessman; সাংবাদিক (shaangbaadik) journalist; চাষি (chaashi) farmer; ছাত্র / ছাত্রী student.\n\nছুটি (chhuti) is a holiday, leave, or the end of the working day: আজ আমার ছুটি, 'I am off today'; কটায় ছুটি? 'when do you finish?'",
+      "examples": [
+        { "native": "আমি একটা ব্যাংকে কাজ করি।", "roman": "aami ektaa byaangke kaaj kori.", "english": "I work in a bank." },
+        { "native": "আমি বাড়ি থেকে কাজ করি।", "roman": "aami baari theke kaaj kori.", "english": "I work from home." },
+        { "native": "আজ আমার ছুটি।", "roman": "aaj aamaar chhuti.", "english": "I am off today." },
+        { "native": "আমি চাকরি খুঁজছি।", "roman": "aami chaakri khunjchhi.", "english": "I am looking for a job." }
+      ]
+    },
+    {
+      "title": "Reading, studying, teaching",
+      "text": "পড়া (poraa) means both 'to read' and 'to study'. আমি কলেজে পড়ি is 'I study at college'; আপনি কী নিয়ে পড়ছেন? is 'what are you studying?' (literally 'taking what are you studying').\n\nBengali makes 'cause to do' verbs by adding -আনো (-aano) to the stem. These pairs are worth learning together:\n\nপড়া to study - পড়ানো (poraano) to teach\nশেখা (shekhaa) to learn - শেখানো (shekhaano) to teach (a skill)\nবোঝা (bojhaa) to understand - বোঝানো (bojhaano) to explain\nদেখা to see - দেখানো (dekhaano) to show\n\nSo: আমি বাংলা শিখছি, 'I am learning Bengali'; উনি বাংলা পড়ান, 'he/she teaches Bengali'; আমাকে বুঝিয়ে দিন, 'explain it to me'.\n\nস্কুল (skul) school; কলেজ (kolej) college; বিশ্ববিদ্যালয় (bisshobiddaaloy) university; ক্লাস (klaas) class; পরীক্ষা (poreekkhaa) exam.",
+      "examples": [
+        { "native": "আপনি কোথায় পড়েন?", "roman": "aapni kothaay poren?", "english": "Where do you study?" },
+        { "native": "আমি কলেজে পড়ি।", "roman": "aami koleje pori.", "english": "I study at college." },
+        { "native": "আপনি কী নিয়ে পড়ছেন?", "roman": "aapni kee niye porchhen?", "english": "What are you studying?" },
+        { "native": "উনি বাংলা পড়ান।", "roman": "uni baanglaa poraan.", "english": "He/She teaches Bengali." },
+        { "native": "আমাকে একটু বুঝিয়ে দিন।", "roman": "aamaake ektu bujhiye din.", "english": "Please explain it to me." }
+      ]
+    },
+    {
+      "title": "When: কখন and কবে",
+      "text": "Bengali has two words for 'when'. কখন (kokhon) asks for a time of day: মিটিংটা কখন? 'What time is the meeting?' কবে (kobe) asks for a day or date: পরীক্ষা কবে? 'When (which day) is the exam?'\n\nব্যস্ত (byasto) is 'busy'; the য-ফলা gives the a of 'cat'. Its opposite is ফাঁকা (phaankaa) 'free, empty' or simply সময় আছে, 'there is time'.\n\nশেষ (shesh) is 'end, finished': শেষ হবে, 'will be finished'; শেষ করব, 'I will finish'. শুরু (shuru) is 'beginning': কখন শুরু হবে? 'when will it begin?'\n\nবানান (baanaan) is 'spelling' and শব্দ (shobdo) is 'word' - two words every learner needs: এই শব্দটার বানান কী?",
+      "examples": [
+        { "native": "পরীক্ষা কবে?", "roman": "poreekkhaa kobe?", "english": "When is the exam?" },
+        { "native": "আমি খুব ব্যস্ত।", "roman": "aami khub byasto.", "english": "I am very busy." },
+        { "native": "কাজটা কাল শেষ হবে।", "roman": "kaajtaa kaal shesh hobe.", "english": "The work will be finished tomorrow." },
+        { "native": "এই শব্দটার বানান কী?", "roman": "ei shobdotaar baanaan kee?", "english": "How is this word spelt?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি একটা ব্যাংকে কাজ করি।", "roman": "aami ektaa byaangke kaaj kori.", "english": "I work in a bank.", "literal": "I one bank-in work do", "note": "" },
+    { "native": "আমি বাড়ি থেকে কাজ করি।", "roman": "aami baari theke kaaj kori.", "english": "I work from home.", "literal": "I home from work do", "note": "" },
+    { "native": "আপনার অফিস কোথায়?", "roman": "aapnaar ophish kothaay?", "english": "Where is your office?", "literal": "your office where", "note": "" },
+    { "native": "আজ আমার ছুটি।", "roman": "aaj aamaar chhuti.", "english": "I am off today.", "literal": "today my holiday", "note": "" },
+    { "native": "আমার একটা মিটিং আছে।", "roman": "aamaar ektaa miting aachhe.", "english": "I have a meeting.", "literal": "my one meeting is", "note": "" },
+    { "native": "আমি খুব ব্যস্ত।", "roman": "aami khub byasto.", "english": "I am very busy.", "literal": "I very busy", "note": "The য-ফলা in ব্যস্ত gives the a of 'cat'." },
+    { "native": "কাজটা কাল শেষ হবে।", "roman": "kaajtaa kaal shesh hobe.", "english": "The work will be finished tomorrow.", "literal": "work-the tomorrow end will-be", "note": "" },
+    { "native": "আমি চাকরি খুঁজছি।", "roman": "aami chaakri khunjchhi.", "english": "I am looking for a job.", "literal": "I job am-searching", "note": "" },
+    { "native": "আপনি কোথায় পড়েন?", "roman": "aapni kothaay poren?", "english": "Where do you study?", "literal": "you where study", "note": "" },
+    { "native": "আমি কলেজে পড়ি।", "roman": "aami koleje pori.", "english": "I study at college.", "literal": "I college-in study", "note": "" },
+    { "native": "আপনি কী নিয়ে পড়ছেন?", "roman": "aapni kee niye porchhen?", "english": "What are you studying?", "literal": "you what taking are-studying", "note": "Asks for the subject. নিয়ে here means 'about, on'." },
+    { "native": "পরীক্ষা কবে?", "roman": "poreekkhaa kobe?", "english": "When is the exam?", "literal": "exam when", "note": "কবে asks which day; কখন asks what time." },
+    { "native": "এই শব্দটার বানান কী?", "roman": "ei shobdotaar baanaan kee?", "english": "How is this word spelt?", "literal": "this word-the's spelling what", "note": "" },
+    { "native": "আমাকে একটু বুঝিয়ে দিন।", "roman": "aamaake ektu bujhiye din.", "english": "Please explain it to me.", "literal": "me-to a-little having-explained give", "note": "" }
+  ]
+}

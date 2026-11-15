@@ -1,0 +1,63 @@
+{
+  "id": "want-need-can",
+  "level": "3 · Verbs",
+  "title": "Want, need, can, must",
+  "description": "Say what you want, what you need, what you are able to do and what you have to do.",
+  "guide": [
+    {
+      "title": "Wanting a thing: chaahiye",
+      "text": "To say you want or need a thing, Hindi turns the sentence round: the thing is wanted 'to' you. मुझे पानी चाहिए, word for word 'to-me water is-wanted', covers both 'I want water' and 'I need water'.\n\nThe person is in the 'to' form: मुझे (to me), हमें (to us), तुम्हें (to you, familiar), आपको (to you, polite), उसे (to him, to her), उन्हें (to them). A noun takes को: राज को पानी चाहिए.\n\nचाहिए itself does not change for person. It is always चाहिए with one thing; with several things careful speakers write चाहिएँ, but in speech you will mostly hear चाहिए for both.\n\nThe negative is नहीं चाहिए: मुझे नहीं चाहिए, 'I don't want it'.",
+      "examples": [
+        { "native": "मुझे पानी चाहिए।", "roman": "mujhe paanee chaahiye.", "english": "I need water." },
+        { "native": "आपको क्या चाहिए?", "roman": "aapko kyaa chaahiye?", "english": "What do you want?" },
+        { "native": "मुझे एक टिकट चाहिए।", "roman": "mujhe ek tikat chaahiye.", "english": "I need one ticket." },
+        { "native": "हमें कुछ नहीं चाहिए।", "roman": "hamen kuchh naheen chaahiye.", "english": "We don't want anything." }
+      ]
+    },
+    {
+      "title": "Wanting to do something: chaahnaa",
+      "text": "To want to DO something, use the ordinary verb चाहना (chaahnaa, to want) after the -ना form of the other verb. The subject is the normal मैं, आप and so on, and चाहना is conjugated like any verb.\n\nमैं हिंदी सीखना चाहता हूँ, 'I Hindi to-learn wanting am', is 'I want to learn Hindi'. A woman says चाहती हूँ.\n\nThis sounds quite direct. When asking for something politely, मुझे ... चाहिए or a request in -इए is usually better than मैं ... चाहता हूँ.",
+      "examples": [
+        { "native": "मैं हिंदी सीखना चाहता हूँ।", "roman": "main hindee seekhnaa chaahtaa hoon.", "english": "I want to learn Hindi. (man speaking)" },
+        { "native": "आप क्या खाना चाहते हैं?", "roman": "aap kyaa khaanaa chaahte hain?", "english": "What do you want to eat? (to a man)" },
+        { "native": "वह घर जाना चाहती है।", "roman": "vah ghar jaanaa chaahtee hai.", "english": "She wants to go home." }
+      ]
+    },
+    {
+      "title": "Can: saknaa",
+      "text": "'Can' is सकना (saknaa). It never stands alone; it follows the bare stem of the main verb and takes all the endings itself: मैं आ सकता हूँ ('I can come'), वह पढ़ सकती है ('she can read'), हम जा सकते हैं ('we can go').\n\nIt covers ability, possibility and permission, like English 'can': क्या मैं अंदर आ सकता हूँ? 'May I come in?' क्या आप मेरी मदद कर सकते हैं? 'Can you help me?'\n\nIn the negative, नहीं usually goes before the stem and the final हूँ, है is dropped: मैं नहीं आ सकता, 'I can't come'.\n\nFor a skill that you have learnt, such as a language, swimming or driving, Hindi prefers the 'comes to me' pattern: मुझे हिंदी आती है, 'I know Hindi'.",
+      "examples": [
+        { "native": "मैं हिंदी पढ़ सकता हूँ।", "roman": "main hindee parh saktaa hoon.", "english": "I can read Hindi. (man speaking)" },
+        { "native": "क्या मैं अंदर आ सकता हूँ?", "roman": "kyaa main andar aa saktaa hoon?", "english": "May I come in? (man speaking)" },
+        { "native": "क्या आप धीरे बोल सकते हैं?", "roman": "kyaa aap dheere bol sakte hain?", "english": "Can you speak slowly? (to a man)" },
+        { "native": "मैं आज नहीं आ सकता।", "roman": "main aaj naheen aa saktaa.", "english": "I can't come today. (man speaking)" }
+      ]
+    },
+    {
+      "title": "Have to, will have to, should",
+      "text": "Obligation again uses the 'to me' pattern, with the -ना form of the verb. There are three strengths.\n\n-ना + है: something you are due to do, or mean to do. मुझे अब जाना है, 'I have to go now'. This is also the usual way to say where you want to go: मुझे स्टेशन जाना है.\n\n-ना + पड़ेगा (paregaa, 'will fall'): you are forced to, like it or not. मुझे कल काम करना पड़ेगा, 'I will have to work tomorrow'. In the present, पड़ता है: मुझे रोज़ जाना पड़ता है, 'I have to go every day'.\n\n-ना + चाहिए: you ought to. आपको आराम करना चाहिए, 'you should rest'.\n\nOne refinement: when the verb has an object, the -ना form agrees with it like an adjective. दवा (medicine) is feminine, so 'I have to take medicine' is मुझे दवा लेनी है, with लेनी rather than लेना, and 'I will have to take medicine' is मुझे दवा लेनी पड़ेगी.",
+      "examples": [
+        { "native": "मुझे अब जाना है।", "roman": "mujhe ab jaanaa hai.", "english": "I have to go now." },
+        { "native": "मुझे कल काम करना पड़ेगा।", "roman": "mujhe kal kaam karnaa paregaa.", "english": "I will have to work tomorrow." },
+        { "native": "आपको आराम करना चाहिए।", "roman": "aapko aaraam karnaa chaahiye.", "english": "You should rest." },
+        { "native": "मुझे दवा लेनी है।", "roman": "mujhe davaa lenee hai.", "english": "I have to take medicine." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मुझे पानी चाहिए।", "roman": "mujhe paanee chaahiye.", "english": "I need water.", "literal": "to-me water is-wanted" },
+    { "native": "आपको क्या चाहिए?", "roman": "aapko kyaa chaahiye?", "english": "What do you want?", "literal": "to-you what is-wanted" },
+    { "native": "मुझे एक टिकट चाहिए।", "roman": "mujhe ek tikat chaahiye.", "english": "I need one ticket.", "literal": "to-me one ticket is-wanted" },
+    { "native": "मैं हिंदी सीखना चाहता हूँ।", "roman": "main hindee seekhnaa chaahtaa hoon.", "english": "I want to learn Hindi.", "literal": "I Hindi to-learn wanting am", "note": "A woman says: ... सीखना चाहती हूँ (seekhnaa chaahtee hoon)." },
+    { "native": "आप क्या खाना चाहते हैं?", "roman": "aap kyaa khaanaa chaahte hain?", "english": "What do you want to eat?", "literal": "you what to-eat wanting are", "note": "To a woman: ... चाहती हैं? (chaahtee hain?)" },
+    { "native": "क्या मैं अंदर आ सकता हूँ?", "roman": "kyaa main andar aa saktaa hoon?", "english": "May I come in?", "literal": "(question) I inside come can am", "note": "A woman says: ... आ सकती हूँ? (aa saktee hoon?)" },
+    { "native": "क्या आप मेरी मदद कर सकते हैं?", "roman": "kyaa aap meree madad kar sakte hain?", "english": "Can you help me?", "literal": "(question) you my help do can are", "note": "To a woman: ... कर सकती हैं? (kar saktee hain?)" },
+    { "native": "मैं हिंदी पढ़ सकता हूँ।", "roman": "main hindee parh saktaa hoon.", "english": "I can read Hindi.", "literal": "I Hindi read can am", "note": "A woman says: ... पढ़ सकती हूँ (parh saktee hoon)." },
+    { "native": "क्या आप धीरे बोल सकते हैं?", "roman": "kyaa aap dheere bol sakte hain?", "english": "Can you speak slowly?", "literal": "(question) you slowly speak can are", "note": "To a woman: ... बोल सकती हैं? (bol saktee hain?)" },
+    { "native": "मैं आज नहीं आ सकता।", "roman": "main aaj naheen aa saktaa.", "english": "I can't come today.", "literal": "I today not come can", "note": "A woman says: ... नहीं आ सकती (naheen aa saktee)." },
+    { "native": "मुझे अब जाना है।", "roman": "mujhe ab jaanaa hai.", "english": "I have to go now.", "literal": "to-me now to-go is" },
+    { "native": "मुझे कल काम करना पड़ेगा।", "roman": "mujhe kal kaam karnaa paregaa.", "english": "I will have to work tomorrow.", "literal": "to-me tomorrow work to-do will-fall" },
+    { "native": "आपको आराम करना चाहिए।", "roman": "aapko aaraam karnaa chaahiye.", "english": "You should rest.", "literal": "to-you rest to-do is-wanted" },
+    { "native": "मुझे दवा लेनी है।", "roman": "mujhe davaa lenee hai.", "english": "I have to take medicine.", "literal": "to-me medicine to-take is", "note": "लेनी, not लेना, because दवा is feminine." }
+  ]
+}

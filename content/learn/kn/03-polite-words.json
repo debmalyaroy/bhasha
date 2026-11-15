@@ -1,0 +1,57 @@
+{
+  "id": "polite-words",
+  "level": "1 · First words",
+  "title": "Yes, no and polite words",
+  "description": "Agree, refuse, react and be polite with the short words Kannada speakers use all day.",
+  "guide": [
+    {
+      "title": "Three words for 'no'",
+      "text": "English 'no' covers three different Kannada words, and choosing the right one is the first real step into the language.\n\nಇಲ್ಲ (illa) means 'is not there / does not exist / did not happen'. It is also the plain 'no' in answer to a question.\n\nಅಲ್ಲ (alla) means 'is not that'. Use it to say that something is not what was said: 'not this one', 'he is not a doctor', 'that is not right'.\n\nಬೇಡ (beda, long e) means 'not wanted / don't'. It refuses an offer: 'No, thank you'. Its opposite is ಬೇಕು (beku), 'wanted / needed'.\n\nSo: Is there tea? - illa. Is this tea? - alla. Do you want tea? - beda.",
+      "examples": [
+        { "native": "ಇಲ್ಲ", "roman": "illa", "english": "No / There isn't any" },
+        { "native": "ಅಲ್ಲ", "roman": "alla", "english": "No, it isn't (that)" },
+        { "native": "ಬೇಡ", "roman": "beda", "english": "No, I don't want it" },
+        { "native": "ಬೇಕು", "roman": "beku", "english": "Yes, I want it / It is needed" }
+      ]
+    },
+    {
+      "title": "Politeness is built into the verb",
+      "text": "Kannada has a word for 'please', ದಯವಿಟ್ಟು (dayavittu), but it is formal - you hear it in announcements. In ordinary speech politeness comes from three things.\n\nFirst, the verb ending. A request ending in -i is already polite: ಬನ್ನಿ (banni, 'please come'), ಕೊಡಿ (kodi, 'please give'). The bare form (baa, kodu) is only for children and close friends.\n\nSecond, the softener ಸ್ವಲ್ಪ (svalpa, 'a little'): svalpa jaaga bidi is 'make a little room, please'.\n\nThird, how you address people. ಸಾರ್ (saar, 'sir') and ಮೇಡಂ (medam, 'madam') are used constantly. To strangers of roughly your own age people also say ಅಣ್ಣ (anna, 'elder brother') and ಅಕ್ಕ (akka, 'elder sister'), and to older people ಅಂಕಲ್ (ankal) and ಆಂಟಿ (aanti).",
+      "examples": [
+        { "native": "ಬನ್ನಿ", "roman": "banni", "english": "Please come" },
+        { "native": "ಸ್ವಲ್ಪ ಜಾಗ ಬಿಡಿ.", "roman": "svalpa jaaga bidi.", "english": "Please make a little room." },
+        { "native": "ಸಾರ್, ಇಲ್ಲಿ ಬನ್ನಿ.", "roman": "saar, illi banni.", "english": "Sir, please come here." },
+        { "native": "ದಯವಿಟ್ಟು", "roman": "dayavittu", "english": "Please (formal)" }
+      ]
+    },
+    {
+      "title": "Small words that keep a conversation moving",
+      "text": "ಆಯ್ತು (aaytu) literally 'it happened', is the all-purpose 'all right, done, agreed'. ಸರಿ (sari) is 'okay, correct'. ಸಾಕು (saaku) is 'enough'. ಗೊತ್ತು (gottu) is 'known' - it is how you say 'I know'; its negative is ಗೊತ್ತಿಲ್ಲ (gottilla), gottu + illa.\n\nAdding a long -aa turns any of these into a question: ಹೌದಾ? (haudaa?) 'Is that so?', ಸಾಕಾ? (saakaa?) 'Is that enough?', ಬೇಕಾ? (bekaa?) 'Do you want it?', ಗೊತ್ತಾ? (gottaa?) 'Do you know?'\n\nಪರವಾಗಿಲ್ಲ (paravaagilla) means 'it doesn't matter' and is the usual reply to both 'sorry' and 'thank you'.",
+      "examples": [
+        { "native": "ಆಯ್ತು", "roman": "aaytu", "english": "All right / Done" },
+        { "native": "ಹೌದಾ?", "roman": "haudaa?", "english": "Is that so? / Really?" },
+        { "native": "ಸಾಕಾ?", "roman": "saakaa?", "english": "Is that enough?" },
+        { "native": "ಗೊತ್ತಿಲ್ಲ.", "roman": "gottilla.", "english": "I don't know." },
+        { "native": "ಪರವಾಗಿಲ್ಲ.", "roman": "paravaagilla.", "english": "It doesn't matter / You're welcome." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಹೌದು, ಬೇಕು.", "roman": "haudu, beku.", "english": "Yes, I want it.", "literal": "yes, wanted", "note": "beku has a long e. No word for 'I' is needed." },
+    { "native": "ಇಲ್ಲ, ಬೇಡ.", "roman": "illa, beda.", "english": "No, I don't want it.", "literal": "no, not-wanted", "note": "The polite way to refuse an offer; beda has a long e." },
+    { "native": "ಅಲ್ಲ", "roman": "alla", "english": "It isn't / Not that one", "note": "Denies an identity: 'that is not it'. Compare illa, 'there is none'." },
+    { "native": "ಆಯ್ತು", "roman": "aaytu", "english": "All right / Done", "note": "Spoken form of aayitu (ಆಯಿತು), 'it happened'." },
+    { "native": "ದಯವಿಟ್ಟು", "roman": "dayavittu", "english": "Please", "note": "Formal. In everyday speech the polite verb ending -i does this job." },
+    { "native": "ಸ್ವಲ್ಪ ಜಾಗ ಬಿಡಿ.", "roman": "svalpa jaaga bidi.", "english": "Excuse me, let me through.", "literal": "a-little space leave", "note": "Useful on a crowded bus." },
+    { "native": "ತುಂಬಾ ಧನ್ಯವಾದಗಳು.", "roman": "tumbaa dhanyavaadagalu.", "english": "Thank you very much.", "literal": "much thanks", "note": "tumbaa = very, a lot." },
+    { "native": "ಪರವಾಗಿಲ್ಲ.", "roman": "paravaagilla.", "english": "It's all right, never mind.", "note": "The usual reply to 'sorry' or 'thank you'." },
+    { "native": "ಹೌದಾ?", "roman": "haudaa?", "english": "Is that so? / Really?", "note": "haudu + the question ending -aa." },
+    { "native": "ಗೊತ್ತು.", "roman": "gottu.", "english": "I know.", "note": "Literally 'known'. To name the person who knows, use nanage ('to me'): nanage gottu." },
+    { "native": "ಗೊತ್ತಿಲ್ಲ.", "roman": "gottilla.", "english": "I don't know.", "note": "gottu + illa." },
+    { "native": "ಸಾಕು.", "roman": "saaku.", "english": "That's enough.", "note": "Say it when someone is serving you food or pouring a drink." },
+    { "native": "ತೊಂದರೆ ಇಲ್ಲ.", "roman": "tondare illa.", "english": "No trouble at all.", "literal": "trouble is-not", "note": "" },
+    { "native": "ಒಂದು ನಿಮಿಷ.", "roman": "ondu nimisha.", "english": "One moment.", "literal": "one minute", "note": "" },
+    { "native": "ಸಾರ್, ಇಲ್ಲಿ ಬನ್ನಿ.", "roman": "saar, illi banni.", "english": "Sir, please come here.", "literal": "sir, here come", "note": "For a woman: medam (ಮೇಡಂ)." },
+    { "native": "ತಪ್ಪಾಯ್ತು, ಕ್ಷಮಿಸಿ.", "roman": "tappaaytu, kshamisi.", "english": "My mistake, sorry.", "literal": "mistake-happened, forgive", "note": "tappu (mistake) + aaytu." }
+  ]
+}

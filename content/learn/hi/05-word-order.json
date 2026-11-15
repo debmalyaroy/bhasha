@@ -1,0 +1,64 @@
+{
+  "id": "word-order",
+  "level": "2 · How sentences work",
+  "title": "Word order and 'to be'",
+  "description": "Build simple sentences with am, is and are, and put the words in the Hindi order.",
+  "guide": [
+    {
+      "title": "The verb comes last",
+      "text": "English order is subject, verb, object: 'I drink tea'. Hindi order is subject, object, verb: 'I tea drink'. Whatever else is in the sentence, the verb goes to the end.\n\nSo 'This is a book' becomes यह किताब है, 'this book is'. 'I am at home' becomes मैं घर पर हूँ, 'I home at am'.\n\nDescriptions go before the verb too: चाय गर्म है, 'tea hot is'. And as you saw in the first lessons, words like 'in', 'at' and 'from' follow their noun. A good way to think of a Hindi sentence is as an English sentence read largely backwards from the end.",
+      "examples": [
+        { "native": "यह किताब है।", "roman": "yah kitaab hai.", "english": "This is a book.", "literal": "this book is" },
+        { "native": "चाय गर्म है।", "roman": "chaay garm hai.", "english": "The tea is hot.", "literal": "tea hot is" },
+        { "native": "मैं घर पर हूँ।", "roman": "main ghar par hoon.", "english": "I am at home.", "literal": "I home at am" }
+      ]
+    },
+    {
+      "title": "Am, is, are",
+      "text": "The verb 'to be' is होना (honaa). Its present forms are few, and you will use them in almost every sentence, because they are also the helping verb of most tenses.\n\nमैं हूँ (main hoon): I am.\nतुम हो (tum ho): you are, to a friend.\nआप हैं (aap hain): you are, polite.\nयह है, वह है (yah hai, vah hai): this is, that is; he, she, it is.\nहम हैं (ham hain): we are.\nये हैं, वे हैं (ye hain, ve hain): these are, those are, they are.\n\nThe only difference between है (is) and हैं (are) is the nasal dot. Listen for it and say it: hai against hain. हैं is used with every plural subject and with आप, even when आप is one person.",
+      "examples": [
+        { "native": "मैं राज हूँ।", "roman": "main raaj hoon.", "english": "I am Raj." },
+        { "native": "तुम कहाँ हो?", "roman": "tum kahaan ho?", "english": "Where are you? (to a friend)" },
+        { "native": "आप कहाँ हैं?", "roman": "aap kahaan hain?", "english": "Where are you? (polite)" },
+        { "native": "वह डॉक्टर है।", "roman": "vah doktar hai.", "english": "He is a doctor. / She is a doctor." },
+        { "native": "हम दोस्त हैं।", "roman": "ham dost hain.", "english": "We are friends." },
+        { "native": "वे भारत से हैं।", "roman": "ve bhaarat se hain.", "english": "They are from India." }
+      ]
+    },
+    {
+      "title": "No 'a', no 'the', no 'it'",
+      "text": "Hindi has no articles. किताब can be 'a book' or 'the book'; the situation tells you which. If you need to stress 'one, a certain', use एक (ek): एक किताब.\n\nThere is also no separate word for 'he', 'she' and 'it'. वह (vah, usually pronounced 'vo') covers all three, plus 'that'; यह (yah, pronounced 'ye') is 'this' and also 'he, she, it' for someone or something close by. The gender shows up elsewhere in the sentence, in adjectives and verbs.\n\nAnd where English needs a dummy 'it' or 'there' ('it is cold', 'there is a problem'), Hindi just leaves it out.",
+      "examples": [
+        { "native": "यह मेरा घर है।", "roman": "yah meraa ghar hai.", "english": "This is my house." },
+        { "native": "पानी ठंडा है।", "roman": "paanee thandaa hai.", "english": "The water is cold." },
+        { "native": "कमरा बड़ा है।", "roman": "kamraa baraa hai.", "english": "The room is big." }
+      ]
+    },
+    {
+      "title": "Was and were",
+      "text": "The past of 'to be' changes for gender and number, not for person. था (thaa) is for one masculine subject, थी (thee) for one feminine subject, थे (the) for masculine plural and for आप said to a man, and थीं (theen) for feminine plural and for आप said to a woman.\n\nSo a man says मैं यहाँ था ('I was here') and a woman says मैं यहाँ थी. To a man you say आप कहाँ थे? and to a woman आप कहाँ थीं?",
+      "examples": [
+        { "native": "वह यहाँ था।", "roman": "vah yahaan thaa.", "english": "He was here." },
+        { "native": "वह यहाँ थी।", "roman": "vah yahaan thee.", "english": "She was here." },
+        { "native": "हम घर पर थे।", "roman": "ham ghar par the.", "english": "We were at home." },
+        { "native": "आप कहाँ थे?", "roman": "aap kahaan the?", "english": "Where were you? (to a man)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "यह किताब है।", "roman": "yah kitaab hai.", "english": "This is a book.", "literal": "this book is" },
+    { "native": "वह डॉक्टर है।", "roman": "vah doktar hai.", "english": "He is a doctor.", "literal": "he doctor is", "note": "The same sentence means 'She is a doctor'. To speak respectfully of an adult, use the plural: वे डॉक्टर हैं (ve doktar hain)." },
+    { "native": "हम दोस्त हैं।", "roman": "ham dost hain.", "english": "We are friends.", "literal": "we friends are" },
+    { "native": "आप बहुत अच्छे हैं।", "roman": "aap bahut achchhe hain.", "english": "You are very kind.", "literal": "you very good are", "note": "To a woman: आप बहुत अच्छी हैं (aap bahut achchhee hain)." },
+    { "native": "यह मेरा घर है।", "roman": "yah meraa ghar hai.", "english": "This is my house.", "literal": "this my house is" },
+    { "native": "चाय गर्म है।", "roman": "chaay garm hai.", "english": "The tea is hot.", "literal": "tea hot is", "note": "गर्म is also written and said गरम (garam)." },
+    { "native": "पानी ठंडा है।", "roman": "paanee thandaa hai.", "english": "The water is cold.", "literal": "water cold is" },
+    { "native": "कमरा बड़ा है।", "roman": "kamraa baraa hai.", "english": "The room is big.", "literal": "room big is" },
+    { "native": "वे भारत से हैं।", "roman": "ve bhaarat se hain.", "english": "They are from India.", "literal": "they India from are" },
+    { "native": "मैं घर पर हूँ।", "roman": "main ghar par hoon.", "english": "I am at home.", "literal": "I home at am" },
+    { "native": "मैं थका हुआ हूँ।", "roman": "main thakaa huaa hoon.", "english": "I am tired.", "literal": "I tired become am", "note": "A woman says: मैं थकी हुई हूँ (main thakee huee hoon)." },
+    { "native": "हम तैयार हैं।", "roman": "ham taiyaar hain.", "english": "We are ready.", "literal": "we ready are" },
+    { "native": "तुम कहाँ हो?", "roman": "tum kahaan ho?", "english": "Where are you? (to a friend)", "literal": "you where are", "note": "Polite: आप कहाँ हैं? (aap kahaan hain?)" },
+    { "native": "वह यहाँ था।", "roman": "vah yahaan thaa.", "english": "He was here.", "literal": "he here was", "note": "'She was here' is वह यहाँ थी (vah yahaan thee)." }
+  ]
+}

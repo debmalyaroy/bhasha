@@ -1,0 +1,66 @@
+{
+  "id": "emergencies",
+  "level": "4 · Everyday situations",
+  "title": "Health & emergencies",
+  "description": "Get help, describe what hurts or what is wrong, and report something lost or stolen.",
+  "guide": [
+    {
+      "title": "Calling for help",
+      "text": "The cry for help is বাঁচান! (baanchaan), literally 'save (me)!'. A calmer request is আমাকে একটু সাহায্য করুন, 'please help me a little'.\n\nডাকা (daakaa) is 'to call, to summon': পুলিশ ডাকুন, 'call the police'; ডাক্তার ডাকুন, 'call a doctor'; অ্যাম্বুলেন্স ডাকুন, 'call an ambulance'.\n\nOther words to recognise: বিপদ (bipod) danger; আগুন (aagun) fire; চোর (chor) thief; সাবধান! (shaabdhaan) careful!; তাড়াতাড়ি! (taaraataari) quickly!\n\nসাহায্য is pronounced shaa-haaj-jo: the য-ফলা doubles the j.",
+      "examples": [
+        { "native": "বাঁচান!", "roman": "baanchaan!", "english": "Help!" },
+        { "native": "আমাকে একটু সাহায্য করুন।", "roman": "aamaake ektu shaahaajjo korun.", "english": "Please help me." },
+        { "native": "পুলিশ ডাকুন।", "roman": "pulish daakun.", "english": "Please call the police." },
+        { "native": "অ্যাম্বুলেন্স ডাকুন।", "roman": "ambulens daakun.", "english": "Please call an ambulance." }
+      ]
+    },
+    {
+      "title": "Saying what is wrong with you",
+      "text": "Illness 'happens to' you; you are in the possessive.\n\nআমার জ্বর হয়েছে - I have a fever. (জ্বর is jor: the ব is silent.)\nআমার সর্দি হয়েছে (shordi) - I have a cold. কাশি (kaashi) is a cough.\nআমার পেট খারাপ হয়েছে - I have an upset stomach.\n\nPain is ব্যথা (byathaa), and it 'does': the part that hurts + ব্যথা করছে. আমার পেট ব্যথা করছে, 'my stomach is hurting'; মাথা ব্যথা করছে, 'my head aches'. If you cannot name the place, point and say এখানে ব্যথা করছে।\n\nThe general complaint is আমার শরীর ভালো নেই, 'my body is not well', or শরীর খারাপ লাগছে, 'I feel unwell'.\n\nParts of the body: মাথা (maathaa) head; চোখ (chokh) eye; কান (kaan) ear; দাঁত (daant) tooth; গলা (golaa) throat; বুক (buk) chest; পেট (pet) stomach; পিঠ (pith) back; হাত (haat) hand, arm; পা (paa) foot, leg.",
+      "examples": [
+        { "native": "আমার জ্বর হয়েছে।", "roman": "aamaar jor hoyechhe.", "english": "I have a fever." },
+        { "native": "আমার পেট ব্যথা করছে।", "roman": "aamaar pet byathaa korchhe.", "english": "I have a stomach ache." },
+        { "native": "এখানে ব্যথা করছে।", "roman": "ekhaane byathaa korchhe.", "english": "It hurts here." },
+        { "native": "আমার মাথা ঘুরছে।", "roman": "aamaar maathaa ghurchhe.", "english": "I feel dizzy." },
+        { "native": "আমার শরীর ভালো নেই।", "roman": "aamaar shoreer bhaalo nei.", "english": "I am not feeling well." }
+      ]
+    },
+    {
+      "title": "Doctor, hospital, medicine",
+      "text": "ডাক্তার (daaktaar) doctor - addressed as ডাক্তারবাবু (daaktaarbaabu) in West Bengal.\nহাসপাতাল (haashpaataal) hospital.\nওষুধ (oshudh) medicine; ওষুধের দোকান (oshudher dokaan) a pharmacy.\n\n'To see a doctor' is ডাক্তার দেখানো, literally 'to show (oneself to) a doctor'.\n\nWhat you need is said with লাগবে: আমার ওষুধ লাগবে, 'I need medicine'.\n\nAllergies and conditions can be stated simply: আমার ডায়াবেটিস আছে, 'I have diabetes'.",
+      "examples": [
+        { "native": "ডাক্তার ডাকুন।", "roman": "daaktaar daakun.", "english": "Please call a doctor." },
+        { "native": "হাসপাতালটা কোথায়?", "roman": "haashpaataaltaa kothaay?", "english": "Where is the hospital?" },
+        { "native": "আমার ওষুধ লাগবে।", "roman": "aamaar oshudh laagbe.", "english": "I need medicine." },
+        { "native": "কাছে ওষুধের দোকান আছে?", "roman": "kaachhe oshudher dokaan aachhe?", "english": "Is there a pharmacy nearby?" }
+      ]
+    },
+    {
+      "title": "Lost and stolen",
+      "text": "Things get lost and stolen 'by themselves' in Bengali, with the helper verb যাওয়া:\n\nহারিয়ে গেছে (haariye gechhe) 'has got lost': আমার ফোনটা হারিয়ে গেছে।\nচুরি হয়ে গেছে (churi hoye gechhe) 'has got stolen': আমার ব্যাগটা চুরি হয়ে গেছে।\n\nIf you want to say that you yourself lost it, use ফেলা: আমি পাসপোর্টটা হারিয়ে ফেলেছি।\n\nআগুন লেগেছে, 'fire has caught', is how you say that something is on fire.",
+      "examples": [
+        { "native": "আমার ফোনটা হারিয়ে গেছে।", "roman": "aamaar phontaa haariye gechhe.", "english": "I have lost my phone." },
+        { "native": "আমার ব্যাগটা চুরি হয়ে গেছে।", "roman": "aamaar byaagtaa churi hoye gechhe.", "english": "My bag has been stolen." },
+        { "native": "আগুন লেগেছে!", "roman": "aagun legechhe!", "english": "Fire!" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "বাঁচান!", "roman": "baanchaan!", "english": "Help!", "note": "Literally 'save (me)!' - the cry for help in real danger." },
+    { "native": "আমাকে একটু সাহায্য করুন।", "roman": "aamaake ektu shaahaajjo korun.", "english": "Please help me.", "literal": "me-to a-little help do", "note": "" },
+    { "native": "পুলিশ ডাকুন।", "roman": "pulish daakun.", "english": "Please call the police.", "literal": "police call", "note": "" },
+    { "native": "ডাক্তার ডাকুন।", "roman": "daaktaar daakun.", "english": "Please call a doctor.", "literal": "doctor call", "note": "" },
+    { "native": "অ্যাম্বুলেন্স ডাকুন।", "roman": "ambulens daakun.", "english": "Please call an ambulance.", "literal": "ambulance call", "note": "অ্যা at the start of a loanword is the a of 'cat'." },
+    { "native": "হাসপাতালটা কোথায়?", "roman": "haashpaataaltaa kothaay?", "english": "Where is the hospital?", "literal": "hospital-the where", "note": "" },
+    { "native": "কাছে ওষুধের দোকান আছে?", "roman": "kaachhe oshudher dokaan aachhe?", "english": "Is there a pharmacy nearby?", "literal": "near medicine's shop is", "note": "" },
+    { "native": "আমার শরীর ভালো নেই।", "roman": "aamaar shoreer bhaalo nei.", "english": "I am not feeling well.", "literal": "my body well is-not", "note": "Literally 'my body is not well'." },
+    { "native": "আমার জ্বর হয়েছে।", "roman": "aamaar jor hoyechhe.", "english": "I have a fever.", "literal": "my fever has-happened", "note": "The ব in জ্বর is silent." },
+    { "native": "আমার মাথা ঘুরছে।", "roman": "aamaar maathaa ghurchhe.", "english": "I feel dizzy.", "literal": "my head is-spinning", "note": "" },
+    { "native": "আমার পেট ব্যথা করছে।", "roman": "aamaar pet byathaa korchhe.", "english": "I have a stomach ache.", "literal": "my stomach pain is-doing", "note": "" },
+    { "native": "এখানে ব্যথা করছে।", "roman": "ekhaane byathaa korchhe.", "english": "It hurts here.", "literal": "here pain is-doing", "note": "Point to the place while saying it." },
+    { "native": "আমার ওষুধ লাগবে।", "roman": "aamaar oshudh laagbe.", "english": "I need medicine.", "literal": "my medicine will-be-needed", "note": "" },
+    { "native": "আমার ফোনটা হারিয়ে গেছে।", "roman": "aamaar phontaa haariye gechhe.", "english": "I have lost my phone.", "literal": "my phone-the having-got-lost has-gone", "note": "" },
+    { "native": "আমার ব্যাগটা চুরি হয়ে গেছে।", "roman": "aamaar byaagtaa churi hoye gechhe.", "english": "My bag has been stolen.", "literal": "my bag-the theft having-happened has-gone", "note": "" },
+    { "native": "আগুন লেগেছে!", "roman": "aagun legechhe!", "english": "Fire!", "literal": "fire has-caught", "note": "" }
+  ]
+}

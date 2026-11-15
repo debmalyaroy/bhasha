@@ -1,0 +1,58 @@
+{
+  "id": "commands",
+  "level": "3 · Verbs",
+  "title": "Requests and commands",
+  "description": "Ask people to do things politely, tell friends and children what to do, and say 'don't'.",
+  "guide": [
+    {
+      "title": "Familiar and polite commands",
+      "text": "The bare verb stem is the command to someone you call neenu - a child, a close friend: maadu (do!), hogu (go!), nodu (look!), kodu (give!).\n\nFor everyone else, and for more than one person, replace the final -u with -i. This form is already polite and needs no 'please': ಮಾಡಿ (maadi), ಹೋಗಿ (hogi), ನೋಡಿ (nodi), ಕೇಳಿ (keli), ಕೊಡಿ (kodi), ಹೇಳಿ (heli), ಇರಿ (iri).\n\nTwo very common verbs are irregular:\nbaa (come) - ಬನ್ನಿ (banni).\ntaa (bring) - ತನ್ನಿ (tanni).\n(tinnu, 'eat', is regular - ತಿನ್ನಿ (tinni) - and only looks like them.)\n\nVerbs ending in -i or -e add -yiri: kudi (drink) - ಕುಡಿಯಿರಿ (kudiyiri); kare (call) - ಕರೆಯಿರಿ (kareyiri); bare (write) - ಬರೆಯಿರಿ (bareyiri); tere (open) - ತೆರೆಯಿರಿ (tereyiri). In speech these are shortened: kudeeri, kareeri.\n\nVerbs ending in -ko (the short spoken form of -kollu) take -kolli: kootko (sit) - ಕೂತ್ಕೊಳ್ಳಿ (kootkolli); tago (take) - ತಗೊಳ್ಳಿ (tagolli).",
+      "examples": [
+        { "native": "ಇಲ್ಲಿ ಬಾ.", "roman": "illi baa.", "english": "Come here. (to a friend or child)" },
+        { "native": "ಒಳಗೆ ಬನ್ನಿ.", "roman": "olage banni.", "english": "Please come in." },
+        { "native": "ಇದನ್ನು ನೋಡಿ.", "roman": "idannu nodi.", "english": "Look at this." },
+        { "native": "ನೀರು ಕುಡಿಯಿರಿ.", "roman": "neeru kudiyiri.", "english": "Drink some water." },
+        { "native": "ನೀರು ತನ್ನಿ.", "roman": "neeru tanni.", "english": "Please bring water." },
+        { "native": "ಕೂತ್ಕೊಳ್ಳಿ.", "roman": "kootkolli.", "english": "Please sit down." }
+      ]
+    },
+    {
+      "title": "Softening a request",
+      "text": "The -i form is polite, but a bare command can still sound abrupt. Kannada speakers soften requests in several ways:\n\nಸ್ವಲ್ಪ (svalpa) 'a little' before the verb: svalpa iri, 'wait a bit, please'; svalpa nodi, 'have a look, would you'.\n\nAn address word: saar, medam, anna, akka.\n\nA question instead of a command: svalpa sahaaya maadteeraa? 'will you help a little?'; ee kelasa maadoke aaguttaa? 'would it be possible to do this?'\n\nದಯವಿಟ್ಟು (dayavittu) 'please' is for formal situations and written notices.\n\nAdverbs of manner go before the verb: ಬೇಗ (bega) quickly; ನಿಧಾನವಾಗಿ (nidhaanavaagi) slowly; ಜೋರಾಗಿ (joraagi) loudly, fast; ಮೆಲ್ಲಗೆ (mellage) softly, gently.",
+      "examples": [
+        { "native": "ಸ್ವಲ್ಪ ಇರಿ.", "roman": "svalpa iri.", "english": "Please wait a bit." },
+        { "native": "ಬೇಗ ಬನ್ನಿ.", "roman": "bega banni.", "english": "Come quickly." },
+        { "native": "ನಿಧಾನವಾಗಿ ಹೋಗಿ.", "roman": "nidhaanavaagi hogi.", "english": "Go slowly." },
+        { "native": "ಸ್ವಲ್ಪ ಸಹಾಯ ಮಾಡ್ತೀರಾ?", "roman": "svalpa sahaaya maadteeraa?", "english": "Could you help a little?" }
+      ]
+    },
+    {
+      "title": "Don't, and 'let him'",
+      "text": "Negative command: verb stem + -a + ಬೇಡ (beda) for neenu, + ಬೇಡಿ (bedi) for neevu. maadabeda / maadabedi (don't do), hogabedi (don't go), mareyabedi (don't forget), helabedi (don't tell). Verbs in -i and -e insert y: mare - mareyabedi; kudi - kudiyabedi.\n\n'Let him / her / it / them ...' is the stem + -ಅಲಿ (-ali): ಬರಲಿ (barali) let him come; ಇರಲಿ (irali) let it be - a very common word meaning 'never mind, leave it'; ಆಗಲಿ (aagali) let it be so - a polite 'very well'.\n\nFor 'let's' use -ona (hogona) and for 'shall I' use -alaa (baralaa?), as in the unit on the future.",
+      "examples": [
+        { "native": "ಮರೆಯಬೇಡಿ.", "roman": "mareyabedi.", "english": "Don't forget." },
+        { "native": "ಗಲಾಟೆ ಮಾಡಬೇಡ.", "roman": "galaate maadabeda.", "english": "Don't make noise. (to a child)" },
+        { "native": "ಅವನು ಬರಲಿ.", "roman": "avanu barali.", "english": "Let him come." },
+        { "native": "ಇರಲಿ.", "roman": "irali.", "english": "Never mind. / Let it be." },
+        { "native": "ಆಗಲಿ.", "roman": "aagali.", "english": "Very well. / So be it." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇಲ್ಲಿ ಬಾ.", "roman": "illi baa.", "english": "Come here. (to a friend or child)", "literal": "here come", "note": "Familiar. Polite: illi banni." },
+    { "native": "ಒಳಗೆ ಬನ್ನಿ.", "roman": "olage banni.", "english": "Please come in.", "literal": "inside come", "note": "" },
+    { "native": "ಸ್ವಲ್ಪ ಇರಿ.", "roman": "svalpa iri.", "english": "Please wait a bit.", "literal": "a-little stay", "note": "iru = be, stay, wait." },
+    { "native": "ಇದನ್ನು ನೋಡಿ.", "roman": "idannu nodi.", "english": "Look at this.", "literal": "this look", "note": "In speech: idanna nodi (ಇದನ್ನ ನೋಡಿ)." },
+    { "native": "ನನ್ನ ಮಾತು ಕೇಳಿ.", "roman": "nanna maatu keli.", "english": "Listen to me.", "literal": "my word listen", "note": "maatu = word, speech." },
+    { "native": "ಬಾಗಿಲು ಮುಚ್ಚಿ.", "roman": "baagilu muchchi.", "english": "Close the door.", "literal": "door close", "note": "" },
+    { "native": "ಕಿಟಕಿ ತೆರೆಯಿರಿ.", "roman": "kitaki tereyiri.", "english": "Open the window.", "literal": "window open", "note": "In everyday speech people also say tegeeri (ತೆಗೀರಿ) for 'open'." },
+    { "native": "ನೀರು ಕುಡಿಯಿರಿ.", "roman": "neeru kudiyiri.", "english": "Drink some water.", "literal": "water drink", "note": "Spoken short form: kudeeri (ಕುಡೀರಿ)." },
+    { "native": "ಬೇಗ ಬನ್ನಿ.", "roman": "bega banni.", "english": "Come quickly.", "literal": "quickly come", "note": "The e of bega is long." },
+    { "native": "ನಿಧಾನವಾಗಿ ಹೋಗಿ.", "roman": "nidhaanavaagi hogi.", "english": "Go slowly.", "literal": "slowly go", "note": "What you say to a driver who is going too fast." },
+    { "native": "ಅಲ್ಲಿ ಇಡಿ.", "roman": "alli idi.", "english": "Put it there.", "literal": "there put", "note": "idu = to put, keep. (Do not confuse with idu, 'this', which has a dental d.)" },
+    { "native": "ಮರೆಯಬೇಡಿ.", "roman": "mareyabedi.", "english": "Don't forget.", "note": "mare (forget) + y + a + bedi." },
+    { "native": "ಗಲಾಟೆ ಮಾಡಬೇಡ.", "roman": "galaate maadabeda.", "english": "Don't make noise. (to a child)", "literal": "noise do-don't", "note": "Familiar. Polite: maadabedi." },
+    { "native": "ಅವನು ಬರಲಿ.", "roman": "avanu barali.", "english": "Let him come.", "literal": "he let-come", "note": "" },
+    { "native": "ನನಗೆ ತೋರಿಸಿ.", "roman": "nanage torisi.", "english": "Show me.", "literal": "me-to show", "note": "torisu = to show; the o is long." }
+  ]
+}

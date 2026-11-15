@@ -1,0 +1,54 @@
+{
+  "id": "conversation",
+  "level": "5 · Conversation",
+  "title": "Everyday conversation",
+  "description": "Keep a simple conversation going: say when you do not understand, ask what words mean and make small talk.",
+  "guide": [
+    {
+      "title": "When you don't understand",
+      "text": "These are the phrases that let you stay in Kannada instead of switching to English.\n\nnanage artha aagtilla, 'I am not understanding' - artha is 'meaning', and understanding 'happens to you'. If you did not catch something already said: artha aagalilla, 'I didn't understand'.\n\nsvalpa nidhaanavaagi maataadi, 'please speak a little slowly'. innondu sala heli, 'say it one more time' - innondu is innu ('more') + ondu ('one'), and sala is 'time, occasion'.\n\nTo ask about words: idara artha enu? 'what is the meaning of this?'; idakke enantaare? 'what do they call this?'; idakke kannadadalli enantaare? 'what is this called in Kannada?'.\n\nnanage gottilla, 'I don't know'; nanage gottu, 'I know'.",
+      "examples": [
+        { "native": "ನನಗೆ ಅರ್ಥ ಆಗ್ತಿಲ್ಲ.", "roman": "nanage artha aagtilla.", "english": "I don't understand." },
+        { "native": "ಸ್ವಲ್ಪ ನಿಧಾನವಾಗಿ ಮಾತಾಡಿ.", "roman": "svalpa nidhaanavaagi maataadi.", "english": "Please speak slowly." },
+        { "native": "ಇನ್ನೊಂದು ಸಲ ಹೇಳಿ.", "roman": "innondu sala heli.", "english": "Please say that again." },
+        { "native": "ಇದಕ್ಕೆ ಕನ್ನಡದಲ್ಲಿ ಏನಂತಾರೆ?", "roman": "idakke kannadadalli enantaare?", "english": "What is this called in Kannada?" }
+      ]
+    },
+    {
+      "title": "Languages 'come to you'",
+      "text": "To say you know a language, Kannada says it 'comes' to you: nanage kannada barutte, 'Kannada comes to me' = 'I know / speak Kannada'. The question is nimage inglish baruttaa? and the negative nanage baralla.\n\nsvalpa svalpa, 'a little little', is the modest and charming answer every learner should have ready: nanage svalpa svalpa kannada barutte.\n\nYou can also use gottu, 'known': nimage kannada gottaa? 'do you know Kannada?'.\n\nWhen people hear you try, they will very likely say neevu kannada chennaagi maataadteera, 'you speak Kannada well'. A good reply is illa, innoo kaleetiddeeni - 'no, I am still learning'.",
+      "examples": [
+        { "native": "ನಿಮಗೆ ಇಂಗ್ಲಿಷ್ ಬರುತ್ತಾ?", "roman": "nimage inglish baruttaa?", "english": "Do you speak English?" },
+        { "native": "ನನಗೆ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಕನ್ನಡ ಬರುತ್ತೆ.", "roman": "nanage svalpa svalpa kannada barutte.", "english": "I know a little Kannada." },
+        { "native": "ನೀವು ಕನ್ನಡ ಚೆನ್ನಾಗಿ ಮಾತಾಡ್ತೀರ.", "roman": "neevu kannada chennaagi maataadteera.", "english": "You speak Kannada well." },
+        { "native": "ಇಲ್ಲ, ಇನ್ನೂ ಕಲೀತಿದ್ದೀನಿ.", "roman": "illa, innoo kaleetiddeeni.", "english": "No, I am still learning." }
+      ]
+    },
+    {
+      "title": "Small talk",
+      "text": "Conversations between acquaintances open with a few fixed moves.\n\nಮತ್ತೆ? (matte?) literally 'again, and then?' is the universal prompt: 'so, what else?'. matte, enu samaachaara? is 'so, what's the news?'. The standard answer is enoo illa, 'nothing', followed by ellaa aaraama, 'all is well'.\n\nಆರಾಮ (aaraama) means 'comfortable, well': aaraamaa? 'are you well?' - aaraama. In north Karnataka this is the normal 'how are you'.\n\nSafe topics: the weather (ivattu tumbaa seke ide), food (oota aaytaa?), where you are from (nimma ooru yaavudu?), and how you like the place (nanage ee jaaga tumbaa ishta).\n\nparavaagilla - 'it doesn't matter, no problem' - answers both apologies and thanks, and also means 'not bad'.",
+      "examples": [
+        { "native": "ಮತ್ತೆ, ಏನು ಸಮಾಚಾರ?", "roman": "matte, enu samaachaara?", "english": "So, what's the news?" },
+        { "native": "ಏನೂ ಇಲ್ಲ, ಎಲ್ಲಾ ಆರಾಮ.", "roman": "enoo illa, ellaa aaraama.", "english": "Nothing much, all is well." },
+        { "native": "ಇವತ್ತು ತುಂಬಾ ಸೆಕೆ ಇದೆ.", "roman": "ivattu tumbaa seke ide.", "english": "It is very hot today." },
+        { "native": "ಪರವಾಗಿಲ್ಲ.", "roman": "paravaagilla.", "english": "No problem." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನನಗೆ ಅರ್ಥ ಆಗ್ತಿಲ್ಲ.", "roman": "nanage artha aagtilla.", "english": "I don't understand.", "literal": "me-to meaning is-not-happening", "note": "Written: aaguttilla (ಆಗುತ್ತಿಲ್ಲ)." },
+    { "native": "ಸ್ವಲ್ಪ ನಿಧಾನವಾಗಿ ಮಾತಾಡಿ.", "roman": "svalpa nidhaanavaagi maataadi.", "english": "Please speak slowly.", "literal": "a-little slowly speak", "note": "'svalpa' (a little) softens the request, like 'please'." },
+    { "native": "ನಿಮಗೆ ಇಂಗ್ಲಿಷ್ ಬರುತ್ತಾ?", "roman": "nimage inglish baruttaa?", "english": "Do you speak English?", "literal": "you-to English comes?", "note": "Literally 'Does English come to you?'" },
+    { "native": "ನನಗೆ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಕನ್ನಡ ಬರುತ್ತೆ.", "roman": "nanage svalpa svalpa kannada barutte.", "english": "I know a little Kannada.", "literal": "me-to little little Kannada comes", "note": "Written: baruttade (ಬರುತ್ತದೆ). Also pronounced baratte." },
+    { "native": "ಇನ್ನೊಂದು ಸಲ ಹೇಳಿ.", "roman": "innondu sala heli.", "english": "Please say that again.", "literal": "one-more time say", "note": "" },
+    { "native": "ಇದರ ಅರ್ಥ ಏನು?", "roman": "idara artha enu?", "english": "What does this mean?", "literal": "this-of meaning what", "note": "" },
+    { "native": "ಇದಕ್ಕೆ ಏನಂತಾರೆ?", "roman": "idakke enantaare?", "english": "What is this called?", "literal": "this-to what-they-say", "note": "Spoken contraction of 'enu annuttaare' (what do they say)." },
+    { "native": "ನನಗೆ ಗೊತ್ತಿಲ್ಲ.", "roman": "nanage gottilla.", "english": "I don't know.", "literal": "me-to known-is-not", "note": "" },
+    { "native": "ಪರವಾಗಿಲ್ಲ.", "roman": "paravaagilla.", "english": "No problem.", "note": "Also the usual reply to 'sorry' or 'thank you'." },
+    { "native": "ನೀವು ಕನ್ನಡ ಚೆನ್ನಾಗಿ ಮಾತಾಡ್ತೀರ.", "roman": "neevu kannada chennaagi maataadteera.", "english": "You speak Kannada well.", "literal": "you Kannada well speak", "note": "A compliment you will hear often." },
+    { "native": "ಮತ್ತೆ, ಏನು ಸಮಾಚಾರ?", "roman": "matte, enu samaachaara?", "english": "So, what's the news?", "literal": "then, what news", "note": "The classic small-talk opener." },
+    { "native": "ಏನೂ ಇಲ್ಲ, ಎಲ್ಲಾ ಆರಾಮ.", "roman": "enoo illa, ellaa aaraama.", "english": "Nothing much, all is well.", "literal": "anything is-not, all comfortable", "note": "" },
+    { "native": "ಇವತ್ತು ತುಂಬಾ ಸೆಕೆ ಇದೆ.", "roman": "ivattu tumbaa seke ide.", "english": "It is very hot today.", "literal": "today much heat is", "note": "" },
+    { "native": "ನನಗೆ ಈ ಜಾಗ ತುಂಬಾ ಇಷ್ಟ.", "roman": "nanage ee jaaga tumbaa ishta.", "english": "I really like this place.", "literal": "me-to this place much liking", "note": "" }
+  ]
+}

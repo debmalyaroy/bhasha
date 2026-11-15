@@ -1,0 +1,62 @@
+{
+  "id": "polite-words",
+  "level": "1 · First words",
+  "title": "Yes, no and polite words",
+  "description": "Answer yes and no naturally, ask politely without a word for 'please', and address strangers the Bengali way.",
+  "guide": [
+    {
+      "title": "Yes and no",
+      "text": "হ্যাঁ (hyaan) is yes and না (naa) is no. But a bare yes or no can sound abrupt. The natural answer repeats the verb of the question: 'Is there tea?' - 'There is' (আছে), or 'There isn't' (নেই).\n\nনেই (nei) is a word to learn at once. It means 'there is not', 'is not here', 'do not have', and it never changes its form.\n\nআচ্ছা (aachchhaa) is the all-purpose 'all right', 'I see', 'okay then'. You will hear it constantly. A polite, slightly old-fashioned 'yes' to an elder or a customer is আজ্ঞে (aagge).",
+      "examples": [
+        { "native": "হ্যাঁ, আছে।", "roman": "hyaan, aachhe.", "english": "Yes, there is." },
+        { "native": "না, নেই।", "roman": "naa, nei.", "english": "No, there isn't." },
+        { "native": "আচ্ছা।", "roman": "aachchhaa.", "english": "All right. / I see." },
+        { "native": "ঠিক আছে", "roman": "thik aachhe", "english": "Okay" }
+      ]
+    },
+    {
+      "title": "There is no everyday word for 'please'",
+      "text": "Politeness in Bengali is built into the verb. The polite command ends in -un: বসুন (boshun) is already 'please sit'. Using আপনি and the -un form is all the politeness a normal request needs.\n\nTo soften a request further, add একটু (ektu), 'a little': একটু শুনুন, 'listen a little', has the feel of 'could you listen for a moment?'.\n\nAn even gentler request uses the future tense as a question: একটু শুনবেন? - 'will you listen a little?'\n\nদয়া করে (doyaa kore), literally 'doing kindness', is the dictionary translation of 'please'. It is correct but formal: you see it on signs and hear it in announcements, and it is fine when you are asking a real favour.",
+      "examples": [
+        { "native": "বসুন।", "roman": "boshun.", "english": "Please sit down." },
+        { "native": "একটু শুনুন।", "roman": "ektu shunun.", "english": "Please listen a moment." },
+        { "native": "একটু শুনবেন?", "roman": "ektu shunben?", "english": "Excuse me, could you listen a moment?" },
+        { "native": "দয়া করে বসুন।", "roman": "doyaa kore boshun.", "english": "Kindly take a seat." }
+      ]
+    },
+    {
+      "title": "How to address people",
+      "text": "Strangers are addressed with family words, chosen by their age relative to yours. In West Bengal a man of about your age or older is দাদা (daadaa, elder brother) and a woman is দিদি (didi, elder sister). An older man is কাকু (kaaku, uncle) and an older woman মাসিমা (maashimaa, aunt). In Bangladesh the usual words are ভাই (bhaai) and আপা (aapaa), with চাচা (chaachaa) and খালা (khaalaa) for older people.\n\nThese words are also added after a first name as a mark of respect: রাজদা, মিতাদি (short for দাদা and দিদি).\n\nTo get someone's attention, start with the address word: দাদা, একটু শুনুন।\n\nReplying to thanks, people say ও কিছু না, 'that is nothing'.",
+      "examples": [
+        { "native": "দাদা, একটু শুনুন।", "roman": "daadaa, ektu shunun.", "english": "Excuse me (to a man)." },
+        { "native": "দিদি, একটু শুনুন।", "roman": "didi, ektu shunun.", "english": "Excuse me (to a woman)." },
+        { "native": "ও কিছু না।", "roman": "o kichhu naa.", "english": "It's nothing." }
+      ]
+    },
+    {
+      "title": "Saying sorry",
+      "text": "মাফ করবেন (maaph korben), 'you will forgive', is the everyday apology and also 'excuse me'. ক্ষমা করবেন (khomaa korben) means the same and is a little more formal.\n\nকিছু মনে করবেন না (kichhu mone korben naa), 'do not take anything to mind', is 'please don't mind', said before or after doing something that might offend.\n\nআমি দুঃখিত (aami dukkhito) is 'I am sorry' in the sense of 'I regret'; it is formal and is not used for bumping into someone. The ঃ doubles the kh: duk-khi-to.",
+      "examples": [
+        { "native": "মাফ করবেন", "roman": "maaph korben", "english": "Sorry / Excuse me" },
+        { "native": "কিছু মনে করবেন না।", "roman": "kichhu mone korben naa.", "english": "Please don't mind." },
+        { "native": "আমি দুঃখিত।", "roman": "aami dukkhito.", "english": "I am sorry." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "হ্যাঁ, আছে।", "roman": "hyaan, aachhe.", "english": "Yes, there is.", "literal": "yes, is", "note": "Also 'Yes, I have / we have (it)'." },
+    { "native": "না, নেই।", "roman": "naa, nei.", "english": "No, there isn't.", "literal": "no, is-not", "note": "'nei' never changes form." },
+    { "native": "আচ্ছা।", "roman": "aachchhaa.", "english": "All right. / I see.", "note": "Said with a rising tone it means 'Really?'" },
+    { "native": "দয়া করে বসুন।", "roman": "doyaa kore boshun.", "english": "Kindly take a seat.", "literal": "kindness doing sit", "note": "Formal. In everyday speech just বসুন (boshun) is polite enough." },
+    { "native": "একটু শুনবেন?", "roman": "ektu shunben?", "english": "Excuse me, could you listen a moment?", "literal": "a-little will-you-listen", "note": "A gentle way to stop someone and ask for help." },
+    { "native": "দাদা, একটু শুনুন।", "roman": "daadaa, ektu shunun.", "english": "Excuse me (to a man).", "literal": "elder-brother, a-little listen", "note": "To a woman: দিদি (didi). In Bangladesh: ভাই (bhaai) and আপা (aapaa)." },
+    { "native": "অনেক ধন্যবাদ।", "roman": "onek dhonnobaad.", "english": "Thank you very much.", "literal": "much thanks", "note": "" },
+    { "native": "ও কিছু না।", "roman": "o kichhu naa.", "english": "It's nothing.", "literal": "that anything not", "note": "The usual reply to thanks." },
+    { "native": "কিছু মনে করবেন না।", "roman": "kichhu mone korben naa.", "english": "Please don't mind.", "literal": "anything in-mind you-will-do not", "note": "" },
+    { "native": "আমি দুঃখিত।", "roman": "aami dukkhito.", "english": "I am sorry.", "literal": "I sorry", "note": "Formal; expresses regret." },
+    { "native": "ঠিক বলেছেন।", "roman": "thik bolechhen.", "english": "You are right.", "literal": "right you-have-said", "note": "" },
+    { "native": "নিশ্চয়ই।", "roman": "nishchoyi.", "english": "Certainly.", "note": "" },
+    { "native": "দরকার নেই।", "roman": "dorkaar nei.", "english": "There's no need.", "literal": "need is-not", "note": "A polite way to decline an offer." },
+    { "native": "আপনি আগে যান।", "roman": "aapni aage jaan.", "english": "After you.", "literal": "you first go", "note": "" }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "adjectives",
+  "level": "2 · How sentences work",
+  "title": "Describing things",
+  "description": "Describe people and things, make adjectives agree, and compare one thing with another.",
+  "guide": [
+    {
+      "title": "Two kinds of adjective",
+      "text": "Adjectives come before the noun, as in English, or before the verb 'to be': बड़ा कमरा, 'a big room'; कमरा बड़ा है, 'the room is big'.\n\nAdjectives whose basic form ends in -aa change to agree with the noun. They end in -aa with a masculine singular noun, -e with a masculine plural noun, and -ee with any feminine noun, singular or plural. So: अच्छा लड़का (a good boy), अच्छे लड़के (good boys), अच्छी लड़की (a good girl), अच्छी लड़कियाँ (good girls).\n\nAll other adjectives never change: सुंदर (sundar, beautiful), लाल (laal, red), साफ़ (saaf, clean), खराब (kharaab, bad), ठीक (theek, fine), तैयार (taiyaar, ready). लाल साड़ी, लाल कमरा, लाल गाड़ियाँ: always लाल.\n\nThe same -aa, -e, -ee pattern is the one you have already met in मेरा, का, कैसा and कितना, and you will meet it again in verbs. It is the heartbeat of Hindi grammar.",
+      "examples": [
+        { "native": "यह कमरा छोटा है।", "roman": "yah kamraa chhotaa hai.", "english": "This room is small." },
+        { "native": "यह लड़की लंबी है।", "roman": "yah larkee lambee hai.", "english": "This girl is tall." },
+        { "native": "ये आम मीठे हैं।", "roman": "ye aam meethe hain.", "english": "These mangoes are sweet." },
+        { "native": "मुझे लाल साड़ी चाहिए।", "roman": "mujhe laal saaree chaahiye.", "english": "I want a red sari." },
+        { "native": "कमरा साफ़ है।", "roman": "kamraa saaf hai.", "english": "The room is clean." }
+      ]
+    },
+    {
+      "title": "Adjectives before a postposition",
+      "text": "When a masculine noun is followed by a postposition, an -aa adjective in front of it changes to -e, whether the noun is singular or plural. This is the oblique again.\n\nबड़ा कमरा ('the big room') becomes बड़े कमरे में ('in the big room'). छोटा भाई ('younger brother') becomes छोटे भाई को ('to the younger brother'), even though भाई itself does not change.\n\nFeminine adjectives stay -ee everywhere: छोटी बहन को, 'to the younger sister'.",
+      "examples": [
+        { "native": "बड़े कमरे में", "roman": "bare kamre mein", "english": "in the big room" },
+        { "native": "मेरे छोटे भाई का नाम", "roman": "mere chhote bhaaee kaa naam", "english": "my younger brother's name" },
+        { "native": "छोटी बहन को", "roman": "chhotee bahan ko", "english": "to the younger sister" }
+      ]
+    },
+    {
+      "title": "Comparing",
+      "text": "Hindi adjectives have no '-er' and '-est' forms. Comparison is done with से (se), which here means 'than'.\n\nThe pattern is: A, B से, adjective. राज अमित से बड़ा है, word for word 'Raj Amit than big is', means 'Raj is bigger (or older) than Amit'. The adjective itself does not change its form.\n\nFor 'the most', compare with everything: सबसे (sabse, 'than all'). यह सबसे अच्छा है, 'this is the best'.\n\nWhen nothing is named to compare with, add ज़्यादा (zyaadaa, 'more') or कम (kam, 'less'): यह ज़्यादा महँगा है, 'this one is more expensive'. And इससे (isse, 'than this') is very handy in shops: इससे सस्ता, 'cheaper than this'.",
+      "examples": [
+        { "native": "राज अमित से बड़ा है।", "roman": "raaj amit se baraa hai.", "english": "Raj is older than Amit.", "literal": "Raj Amit than big is" },
+        { "native": "यह सबसे अच्छा है।", "roman": "yah sabse achchhaa hai.", "english": "This is the best.", "literal": "this than-all good is" },
+        { "native": "यह ज़्यादा महँगा है।", "roman": "yah zyaadaa mahangaa hai.", "english": "This is more expensive." },
+        { "native": "मुझे इससे सस्ता चाहिए।", "roman": "mujhe isse sastaa chaahiye.", "english": "I want a cheaper one than this." }
+      ]
+    },
+    {
+      "title": "Very, a little, too",
+      "text": "बहुत (bahut) is 'very' and also 'a lot'. थोड़ा (thoraa) is 'a little, slightly'; it agrees like an -aa adjective when it goes with a noun (थोड़ा पानी, थोड़ी चीनी). काफ़ी (kaafee) is 'quite, fairly'.\n\nHindi has no everyday single word for 'too' in the sense of 'excessively'. बहुत often carries that meaning from context (चाय बहुत मीठी है can be 'the tea is very sweet' or 'too sweet'), and to be explicit people say बहुत ज़्यादा (bahut zyaadaa, 'very much more') or ज़्यादा alone.",
+      "examples": [
+        { "native": "यह बहुत सुंदर है।", "roman": "yah bahut sundar hai.", "english": "This is very beautiful." },
+        { "native": "यह थोड़ा छोटा है।", "roman": "yah thoraa chhotaa hai.", "english": "This is a little small." },
+        { "native": "चाय बहुत मीठी है।", "roman": "chaay bahut meethee hai.", "english": "The tea is very sweet." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "यह कमरा छोटा है।", "roman": "yah kamraa chhotaa hai.", "english": "This room is small.", "literal": "this room small is" },
+    { "native": "यह लड़की लंबी है।", "roman": "yah larkee lambee hai.", "english": "This girl is tall.", "literal": "this girl tall is", "note": "लंबा means both 'tall' (of people) and 'long'." },
+    { "native": "ये आम मीठे हैं।", "roman": "ye aam meethe hain.", "english": "These mangoes are sweet.", "literal": "these mangoes sweet are", "note": "आम has the same form in the plural; the adjective and verb show the number." },
+    { "native": "मुझे लाल साड़ी चाहिए।", "roman": "mujhe laal saaree chaahiye.", "english": "I want a red sari.", "literal": "to-me red sari is-wanted", "note": "लाल never changes its ending." },
+    { "native": "यह बहुत सुंदर है।", "roman": "yah bahut sundar hai.", "english": "This is very beautiful.", "literal": "this very beautiful is" },
+    { "native": "राज अमित से बड़ा है।", "roman": "raaj amit se baraa hai.", "english": "Raj is older than Amit.", "literal": "Raj Amit than big is", "note": "बड़ा means 'big' and, of people, 'older'." },
+    { "native": "यह सबसे अच्छा है।", "roman": "yah sabse achchhaa hai.", "english": "This is the best.", "literal": "this than-all good is" },
+    { "native": "मुझे इससे सस्ता चाहिए।", "roman": "mujhe isse sastaa chaahiye.", "english": "I want a cheaper one than this.", "literal": "to-me this-than cheap is-wanted" },
+    { "native": "यह थोड़ा छोटा है।", "roman": "yah thoraa chhotaa hai.", "english": "This is a little small.", "literal": "this a-little small is" },
+    { "native": "नई गाड़ी बहुत अच्छी है।", "roman": "naee gaaree bahut achchhee hai.", "english": "The new car is very good.", "literal": "new car very good is", "note": "नया (nayaa, new) has the forms नया, नए, नई." },
+    { "native": "कमरा साफ़ है।", "roman": "kamraa saaf hai.", "english": "The room is clean.", "literal": "room clean is" },
+    { "native": "चाय बहुत मीठी है।", "roman": "chaay bahut meethee hai.", "english": "The tea is very sweet.", "literal": "tea very sweet is", "note": "Depending on the tone this can also mean 'too sweet'." },
+    { "native": "यह रास्ता लंबा है।", "roman": "yah raastaa lambaa hai.", "english": "This road is long.", "literal": "this road long is" },
+    { "native": "मेरा छोटा भाई दिल्ली में है।", "roman": "meraa chhotaa bhaaee dillee mein hai.", "english": "My younger brother is in Delhi.", "literal": "my small brother Delhi in is" },
+    { "native": "यह ज़्यादा महँगा है।", "roman": "yah zyaadaa mahangaa hai.", "english": "This is more expensive.", "literal": "this more expensive is" }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "feelings",
+  "level": "5 · Conversation",
+  "title": "Feelings and opinions",
+  "description": "Say how you feel, what you like and what you think, and agree or disagree politely.",
+  "guide": [
+    {
+      "title": "Feelings happen to you",
+      "text": "In Kannada you do not 'be' happy or tired; the feeling happens or comes to you. The person is in the dative, the feeling is a noun, and the verb is a form of aagu ('happen') or baa ('come').\n\nಖುಷಿ (khushi) happiness, ಸಂತೋಷ (santosha) joy: nanage khushi aaytu, 'I became happy, I am glad'.\nಬೇಜಾರು (bejaaru) boredom, low spirits, being upset: nanage bejaaraagide.\nಸುಸ್ತು (sustu) tiredness: nanage sustaagide, 'I am tired'.\nಭಯ (bhaya) fear: nanage bhaya aagtide, 'I am scared'.\nಕೋಪ (kopa) anger: nanage kopa bandide, 'anger has come to me' = 'I am angry'.\nನಿದ್ದೆ (nidde) sleep: nanage nidde bartide, 'I am sleepy'.\nಆಶ್ಚರ್ಯ (aashcharya) surprise: nanage aashcharya aaytu, 'I was surprised'.\n\nThe tense tells the story: aaytu (it happened - a reaction to news), aagide (it has happened - the state now), aagtide (it is happening - building up right now).",
+      "examples": [
+        { "native": "ನನಗೆ ತುಂಬಾ ಖುಷಿ ಆಯ್ತು.", "roman": "nanage tumbaa khushi aaytu.", "english": "I am very happy (to hear or see that)." },
+        { "native": "ನನಗೆ ಸುಸ್ತಾಗಿದೆ.", "roman": "nanage sustaagide.", "english": "I am tired." },
+        { "native": "ನನಗೆ ಭಯ ಆಗ್ತಿದೆ.", "roman": "nanage bhaya aagtide.", "english": "I am scared." },
+        { "native": "ನನಗೆ ಕೋಪ ಬಂದಿದೆ.", "roman": "nanage kopa bandide.", "english": "I am angry." },
+        { "native": "ನನಗೆ ನಿದ್ದೆ ಬರ್ತಿದೆ.", "roman": "nanage nidde bartide.", "english": "I am sleepy." }
+      ]
+    },
+    {
+      "title": "Likes and dislikes",
+      "text": "ಇಷ್ಟ (ishta) is 'liking': nanage ee haadu ishta, 'I like this song'. tumbaa ishta is 'like very much'.\n\nFor a reaction to something you have just tried, use ishta aaytu, 'liking happened' = 'I liked it', and ishta aagalilla, 'I didn't like it'.\n\nPraise: chennaagide (it is good/nice); tumbaa chennaagide (very nice); sooper! - the English word, used constantly.\n\nSympathy and dismay: ಪಾಪ (paapa) 'poor thing!'; ಅಯ್ಯೋ (ayyo) 'oh no!'; ಛೆ (chhe) 'tut, what a shame'.",
+      "examples": [
+        { "native": "ನನಗೆ ಈ ಹಾಡು ತುಂಬಾ ಇಷ್ಟ.", "roman": "nanage ee haadu tumbaa ishta.", "english": "I really like this song." },
+        { "native": "ನನಗೆ ಅದು ಇಷ್ಟ ಆಗಲಿಲ್ಲ.", "roman": "nanage adu ishta aagalilla.", "english": "I didn't like that." },
+        { "native": "ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ.", "roman": "idu tumbaa chennaagide.", "english": "This is very nice." },
+        { "native": "ಪಾಪ!", "roman": "paapa!", "english": "Poor thing!" }
+      ]
+    },
+    {
+      "title": "Giving an opinion",
+      "text": "'I think that ...' is built with ಅಂತ (anta), which closes off the thought like a spoken quotation mark, followed by nanage annisutte, 'it seems to me': idu sari anta nanage annisutte, 'this is right - so it seems to me' = 'I think this is right'. Negative: annisalla; nanage haage annisalla, 'I don't think so'.\n\nThe thought comes first and 'I think' comes last - the reverse of English.\n\nOther ways to give a view: ನನ್ನ ಪ್ರಕಾರ (nanna prakaara) 'according to me, in my view'; ಇರಬಹುದು (irabahudu) 'maybe, could be'.\n\nAgreeing: ಸರಿ (sari) right; neevu heliddu sari, 'what you said is right' (heliddu = 'that which was said'); haudu, nija, 'yes, true'.\n\nDisagreeing politely: haage alla, 'it is not like that'; nanage haage annisalla. To ask: nimma abhipraaya enu? 'what is your opinion?' or simply nimage enu annisutte? 'what do you think?'",
+      "examples": [
+        { "native": "ಇದು ಸರಿ ಅಂತ ನನಗೆ ಅನ್ನಿಸುತ್ತೆ.", "roman": "idu sari anta nanage annisutte.", "english": "I think this is right." },
+        { "native": "ನನಗೆ ಹಾಗೆ ಅನ್ನಿಸಲ್ಲ.", "roman": "nanage haage annisalla.", "english": "I don't think so." },
+        { "native": "ನೀವು ಹೇಳಿದ್ದು ಸರಿ.", "roman": "neevu heliddu sari.", "english": "You are right." },
+        { "native": "ನಿಮಗೆ ಏನು ಅನ್ನಿಸುತ್ತೆ?", "roman": "nimage enu annisutte?", "english": "What do you think?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನನಗೆ ತುಂಬಾ ಖುಷಿ ಆಯ್ತು.", "roman": "nanage tumbaa khushi aaytu.", "english": "I am very happy about that.", "literal": "me-to much happiness happened", "note": "A reaction to good news. More formal: santosha aaytu." },
+    { "native": "ನನಗೆ ಬೇಜಾರಾಗಿದೆ.", "roman": "nanage bejaaraagide.", "english": "I am feeling low.", "literal": "me-to low-spirits-has-happened", "note": "bejaaru covers bored, fed up, sad and upset." },
+    { "native": "ನನಗೆ ಸುಸ್ತಾಗಿದೆ.", "roman": "nanage sustaagide.", "english": "I am tired.", "literal": "me-to tiredness-has-happened", "note": "sustu + aagide." },
+    { "native": "ನನಗೆ ಭಯ ಆಗ್ತಿದೆ.", "roman": "nanage bhaya aagtide.", "english": "I am scared.", "literal": "me-to fear is-happening", "note": "" },
+    { "native": "ನನಗೆ ಕೋಪ ಬಂದಿದೆ.", "roman": "nanage kopa bandide.", "english": "I am angry.", "literal": "me-to anger has-come", "note": "The o of kopa is long." },
+    { "native": "ನನಗೆ ನಿದ್ದೆ ಬರ್ತಿದೆ.", "roman": "nanage nidde bartide.", "english": "I am sleepy.", "literal": "me-to sleep is-coming", "note": "" },
+    { "native": "ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ.", "roman": "idu tumbaa chennaagide.", "english": "This is very nice.", "literal": "this very good-is", "note": "" },
+    { "native": "ನನಗೆ ಹಾಗೆ ಅನ್ನಿಸಲ್ಲ.", "roman": "nanage haage annisalla.", "english": "I don't think so.", "literal": "me-to so seems-not", "note": "Written: annisuvudilla (ಅನ್ನಿಸುವುದಿಲ್ಲ)." },
+    { "native": "ಇದು ಸರಿ ಅಂತ ನನಗೆ ಅನ್ನಿಸುತ್ತೆ.", "roman": "idu sari anta nanage annisutte.", "english": "I think this is right.", "literal": "this right that me-to seems", "note": "anta marks the end of the thought. Written: endu (ಎಂದು) ... annisuttade (ಅನ್ನಿಸುತ್ತದೆ)." },
+    { "native": "ನೀವು ಹೇಳಿದ್ದು ಸರಿ.", "roman": "neevu heliddu sari.", "english": "You are right.", "literal": "you what-was-said right", "note": "Literally 'what you said is right'." },
+    { "native": "ನನಗೆ ಈ ಹಾಡು ತುಂಬಾ ಇಷ್ಟ.", "roman": "nanage ee haadu tumbaa ishta.", "english": "I really like this song.", "literal": "me-to this song much liking", "note": "" },
+    { "native": "ನನಗೆ ಅದು ಇಷ್ಟ ಆಗಲಿಲ್ಲ.", "roman": "nanage adu ishta aagalilla.", "english": "I didn't like that.", "literal": "me-to that liking did-not-happen", "note": "" },
+    { "native": "ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ಏನು?", "roman": "nimma abhipraaya enu?", "english": "What is your opinion?", "literal": "your opinion what", "note": "Less formal: nimage enu annisutte?" },
+    { "native": "ಪಾಪ!", "roman": "paapa!", "english": "Poor thing!", "note": "Said in sympathy." },
+    { "native": "ತುಂಬಾ ಸಂತೋಷ.", "roman": "tumbaa santosha.", "english": "I'm so glad.", "literal": "much happiness", "note": "A warm response to good news or to a thank-you." }
+  ]
+}

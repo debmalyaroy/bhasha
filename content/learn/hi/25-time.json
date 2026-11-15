@@ -1,0 +1,65 @@
+{
+  "id": "time",
+  "level": "4 · Everyday situations",
+  "title": "Time, days and dates",
+  "description": "Ask and tell the time, name the days, and talk about today, tomorrow and yesterday.",
+  "guide": [
+    {
+      "title": "Telling the time",
+      "text": "The clock uses the verb बजना (bajnaa), 'to strike, to ring'. 'What time is it?' is कितने बजे हैं?, literally 'how many have struck?'. The answer is the number plus बजे हैं: पाँच बजे हैं, 'it is five o'clock'. One o'clock is singular: एक बजा है.\n\nThe fraction words from the shopping unit do the work of 'half past' and 'quarter': साढ़े तीन बजे (half past three), सवा तीन बजे (quarter past three), पौने चार बजे (quarter to four). Two special cases: half past one is डेढ़ बजे (derh baje) and half past two is ढाई बजे (dhaaee baje).\n\n'At' a time needs no postposition; बजे by itself means 'at ... o'clock': हम सात बजे मिलेंगे, 'we will meet at seven'. 'At what time?' is कितने बजे?\n\nFor minutes, people say दस बजकर बीस मिनट ('twenty past ten', literally 'having struck ten, twenty minutes'), or just read the digits: दस बीस.",
+      "examples": [
+        { "native": "कितने बजे हैं?", "roman": "kitne baje hain?", "english": "What time is it?" },
+        { "native": "पाँच बजे हैं।", "roman": "paanch baje hain.", "english": "It is five o'clock." },
+        { "native": "एक बजा है।", "roman": "ek bajaa hai.", "english": "It is one o'clock." },
+        { "native": "साढ़े तीन बजे हैं।", "roman": "saarhe teen baje hain.", "english": "It is half past three." },
+        { "native": "हम सात बजे मिलेंगे।", "roman": "ham saat baje milenge.", "english": "We will meet at seven o'clock." }
+      ]
+    },
+    {
+      "title": "Yesterday and tomorrow are the same word",
+      "text": "आज (aaj) is 'today'. कल (kal) means both 'yesterday' and 'tomorrow', one day away from today in either direction, and the tense of the verb tells you which: मैं कल आऊँगा, 'I will come tomorrow'; मैं कल आया था, 'I came yesterday'. In the same way परसों (parson) is both 'the day after tomorrow' and 'the day before yesterday'.\n\nअभी (abhee) is 'right now'; अब (ab) is 'now'; बाद में (baad mein) is 'later'; पहले (pahle) is 'earlier, before'.\n\nParts of the day: सुबह (subah, morning), दोपहर (dopahar, midday, afternoon), शाम (shaam, evening), रात (raat, night). 'In the evening' and 'at night' take को: शाम को, रात को. सुबह is usually used without it. Combine them freely: कल सुबह ('tomorrow morning' or 'yesterday morning'), आज रात ('tonight').",
+      "examples": [
+        { "native": "मैं कल आऊँगा।", "roman": "main kal aaoongaa.", "english": "I will come tomorrow. (man speaking)" },
+        { "native": "मैं कल आया था।", "roman": "main kal aayaa thaa.", "english": "I came yesterday. (man speaking)" },
+        { "native": "शाम को मिलते हैं।", "roman": "shaam ko milte hain.", "english": "Let's meet in the evening." },
+        { "native": "परसों छुट्टी है।", "roman": "parson chhuttee hai.", "english": "The day after tomorrow is a holiday." }
+      ]
+    },
+    {
+      "title": "Days of the week",
+      "text": "The days all end in -वार (-vaar, 'day'): सोमवार (somvaar, Monday), मंगलवार (mangalvaar, Tuesday), बुधवार (budhvaar, Wednesday), गुरुवार (guruvaar, Thursday), शुक्रवार (shukravaar, Friday), शनिवार (shanivaar, Saturday), रविवार (ravivaar, Sunday).\n\nThursday is also called बृहस्पतिवार (brihaspativaar), and Sunday is very often इतवार (itvaar).\n\n'On Monday' is सोमवार को. हफ़्ता (haftaa) is 'week', महीना (maheenaa) 'month', साल (saal) 'year'. 'Next' is अगला and 'last' is पिछला; with को understood they take the oblique: अगले हफ़्ते ('next week'), पिछले साल ('last year'), अगले महीने ('next month').",
+      "examples": [
+        { "native": "आज सोमवार है।", "roman": "aaj somvaar hai.", "english": "Today is Monday." },
+        { "native": "मैं शनिवार को आऊँगा।", "roman": "main shanivaar ko aaoongaa.", "english": "I will come on Saturday. (man speaking)" },
+        { "native": "मैं अगले महीने भारत जाऊँगा।", "roman": "main agle maheene bhaarat jaaoongaa.", "english": "I will go to India next month. (man speaking)" }
+      ]
+    },
+    {
+      "title": "Dates and months",
+      "text": "The months used in daily life are the international ones with a Hindi accent: जनवरी (janvaree), फ़रवरी (farvaree), मार्च (maarch), अप्रैल (aprail), मई (maee), जून (joon), जुलाई (julaaee), अगस्त (agast), सितंबर (sitambar), अक्टूबर (aktoobar), नवंबर (navambar), दिसंबर (disambar).\n\nतारीख (taareekh) is 'date'. Dates are given as number, तारीख, and को for 'on': पाँच तारीख को, 'on the fifth'; दस मार्च को, 'on the tenth of March'.\n\nUseful words about time: समय (samay) and वक्त (vakt) both mean 'time'; देर (der) is 'lateness, delay'; जल्दी (jaldee) is 'early, soon, quickly'.",
+      "examples": [
+        { "native": "आज कौन सी तारीख है?", "roman": "aaj kaun see taareekh hai?", "english": "What is the date today?" },
+        { "native": "दस मार्च को", "roman": "das maarch ko", "english": "on the tenth of March" },
+        { "native": "मुझे देर हो रही है।", "roman": "mujhe der ho rahee hai.", "english": "I am getting late." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "कितने बजे हैं?", "roman": "kitne baje hain?", "english": "What time is it?", "literal": "how-many struck are" },
+    { "native": "पाँच बजे हैं।", "roman": "paanch baje hain.", "english": "It is five o'clock.", "literal": "five struck are" },
+    { "native": "एक बजा है।", "roman": "ek bajaa hai.", "english": "It is one o'clock.", "literal": "one struck is", "note": "Singular बजा है, because it is only one." },
+    { "native": "साढ़े तीन बजे हैं।", "roman": "saarhe teen baje hain.", "english": "It is half past three.", "literal": "plus-half three struck are" },
+    { "native": "हम सात बजे मिलेंगे।", "roman": "ham saat baje milenge.", "english": "We will meet at seven o'clock.", "literal": "we seven o'clock will-meet" },
+    { "native": "आज सोमवार है।", "roman": "aaj somvaar hai.", "english": "Today is Monday.", "literal": "today Monday is" },
+    { "native": "आज कौन सी तारीख है?", "roman": "aaj kaun see taareekh hai?", "english": "What is the date today?", "literal": "today which date is" },
+    { "native": "मैं कल आऊँगा।", "roman": "main kal aaoongaa.", "english": "I will come tomorrow.", "literal": "I tomorrow will-come", "note": "'kal' means both tomorrow and yesterday; the verb tense tells which. A woman says आऊँगी (aaoongee)." },
+    { "native": "मैं कल आया था।", "roman": "main kal aayaa thaa.", "english": "I came yesterday.", "literal": "I yesterday come was", "note": "A woman says: मैं कल आई थी (main kal aaee thee)." },
+    { "native": "परसों छुट्टी है।", "roman": "parson chhuttee hai.", "english": "The day after tomorrow is a holiday.", "literal": "day-after-tomorrow holiday is", "note": "परसों can also mean 'the day before yesterday'." },
+    { "native": "मैं अगले महीने भारत जाऊँगा।", "roman": "main agle maheene bhaarat jaaoongaa.", "english": "I will go to India next month.", "literal": "I next month India will-go", "note": "A woman says: ... जाऊँगी (jaaoongee)." },
+    { "native": "एक मिनट रुकिए।", "roman": "ek minat rukiye.", "english": "Please wait a minute.", "literal": "one minute please-stop" },
+    { "native": "मुझे देर हो रही है।", "roman": "mujhe der ho rahee hai.", "english": "I am getting late.", "literal": "to-me lateness happen -ing is" },
+    { "native": "बस कब निकलेगी?", "roman": "bas kab niklegee?", "english": "When will the bus leave?", "literal": "bus when will-leave" },
+    { "native": "शाम को मिलते हैं।", "roman": "shaam ko milte hain.", "english": "Let's meet in the evening.", "literal": "evening at meeting are" },
+    { "native": "अभी मेरे पास समय नहीं है।", "roman": "abhee mere paas samay naheen hai.", "english": "I don't have time right now.", "literal": "right-now my near time not is", "note": "'mere paas' (near me) is how Hindi says 'I have'." }
+  ]
+}

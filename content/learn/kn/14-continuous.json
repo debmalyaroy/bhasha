@@ -1,0 +1,55 @@
+{
+  "id": "continuous",
+  "level": "3 · Verbs",
+  "title": "Happening now",
+  "description": "Say what you and others are doing right now, and what was going on at some time in the past.",
+  "guide": [
+    {
+      "title": "am / is / are doing: stem + -t- + the forms of iru",
+      "text": "For an action in progress, Kannada joins the verb stem + t(aa) to the present forms of iru, 'to be': maadtaa iddeeni, literally 'doing I-am'. In normal speech this is pronounced and written as one word: ಮಾಡ್ತಿದ್ದೀನಿ (maadtiddeeni).\n\nSince you already know iddeeni, iddeeya, iddaane, iddaale, ide, you already know the endings.\n\nWritten forms: maaduttiddene (I), maaduttiddeeya (you), maaduttiddaane (he), maaduttiddaale (she), maaduttide (it).\n\nCompare: naanu kelasa maadteeni, 'I work / I will work'; naanu kelasa maadtiddeeni, 'I am working (right now)'.",
+      "examples": [
+        { "native": "ನಾನು ಮಾಡ್ತಿದ್ದೀನಿ.", "roman": "naanu maadtiddeeni.", "english": "I am doing." },
+        { "native": "ನೀನು ಮಾಡ್ತಿದ್ದೀಯ.", "roman": "neenu maadtiddeeya.", "english": "You are doing. (familiar)" },
+        { "native": "ಅವನು ಮಾಡ್ತಿದ್ದಾನೆ.", "roman": "avanu maadtiddaane.", "english": "He is doing." },
+        { "native": "ಅವಳು ಮಾಡ್ತಿದ್ದಾಳೆ.", "roman": "avalu maadtiddaale.", "english": "She is doing." },
+        { "native": "ಅದು ಮಾಡ್ತಿದೆ.", "roman": "adu maadtide.", "english": "It is doing." }
+      ]
+    },
+    {
+      "title": "Plural and respectful forms",
+      "text": "The plural follows iru in the same way: -tiddeevi (we), -tiddeera (you, polite), -tiddaare (they / respectful), -tive (they, of things).\n\nWritten forms: maaduttiddeve, maaduttiddeeri, maaduttiddaare, maaduttive.\n\nThe stems are the same ones you learned for the present: hogtiddeeni (I am going), bartiddeeni (I am coming), nodtiddeeni (I am watching), odtiddeeni (I am reading). The -i and -e verbs keep their long vowel: kudeetiddeeni (I am drinking), kaleetiddeeni (I am learning). tinnu gives tintiddeeni (ತಿಂತಿದ್ದೀನಿ), 'I am eating'.",
+      "examples": [
+        { "native": "ನಾವು ಮಾಡ್ತಿದ್ದೀವಿ.", "roman": "naavu maadtiddeevi.", "english": "We are doing." },
+        { "native": "ನೀವು ಮಾಡ್ತಿದ್ದೀರ.", "roman": "neevu maadtiddeera.", "english": "You are doing. (polite)" },
+        { "native": "ಅವರು ಮಾಡ್ತಿದ್ದಾರೆ.", "roman": "avaru maadtiddaare.", "english": "They are doing. / He or she is doing. (respectful)" },
+        { "native": "ಅವು ಮಾಡ್ತಿವೆ.", "roman": "avu maadtive.", "english": "They are doing. (things, animals)" }
+      ]
+    },
+    {
+      "title": "Not doing, are you doing?, was doing",
+      "text": "Negative: stem + -tilla, the same for every person: ಮಾಡ್ತಿಲ್ಲ (maadtilla) 'am / is / are not doing'; bartilla, 'not coming'. Written: maaduttilla.\n\nQuestion: add -aa as always. bartide - bartideyaa? 'is it coming?'; maadtiddeera - maadtiddeeraa? 'are you doing?'.\n\nWas doing: replace the present of iru with its past (idde, idde, idda, idlu, ittu, idvi, idri, idru): ಮಾಡ್ತಿದ್ದೆ (maadtidde) I was doing; maadtidda, he was doing; maadtittu, it was doing; maadtidru, they were doing.\n\nOne trap: states that English expresses with '-ing' or an adjective are often a completed action in Kannada. 'He is sleeping / asleep' is malagiddaane, literally 'he has lain down'; 'she is sitting' is kootiddaale, 'she has sat'.",
+      "examples": [
+        { "native": "ಅವರು ಕೆಲಸ ಮಾಡ್ತಿಲ್ಲ.", "roman": "avaru kelasa maadtilla.", "english": "They are not working." },
+        { "native": "ಬಸ್ ಬರ್ತಿದೆಯಾ?", "roman": "bas bartideyaa?", "english": "Is the bus coming?" },
+        { "native": "ನಾನು ಆಗ ನಿದ್ದೆ ಮಾಡ್ತಿದ್ದೆ.", "roman": "naanu aaga nidde maadtidde.", "english": "I was sleeping then." },
+        { "native": "ಅವನು ಮಲಗಿದ್ದಾನೆ.", "roman": "avanu malagiddaane.", "english": "He is asleep. (he has lain down)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಾನು ಊಟ ಮಾಡ್ತಿದ್ದೀನಿ.", "roman": "naanu oota maadtiddeeni.", "english": "I am having my meal.", "literal": "I meal am-doing", "note": "Written: maaduttiddene (ಮಾಡುತ್ತಿದ್ದೇನೆ)." },
+    { "native": "ನೀವು ಏನು ಮಾಡ್ತಿದ್ದೀರ?", "roman": "neevu enu maadtiddeera?", "english": "What are you doing?", "literal": "you what are-doing", "note": "Written: maaduttiddeeri (ಮಾಡುತ್ತಿದ್ದೀರಿ)." },
+    { "native": "ಅವನು ಮಲಗಿದ್ದಾನೆ.", "roman": "avanu malagiddaane.", "english": "He is asleep.", "literal": "he has-lain-down", "note": "A state: Kannada says 'has lain down', not 'is sleeping'." },
+    { "native": "ಅವಳು ಫೋನಿನಲ್ಲಿ ಮಾತಾಡ್ತಿದ್ದಾಳೆ.", "roman": "avalu foninalli maataadtiddaale.", "english": "She is talking on the phone.", "literal": "she phone-in is-talking", "note": "" },
+    { "native": "ಮಳೆ ಬರ್ತಿದೆ.", "roman": "male bartide.", "english": "It is raining.", "literal": "rain is-coming", "note": "Rain 'comes' in Kannada. Written: baruttide (ಬರುತ್ತಿದೆ)." },
+    { "native": "ನಾವು ಕಾಯ್ತಿದ್ದೀವಿ.", "roman": "naavu kaaytiddeevi.", "english": "We are waiting.", "literal": "we are-waiting", "note": "kaayu = to wait. Written: kaayuttiddeve (ಕಾಯುತ್ತಿದ್ದೇವೆ)." },
+    { "native": "ಮಕ್ಕಳು ಆಟ ಆಡ್ತಿದ್ದಾರೆ.", "roman": "makkalu aata aadtiddaare.", "english": "The children are playing.", "literal": "children game are-playing", "note": "aata = game, aadu = to play." },
+    { "native": "ನಾನು ಬರ್ತಿದ್ದೀನಿ.", "roman": "naanu bartiddeeni.", "english": "I am coming.", "literal": "I am-coming", "note": "Also said to mean 'I'm on my way'." },
+    { "native": "ನೀನು ಎಲ್ಲಿಗೆ ಹೋಗ್ತಿದ್ದೀಯ?", "roman": "neenu ellige hogtiddeeya?", "english": "Where are you going? (to a friend)", "literal": "you where-to are-going", "note": "Familiar form." },
+    { "native": "ಅವರು ಕೆಲಸ ಮಾಡ್ತಿಲ್ಲ.", "roman": "avaru kelasa maadtilla.", "english": "They are not working.", "literal": "they work are-not-doing", "note": "-tilla is the same for all persons." },
+    { "native": "ನಾನು ಪುಸ್ತಕ ಓದ್ತಿದ್ದೀನಿ.", "roman": "naanu pustaka odtiddeeni.", "english": "I am reading a book.", "literal": "I book am-reading", "note": "odu (long o) = to read, to study." },
+    { "native": "ಬಸ್ ಬರ್ತಿದೆಯಾ?", "roman": "bas bartideyaa?", "english": "Is the bus coming?", "literal": "bus is-coming?", "note": "bartide + y + aa." },
+    { "native": "ನಾನು ಆಗ ನಿದ್ದೆ ಮಾಡ್ತಿದ್ದೆ.", "roman": "naanu aaga nidde maadtidde.", "english": "I was sleeping then.", "literal": "I then sleep was-doing", "note": "Past continuous: -tidde. Written: maaduttidde (ಮಾಡುತ್ತಿದ್ದೆ)." },
+    { "native": "ಅಪ್ಪ ಪೇಪರ್ ಓದ್ತಿದ್ದಾರೆ.", "roman": "appa pepar odtiddaare.", "english": "Dad is reading the newspaper.", "literal": "father paper is-reading", "note": "Plural verb for respect." }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dialogue-market",
+  "level": "5 · Conversation",
+  "title": "Dialogue: buying mangoes",
+  "description": "Follow and take part in a complete bargaining conversation at a fruit stall, with prices, quantities and change.",
+  "guide": [
+    {
+      "title": "The situation",
+      "text": "You are at a fruit stall in a Kolkata market in May, when the mangoes come in. The phrases of this unit are the lines of the conversation in order; the notes say who is speaking.\n\nCustomer and stallholder call each other আপনি, and you address him as দাদা. The tone is brisk and good-humoured: bargaining is a game both sides enjoy, and nobody is offended by a low offer.\n\nThe arithmetic: he asks 100 a kilo, you offer 80, you settle on 90; two kilos come to 180; you pay with 200 and get 20 back.",
+      "examples": [
+        { "native": "একশো টাকা কিলো।", "roman": "eksho taakaa kilo.", "english": "A hundred rupees a kilo." },
+        { "native": "একশো আশি টাকা।", "roman": "eksho aashi taakaa.", "english": "A hundred and eighty rupees." }
+      ]
+    },
+    {
+      "title": "Things to notice",
+      "text": "আমের দাম - 'the price of mangoes': আম + the possessive -এর.\n\nএকশো টাকা কিলো - 'a hundred rupees a kilo'. No word for 'per' is needed.\n\nখেয়ে দেখুন - 'eat and see': the -e form + দেখা means 'try doing'. In the same way পরে দেখুন, 'try it on'; বলে দেখুন, 'try asking'.\n\nনা হলে - 'if it is not (so)': the -le form of হওয়া with না before it. ফেরত দেবেন, 'you will give back'.\n\nআশি টাকায় - 'for eighty rupees': the price you buy AT takes the 'at' ending. আশিতে হবে না - 'at eighty it won't do'.\n\nহবে না is the all-purpose refusal: 'no can do'.\n\nএই থাক - 'let this stay', that is, 'that will be all'. থাক is the 'let it' form of থাকা.\n\nএই নিন - 'here, take': said when handing something over.",
+      "examples": [
+        { "native": "একদম টাটকা, খেয়ে দেখুন।", "roman": "ekdom taatkaa, kheye dekhun.", "english": "Absolutely fresh; taste one and see." },
+        { "native": "না না, আশিতে হবে না।", "roman": "naa naa, aashite hobe naa.", "english": "No, no, eighty won't do." },
+        { "native": "এই নিন দুশো টাকা।", "roman": "ei nin dusho taakaa.", "english": "Here's two hundred rupees." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "দাদা, আমের দাম কত?", "roman": "daadaa, aamer daam koto?", "english": "How much are the mangoes?", "literal": "elder-brother, mango's price how-much", "note": "You." },
+    { "native": "একশো টাকা কিলো।", "roman": "eksho taakaa kilo.", "english": "A hundred rupees a kilo.", "literal": "one-hundred rupees kilo", "note": "The stallholder." },
+    { "native": "এত দাম কেন?", "roman": "eto daam keno?", "english": "Why so expensive?", "literal": "this-much price why", "note": "You." },
+    { "native": "একদম টাটকা, খেয়ে দেখুন।", "roman": "ekdom taatkaa, kheye dekhun.", "english": "Absolutely fresh; taste one and see.", "literal": "absolutely fresh, having-eaten see", "note": "The stallholder." },
+    { "native": "মিষ্টি তো?", "roman": "mishti to?", "english": "They are sweet, aren't they?", "literal": "sweet (surely)", "note": "You." },
+    { "native": "খুব মিষ্টি। না হলে ফেরত দেবেন।", "roman": "khub mishti. naa hole pherot deben.", "english": "Very sweet. If not, bring them back.", "literal": "very sweet. not if-is return you-will-give", "note": "The stallholder." },
+    { "native": "আশি টাকায় দিন।", "roman": "aashi taakaay din.", "english": "Give them to me for eighty.", "literal": "eighty rupees-at give", "note": "You." },
+    { "native": "না না, আশিতে হবে না।", "roman": "naa naa, aashite hobe naa.", "english": "No, no, eighty won't do.", "literal": "no no, eighty-at will-be not", "note": "The stallholder." },
+    { "native": "ঠিক আছে, নব্বই দেব।", "roman": "thik aachhe, nobboi debo.", "english": "All right, I'll give ninety.", "literal": "right is, ninety I-will-give", "note": "You." },
+    { "native": "আচ্ছা, নিন। কত দেব?", "roman": "aachchhaa, nin. koto debo?", "english": "Fine, take them. How much shall I give you?", "literal": "okay, take. how-much I-will-give", "note": "The stallholder, asking for the quantity." },
+    { "native": "দু কিলো দিন।", "roman": "du kilo din.", "english": "Give me two kilos.", "literal": "two kilo give", "note": "You. দুই shortens to দু before a measure word." },
+    { "native": "আর কিছু লাগবে?", "roman": "aar kichhu laagbe?", "english": "Anything else?", "literal": "more anything will-be-needed", "note": "The stallholder." },
+    { "native": "না, এই থাক। কত হলো?", "roman": "naa, ei thaak. koto holo?", "english": "No, that's all. How much is it?", "literal": "no, this let-stay. how-much became", "note": "You." },
+    { "native": "একশো আশি টাকা।", "roman": "eksho aashi taakaa.", "english": "A hundred and eighty rupees.", "literal": "one-hundred eighty rupees", "note": "The stallholder." },
+    { "native": "এই নিন দুশো টাকা।", "roman": "ei nin dusho taakaa.", "english": "Here's two hundred rupees.", "literal": "this take two-hundred rupees", "note": "You." },
+    { "native": "এই নিন কুড়ি টাকা ফেরত।", "roman": "ei nin kuri taakaa pherot.", "english": "Here's your twenty rupees change.", "literal": "this take twenty rupees return", "note": "The stallholder." }
+  ]
+}

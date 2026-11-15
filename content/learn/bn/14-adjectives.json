@@ -1,0 +1,64 @@
+{
+  "id": "adjectives",
+  "level": "2 · How sentences work",
+  "title": "Describing things",
+  "description": "Describe people and things, say 'very' and 'a bit', and compare: bigger than, the best.",
+  "guide": [
+    {
+      "title": "Adjectives never change",
+      "text": "A Bengali adjective has one form only. It does not change for gender, for number or for case: বড় ঘর 'a big room', বড় ঘরগুলো 'the big rooms', বড় মেয়ে 'the elder daughter'.\n\nBefore a noun it works as in English: একটা লাল শাড়ি, 'a red sari'. The order is number - adjective - noun.\n\nTo say that something IS big, put the adjective after the noun, with no verb: ঘরটা বড়, 'the room (is) big'. The negative uses নয়: ঘরটা বড় নয়.\n\nSome useful pairs: বড় boro big / ছোট chhoto small; ভালো bhaalo good / খারাপ khaaraap bad; নতুন notun new / পুরোনো purono old (of things); গরম gorom hot / ঠান্ডা thaandaa cold; সহজ shohoj easy / কঠিন kothin hard; সস্তা shostaa cheap / দামি daami expensive; লম্বা lombaa long, tall / বেঁটে bente short (of a person).",
+      "examples": [
+        { "native": "একটা লাল শাড়ি", "roman": "ektaa laal shaari", "english": "a red sari" },
+        { "native": "বাড়িটা খুব সুন্দর।", "roman": "baaritaa khub shundor.", "english": "The house is very beautiful." },
+        { "native": "জলটা ঠান্ডা।", "roman": "joltaa thaandaa.", "english": "The water is cold." },
+        { "native": "কাজটা সহজ নয়।", "roman": "kaajtaa shohoj noy.", "english": "The job is not easy." }
+      ]
+    },
+    {
+      "title": "Very, quite, a bit, too",
+      "text": "Words of degree go before the adjective.\n\nখুব (khub) very\nবেশ (besh) quite, pretty\nএকটু (ektu) a bit\nবেশি (beshi) too, too much - before an adjective (বেশি গরম, 'too hot') or after the thing there is too much of: ঝাল বেশি, 'too spicy'\nএকদম (ekdom) absolutely\nদারুণ (daarun) terrific - used on its own as praise\n\nThere is no special word for 'too' as in 'too hot'; খুব গরম or বড্ড গরম (boddo gorom) covers it, or বেশি গরম.",
+      "examples": [
+        { "native": "রাস্তাটা বেশ লম্বা।", "roman": "raastaataa besh lombaa.", "english": "The road is quite long." },
+        { "native": "খাবারটা একটু ঝাল।", "roman": "khaabaartaa ektu jhaal.", "english": "The food is a bit spicy." },
+        { "native": "আজ আমি খুব ক্লান্ত।", "roman": "aaj aami khub klaanto.", "english": "I am very tired today." },
+        { "native": "মিষ্টিটা দারুণ!", "roman": "mishtitaa daarun!", "english": "The sweet is wonderful!" }
+      ]
+    },
+    {
+      "title": "Bigger than, the biggest",
+      "text": "Adjectives have no -er or -est forms. To compare, the thing compared WITH takes the possessive ending and is followed by চেয়ে (cheye) 'than'. The adjective is unchanged.\n\nও আমার চেয়ে বড় - 'he my than big' - He is older (bigger) than me.\nএটা ওটার চেয়ে ভালো - This is better than that.\n\nথেকে (theke), 'from', is used in exactly the same way and is very common in speech: আমার থেকে বড়.\n\nYou can add আরও (aaro) 'more' or বেশি for emphasis: আরও বড়, 'even bigger'.\n\nThe superlative is সবচেয়ে (shobcheye), 'than all': সবচেয়ে ভালো 'the best', সবচেয়ে সস্তা 'the cheapest'.\n\n'Like' is মতো (moto) after a possessive: আমার মতো, 'like me'.",
+      "examples": [
+        { "native": "ও আমার চেয়ে বড়।", "roman": "o aamaar cheye boro.", "english": "He/She is older than me." },
+        { "native": "এটা ওটার চেয়ে ভালো।", "roman": "etaa otaar cheye bhaalo.", "english": "This is better than that." },
+        { "native": "এটা সবচেয়ে সস্তা।", "roman": "etaa shobcheye shostaa.", "english": "This is the cheapest." },
+        { "native": "আরও বড়", "roman": "aaro boro", "english": "even bigger" }
+      ]
+    },
+    {
+      "title": "Colours",
+      "text": "The basic colour words: লাল (laal) red; নীল (neel) blue; সবুজ (shobuj) green; হলুদ (holud) yellow - also the word for turmeric; সাদা (shaadaa) white; কালো (kaalo) black; বাদামি (baadaami) brown; গোলাপি (golaapi) pink; কমলা (komlaa) orange.\n\n'What colour?' is কী রং? (kee rong). 'Colour' itself is রং.",
+      "examples": [
+        { "native": "নীল জামা", "roman": "neel jaamaa", "english": "a blue shirt" },
+        { "native": "সাদা বাড়ি", "roman": "shaadaa baari", "english": "a white house" },
+        { "native": "কালো ব্যাগ", "roman": "kaalo byaag", "english": "a black bag" },
+        { "native": "কী রং?", "roman": "kee rong?", "english": "What colour?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "বাড়িটা খুব সুন্দর।", "roman": "baaritaa khub shundor.", "english": "The house is very beautiful.", "literal": "house-the very beautiful", "note": "" },
+    { "native": "এটা বড়, ওটা ছোট।", "roman": "etaa boro, otaa chhoto.", "english": "This one is big, that one is small.", "literal": "this big, that small", "note": "Both adjectives keep their final o." },
+    { "native": "আমার একটা লাল শাড়ি চাই।", "roman": "aamaar ektaa laal shaari chaai.", "english": "I want a red sari.", "literal": "my one red sari want", "note": "Order: number, adjective, noun." },
+    { "native": "জলটা ঠান্ডা।", "roman": "joltaa thaandaa.", "english": "The water is cold.", "literal": "water-the cold", "note": "" },
+    { "native": "রাস্তাটা বেশ লম্বা।", "roman": "raastaataa besh lombaa.", "english": "The road is quite long.", "literal": "road-the quite long", "note": "" },
+    { "native": "খাবারটা একটু ঝাল।", "roman": "khaabaartaa ektu jhaal.", "english": "The food is a bit spicy.", "literal": "food-the a-little hot", "note": "ঝাল is chilli-hot; গরম is hot to the touch." },
+    { "native": "আজ আমি খুব ক্লান্ত।", "roman": "aaj aami khub klaanto.", "english": "I am very tired today.", "literal": "today I very tired", "note": "" },
+    { "native": "নতুন জামাটা সুন্দর।", "roman": "notun jaamaataa shundor.", "english": "The new shirt is nice.", "literal": "new shirt-the beautiful", "note": "" },
+    { "native": "কাজটা সহজ নয়।", "roman": "kaajtaa shohoj noy.", "english": "The job is not easy.", "literal": "work-the easy is-not", "note": "" },
+    { "native": "ঘরটা পরিষ্কার।", "roman": "ghortaa porishkaar.", "english": "The room is clean.", "literal": "room-the clean", "note": "" },
+    { "native": "মিষ্টিটা দারুণ!", "roman": "mishtitaa daarun!", "english": "The sweet is wonderful!", "literal": "sweet-the terrific", "note": "মিষ্টি is both 'sweet' (adjective) and 'a sweet'." },
+    { "native": "ও আমার চেয়ে বড়।", "roman": "o aamaar cheye boro.", "english": "He/She is older than me.", "literal": "he/she my than big", "note": "Of people, বড় and ছোট mean older and younger." },
+    { "native": "এটা ওটার চেয়ে ভালো।", "roman": "etaa otaar cheye bhaalo.", "english": "This is better than that.", "literal": "this that's than good", "note": "" },
+    { "native": "এটা সবচেয়ে সস্তা।", "roman": "etaa shobcheye shostaa.", "english": "This is the cheapest.", "literal": "this all-than cheap", "note": "" }
+  ]
+}

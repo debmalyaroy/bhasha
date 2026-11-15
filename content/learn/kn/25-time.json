@@ -1,0 +1,68 @@
+{
+  "id": "time",
+  "level": "4 · Everyday situations",
+  "title": "Time, days and dates",
+  "description": "Tell the time, name the days, and talk about yesterday, today, tomorrow, last week and next week.",
+  "guide": [
+    {
+      "title": "Clock time",
+      "text": "ಗಂಟೆ (gante) means 'hour', 'o'clock' and 'bell'. 'What time is it?' is gante eshtaaytu? - literally 'how much has the hour become?'. The answer puts the number first: aidu gante aaytu, or just aidu gante, 'five o'clock'.\n\n'At five o'clock' adds the dative: ಐದು ಗಂಟೆಗೆ (aidu gantege). 'At what time?' is ಎಷ್ಟು ಗಂಟೆಗೆ? (eshtu gantege?).\n\nHalf past is the number + -ವರೆ (-vare), with the final u of the number lengthened: ಐದೂವರೆ (aidoovare) half past five; ಏಳೂವರೆ (eloovare) half past seven; ಹತ್ತೂವರೆ (hattoovare) half past ten. Quarter past is the number + ಕಾಲು (kaalu): aidookaalu, 5:15. Quarter to the next hour is said as 'five and three quarters': aidoomukkaalu, 5:45.\n\nMinutes are ನಿಮಿಷ (nimisha): aidu gante hattu nimisha, 5:10. People also read times in English.\n\nParts of the day: ಬೆಳಿಗ್ಗೆ (beligge) morning; ಮಧ್ಯಾಹ್ನ (madhyaahna) afternoon; ಸಂಜೆ (sanje) evening; ರಾತ್ರಿ (raatri) night. They are used without any ending: sanje barteeni, 'I'll come in the evening'.",
+      "examples": [
+        { "native": "ಗಂಟೆ ಎಷ್ಟಾಯ್ತು?", "roman": "gante eshtaaytu?", "english": "What time is it?" },
+        { "native": "ಐದು ಗಂಟೆ ಆಯ್ತು.", "roman": "aidu gante aaytu.", "english": "It is five o'clock." },
+        { "native": "ಏಳೂವರೆ ಗಂಟೆಗೆ ಬನ್ನಿ.", "roman": "eloovare gantege banni.", "english": "Come at half past seven." },
+        { "native": "ಎಷ್ಟು ಗಂಟೆಗೆ ಬರಬೇಕು?", "roman": "eshtu gantege barabeku?", "english": "What time should I come?" },
+        { "native": "ಬೆಳಿಗ್ಗೆ ಎಂಟು ಗಂಟೆಗೆ", "roman": "beligge entu gantege", "english": "at eight in the morning" }
+      ]
+    },
+    {
+      "title": "Days of the week",
+      "text": "The days end in ವಾರ (vaara), which on its own means 'week' and also 'day of the week':\n\nಭಾನುವಾರ (bhaanuvaara) Sunday; ಸೋಮವಾರ (somavaara) Monday; ಮಂಗಳವಾರ (mangalavaara) Tuesday; ಬುಧವಾರ (budhavaara) Wednesday; ಗುರುವಾರ (guruvaara) Thursday; ಶುಕ್ರವಾರ (shukravaara) Friday; ಶನಿವಾರ (shanivaara) Saturday.\n\n'On Monday' needs no ending, or takes -a dina ('day of'): somavaara barteeni, 'I'll come on Monday'.\n\nTo ask the day: ivattu yaava vaara? - 'today (is) which weekday?'",
+      "examples": [
+        { "native": "ಭಾನುವಾರ", "roman": "bhaanuvaara", "english": "Sunday" },
+        { "native": "ಸೋಮವಾರ", "roman": "somavaara", "english": "Monday" },
+        { "native": "ಮಂಗಳವಾರ", "roman": "mangalavaara", "english": "Tuesday" },
+        { "native": "ಬುಧವಾರ", "roman": "budhavaara", "english": "Wednesday" },
+        { "native": "ಗುರುವಾರ", "roman": "guruvaara", "english": "Thursday" },
+        { "native": "ಶುಕ್ರವಾರ", "roman": "shukravaara", "english": "Friday" }
+      ]
+    },
+    {
+      "title": "Yesterday, today, tomorrow",
+      "text": "ಮೊನ್ನೆ (monne) the day before yesterday; ನಿನ್ನೆ (ninne) yesterday; ಇವತ್ತು (ivattu) today; ನಾಳೆ (naale) tomorrow; ನಾಡಿದ್ದು (naadiddu) the day after tomorrow.\n\nivattu is the spoken word; in writing 'today' is ಇಂದು (indu) or ಈ ದಿನ (ee dina).\n\nಈಗ (eega) now; ಆಮೇಲೆ (aamele) later; ಆಗಲೇ (aagale) already; ಇನ್ನೂ (innoo) still, yet; ಬೇಗ (bega) early, soon; ತಡ (tada) late - though most people say 'let': let aaytu, 'it got late'.\n\nThe tense of the verb must match: ninne bande (I came yesterday), naale barteeni (I'll come tomorrow).",
+      "examples": [
+        { "native": "ಇವತ್ತು ಸೋಮವಾರ.", "roman": "ivattu somavaara.", "english": "Today is Monday." },
+        { "native": "ನಾನು ನಿನ್ನೆ ಬಂದೆ.", "roman": "naanu ninne bande.", "english": "I came yesterday." },
+        { "native": "ನಾನು ನಾಳೆ ಬರ್ತೀನಿ.", "roman": "naanu naale barteeni.", "english": "I will come tomorrow." },
+        { "native": "ನಾಡಿದ್ದು ರಜೆ ಇದೆ.", "roman": "naadiddu raje ide.", "english": "The day after tomorrow is a holiday." }
+      ]
+    },
+    {
+      "title": "Weeks, months, years and dates",
+      "text": "ದಿನ (dina) day; ವಾರ (vaara) week; ತಿಂಗಳು (tingalu) month; ವರ್ಷ (varsha) year.\n\n'Last' is ಹೋದ (hoda, 'that went') or ಕಳೆದ (kaleda); 'next' is ಮುಂದಿನ (mundina) or ಬರೋ (baro, 'that is coming'); 'this' is ಈ (ee): hoda vaara (last week), ee vaara (this week), mundina vaara (next week), hoda varsha (last year), mundina tingalu (next month).\n\nA length of time takes no ending: eradu dina (for two days), mooru varsha (for three years). 'Ago' is ಹಿಂದೆ (hinde, 'behind') after the possessive form of the time: eradu dinada hinde, 'two days ago'. 'In / after two days' is eradu dinadalli or eradu dina aada mele.\n\nFor calendar dates, everyday Kannada uses the English month names with ತಾರೀಖು (taareekhu), 'date': aidane taareekhu, 'the fifth'. Ordinals add -ane to the number: ondane (first), eradane (second), moorane (third), aidane (fifth). 'First' is also ಮೊದಲನೇ (modalane).",
+      "examples": [
+        { "native": "ಹೋದ ವಾರ", "roman": "hoda vaara", "english": "last week" },
+        { "native": "ಮುಂದಿನ ತಿಂಗಳು", "roman": "mundina tingalu", "english": "next month" },
+        { "native": "ಎರಡು ದಿನದ ಹಿಂದೆ", "roman": "eradu dinada hinde", "english": "two days ago" },
+        { "native": "ಐದನೇ ತಾರೀಖು", "roman": "aidane taareekhu", "english": "the fifth (of the month)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಗಂಟೆ ಎಷ್ಟಾಯ್ತು?", "roman": "gante eshtaaytu?", "english": "What time is it?", "literal": "hour how-much-happened", "note": "'taim eshtaaytu?' (ಟೈಮ್ ಎಷ್ಟಾಯ್ತು?) is just as common." },
+    { "native": "ಐದು ಗಂಟೆ ಆಯ್ತು.", "roman": "aidu gante aaytu.", "english": "It is five o'clock.", "literal": "five hour happened", "note": "" },
+    { "native": "ಎಷ್ಟು ಗಂಟೆಗೆ ಬರಬೇಕು?", "roman": "eshtu gantege barabeku?", "english": "What time should I come?", "literal": "how-many o'clock-at come-must", "note": "gantege = at ... o'clock." },
+    { "native": "ಏಳೂವರೆ ಗಂಟೆಗೆ ಬನ್ನಿ.", "roman": "eloovare gantege banni.", "english": "Come at half past seven.", "literal": "seven-and-half o'clock-at come", "note": "elu + vare; the first e is long." },
+    { "native": "ಇವತ್ತು ಸೋಮವಾರ.", "roman": "ivattu somavaara.", "english": "Today is Monday.", "literal": "today Monday", "note": "The o of soma is long." },
+    { "native": "ಇವತ್ತು ಯಾವ ವಾರ?", "roman": "ivattu yaava vaara?", "english": "What day of the week is it today?", "literal": "today which weekday", "note": "" },
+    { "native": "ನಾನು ನಾಳೆ ಬರ್ತೀನಿ.", "roman": "naanu naale barteeni.", "english": "I will come tomorrow.", "literal": "I tomorrow come", "note": "Spoken form; in writing it is baruttene (ಬರುತ್ತೇನೆ)." },
+    { "native": "ನಾನು ನಿನ್ನೆ ಬಂದೆ.", "roman": "naanu ninne bande.", "english": "I came yesterday.", "literal": "I yesterday came", "note": "" },
+    { "native": "ನಾಡಿದ್ದು ರಜೆ ಇದೆ.", "roman": "naadiddu raje ide.", "english": "The day after tomorrow is a holiday.", "literal": "day-after-tomorrow holiday is", "note": "raje = holiday, leave." },
+    { "native": "ಹೋದ ವಾರ ನಾನು ಊರಿನಲ್ಲಿ ಇದ್ದೆ.", "roman": "hoda vaara naanu oorinalli idde.", "english": "Last week I was in my home town.", "literal": "gone week I town-in was", "note": "hoda = 'that went', i.e. last." },
+    { "native": "ಒಂದು ನಿಮಿಷ ಇರಿ.", "roman": "ondu nimisha iri.", "english": "Please wait a minute.", "literal": "one minute stay", "note": "Literally 'stay for a minute'." },
+    { "native": "ನನಗೆ ತಡ ಆಗ್ತಿದೆ.", "roman": "nanage tada aagtide.", "english": "I am getting late.", "literal": "me-to late is-happening", "note": "Many speakers say 'let aagtide' (ಲೇಟ್ ಆಗ್ತಿದೆ)." },
+    { "native": "ಬಸ್ ಯಾವಾಗ ಹೊರಡುತ್ತೆ?", "roman": "bas yaavaaga horadutte?", "english": "When does the bus leave?", "literal": "bus when leaves", "note": "horadu = to set out. Written: horaduttade (ಹೊರಡುತ್ತದೆ)." },
+    { "native": "ಸಂಜೆ ಸಿಗೋಣ.", "roman": "sanje sigona.", "english": "Let's meet in the evening.", "literal": "evening let-us-meet", "note": "" },
+    { "native": "ಈಗ ನನಗೆ ಸಮಯ ಇಲ್ಲ.", "roman": "eega nanage samaya illa.", "english": "I don't have time right now.", "literal": "now me-to time is-not", "note": "" }
+  ]
+}

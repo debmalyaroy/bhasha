@@ -1,0 +1,46 @@
+{
+  "id": "numbers",
+  "level": "1 · First words",
+  "title": "Numbers 1-10",
+  "description": "Count from zero to ten, read the Bengali digits and ask for one or two of something.",
+  "guide": [
+    {
+      "title": "The digits",
+      "text": "Bengali has its own digits: ০ ১ ২ ৩ ৪ ৫ ৬ ৭ ৮ ৯. They are used on price tags, bus numbers, calendars and banknotes, side by side with the international digits, and they are combined in exactly the same way: ১০ is 10, ২৫ is 25, ১০০ is 100.\n\nTwo of them mislead English readers: ৪ (four) looks like an 8, and ৭ (seven) looks like a 9. ৫ (five) and ৬ (six) also need a second look.\n\nPronunciation notes: the এ of এক (one) is the a of 'cat'. পাঁচ (five) has a nasal vowel, not a real n. সাত (seven) is written with স but said shaat. ছয় (six) and নয় (nine) end in the y-glide.",
+      "examples": [
+        { "native": "এক, দুই, তিন", "roman": "ek, dui, tin", "english": "one, two, three" },
+        { "native": "চার, পাঁচ, ছয়", "roman": "chaar, paanch, chhoy", "english": "four, five, six" },
+        { "native": "সাত, আট, নয়", "roman": "shaat, aat, noy", "english": "seven, eight, nine" },
+        { "native": "দশ", "roman": "dosh", "english": "ten" }
+      ]
+    },
+    {
+      "title": "Counting things: add -taa",
+      "text": "In Bengali you rarely put a bare number in front of a noun. When you count things, the number takes a small ending called a classifier. The everyday one is -টা (-taa): একটা (ektaa) 'one (of something)', পাঁচটা (paanchtaa) 'five'.\n\nThree of the forms are irregular in Kolkata speech and must be learnt: দুটো (duto) 'two', তিনটে (tinte) 'three', চারটে (chaarte) 'four'. From five onwards it is always -টা. (In Bangladesh you will hear দুইটা, তিনটা, চারটা.) Before the classifier, ছয় and নয় shorten: ছটা (chhotaa), নটা (notaa).\n\nThe noun itself does not change for the plural: দুটো চা, 'two tea'.\n\nFor people the classifier is -জন (-jon): একজন, দুজন, তিনজন.\n\nThe bare number is used when counting aloud, in arithmetic, and before measure words: এক কাপ চা, 'one cup of tea'.",
+      "examples": [
+        { "native": "একটা", "roman": "ektaa", "english": "one (thing)" },
+        { "native": "দুটো", "roman": "duto", "english": "two (things)" },
+        { "native": "তিনটে", "roman": "tinte", "english": "three (things)" },
+        { "native": "চারটে", "roman": "chaarte", "english": "four (things)" },
+        { "native": "পাঁচটা", "roman": "paanchtaa", "english": "five (things)" },
+        { "native": "তিনজন", "roman": "tinjon", "english": "three (people)" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "শূন্য", "roman": "shoonno", "english": "Zero (0)", "note": "Numeral: ০. The ন্য is a long n." },
+    { "native": "এক", "roman": "ek", "english": "One (1)", "note": "Numeral: ১. Pronounced with the 'a' of English 'cat'." },
+    { "native": "দুই", "roman": "dui", "english": "Two (2)", "note": "Numeral: ২. Shortens to du- in compounds: দুজন (dujon), two people." },
+    { "native": "তিন", "roman": "tin", "english": "Three (3)", "note": "Numeral: ৩" },
+    { "native": "চার", "roman": "chaar", "english": "Four (4)", "note": "Numeral: ৪ - it looks like an 8." },
+    { "native": "পাঁচ", "roman": "paanch", "english": "Five (5)", "note": "Numeral: ৫. The vowel is nasalised." },
+    { "native": "ছয়", "roman": "chhoy", "english": "Six (6)", "note": "Numeral: ৬. Often shortened to ছ (chho) in speech." },
+    { "native": "সাত", "roman": "shaat", "english": "Seven (7)", "note": "Numeral: ৭ - it looks like a 9." },
+    { "native": "আট", "roman": "aat", "english": "Eight (8)", "note": "Numeral: ৮" },
+    { "native": "নয়", "roman": "noy", "english": "Nine (9)", "note": "Numeral: ৯. The same word also means 'is not'." },
+    { "native": "দশ", "roman": "dosh", "english": "Ten (10)", "note": "Numeral: ১০" },
+    { "native": "একটা দিন।", "roman": "ektaa din.", "english": "Give me one, please.", "literal": "one-piece give", "note": "The classifier -taa is added to the number when counting things." },
+    { "native": "দুটো চা দিন।", "roman": "duto chaa din.", "english": "Two teas, please.", "literal": "two-pieces tea give", "note": "'Two' with the classifier is irregular: duto. In Bangladesh: দুইটা (duitaa)." },
+    { "native": "আমরা তিনজন।", "roman": "aamraa tinjon.", "english": "There are three of us.", "literal": "we three-persons", "note": "-jon is the classifier for people." }
+  ]
+}

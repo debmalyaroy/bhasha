@@ -1,0 +1,69 @@
+{
+  "id": "past",
+  "level": "3 · Verbs",
+  "title": "Past tense: what happened",
+  "description": "Talk about what you did, using regular verbs and the common irregular ones.",
+  "guide": [
+    {
+      "title": "Regular past: stem + id + ending (singular)",
+      "text": "The past tense is the past stem + a personal ending. For the many regular verbs in -u, the past stem is the verb without its u, plus -id-: maadu - maadid-.\n\nThe singular endings are: -e (I), -e (you, familiar), -a (he), -lu (she), and -tu for 'it'.\n\nnaanu maadide and neenu maadide are identical; the pronoun tells them apart. For 'he', the short form maadida is what you say; the written form adds -nu: maadidanu. 'She' is maadidlu in speech and maadidalu (ಮಾಡಿದಳು) in writing. 'It' is maaditu (ಮಾಡಿತು).\n\nOther regular verbs: nodu - nodide (I saw); kelu - kelide (I asked, heard); helu - helide (I said); maataadu - maataadide (I spoke); odu - odide (I read); torisu - toriside (I showed).",
+      "examples": [
+        { "native": "ನಾನು ಮಾಡಿದೆ.", "roman": "naanu maadide.", "english": "I did." },
+        { "native": "ನೀನು ಮಾಡಿದೆ.", "roman": "neenu maadide.", "english": "You did. (familiar)" },
+        { "native": "ಅವನು ಮಾಡಿದ.", "roman": "avanu maadida.", "english": "He did." },
+        { "native": "ಅವಳು ಮಾಡಿದ್ಲು.", "roman": "avalu maadidlu.", "english": "She did. (written: maadidalu)" },
+        { "native": "ಅದು ಮಾಡಿತು.", "roman": "adu maaditu.", "english": "It did." }
+      ]
+    },
+    {
+      "title": "Plural and respectful forms",
+      "text": "The plural endings in speech are: -vi (we), -ri (you, polite or plural), -ru (they / respectful he or she). So: maadidvi, maadidri, maadidru.\n\nThe written forms have an extra vowel: maadidevu (ಮಾಡಿದೆವು) we did; maadidiri (ಮಾಡಿದಿರಿ) you did; maadidaru (ಮಾಡಿದರು) they did. The neuter plural is maadidavu in both.\n\nSince respected people take the plural, 'Father said' is appa helidru.",
+      "examples": [
+        { "native": "ನಾವು ಮಾಡಿದ್ವಿ.", "roman": "naavu maadidvi.", "english": "We did. (written: maadidevu)" },
+        { "native": "ನೀವು ಮಾಡಿದ್ರಿ.", "roman": "neevu maadidri.", "english": "You did. (polite; written: maadidiri)" },
+        { "native": "ಅವರು ಮಾಡಿದ್ರು.", "roman": "avaru maadidru.", "english": "They did. / He or she did. (respectful; written: maadidaru)" },
+        { "native": "ಅವು ಮಾಡಿದವು.", "roman": "avu maadidavu.", "english": "They did. (things, animals)" }
+      ]
+    },
+    {
+      "title": "Irregular past stems to learn by heart",
+      "text": "The commonest verbs have irregular past stems. The endings are the regular ones; only the stem and the 'it' form must be memorised. Each line gives: I, he, she, it, we, you (polite), they.\n\nಹೋಗು hogu (go) - stem hod-: hode, hoda, hodlu, hoytu, hodvi, hodri, hodru.\nಬಾ baa (come) - stem band-: bande, banda, bandlu, bantu, bandvi, bandri, bandru.\nತಿನ್ನು tinnu (eat) - stem tind-: tinde, tinda, tindlu, tintu, tindvi, tindri, tindru.\nಕುಡಿ kudi (drink) - stem kudid-: kudide, kudida, kudidlu, kudiyitu, kudidvi, kudidri, kudidru.\nಕೊಡು kodu (give) - stem kott-: kotte, kotta, kotlu, kottitu, kotvi, kotri, kotru.\nಇರು iru (be) - stem idd-: idde, idda, idlu, ittu, idvi, idri, idru.\nಆಗು aagu (become, happen) - stem aad-: aade, aada, aadlu, aaytu, aadvi, aadri, aadru.\n\nThe 'you, familiar' form is always the same as the 'I' form: neenu hode, neenu bande.\n\nWritten forms keep the dropped vowel: hodalu, hoyitu, hodevu, hodiri, hodaru; bandalu, banditu, bandevu, bandiri, bandaru; kottalu, kottevu, kottiri, kottaru; iddalu, iddevu, iddiri, iddaru; aayitu.\n\nMore irregular pasts you will meet soon: nillu (stand, stop) - ninte; kootko (sit) - kootkonde; tago (take) - tagonde; elu (get up) - edde; beelu (fall) - bidde; kali (learn) - kalite; bare (write) - barede; mare (forget) - marete; sigu (be found, be got) - sikkitu.",
+      "examples": [
+        { "native": "ಹೋದೆ", "roman": "hode", "english": "I went" },
+        { "native": "ಬಂದೆ", "roman": "bande", "english": "I came" },
+        { "native": "ತಿಂದೆ", "roman": "tinde", "english": "I ate" },
+        { "native": "ಕುಡಿದೆ", "roman": "kudide", "english": "I drank" },
+        { "native": "ಕೊಟ್ಟೆ", "roman": "kotte", "english": "I gave" },
+        { "native": "ಇದ್ದೆ", "roman": "idde", "english": "I was" }
+      ]
+    },
+    {
+      "title": "The neuter past and 'it happened'",
+      "text": "The neuter ('it') forms are the least regular and the most used, because weather, time, work, events and things are all neuter.\n\nಆಯ್ತು (aaytu) 'it happened, it is done' - written ಆಯಿತು (aayitu). kelasa aaytu, 'the work is done'; oota aaytu, 'the meal is over (I have eaten)'.\nಹೋಯ್ತು (hoytu) 'it went, it is gone' - written ಹೋಯಿತು (hoyitu).\nಬಂತು (bantu) 'it came' - written ಬಂದಿತು (banditu). male bantu, 'it rained'.\nಇತ್ತು (ittu) 'it was, there was'. chali ittu, 'it was cold'.\nಸಿಕ್ಕಿತು (sikkitu) 'it was found, (I) got it'.\n\nThe negative past is the same for all persons and all verbs: stem + -alilla (baralilla, 'didn't come'; sigalilla, 'didn't get'). 'There was not' is ಇರಲಿಲ್ಲ (iralilla).",
+      "examples": [
+        { "native": "ಕೆಲಸ ಆಯ್ತು.", "roman": "kelasa aaytu.", "english": "The work is done." },
+        { "native": "ಮಳೆ ಬಂತು.", "roman": "male bantu.", "english": "It rained." },
+        { "native": "ಬಸ್ ಹೋಯ್ತು.", "roman": "bas hoytu.", "english": "The bus has gone." },
+        { "native": "ನಿನ್ನೆ ತುಂಬಾ ಚಳಿ ಇತ್ತು.", "roman": "ninne tumbaa chali ittu.", "english": "It was very cold yesterday." },
+        { "native": "ನನಗೆ ಬಸ್ ಸಿಗಲಿಲ್ಲ.", "roman": "nanage bas sigalilla.", "english": "I didn't get a bus." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಾನು ಕೆಲಸ ಮಾಡಿದೆ.", "roman": "naanu kelasa maadide.", "english": "I worked.", "literal": "I work did", "note": "Written: maadidenu (ಮಾಡಿದೆನು)." },
+    { "native": "ನೀನು ಊಟ ಮಾಡಿದೆಯಾ?", "roman": "neenu oota maadideyaa?", "english": "Did you eat? (to a friend)", "literal": "you meal did?", "note": "maadide + y + aa. In fast speech: maadidyaa? (ಮಾಡಿದ್ಯಾ?). Polite: neevu oota maadidraa? (ಮಾಡಿದ್ರಾ?)" },
+    { "native": "ಅವನು ಮನೆಗೆ ಹೋದ.", "roman": "avanu manege hoda.", "english": "He went home.", "literal": "he house-to went", "note": "Written: hodanu (ಹೋದನು)." },
+    { "native": "ಅವಳು ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಕೊಟ್ಲು.", "roman": "avalu nanage ondu pustaka kotlu.", "english": "She gave me a book.", "literal": "she me-to one book gave", "note": "Written: kottalu (ಕೊಟ್ಟಳು)." },
+    { "native": "ಅವರು ನಿನ್ನೆ ಬಂದ್ರು.", "roman": "avaru ninne bandru.", "english": "They came yesterday.", "literal": "they yesterday came", "note": "Written: bandaru (ಬಂದರು)." },
+    { "native": "ನಾವು ಸಿನಿಮಾ ನೋಡಿದ್ವಿ.", "roman": "naavu sinimaa nodidvi.", "english": "We watched a film.", "literal": "we film saw", "note": "Written: nodidevu (ನೋಡಿದೆವು)." },
+    { "native": "ನೀವು ಏನು ತಿಂದ್ರಿ?", "roman": "neevu enu tindri?", "english": "What did you eat?", "literal": "you what ate", "note": "Written: tindiri (ತಿಂದಿರಿ)." },
+    { "native": "ಮಳೆ ಬಂತು.", "roman": "male bantu.", "english": "It rained.", "literal": "rain came", "note": "Written: banditu (ಬಂದಿತು)." },
+    { "native": "ನಾನು ಕಾಫಿ ಕುಡಿದೆ.", "roman": "naanu kaafi kudide.", "english": "I drank coffee.", "literal": "I coffee drank", "note": "" },
+    { "native": "ಕೆಲಸ ಆಯ್ತು.", "roman": "kelasa aaytu.", "english": "The work is done.", "literal": "work happened", "note": "Written: aayitu (ಆಯಿತು)." },
+    { "native": "ನಾನು ಅಲ್ಲಿ ಎರಡು ವರ್ಷ ಇದ್ದೆ.", "roman": "naanu alli eradu varsha idde.", "english": "I was there for two years.", "literal": "I there two year was", "note": "No word for 'for' is needed with a length of time." },
+    { "native": "ಅವರು ಏನು ಹೇಳಿದ್ರು?", "roman": "avaru enu helidru?", "english": "What did he say?", "literal": "he(respectful) what said", "note": "Written: helidaru (ಹೇಳಿದರು)." },
+    { "native": "ನಾನು ಅವರನ್ನು ಕೇಳಿದೆ.", "roman": "naanu avarannu kelide.", "english": "I asked them.", "literal": "I them asked", "note": "kelu means both 'ask' and 'listen, hear'." },
+    { "native": "ನಿನ್ನೆ ತುಂಬಾ ಚಳಿ ಇತ್ತು.", "roman": "ninne tumbaa chali ittu.", "english": "It was very cold yesterday.", "literal": "yesterday much cold was", "note": "ittu is the neuter past of iru." },
+    { "native": "ನನಗೆ ಬಸ್ ಸಿಗಲಿಲ್ಲ.", "roman": "nanage bas sigalilla.", "english": "I didn't get a bus.", "literal": "me-to bus was-not-got", "note": "sigu = to be found, to be available; the person is in the dative." }
+  ]
+}

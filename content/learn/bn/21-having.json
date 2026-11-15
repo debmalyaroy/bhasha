@@ -1,0 +1,71 @@
+{
+  "id": "having",
+  "level": "3 · Verbs",
+  "title": "Have and have not",
+  "description": "Say what you have, had and do not have - belongings, family, time, and aches and colds.",
+  "guide": [
+    {
+      "title": "'Mine there is': possessive + আছে",
+      "text": "Bengali has no verb 'to have'. Instead of 'I have a car' you say 'my a car exists': আমার একটা গাড়ি আছে।\n\nThe owner is in the possessive (আমার, আপনার, ওর, রাজের). The verb আছে agrees with the thing owned, not with the owner, so it is nearly always আছে: আমার ... আছে, আপনার ... আছে, ওদের ... আছে.\n\nThe one exception is when what you 'have' is a person who deserves respect: আমার একজন দাদা আছেন, 'I have an elder brother'.\n\nA question needs only a rising tone or কি: আপনার ছেলেমেয়ে আছে? 'Do you have children?'",
+      "examples": [
+        { "native": "আমার একটা গাড়ি আছে।", "roman": "aamaar ektaa gaari aachhe.", "english": "I have a car." },
+        { "native": "আমার একটা প্রশ্ন আছে।", "roman": "aamaar ektaa prosno aachhe.", "english": "I have a question." },
+        { "native": "ওর অনেক বন্ধু আছে।", "roman": "or onek bondhu aachhe.", "english": "He/She has many friends." },
+        { "native": "আপনার ছেলেমেয়ে আছে?", "roman": "aapnaar chhelemeye aachhe?", "english": "Do you have children?" }
+      ]
+    },
+    {
+      "title": "Have not: নেই",
+      "text": "The negative of আছে is নেই (nei), for every person: আমার গাড়ি নেই, 'I don't have a car'; আমার সময় নেই, 'I have no time'.\n\nNever say আছে না.\n\nIn the negative the noun usually drops একটা: 'I don't have a car' is simply আমার গাড়ি নেই.",
+      "examples": [
+        { "native": "আমার গাড়ি নেই।", "roman": "aamaar gaari nei.", "english": "I don't have a car." },
+        { "native": "এখন আমার সময় নেই।", "roman": "ekhon aamaar shomoy nei.", "english": "I don't have time right now." },
+        { "native": "কোনো অসুবিধা নেই।", "roman": "kono oshubidhaa nei.", "english": "No problem." }
+      ]
+    },
+    {
+      "title": "Have it on you: কাছে",
+      "text": "For things you are carrying or have available right now - money, a pen, change, a ticket - Bengali says 'near me': আমার কাছে ... আছে.\n\nআমার কাছে টাকা নেই - I have no money on me.\nআমার টাকা নেই - I have no money (I am poor).\n\nআপনার কাছে খুচরো আছে? - Do you have change (on you)?",
+      "examples": [
+        { "native": "আপনার কাছে খুচরো আছে?", "roman": "aapnaar kaachhe khuchro aachhe?", "english": "Do you have change?" },
+        { "native": "আমার কাছে টাকা নেই।", "roman": "aamaar kaachhe taakaa nei.", "english": "I have no money on me." },
+        { "native": "তোমার কি কলম আছে?", "roman": "tomaar ki kolom aachhe?", "english": "Do you have a pen? (familiar)" }
+      ]
+    },
+    {
+      "title": "Had, will have",
+      "text": "আছে exists only in the present. Its past is ছিল (chhilo): আমার একটা কুকুর ছিল, 'I had a dog'. Negative: ছিল না.\n\nFor the future, থাকা (to stay) steps in: কাল আমার সময় থাকবে, 'I will have time tomorrow'; থাকবে না, 'won't have'.",
+      "examples": [
+        { "native": "আমার একটা কুকুর ছিল।", "roman": "aamaar ektaa kukur chhilo.", "english": "I had a dog." },
+        { "native": "তখন আমাদের টিভি ছিল না।", "roman": "tokhon aamaader tibhi chhilo naa.", "english": "We didn't have a TV then." },
+        { "native": "কাল আমার সময় থাকবে।", "roman": "kaal aamaar shomoy thaakbe.", "english": "I will have time tomorrow." }
+      ]
+    },
+    {
+      "title": "Having a fever, a cold, hunger",
+      "text": "Illnesses and bodily feelings are not 'had' with আছে. They 'happen to', 'strike' or 'catch' you, and you are again in the possessive.\n\nহয়েছে (has happened): আমার জ্বর হয়েছে, 'I have a fever'; সর্দি হয়েছে, 'have a cold in the nose'.\nলেগেছে (has struck): আমার ঠান্ডা লেগেছে, 'I have caught a cold'.\nধরেছে (has caught): আমার মাথা ধরেছে, 'I have a headache'.\nপেয়েছে (has got): আমার খিদে পেয়েছে, 'I am hungry'; তেষ্টা পেয়েছে, 'am thirsty'; ঘুম পেয়েছে, 'am sleepy'.",
+      "examples": [
+        { "native": "আমার জ্বর হয়েছে।", "roman": "aamaar jor hoyechhe.", "english": "I have a fever." },
+        { "native": "আমার ঠান্ডা লেগেছে।", "roman": "aamaar thaandaa legechhe.", "english": "I have a cold." },
+        { "native": "আমার মাথা ধরেছে।", "roman": "aamaar maathaa dhorechhe.", "english": "I have a headache." },
+        { "native": "আমার খিদে পেয়েছে।", "roman": "aamaar khide peyechhe.", "english": "I am hungry." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমার একটা গাড়ি আছে।", "roman": "aamaar ektaa gaari aachhe.", "english": "I have a car.", "literal": "my one car is", "note": "" },
+    { "native": "আমার গাড়ি নেই।", "roman": "aamaar gaari nei.", "english": "I don't have a car.", "literal": "my car is-not", "note": "" },
+    { "native": "আপনার ছেলেমেয়ে আছে?", "roman": "aapnaar chhelemeye aachhe?", "english": "Do you have children?", "literal": "your son-daughter is", "note": "ছেলেমেয়ে, 'boys-girls', is the usual word for one's children." },
+    { "native": "আমার একটা প্রশ্ন আছে।", "roman": "aamaar ektaa prosno aachhe.", "english": "I have a question.", "literal": "my one question is", "note": "শ before ন is a true s: pros-no." },
+    { "native": "ওর অনেক বন্ধু আছে।", "roman": "or onek bondhu aachhe.", "english": "He/She has many friends.", "literal": "his/her many friend is", "note": "" },
+    { "native": "আপনার কাছে খুচরো আছে?", "roman": "aapnaar kaachhe khuchro aachhe?", "english": "Do you have change?", "literal": "your near small-change is", "note": "In Bangladesh: ভাংতি (bhaangti)." },
+    { "native": "আমার কাছে টাকা নেই।", "roman": "aamaar kaachhe taakaa nei.", "english": "I have no money on me.", "literal": "my near money is-not", "note": "" },
+    { "native": "তোমার কি কলম আছে?", "roman": "tomaar ki kolom aachhe?", "english": "Do you have a pen? (familiar)", "literal": "your (question) pen is", "note": "" },
+    { "native": "ঘরে কেউ আছেন?", "roman": "ghore keu aachhen?", "english": "Is anyone in?", "literal": "room-in anyone is", "note": "Called out at a door. The polite ending is used because you do not know who will answer." },
+    { "native": "আমার একটা কুকুর ছিল।", "roman": "aamaar ektaa kukur chhilo.", "english": "I had a dog.", "literal": "my one dog was", "note": "" },
+    { "native": "তখন আমাদের টিভি ছিল না।", "roman": "tokhon aamaader tibhi chhilo naa.", "english": "We didn't have a TV then.", "literal": "then our TV was not", "note": "" },
+    { "native": "কাল আমার সময় থাকবে।", "roman": "kaal aamaar shomoy thaakbe.", "english": "I will have time tomorrow.", "literal": "tomorrow my time will-stay", "note": "" },
+    { "native": "আমার ঠান্ডা লেগেছে।", "roman": "aamaar thaandaa legechhe.", "english": "I have a cold.", "literal": "my cold has-struck", "note": "" },
+    { "native": "আমার মাথা ধরেছে।", "roman": "aamaar maathaa dhorechhe.", "english": "I have a headache.", "literal": "my head has-caught", "note": "" }
+  ]
+}

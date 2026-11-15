@@ -1,0 +1,66 @@
+{
+  "id": "case-endings",
+  "level": "2 · How sentences work",
+  "title": "To, in, from, with: case endings",
+  "description": "Mark who receives an action and where things happen, with the endings -ke and -e / -te and the postpositions theke, diye, shonge, jonno.",
+  "guide": [
+    {
+      "title": "-ke: the person on the receiving end",
+      "text": "The ending -কে (-ke) marks the person an action is directed at. It covers both the English direct object ('I know Raj') and 'to' ('give it to Raj').\n\nআমি রাজকে চিনি - I know Raj.\nরাজকে বলুন - Tell Raj.\n\nIt is used for people and animals, and for things only when they are specific and you want to single them out. Ordinary things as objects take no ending at all: আমি ভাত খাই, 'I eat rice'; আমি বইটা পড়েছি, 'I have read the book'.\n\nWhen a sentence has both a person and a thing, the person gets -কে and comes first: আমাকে একটা কলম দিন, 'me-to a pen give'.\n\nThe pronoun forms: আমাকে, আপনাকে, তোমাকে, তোকে, তাকে, ওকে, তাঁকে, ওঁকে; plural আমাদের, আপনাদের, তোমাদের, তাদের, ওদের (the plural object forms are the same as the possessive).",
+      "examples": [
+        { "native": "আমি রাজকে চিনি।", "roman": "aami raajke chini.", "english": "I know Raj." },
+        { "native": "আমাকে একটা কলম দিন।", "roman": "aamaake ektaa kolom din.", "english": "Please give me a pen." },
+        { "native": "আমি ওকে চিনি।", "roman": "aami oke chini.", "english": "I know him/her." },
+        { "native": "আমি ভাত খাই।", "roman": "aami bhaat khaai.", "english": "I eat rice." }
+      ]
+    },
+    {
+      "title": "-e, -te, -y: in, at, on, to",
+      "text": "One ending does the work of 'in', 'at', 'on' and, with verbs of movement, 'to'. Its shape depends on the last sound of the word.\n\nAfter a consonant: -এ (-e). ঘর - ঘরে (ghore) in the room; বাজার - বাজারে (baajaare) at/to the market; টেবিল - টেবিলে (tebile) on the table.\n\nAfter আ (aa): -য় (-y). কলকাতা - কলকাতায় (kolkaataay); ঢাকা - ঢাকায় (dhaakaay); রাস্তা - রাস্তায় (raastaay) on the road. (-তে is also heard: ঢাকাতে.)\n\nAfter any other vowel: -তে (-te). বাড়ি - বাড়িতে (baarite) at home; দিল্লি - দিল্লিতে (dillite) in Delhi.\n\nWith a verb of going, the ending is often left off a destination: আমি বাড়ি যাচ্ছি, 'I am going home'; আমি কলকাতা যাব, 'I will go to Kolkata'.\n\nThe same ending also means 'by' a means of transport: বাসে (baase) by bus, ট্রেনে (trene) by train, ট্যাক্সিতে (tyaaksite) by taxi.",
+      "examples": [
+        { "native": "আমি বাজারে যাচ্ছি।", "roman": "aami baajaare jaachchhi.", "english": "I am going to the market." },
+        { "native": "বাবা অফিসে আছেন।", "roman": "baabaa ophishe aachhen.", "english": "Father is at the office." },
+        { "native": "আমি কলকাতায় থাকি।", "roman": "aami kolkaataay thaaki.", "english": "I live in Kolkata." },
+        { "native": "মা বাড়িতে আছেন।", "roman": "maa baarite aachhen.", "english": "Mother is at home." },
+        { "native": "আমি বাসে যাব।", "roman": "aami baase jaabo.", "english": "I will go by bus." }
+      ]
+    },
+    {
+      "title": "Postpositions: from, with, for",
+      "text": "Other relationships are shown by separate words placed after the noun.\n\nথেকে (theke) 'from, since' follows the plain noun: দিল্লি থেকে, 'from Delhi'; কাল থেকে, 'since yesterday'.\n\nদিয়ে (diye) 'with (a tool), by way of' also follows the plain noun: হাত দিয়ে, 'with the hand'; ছুরি দিয়ে, 'with a knife'; এই রাস্তা দিয়ে, 'along this road'.\n\nসঙ্গে (shonge) 'with, together with' needs the possessive -r on the word before it: বন্ধুর সঙ্গে, 'with a friend'; আমার সঙ্গে, 'with me'. Bangladesh usage prefers সাথে (shaathe).\n\nজন্য (jonno) 'for' also needs the possessive: আপনার জন্য, 'for you'; বাবার জন্য, 'for father'. (জন্যে is a common spoken variant.)\n\nকাছে (kaachhe) 'near; to or at a person' takes the possessive too: স্টেশনের কাছে, 'near the station'; ডাক্তারের কাছে, 'to the doctor'.",
+      "examples": [
+        { "native": "আমি দিল্লি থেকে এসেছি।", "roman": "aami dilli theke eshechhi.", "english": "I have come from Delhi." },
+        { "native": "হাত দিয়ে খান।", "roman": "haat diye khaan.", "english": "Eat with your hand." },
+        { "native": "আমি বন্ধুর সঙ্গে যাচ্ছি।", "roman": "aami bondhur shonge jaachchhi.", "english": "I am going with a friend." },
+        { "native": "এটা আপনার জন্য।", "roman": "etaa aapnaar jonno.", "english": "This is for you." },
+        { "native": "দোকানটা স্টেশনের কাছে।", "roman": "dokaantaa steshoner kaachhe.", "english": "The shop is near the station." }
+      ]
+    },
+    {
+      "title": "Place words: on, under, inside, in front",
+      "text": "Words for position follow the noun in its possessive form, as if you were saying 'at the table's top'.\n\nউপরে (upore) on, above - in Kolkata speech usually ওপরে (opore)\nনিচে (niche) under, below\nভেতরে (bhetore) inside - written form ভিতরে\nবাইরে (baaire) outside\nসামনে (shaamne) in front of\nপেছনে (pechhone) behind - written form পিছনে\nপাশে (paashe) beside\nমধ্যে (moddhe) in the middle of, among, within\n\nSo: টেবিলের উপরে, 'on the table'; খাটের নিচে, 'under the bed'; বাড়ির সামনে, 'in front of the house'; দোকানের পাশে, 'next to the shop'.",
+      "examples": [
+        { "native": "বইটা টেবিলের উপরে আছে।", "roman": "boitaa tebiler upore aachhe.", "english": "The book is on top of the table." },
+        { "native": "বেড়ালটা খাটের নিচে।", "roman": "beraaltaa khaater niche.", "english": "The cat is under the bed." },
+        { "native": "বাড়ির সামনে", "roman": "baarir shaamne", "english": "in front of the house" },
+        { "native": "দোকানের পাশে", "roman": "dokaaner paashe", "english": "next to the shop" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি রাজকে চিনি।", "roman": "aami raajke chini.", "english": "I know Raj.", "literal": "I Raj-to know", "note": "" },
+    { "native": "আমাকে একটা কলম দিন।", "roman": "aamaake ektaa kolom din.", "english": "Please give me a pen.", "literal": "me-to one pen give", "note": "The person takes -ke; the thing takes no ending." },
+    { "native": "আমি বাজারে যাচ্ছি।", "roman": "aami baajaare jaachchhi.", "english": "I am going to the market.", "literal": "I market-to am-going", "note": "" },
+    { "native": "বাবা অফিসে আছেন।", "roman": "baabaa ophishe aachhen.", "english": "Father is at the office.", "literal": "father office-at is", "note": "" },
+    { "native": "ও বাড়িতে নেই।", "roman": "o baarite nei.", "english": "He/She is not at home.", "literal": "he/she home-at is-not", "note": "-te after a vowel other than aa." },
+    { "native": "আমি দিল্লি থেকে এসেছি।", "roman": "aami dilli theke eshechhi.", "english": "I have come from Delhi.", "literal": "I Delhi from have-come", "note": "" },
+    { "native": "আমি বাসে যাব।", "roman": "aami baase jaabo.", "english": "I will go by bus.", "literal": "I bus-by will-go", "note": "" },
+    { "native": "হাত দিয়ে খান।", "roman": "haat diye khaan.", "english": "Eat with your hand.", "literal": "hand with eat", "note": "Rice meals are traditionally eaten with the right hand." },
+    { "native": "আমি ছুরি দিয়ে ফল কাটি।", "roman": "aami chhuri diye phol kaati.", "english": "I cut fruit with a knife.", "literal": "I knife with fruit cut", "note": "" },
+    { "native": "আমি বন্ধুর সঙ্গে যাচ্ছি।", "roman": "aami bondhur shonge jaachchhi.", "english": "I am going with a friend.", "literal": "I friend's with am-going", "note": "In Bangladesh: বন্ধুর সাথে (bondhur shaathe)." },
+    { "native": "এটা আপনার জন্য।", "roman": "etaa aapnaar jonno.", "english": "This is for you.", "literal": "this your for", "note": "" },
+    { "native": "বইটা টেবিলের উপরে আছে।", "roman": "boitaa tebiler upore aachhe.", "english": "The book is on top of the table.", "literal": "book-the table's top-on is", "note": "" },
+    { "native": "দোকানটা স্টেশনের কাছে।", "roman": "dokaantaa steshoner kaachhe.", "english": "The shop is near the station.", "literal": "shop-the station's near", "note": "" },
+    { "native": "বেড়ালটা খাটের নিচে।", "roman": "beraaltaa khaater niche.", "english": "The cat is under the bed.", "literal": "cat-the bed's under", "note": "The written form of 'cat' is বিড়াল (biraal)." }
+  ]
+}

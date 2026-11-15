@@ -1,0 +1,64 @@
+{
+  "id": "conversation",
+  "level": "5 · Conversation",
+  "title": "Everyday conversation",
+  "description": "Keep a simple conversation going: say when you don't understand, ask what words mean and make small talk.",
+  "guide": [
+    {
+      "title": "When you don't understand",
+      "text": "Your most valuable phrases as a learner are the ones that slow the other person down.\n\nमुझे समझ नहीं आया (mujhe samajh naheen aayaa), 'understanding did not come to me', is 'I didn't understand'. A fuller form you will also hear is मेरी समझ में नहीं आया, 'it did not come into my understanding'.\n\nज़रा धीरे बोलिए, 'please speak a little slowly'. धीरे (dheere) is 'slowly' and also 'quietly'.\n\nएक बार फिर से कहिए, 'please say it once again'. एक बार is 'one time', फिर से is 'again'.\n\nAnd when you are simply lost: मुझे नहीं पता (mujhe naheen pataa), 'I don't know'. पता (pataa) is 'knowledge of a fact' and takes the 'to me' pattern: आपको पता है? 'Do you know?'",
+      "examples": [
+        { "native": "मुझे समझ नहीं आया।", "roman": "mujhe samajh naheen aayaa.", "english": "I didn't understand." },
+        { "native": "ज़रा धीरे बोलिए।", "roman": "zaraa dheere boliye.", "english": "Please speak slowly." },
+        { "native": "एक बार फिर से कहिए।", "roman": "ek baar phir se kahiye.", "english": "Please say that again." },
+        { "native": "मुझे नहीं पता।", "roman": "mujhe naheen pataa.", "english": "I don't know." }
+      ]
+    },
+    {
+      "title": "Asking about words",
+      "text": "Turn every conversation into a lesson with two questions.\n\nइसका क्या मतलब है? (iskaa kyaa matlab hai?), 'what is the meaning of this?'. मतलब (matlab) is 'meaning'; on its own, मतलब? is a quick 'meaning what?', and people also use it as a filler, like 'I mean'.\n\nइसे क्या कहते हैं? (ise kyaa kahte hain?), literally 'what do (they) call this?'. Hindi uses 'they say' without a subject where English uses a passive. To ask for the Hindi word, begin with हिंदी में: हिंदी में इसे क्या कहते हैं?\n\nLanguages 'come' to you: क्या आपको अंग्रेज़ी आती है? 'Does English come to you?', that is, 'do you know English?'. You can equally ask with बोलना: क्या आप हिंदी बोलते हैं?",
+      "examples": [
+        { "native": "इसका क्या मतलब है?", "roman": "iskaa kyaa matlab hai?", "english": "What does this mean?" },
+        { "native": "इसे क्या कहते हैं?", "roman": "ise kyaa kahte hain?", "english": "What is this called?" },
+        { "native": "क्या आपको अंग्रेज़ी आती है?", "roman": "kyaa aapko angrezee aatee hai?", "english": "Do you speak English?" },
+        { "native": "क्या आप हिंदी बोलते हैं?", "roman": "kyaa aap hindee bolte hain?", "english": "Do you speak Hindi? (to a man)" }
+      ]
+    },
+    {
+      "title": "Likes: the 'to me' pattern once more",
+      "text": "By now you have met many sentences that start with मुझे rather than मैं: wanting, having to, illnesses, hunger, knowing a language. Liking belongs to the same family. मुझे यह जगह पसंद है, 'to me this place is pleasing', is 'I like this place'.\n\nपसंद (pasand) never changes. Add बहुत for 'very much': मुझे यह बहुत पसंद है. The negative is पसंद नहीं है.\n\nWhenever a Hindi sentence is about something you experience rather than something you actively do, expect मुझे, and expect the verb to agree with the thing experienced, not with you.",
+      "examples": [
+        { "native": "मुझे यह जगह बहुत पसंद है।", "roman": "mujhe yah jagah bahut pasand hai.", "english": "I really like this place." },
+        { "native": "आपको क्या पसंद है?", "roman": "aapko kyaa pasand hai?", "english": "What do you like?" },
+        { "native": "मुझे चाय पसंद नहीं है।", "roman": "mujhe chaay pasand naheen hai.", "english": "I don't like tea." }
+      ]
+    },
+    {
+      "title": "Small talk and reactions",
+      "text": "The weather is as safe a topic in Hindi as in English: आज बहुत गर्मी है, 'it is very hot today'.\n\nReact while the other person talks: अच्छा ('I see'), हाँ हाँ ('yes, yes'), सच में? (sach mein?, 'really?'), वाह! (vaah!, 'wow, bravo'), अरे! (are!, a cry of surprise). To show that you have understood: समझ गया, or from a woman समझ गई.\n\nThe all-purpose soother is कोई बात नहीं, 'no problem, never mind'.\n\nTo round off a pleasant chat: आपसे बात करके अच्छा लगा, 'it felt good talking with you'.",
+      "examples": [
+        { "native": "आज बहुत गर्मी है।", "roman": "aaj bahut garmee hai.", "english": "It is very hot today." },
+        { "native": "सच में?", "roman": "sach mein?", "english": "Really?" },
+        { "native": "कोई बात नहीं।", "roman": "koee baat naheen.", "english": "No problem." },
+        { "native": "आपसे बात करके अच्छा लगा।", "roman": "aapse baat karke achchhaa lagaa.", "english": "It was nice talking to you." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "मुझे समझ नहीं आया।", "roman": "mujhe samajh naheen aayaa.", "english": "I didn't understand.", "literal": "to-me understanding not came", "note": "Also used where English says 'I don't understand'." },
+    { "native": "ज़रा धीरे बोलिए।", "roman": "zaraa dheere boliye.", "english": "Please speak slowly.", "literal": "a-little slowly please-speak", "note": "'zaraa' (a little) softens the request; 'kripayaa' is a formal 'please'." },
+    { "native": "एक बार फिर से कहिए।", "roman": "ek baar phir se kahiye.", "english": "Please say that again.", "literal": "one time again from please-say" },
+    { "native": "क्या आपको अंग्रेज़ी आती है?", "roman": "kyaa aapko angrezee aatee hai?", "english": "Do you speak English?", "literal": "(question) to-you English coming is", "note": "Literally 'Does English come to you?'" },
+    { "native": "क्या आप हिंदी बोलते हैं?", "roman": "kyaa aap hindee bolte hain?", "english": "Do you speak Hindi?", "literal": "(question) you Hindi speaking are", "note": "To a woman: ... बोलती हैं? (boltee hain?)" },
+    { "native": "मैं थोड़ी हिंदी बोलता हूँ।", "roman": "main thoree hindee boltaa hoon.", "english": "I speak a little Hindi.", "literal": "I a-little Hindi speaking am", "note": "A woman says: ... बोलती हूँ (boltee hoon)." },
+    { "native": "इसका क्या मतलब है?", "roman": "iskaa kyaa matlab hai?", "english": "What does this mean?", "literal": "this-of what meaning is" },
+    { "native": "इसे क्या कहते हैं?", "roman": "ise kyaa kahte hain?", "english": "What is this called?", "literal": "this(to) what saying are" },
+    { "native": "मुझे नहीं पता।", "roman": "mujhe naheen pataa.", "english": "I don't know.", "literal": "to-me not known" },
+    { "native": "अच्छा, समझ गया।", "roman": "achchhaa, samajh gayaa.", "english": "Oh, I see, got it.", "literal": "okay, understand went", "note": "A woman says: अच्छा, समझ गई (achchhaa, samajh gaee)." },
+    { "native": "सच में?", "roman": "sach mein?", "english": "Really?", "literal": "truth in" },
+    { "native": "कोई बात नहीं।", "roman": "koee baat naheen.", "english": "No problem.", "literal": "any matter not", "note": "Also the usual reply to 'sorry' or 'thank you'." },
+    { "native": "आज बहुत गर्मी है।", "roman": "aaj bahut garmee hai.", "english": "It is very hot today.", "literal": "today much heat is" },
+    { "native": "मुझे यह जगह बहुत पसंद है।", "roman": "mujhe yah jagah bahut pasand hai.", "english": "I really like this place.", "literal": "to-me this place very liked is" },
+    { "native": "आपसे बात करके अच्छा लगा।", "roman": "aapse baat karke achchhaa lagaa.", "english": "It was nice talking to you.", "literal": "you-with talk having-done good felt" }
+  ]
+}

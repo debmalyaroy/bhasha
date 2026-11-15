@@ -1,0 +1,56 @@
+{
+  "id": "directions",
+  "level": "4 · Everyday situations",
+  "title": "Directions & getting around",
+  "description": "Ask where things are, understand directions and guide an auto or cab driver.",
+  "guide": [
+    {
+      "title": "Where is ...? How far?",
+      "text": "'Where is X?' is X + ಎಲ್ಲಿದೆ? (ellide?), which is elli 'where' + ide 'is'. For a person use elliddaare?\n\n'How far?' is ಎಷ್ಟು ದೂರ? (eshtu doora?). 'From here' is ಇಲ್ಲಿಂದ (illinda). 'Near' is ಹತ್ತಿರ (hattira); 'far' is ದೂರ (doora).\n\nAnswers you will hear: ಇಲ್ಲೇ (ille) right here; ಹತ್ತಿರದಲ್ಲೇ (hattiradalle) very near; ಸ್ವಲ್ಪ ದೂರ (svalpa doora) a bit far; ಎರಡು ಕಿಲೋಮೀಟರ್ (eradu kilomeetar) two kilometres; ಐದು ನಿಮಿಷ (aidu nimisha) five minutes.\n\nPlace names take -ge or -kke for 'to': maisoorige, jayanagarakke, steshange. English place words ending in a consonant simply add -ge in speech.",
+      "examples": [
+        { "native": "ರೈಲ್ವೆ ಸ್ಟೇಷನ್ ಎಲ್ಲಿದೆ?", "roman": "railve steshan ellide?", "english": "Where is the railway station?" },
+        { "native": "ಬಸ್ ಸ್ಟಾಪ್ ಎಲ್ಲಿದೆ?", "roman": "bas staap ellide?", "english": "Where is the bus stop?" },
+        { "native": "ಇಲ್ಲಿಂದ ಎಷ್ಟು ದೂರ?", "roman": "illinda eshtu doora?", "english": "How far is it from here?" },
+        { "native": "ಇದು ಹತ್ತಿರದಲ್ಲೇ ಇದೆಯಾ?", "roman": "idu hattiradalle ideyaa?", "english": "Is it nearby?" }
+      ]
+    },
+    {
+      "title": "Left, right, straight",
+      "text": "ಎಡ (eda) is 'left' and ಬಲ (bala) is 'right'. With the 'to' ending they become ಎಡಕ್ಕೆ (edakke) 'to the left' and ಬಲಕ್ಕೆ (balakke) 'to the right'. 'On the left side' is ಎಡಗಡೆ (edagade), 'on the right side' ಬಲಗಡೆ (balagade). In Bengaluru drivers very often use the English words left and right, with Kannada verbs.\n\nನೇರವಾಗಿ (neravaagi) or ನೇರ (nera) is 'straight'. ಮುಂದೆ (munde) is 'ahead, in front'; ಹಿಂದೆ (hinde) 'behind, back'; ಪಕ್ಕ (pakka) 'beside, next to'; ಎದುರು (eduru) 'opposite'.\n\nVerbs: ಹೋಗಿ (hogi) go; ತಿರುಗಿ (tirugi) turn; ನಿಲ್ಲಿಸಿ (nillisi) stop (the vehicle); ಬನ್ನಿ (banni) come.",
+      "examples": [
+        { "native": "ನೇರವಾಗಿ ಹೋಗಿ.", "roman": "neravaagi hogi.", "english": "Go straight." },
+        { "native": "ಎಡಕ್ಕೆ ತಿರುಗಿ.", "roman": "edakke tirugi.", "english": "Turn left." },
+        { "native": "ಬಲಕ್ಕೆ ತಿರುಗಿ.", "roman": "balakke tirugi.", "english": "Turn right." },
+        { "native": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ.", "roman": "illi nillisi.", "english": "Please stop here." },
+        { "native": "ಬ್ಯಾಂಕ್ ಪಕ್ಕ", "roman": "byaank pakka", "english": "next to the bank" }
+      ]
+    },
+    {
+      "title": "Autos, cabs and buses",
+      "text": "To hail an auto-rickshaw, name the place with -ge / -kke and ask ಬರ್ತೀರಾ? (barteeraa?), 'will you come?': mejestikge barteeraa? The driver answers banni ('come') or names a price.\n\nಮೀಟರ್ ಹಾಕಿ (meetar haaki) is 'put the meter on'. ಎಷ್ಟು ಆಗುತ್ತೆ? (eshtu aagutte?) is 'how much will it come to?'.\n\n'I want to go to X' is naanu X-ge hogabeku. On a bus, ask the conductor: ee bas X-ge hoguttaa? 'does this bus go to X?'. To get off, say illi ilisi, 'let me down here'.\n\nಇಳಿ (ili) is 'get down, get off' and ಹತ್ತು (hattu) is 'climb, get on' - yes, the same word as 'ten'.",
+      "examples": [
+        { "native": "ಮೆಜೆಸ್ಟಿಕ್‌ಗೆ ಬರ್ತೀರಾ?", "roman": "mejestikge barteeraa?", "english": "Will you go to Majestic?" },
+        { "native": "ಮೀಟರ್ ಹಾಕಿ.", "roman": "meetar haaki.", "english": "Please use the meter." },
+        { "native": "ಎಷ್ಟು ಆಗುತ್ತೆ?", "roman": "eshtu aagutte?", "english": "How much will it be?" },
+        { "native": "ನಾನು ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೋಗಬೇಕು.", "roman": "naanu vimaana nildaanakke hogabeku.", "english": "I want to go to the airport." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ರೈಲ್ವೆ ಸ್ಟೇಷನ್ ಎಲ್ಲಿದೆ?", "roman": "railve steshan ellide?", "english": "Where is the railway station?", "literal": "railway station where-is", "note": "The formal Kannada word is railu nildaana (ರೈಲು ನಿಲ್ದಾಣ)." },
+    { "native": "ಬಸ್ ಸ್ಟಾಪ್ ಎಲ್ಲಿದೆ?", "roman": "bas staap ellide?", "english": "Where is the bus stop?", "literal": "bus stop where-is", "note": "A large bus station is bas styaand (ಬಸ್ ಸ್ಟ್ಯಾಂಡ್)." },
+    { "native": "ಇಲ್ಲಿಂದ ಎಷ್ಟು ದೂರ?", "roman": "illinda eshtu doora?", "english": "How far is it from here?", "literal": "here-from how-much far", "note": "" },
+    { "native": "ನೇರವಾಗಿ ಹೋಗಿ.", "roman": "neravaagi hogi.", "english": "Go straight.", "literal": "straight go", "note": "Both the e in ne and the o in ho are long." },
+    { "native": "ಎಡಕ್ಕೆ ತಿರುಗಿ.", "roman": "edakke tirugi.", "english": "Turn left.", "literal": "left-to turn", "note": "" },
+    { "native": "ಬಲಕ್ಕೆ ತಿರುಗಿ.", "roman": "balakke tirugi.", "english": "Turn right.", "literal": "right-to turn", "note": "" },
+    { "native": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ.", "roman": "illi nillisi.", "english": "Please stop here.", "literal": "here stop", "note": "Said to a driver. nillisu = to stop something; nillu = to stop, stand." },
+    { "native": "ಮುಂದೆ ಸಿಗ್ನಲ್ ಹತ್ತಿರ ನಿಲ್ಲಿಸಿ.", "roman": "munde signal hattira nillisi.", "english": "Stop near the signal ahead.", "literal": "ahead signal near stop", "note": "" },
+    { "native": "ನಾನು ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೋಗಬೇಕು.", "roman": "naanu vimaana nildaanakke hogabeku.", "english": "I want to go to the airport.", "literal": "I plane station-to go-must", "note": "In everyday speech people usually just say 'airport': erportge (ಏರ್‌ಪೋರ್ಟ್‌ಗೆ)." },
+    { "native": "ಮೆಜೆಸ್ಟಿಕ್‌ಗೆ ಬರ್ತೀರಾ?", "roman": "mejestikge barteeraa?", "english": "Will you go to Majestic?", "literal": "Majestic-to will-you-come?", "note": "How to ask an auto driver. Majestic is Bengaluru's central bus and rail hub." },
+    { "native": "ಮೀಟರ್ ಹಾಕಿ.", "roman": "meetar haaki.", "english": "Please use the meter.", "literal": "meter put", "note": "" },
+    { "native": "ಶೌಚಾಲಯ ಎಲ್ಲಿದೆ?", "roman": "shauchaalaya ellide?", "english": "Where is the toilet?", "literal": "toilet where-is", "note": "In cities people often say 'toilet ellide?'" },
+    { "native": "ನಾನು ದಾರಿ ತಪ್ಪಿದ್ದೀನಿ.", "roman": "naanu daari tappiddeeni.", "english": "I have lost my way.", "literal": "I way have-missed", "note": "daari = way, road." },
+    { "native": "ಇದು ಹತ್ತಿರದಲ್ಲೇ ಇದೆಯಾ?", "roman": "idu hattiradalle ideyaa?", "english": "Is it nearby?", "literal": "it near-in-itself is?", "note": "Adding -aa to the end of a sentence makes it a yes/no question." },
+    { "native": "ನಡೆದುಕೊಂಡು ಹೋಗಬಹುದಾ?", "roman": "nadedukondu hogabahudaa?", "english": "Can I walk there?", "literal": "walking go-may?", "note": "nadedukondu hogu = to go on foot. Spoken: nadkondu (ನಡ್ಕೊಂಡು)." }
+  ]
+}

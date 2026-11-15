@@ -1,0 +1,63 @@
+{
+  "id": "family",
+  "level": "4 · Everyday situations",
+  "title": "Family",
+  "description": "Introduce your family, say how many brothers, sisters and children you have, and ask about someone else's.",
+  "guide": [
+    {
+      "title": "A precise word for every relative",
+      "text": "Hindi kinship words are much more exact than English ones. They tell you the side of the family and often the relative age.\n\nParents: माँ (maan) or माता जी (maataa jee), mother; पिता जी (pitaa jee), father. At home most people say मम्मी and पापा. माता-पिता (maataa-pitaa) is 'parents'.\n\nGrandparents: दादा and दादी (daadaa, daadee) are your father's parents; नाना and नानी (naanaa, naanee) are your mother's.\n\nUncles and aunts: चाचा (chaachaa) is your father's younger brother and चाची his wife; मामा (maamaa) is your mother's brother and मामी his wife; बुआ (buaa) is your father's sister; मौसी (mausee) is your mother's sister.\n\nBrothers and sisters: भाई (bhaaee), brother; बहन (bahan, said 'behen'), sister. बड़ा (big) and छोटा (small) mean elder and younger: बड़ा भाई, छोटी बहन. An elder brother is addressed as भैया (bhaiyaa) and an elder sister as दीदी (deedee), not by name.\n\nChildren and spouses: बेटा (betaa), son; बेटी (betee), daughter; बच्चे (bachche), children; पति (pati), husband; पत्नी (patnee), wife.",
+      "examples": [
+        { "native": "ये मेरी माँ हैं।", "roman": "ye meree maan hain.", "english": "This is my mother." },
+        { "native": "मेरे दादाजी गाँव में रहते हैं।", "roman": "mere daadaajee gaanv mein rahte hain.", "english": "My grandfather lives in the village." },
+        { "native": "मेरा एक बड़ा भाई है।", "roman": "meraa ek baraa bhaaee hai.", "english": "I have an elder brother." },
+        { "native": "मेरी एक छोटी बहन है।", "roman": "meree ek chhotee bahan hai.", "english": "I have a younger sister." }
+      ]
+    },
+    {
+      "title": "Respect inside the family",
+      "text": "Older relatives are always spoken of in the respectful plural. That is why 'this is my mother' is ये मेरी माँ हैं, with ये and हैं, and 'my grandfather lives' is मेरे दादाजी रहते हैं, with मेरे and the plural verb, although there is only one grandfather.\n\nThe ending जी (jee) is attached to the words for older relatives: पिताजी, माताजी, दादाजी, चाचाजी. It may be written joined or separately.\n\nA husband or wife is also introduced in the plural: ये मेरी पत्नी हैं, ये मेरे पति हैं. Children and younger brothers and sisters take the ordinary singular: यह मेरा बेटा है, 'this is my son'.",
+      "examples": [
+        { "native": "ये मेरे पिताजी हैं।", "roman": "ye mere pitaajee hain.", "english": "This is my father." },
+        { "native": "ये मेरी पत्नी हैं।", "roman": "ye meree patnee hain.", "english": "This is my wife." },
+        { "native": "ये मेरे पति हैं।", "roman": "ye mere pati hain.", "english": "This is my husband." },
+        { "native": "यह मेरा बेटा है।", "roman": "yah meraa betaa hai.", "english": "This is my son." }
+      ]
+    },
+    {
+      "title": "How many do you have?",
+      "text": "As you learnt in the unit on 'have', relatives are possessed with the plain possessive and 'to be': मेरे दो बच्चे हैं, 'my two children are', means 'I have two children'.\n\nThe plurals you need here: भाई does not change (दो भाई). बहन adds -en: दो बहनें (do bahnen). बेटा becomes बेटे; बेटी becomes बेटियाँ (betiyaan); बच्चा becomes बच्चे.\n\nTo ask: आपके कितने भाई-बहन हैं? 'How many brothers and sisters do you have?' आपके परिवार में कितने लोग हैं? 'How many people are there in your family?' Questions about family, marriage and children are ordinary friendly conversation in India, even between people who have just met.",
+      "examples": [
+        { "native": "मेरे दो बच्चे हैं।", "roman": "mere do bachche hain.", "english": "I have two children." },
+        { "native": "आपके कितने भाई-बहन हैं?", "roman": "aapke kitne bhaaee-bahan hain?", "english": "How many brothers and sisters do you have?" },
+        { "native": "मेरी दो बेटियाँ हैं।", "roman": "meree do betiyaan hain.", "english": "I have two daughters." }
+      ]
+    },
+    {
+      "title": "Married?",
+      "text": "शादी (shaadee) is 'wedding, marriage'. 'Are you married?' is asked as क्या आपकी शादी हो गई है?, literally 'has your marriage happened?'. The adjective शादीशुदा (shaadeeshudaa) means 'married' and does not change for gender: मैं शादीशुदा हूँ.\n\nTo say you are not married: मेरी शादी नहीं हुई है, 'my marriage has not happened'.",
+      "examples": [
+        { "native": "क्या आपकी शादी हो गई है?", "roman": "kyaa aapkee shaadee ho gaee hai?", "english": "Are you married?" },
+        { "native": "मैं शादीशुदा हूँ।", "roman": "main shaadeeshudaa hoon.", "english": "I am married." },
+        { "native": "मेरी शादी नहीं हुई है।", "roman": "meree shaadee naheen huee hai.", "english": "I am not married." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ये मेरी माँ हैं।", "roman": "ye meree maan hain.", "english": "This is my mother.", "literal": "these my mother are", "note": "Plural ये and हैं for respect." },
+    { "native": "ये मेरे पिताजी हैं।", "roman": "ye mere pitaajee hain.", "english": "This is my father.", "literal": "these my father are", "note": "The ending -jee shows respect." },
+    { "native": "मेरा एक बड़ा भाई है।", "roman": "meraa ek baraa bhaaee hai.", "english": "I have an elder brother.", "literal": "my one big brother is", "note": "Younger brother: छोटा भाई (chhotaa bhaaee)." },
+    { "native": "मेरी एक छोटी बहन है।", "roman": "meree ek chhotee bahan hai.", "english": "I have a younger sister.", "literal": "my one small sister is", "note": "बहन is pronounced 'behen'." },
+    { "native": "आपके कितने भाई-बहन हैं?", "roman": "aapke kitne bhaaee-bahan hain?", "english": "How many brothers and sisters do you have?", "literal": "your how-many brothers-sisters are" },
+    { "native": "क्या आपकी शादी हो गई है?", "roman": "kyaa aapkee shaadee ho gaee hai?", "english": "Are you married?", "literal": "(question) your marriage happen gone is" },
+    { "native": "मैं शादीशुदा हूँ।", "roman": "main shaadeeshudaa hoon.", "english": "I am married.", "literal": "I married am", "note": "The same for men and women." },
+    { "native": "ये मेरी पत्नी हैं।", "roman": "ye meree patnee hain.", "english": "This is my wife.", "literal": "these my wife are", "note": "For 'husband': ये मेरे पति हैं (ye mere pati hain)." },
+    { "native": "मेरे दो बच्चे हैं।", "roman": "mere do bachche hain.", "english": "I have two children.", "literal": "my two children are" },
+    { "native": "मेरी बेटी स्कूल में पढ़ती है।", "roman": "meree betee skool mein parhtee hai.", "english": "My daughter studies at school.", "literal": "my daughter school in studying is" },
+    { "native": "आपके बच्चे क्या करते हैं?", "roman": "aapke bachche kyaa karte hain?", "english": "What do your children do?", "literal": "your children what doing are" },
+    { "native": "आपके परिवार में कितने लोग हैं?", "roman": "aapke parivaar mein kitne log hain?", "english": "How many people are there in your family?", "literal": "your family in how-many people are" },
+    { "native": "मेरे माता-पिता भारत में रहते हैं।", "roman": "mere maataa-pitaa bhaarat mein rahte hain.", "english": "My parents live in India.", "literal": "my mother-father India in living are" },
+    { "native": "मेरे दादाजी गाँव में रहते हैं।", "roman": "mere daadaajee gaanv mein rahte hain.", "english": "My grandfather lives in the village.", "literal": "my grandfather village in living are", "note": "दादाजी is your father's father; your mother's father is नानाजी (naanaajee)." },
+    { "native": "घर में सब कैसे हैं?", "roman": "ghar mein sab kaise hain?", "english": "How is everyone at home?", "literal": "house in all how are" }
+  ]
+}

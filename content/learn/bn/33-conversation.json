@@ -1,0 +1,65 @@
+{
+  "id": "conversation",
+  "level": "5 · Conversation",
+  "title": "Everyday conversation",
+  "description": "Keep a conversation going: say when you have not understood, react naturally and make small talk.",
+  "guide": [
+    {
+      "title": "When you do not understand",
+      "text": "The most useful sentences for a learner are the ones that slow the other person down.\n\nআমি বুঝতে পারছি না - 'I am not able to understand' (what you are saying now). বুঝিনি, 'I didn't catch that', is shorter.\n\nএকটু আস্তে বলুন - 'speak a little slowly'. আস্তে means both slowly and softly.\n\nআর একবার বলুন - 'say it one more time'. একবার (ekbaar) is 'once'; আর is 'more'.\n\nTo ask about a word: এর মানে কী? 'what is the meaning of this?'; এটাকে কী বলে? 'what does one call this?'; বাংলায় কী বলে? 'what do you say in Bengali?'\n\nBengalis are delighted when a foreigner tries their language, and will usually switch to simpler Bengali rather than English if you ask.",
+      "examples": [
+        { "native": "আমি বুঝতে পারছি না।", "roman": "aami bujhte paarchhi naa.", "english": "I don't understand." },
+        { "native": "একটু আস্তে বলুন।", "roman": "ektu aaste bolun.", "english": "Please speak slowly." },
+        { "native": "আর একবার বলুন।", "roman": "aar ekbaar bolun.", "english": "Please say that again." },
+        { "native": "এর মানে কী?", "roman": "er maane kee?", "english": "What does this mean?" },
+        { "native": "এটাকে কী বলে?", "roman": "etaake kee bole?", "english": "What is this called?" }
+      ]
+    },
+    {
+      "title": "Little words that keep talk going",
+      "text": "আচ্ছা (aachchhaa) okay; I see; well then\nতাই? (taai) or তাই নাকি? (taai naaki) is that so? really?\nসত্যি? (shotti) really? truly?\nঠিক (thik) right, exactly; ঠিক আছে, okay\nহ্যাঁ হ্যাঁ yes, yes (I follow)\nমানে (maane) I mean ..., that is ...\nকিন্তু (kintu) but\nতো (to) a particle with no single translation: it turns a statement into 'surely ...', 'well ...', 'but then ...'\nনা না no, no - a modest protest\n\nনাকি (naaki) at the end of a sentence means 'is it so, as I hear?': আপনি নাকি চলে যাচ্ছেন? 'I hear you are leaving?'",
+      "examples": [
+        { "native": "তাই নাকি?", "roman": "taai naaki?", "english": "Is that so?" },
+        { "native": "সত্যি?", "roman": "shotti?", "english": "Really?" },
+        { "native": "আচ্ছা।", "roman": "aachchhaa.", "english": "All right. / I see." },
+        { "native": "আমি জানি না।", "roman": "aami jaani naa.", "english": "I don't know." }
+      ]
+    },
+    {
+      "title": "Liking: ভালো লাগা",
+      "text": "'To like' is ভালো লাগা (bhaalo laagaa), 'to feel good'. The thing liked is the subject; the person who likes it is in the possessive.\n\nএই জায়গাটা আমার খুব ভালো লাগে - 'this place feels very good to me' - I really like this place.\n\nGeneral liking is in the simple present (লাগে). A reaction right now is continuous (লাগছে): কেমন লাগছে? 'How do you like it (so far)?' A reaction to something just finished is past (লাগল): খুব ভালো লাগল, 'I enjoyed it very much'.\n\nThe negative is ভালো লাগে না, 'I don't like', and the opposite খারাপ লাগা, 'to feel bad'.\n\nYou can also say পছন্দ (pochhondo) 'liking, choice': এটা আমার পছন্দ, 'I like this one'; আমি এটা পছন্দ করি।",
+      "examples": [
+        { "native": "এই জায়গাটা আমার খুব ভালো লাগে।", "roman": "ei jaaygaataa aamaar khub bhaalo laage.", "english": "I really like this place." },
+        { "native": "কেমন লাগছে?", "roman": "kemon laagchhe?", "english": "How do you like it?" },
+        { "native": "খুব ভালো লাগল।", "roman": "khub bhaalo laaglo.", "english": "I enjoyed it very much." }
+      ]
+    },
+    {
+      "title": "Small talk",
+      "text": "Conversation with a stranger usually starts with where you are from, what you do, and your family - questions that are friendly in Bengal, not intrusive. Expect to be asked your home town, your job, whether you are married and how many children you have.\n\nThen the weather (আজ খুব গরম), food (খেয়েছেন?), and how long you have been here: আপনি এখানে কতদিন আছেন? - literally 'how many days are you here?', with the present tense where English says 'have you been'.\n\nThe great Bengali institution is আড্ডা (aaddaa): long, unhurried talk among friends, over tea. An invitation to it is simply চলুন, চা খাই।\n\nA guest who is leaving is told আবার আসবেন, 'do come again'.",
+      "examples": [
+        { "native": "আপনি এখানে কতদিন আছেন?", "roman": "aapni ekhaane kotodin aachhen?", "english": "How long have you been here?" },
+        { "native": "আজ খুব গরম।", "roman": "aaj khub gorom.", "english": "It is very hot today." },
+        { "native": "চলুন, চা খাই।", "roman": "cholun, chaa khaai.", "english": "Come, let's have tea." },
+        { "native": "আবার আসবেন।", "roman": "aabaar aashben.", "english": "Do come again." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি বুঝতে পারছি না।", "roman": "aami bujhte paarchhi naa.", "english": "I don't understand.", "literal": "I to-understand am-able not", "note": "The negative 'naa' comes after the verb." },
+    { "native": "একটু আস্তে বলুন।", "roman": "ektu aaste bolun.", "english": "Please speak slowly.", "literal": "a-little slowly say", "note": "'ektu' (a little) softens the request, like 'please'." },
+    { "native": "আপনি কি ইংরেজি বলতে পারেন?", "roman": "aapni ki ingreji bolte paaren?", "english": "Do you speak English?", "literal": "you (question) English to-speak can", "note": "" },
+    { "native": "আর একবার বলুন।", "roman": "aar ekbaar bolun.", "english": "Please say that again.", "literal": "more one-time say", "note": "" },
+    { "native": "এর মানে কী?", "roman": "er maane kee?", "english": "What does this mean?", "literal": "this's meaning what", "note": "" },
+    { "native": "এটাকে কী বলে?", "roman": "etaake kee bole?", "english": "What is this called?", "literal": "this-to what says", "note": "Add বাংলায় (baanglaay), 'in Bengali', at the front if you need to." },
+    { "native": "আমি জানি না।", "roman": "aami jaani naa.", "english": "I don't know.", "literal": "I know not", "note": "" },
+    { "native": "আমার বাংলা ভালো নয়।", "roman": "aamaar baanglaa bhaalo noy.", "english": "My Bengali is not good.", "literal": "my Bengali good is-not", "note": "" },
+    { "native": "তাই নাকি?", "roman": "taai naaki?", "english": "Is that so?", "literal": "so is-it", "note": "Shows interest or surprise." },
+    { "native": "কোনো অসুবিধা নেই।", "roman": "kono oshubidhaa nei.", "english": "No problem.", "literal": "any inconvenience is-not", "note": "" },
+    { "native": "আজ খুব গরম।", "roman": "aaj khub gorom.", "english": "It is very hot today.", "literal": "today very hot", "note": "" },
+    { "native": "আপনি এখানে কতদিন আছেন?", "roman": "aapni ekhaane kotodin aachhen?", "english": "How long have you been here?", "literal": "you here how-many-days are", "note": "Present tense in Bengali." },
+    { "native": "এই জায়গাটা আমার খুব ভালো লাগে।", "roman": "ei jaaygaataa aamaar khub bhaalo laage.", "english": "I really like this place.", "literal": "this place-the my very good feels", "note": "'bhaalo laage' (feels good) is how Bengali says 'like'." },
+    { "native": "চলুন, চা খাই।", "roman": "cholun, chaa khaai.", "english": "Come, let's have tea.", "literal": "move, tea I-eat", "note": "" },
+    { "native": "আবার আসবেন।", "roman": "aabaar aashben.", "english": "Do come again.", "literal": "again you-will-come", "note": "Said to a departing guest." }
+  ]
+}

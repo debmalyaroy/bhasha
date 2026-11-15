@@ -1,0 +1,63 @@
+{
+  "id": "word-order",
+  "level": "2 · How sentences work",
+  "title": "Word order and 'to be'",
+  "description": "Build simple sentences with the verb at the end, and know when Bengali needs a word for 'is' and when it does not.",
+  "guide": [
+    {
+      "title": "The verb comes last",
+      "text": "The basic order of a Bengali sentence is subject - object - verb. English says 'I eat rice'; Bengali says 'I rice eat': আমি ভাত খাই।\n\nEverything else - time, place, manner - goes between the subject and the verb, usually in the order time, then place: 'I today at-home rice will-eat'.\n\nBecause the verb ending already shows who is acting, the subject pronoun is often left out when it is obvious: ভাত খাই can mean 'I eat rice' on its own.\n\nThe order of the other words is fairly free and is used for emphasis, but while you are learning, keep the verb at the end and you will always be right.",
+      "examples": [
+        { "native": "আমি ভাত খাই।", "roman": "aami bhaat khaai.", "english": "I eat rice." },
+        { "native": "আমরা বাংলা বলি।", "roman": "aamraa baanglaa boli.", "english": "We speak Bengali." },
+        { "native": "সে বই পড়ে।", "roman": "she boi pore.", "english": "He/She reads books." },
+        { "native": "আমি কলকাতায় থাকি।", "roman": "aami kolkaataay thaaki.", "english": "I live in Kolkata." }
+      ]
+    },
+    {
+      "title": "No word for 'is' when you say what something is",
+      "text": "When a sentence says that A is B - a name, a profession, a description - present-tense Bengali uses no verb at all. The two parts are simply placed together.\n\nএটা আমার বই - 'this my book' - This is my book.\nউনি ডাক্তার - 'that-person doctor' - He/She is a doctor.\nচা খুব গরম - 'tea very hot' - The tea is very hot.\n\nThis 'zero verb' only exists in the present. For the past you need ছিল (chhilo, 'was'), and the negative has its own word, নয় (noy, 'is not'); both are taught in later units.",
+      "examples": [
+        { "native": "এটা আমার বই।", "roman": "etaa aamaar boi.", "english": "This is my book." },
+        { "native": "উনি ডাক্তার।", "roman": "uni daaktaar.", "english": "He/She is a doctor." },
+        { "native": "চা খুব গরম।", "roman": "chaa khub gorom.", "english": "The tea is very hot." },
+        { "native": "আজ ছুটি।", "roman": "aaj chhuti.", "english": "Today is a holiday." }
+      ]
+    },
+    {
+      "title": "আছে: 'is' for where things are and what exists",
+      "text": "When 'is' means 'is located' or 'there is', Bengali uses the verb আছে (aachhe).\n\nবইটা টেবিলে আছে - The book is on the table.\nএখানে একটা দোকান আছে - There is a shop here.\n\nআছে takes the usual endings: আমি আছি (I am), তুমি আছ (you are, familiar), সে আছে (he/she/it is), আপনি আছেন (you are, polite), তিনি আছেন (he/she is, respected). That is why 'mother is at home' has আছেন: mothers are spoken of respectfully.\n\nCompare: উনি ডাক্তার (He is a doctor - what he is: no verb) and উনি বাড়িতে আছেন (He is at home - where he is: আছেন).\n\nThe same verb gives 'how are you?': আপনি কেমন আছেন? - a temporary state, so আছেন is used.",
+      "examples": [
+        { "native": "বইটা টেবিলে আছে।", "roman": "boitaa tebile aachhe.", "english": "The book is on the table." },
+        { "native": "মা বাড়িতে আছেন।", "roman": "maa baarite aachhen.", "english": "Mother is at home." },
+        { "native": "এখানে একটা দোকান আছে।", "roman": "ekhaane ektaa dokaan aachhe.", "english": "There is a shop here." },
+        { "native": "আমি ভালো আছি।", "roman": "aami bhaalo aachhi.", "english": "I am fine." }
+      ]
+    },
+    {
+      "title": "No 'a', no 'the', no gender",
+      "text": "Bengali has no articles and no grammatical gender. বই can be 'a book', 'the book' or 'books'; the context decides.\n\nWhen you need to be specific, there are two tools. The ending -টা (-taa) on a noun makes it definite, like 'the': বইটা, 'the book'; ঘরটা, 'the room'. And একটা (ektaa, 'one') before a noun works like 'a': একটা বই, 'a book'.\n\nNouns do not change in the plural after a number or when the meaning is general, and adjectives never change at all: বড় ঘর is 'big room' or 'big rooms'.",
+      "examples": [
+        { "native": "ঘরটা বড়।", "roman": "ghortaa boro.", "english": "The room is big." },
+        { "native": "একটা বই", "roman": "ektaa boi", "english": "a book" },
+        { "native": "বইটা", "roman": "boitaa", "english": "the book" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "আমি ভাত খাই।", "roman": "aami bhaat khaai.", "english": "I eat rice.", "literal": "I rice eat", "note": "ভাত is cooked rice; uncooked rice is চাল (chaal)." },
+    { "native": "আমরা বাংলা বলি।", "roman": "aamraa baanglaa boli.", "english": "We speak Bengali.", "literal": "we Bengali speak", "note": "" },
+    { "native": "সে বই পড়ে।", "roman": "she boi pore.", "english": "He/She reads books.", "literal": "he/she book reads", "note": "সে does not show gender." },
+    { "native": "আমি আপনাকে চিনি।", "roman": "aami aapnaake chini.", "english": "I know you.", "literal": "I you-to know", "note": "চেনা is to know a person or place by acquaintance; জানা is to know a fact." },
+    { "native": "এটা আমার বই।", "roman": "etaa aamaar boi.", "english": "This is my book.", "literal": "this my book", "note": "No word for 'is'." },
+    { "native": "উনি ডাক্তার।", "roman": "uni daaktaar.", "english": "He/She is a doctor.", "literal": "that-person doctor", "note": "" },
+    { "native": "আমি বিদেশি।", "roman": "aami bideshi.", "english": "I am a foreigner.", "literal": "I foreigner", "note": "" },
+    { "native": "চা খুব গরম।", "roman": "chaa khub gorom.", "english": "The tea is very hot.", "literal": "tea very hot", "note": "" },
+    { "native": "ঘরটা বড়।", "roman": "ghortaa boro.", "english": "The room is big.", "literal": "room-the big", "note": "-taa makes the noun definite." },
+    { "native": "আজ ছুটি।", "roman": "aaj chhuti.", "english": "Today is a holiday.", "literal": "today holiday", "note": "" },
+    { "native": "বইটা টেবিলে আছে।", "roman": "boitaa tebile aachhe.", "english": "The book is on the table.", "literal": "book-the table-on is", "note": "Location needs আছে." },
+    { "native": "মা বাড়িতে আছেন।", "roman": "maa baarite aachhen.", "english": "Mother is at home.", "literal": "mother home-at is", "note": "The respectful ending -en is used when speaking about one's parents." },
+    { "native": "এখানে একটা দোকান আছে।", "roman": "ekhaane ektaa dokaan aachhe.", "english": "There is a shop here.", "literal": "here one shop is", "note": "" },
+    { "native": "আমি এখন বাড়িতে আছি।", "roman": "aami ekhon baarite aachhi.", "english": "I am at home now.", "literal": "I now home-at am", "note": "Time (now) comes before place (at home)." }
+  ]
+}

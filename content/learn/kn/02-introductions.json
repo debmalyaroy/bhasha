@@ -1,0 +1,52 @@
+{
+  "id": "introductions",
+  "level": "1 · First words",
+  "title": "Introductions",
+  "description": "Introduce yourself, say where you are from and what you do, and ask the other person the same.",
+  "guide": [
+    {
+      "title": "'I am X' needs no verb",
+      "text": "To say that one thing is another, Kannada simply puts the two side by side: ನಾನು ವಿದ್ಯಾರ್ಥಿ (naanu vidyaarthi) is literally 'I student'. There is no word for 'am', 'is' or 'are' in this kind of sentence, and no word for 'a' or 'the'.\n\nನನ್ನ (nanna) is 'my' and ನಿಮ್ಮ (nimma) is 'your' (polite). So: nanna hesaru ... 'my name (is) ...'.\n\nಹೆಸರೇನು (hesarenu) is hesaru 'name' + enu 'what', fused: the final u of hesaru drops before the vowel. You can also say the two words separately: nimma hesaru enu?",
+      "examples": [
+        { "native": "ನನ್ನ ಹೆಸರು ರಾಜ್.", "roman": "nanna hesaru raaj.", "english": "My name is Raj." },
+        { "native": "ನಿಮ್ಮ ಹೆಸರೇನು?", "roman": "nimma hesarenu?", "english": "What is your name?" },
+        { "native": "ನಾನು ವಿದ್ಯಾರ್ಥಿ.", "roman": "naanu vidyaarthi.", "english": "I am a student." },
+        { "native": "ನಾನು ಇಂಜಿನಿಯರ್.", "roman": "naanu injiniyar.", "english": "I am an engineer." }
+      ]
+    },
+    {
+      "title": "Where are you from? The endings -inda, -alli and -ge",
+      "text": "Kannada has no separate words for 'from', 'in' and 'to'. They are endings on the noun: -inda 'from', -alli 'in', -ge or -kke 'to'. A linking sound is added where needed: amerika + inda = amerikadinda; bengalooru + alli = bengaloorinalli; illi 'here' + ge = illige 'to here'.\n\nನೀವು ಎಲ್ಲಿಯವರು? (neevu elliyavaru?) is the natural way to ask where someone is from: elli 'where' + -avaru 'person of'. The answer uses the same ending: ನಾನು ಬೆಂಗಳೂರಿನವನು (naanu bengaloorinavanu, said by a man) or ಬೆಂಗಳೂರಿನವಳು (bengaloorinavalu, said by a woman) - 'I am a Bengaluru person'. The simpler answer with -inda bandiddeeni ('I have come from ...') works for everyone.\n\nಊರು (ooru) means one's home town or native place; ನಿಮ್ಮ ಊರು ಯಾವುದು? is a favourite opening question.",
+      "examples": [
+        { "native": "ನೀವು ಎಲ್ಲಿಯವರು?", "roman": "neevu elliyavaru?", "english": "Where are you from?" },
+        { "native": "ನಾನು ಅಮೆರಿಕದಿಂದ ಬಂದಿದ್ದೀನಿ.", "roman": "naanu amerikadinda bandiddeeni.", "english": "I am from America. (I have come from America.)" },
+        { "native": "ನಾನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಇದ್ದೀನಿ.", "roman": "naanu bengaloorinalli iddeeni.", "english": "I live in Bengaluru. (I am in Bengaluru.)" },
+        { "native": "ನಿಮ್ಮ ಊರು ಯಾವುದು?", "roman": "nimma ooru yaavudu?", "english": "Which is your home town?" }
+      ]
+    },
+    {
+      "title": "Introducing someone: the respectful plural",
+      "text": "ಇವರು (ivaru) literally means 'these people', but it is the normal respectful way to point to one person: 'this gentleman / this lady'. The noun then also takes the plural ending -aru: snehita 'friend' becomes snehitaru. So ಇವರು ನನ್ನ ಸ್ನೇಹಿತರು can mean 'this is my friend' or 'these are my friends'.\n\nUse ivaru for any adult you are introducing. The familiar forms ivanu (this boy/man) and ivalu (this girl/woman) are for children and close friends; they are taught in the unit on pronouns.",
+      "examples": [
+        { "native": "ಇವರು ನನ್ನ ಸ್ನೇಹಿತರು.", "roman": "ivaru nanna snehitaru.", "english": "This is my friend." },
+        { "native": "ಇವರು ನನ್ನ ಅಮ್ಮ.", "roman": "ivaru nanna amma.", "english": "This is my mother." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನಿಮ್ಮ ಹೆಸರೇನು?", "roman": "nimma hesarenu?", "english": "What is your name?", "literal": "your name-what", "note": "hesaru (name) + enu (what) join into one word. The e of -enu is long." },
+    { "native": "ನನ್ನ ಹೆಸರು ರಾಜ್.", "roman": "nanna hesaru raaj.", "english": "My name is Raj.", "literal": "my name Raj", "note": "Replace 'raaj' with your own name. Kannada needs no word for 'is' here." },
+    { "native": "ನೀವು ಎಲ್ಲಿಯವರು?", "roman": "neevu elliyavaru?", "english": "Where are you from?", "literal": "you where-of-person", "note": "Literally 'You are a person of where?'" },
+    { "native": "ನಾನು ಅಮೆರಿಕದಿಂದ ಬಂದಿದ್ದೀನಿ.", "roman": "naanu amerikadinda bandiddeeni.", "english": "I am from America.", "literal": "I America-from have-come", "note": "The ending -inda means 'from'. Written form of the verb: bandiddene (ಬಂದಿದ್ದೇನೆ)." },
+    { "native": "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷವಾಯಿತು.", "roman": "nimmannu bhetiyaagi santoshavaayitu.", "english": "Nice to meet you.", "literal": "you having-met happiness-happened", "note": "A polite, slightly formal sentence. Both e in bheti and o in santosha are long." },
+    { "native": "ನೀವು ಏನು ಕೆಲಸ ಮಾಡ್ತೀರ?", "roman": "neevu enu kelasa maadteera?", "english": "What work do you do?", "literal": "you what work do", "note": "Written form: maadutteeri (ಮಾಡುತ್ತೀರಿ)." },
+    { "native": "ನಾನು ವಿದ್ಯಾರ್ಥಿ.", "roman": "naanu vidyaarthi.", "english": "I am a student.", "literal": "I student", "note": "A female student is vidyaarthini (ವಿದ್ಯಾರ್ಥಿನಿ)." },
+    { "native": "ನಾನು ಇಂಜಿನಿಯರ್.", "roman": "naanu injiniyar.", "english": "I am an engineer.", "literal": "I engineer", "note": "Most modern job names are the English words." },
+    { "native": "ನಾನು ಇಲ್ಲಿಗೆ ಪ್ರವಾಸಕ್ಕೆ ಬಂದಿದ್ದೀನಿ.", "roman": "naanu illige pravaasakke bandiddeeni.", "english": "I am here on a visit.", "literal": "I here-to trip-for have-come", "note": "pravaasa = trip, tour; the ending -kke here means 'for'." },
+    { "native": "ನೀವು ಎಲ್ಲಿ ಇರೋದು?", "roman": "neevu elli irodu?", "english": "Where do you live?", "literal": "you where staying", "note": "Spoken form; in writing: neevu elli vaasisutteeri? (ನೀವು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತೀರಿ?)" },
+    { "native": "ನಾನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಇದ್ದೀನಿ.", "roman": "naanu bengaloorinalli iddeeni.", "english": "I live in Bengaluru.", "literal": "I Bengaluru-in am", "note": "The ending -alli means 'in'. In fast speech: bengalooralli (ಬೆಂಗಳೂರಲ್ಲಿ)." },
+    { "native": "ನಿಮ್ಮ ಊರು ಯಾವುದು?", "roman": "nimma ooru yaavudu?", "english": "Which is your home town?", "literal": "your town which", "note": "ooru is the place your family comes from, not just where you live now." },
+    { "native": "ನಾನು ಕನ್ನಡ ಕಲೀತಿದ್ದೀನಿ.", "roman": "naanu kannada kaleetiddeeni.", "english": "I am learning Kannada.", "literal": "I Kannada am-learning", "note": "Written form: kaliyuttiddene (ಕಲಿಯುತ್ತಿದ್ದೇನೆ). People are delighted to hear this." },
+    { "native": "ಇವರು ನನ್ನ ಸ್ನೇಹಿತರು.", "roman": "ivaru nanna snehitaru.", "english": "This is my friend.", "literal": "this-person my friend", "note": "The plural form is used for one person to show respect." }
+  ]
+}

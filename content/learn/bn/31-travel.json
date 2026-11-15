@@ -1,0 +1,54 @@
+{
+  "id": "travel",
+  "level": "4 · Everyday situations",
+  "title": "Travel and staying somewhere",
+  "description": "Buy tickets, ask about departures and arrivals, find your seat, and take a room in a hotel.",
+  "guide": [
+    {
+      "title": "Tickets and trains",
+      "text": "টিকিট (tikit) ticket. A ticket TO a place uses the possessive: ঢাকার টিকিট, 'Dhaka's ticket'. 'To buy a ticket' is টিকিট কাটা, literally 'to cut a ticket'.\n\nছাড়া (chhaaraa) to leave, depart: ট্রেনটা কখন ছাড়বে? 'When will the train leave?'\nপৌঁছানো (pounchhaano) to arrive, reach: আমরা কখন পৌঁছাব? 'When will we arrive?'\nওঠা (othaa) to get on; নামা (naamaa) to get off.\n\nপ্ল্যাটফর্ম (plyaatphorm) platform; সিট (sit) seat; মালপত্র (maalpotro) luggage; পরের স্টেশন (porer steshon) the next station; দেরি (deri) delay: ট্রেন দেরিতে আসছে, 'the train is running late'.\n\nখালি (khaali) means 'empty, free, vacant': a seat, a room, a taxi.",
+      "examples": [
+        { "native": "ঢাকার একটা টিকিট দিন।", "roman": "dhaakaar ektaa tikit din.", "english": "One ticket to Dhaka, please." },
+        { "native": "ট্রেনটা কখন ছাড়বে?", "roman": "trentaa kokhon chhaarbe?", "english": "When does the train leave?" },
+        { "native": "আমরা কখন পৌঁছাব?", "roman": "aamraa kokhon pounchhaabo?", "english": "When will we arrive?" },
+        { "native": "এই সিটটা কি খালি?", "roman": "ei sittaa ki khaali?", "english": "Is this seat free?" }
+      ]
+    },
+    {
+      "title": "Taking a room",
+      "text": "ঘর (ghor) is a room (in Bangladesh usually রুম, rum). ঘর খালি আছে? 'Is a room free?'\n\nভাড়া (bhaaraa) is the charge: এক রাতের ভাড়া কত? 'one night's rent how much?'\n\nTo say how long you will stay, use থাকা with the number of days or nights: আমরা দুদিন থাকব, 'we will stay two days'. দুদিন (dudin) is 'two days'; তিন রাত, 'three nights'; এক সপ্তাহ, 'a week'.\n\nUseful things to ask about: গরম জল (gorom jol) hot water; এসি (esi) air conditioning; পাখা (paakhaa) fan; চাবি (chaabi) key; তোয়ালে (toyaale) towel.\n\nএই যে (ei je), 'here it is', is what you say when handing something over or pointing it out: এই যে আমার পাসপোর্ট।",
+      "examples": [
+        { "native": "ঘর খালি আছে?", "roman": "ghor khaali aachhe?", "english": "Do you have a room free?" },
+        { "native": "এক রাতের ভাড়া কত?", "roman": "ek raater bhaaraa koto?", "english": "How much is it for one night?" },
+        { "native": "আমরা দুদিন থাকব।", "roman": "aamraa dudin thaakbo.", "english": "We will stay two days." },
+        { "native": "গরম জল আছে?", "roman": "gorom jol aachhe?", "english": "Is there hot water?" },
+        { "native": "এই যে আমার পাসপোর্ট।", "roman": "ei je aamaar paasport.", "english": "Here is my passport." }
+      ]
+    },
+    {
+      "title": "'Where shall I ...?' and 'May I ...?'",
+      "text": "The first-person future as a question asks for instructions: মালপত্র কোথায় রাখব? 'Where shall I put the luggage?'; কোথায় নামব? 'Where should I get off?'; ট্যাক্সি কোথায় পাব? 'Where will I get a taxi?'\n\nFor permission, use the -te form + পারি: ঘরটা একটু দেখতে পারি? 'May I have a look at the room?'\n\nBoth are softened, as always, with একটু.",
+      "examples": [
+        { "native": "মালপত্র কোথায় রাখব?", "roman": "maalpotro kothaay raakhbo?", "english": "Where shall I put the luggage?" },
+        { "native": "ট্যাক্সি কোথায় পাব?", "roman": "tyaaksi kothaay paabo?", "english": "Where can I get a taxi?" },
+        { "native": "ঘরটা একটু দেখতে পারি?", "roman": "ghortaa ektu dekhte paari?", "english": "May I see the room?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ঢাকার একটা টিকিট দিন।", "roman": "dhaakaar ektaa tikit din.", "english": "One ticket to Dhaka, please.", "literal": "Dhaka's one ticket give", "note": "" },
+    { "native": "ট্রেনটা কখন ছাড়বে?", "roman": "trentaa kokhon chhaarbe?", "english": "When does the train leave?", "literal": "train-the when will-leave", "note": "" },
+    { "native": "ট্রেন কোন প্ল্যাটফর্মে আসবে?", "roman": "tren kon plyaatphorme aashbe?", "english": "Which platform will the train come to?", "literal": "train which platform-at will-come", "note": "" },
+    { "native": "আমরা কখন পৌঁছাব?", "roman": "aamraa kokhon pounchhaabo?", "english": "When will we arrive?", "literal": "we when will-arrive", "note": "" },
+    { "native": "এই সিটটা কি খালি?", "roman": "ei sittaa ki khaali?", "english": "Is this seat free?", "literal": "this seat-the (question) empty", "note": "" },
+    { "native": "আমি পরের স্টেশনে নামব।", "roman": "aami porer steshone naambo.", "english": "I'll get off at the next station.", "literal": "I next station-at will-get-down", "note": "" },
+    { "native": "মালপত্র কোথায় রাখব?", "roman": "maalpotro kothaay raakhbo?", "english": "Where shall I put the luggage?", "literal": "luggage where I-will-put", "note": "" },
+    { "native": "ট্যাক্সি কোথায় পাব?", "roman": "tyaaksi kothaay paabo?", "english": "Where can I get a taxi?", "literal": "taxi where I-will-get", "note": "" },
+    { "native": "ঘর খালি আছে?", "roman": "ghor khaali aachhe?", "english": "Do you have a room free?", "literal": "room empty is", "note": "In Bangladesh: রুম (rum)." },
+    { "native": "এক রাতের ভাড়া কত?", "roman": "ek raater bhaaraa koto?", "english": "How much is it for one night?", "literal": "one night's rent how-much", "note": "" },
+    { "native": "আমরা দুদিন থাকব।", "roman": "aamraa dudin thaakbo.", "english": "We will stay two days.", "literal": "we two-days will-stay", "note": "" },
+    { "native": "ঘরটা একটু দেখতে পারি?", "roman": "ghortaa ektu dekhte paari?", "english": "May I see the room?", "literal": "room-the a-little to-see I-can", "note": "" },
+    { "native": "গরম জল আছে?", "roman": "gorom jol aachhe?", "english": "Is there hot water?", "literal": "hot water is", "note": "In Bangladesh: গরম পানি (gorom paani)." },
+    { "native": "এই যে আমার পাসপোর্ট।", "roman": "ei je aamaar paasport.", "english": "Here is my passport.", "literal": "this that my passport", "note": "এই যে is said when handing something over." }
+  ]
+}

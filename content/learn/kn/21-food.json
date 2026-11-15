@@ -1,0 +1,56 @@
+{
+  "id": "food",
+  "level": "4 · Everyday situations",
+  "title": "Food & drink",
+  "description": "Order in a restaurant, ask for things at the table and talk about food.",
+  "guide": [
+    {
+      "title": "Ordering: number + item + kodi",
+      "text": "To order, say how many, what, and ಕೊಡಿ (kodi), 'please give': ondu tee kodi, 'one tea, please'; eradu masaale dose kodi, 'two masala dosas, please'. You can also say nanage ... beku, 'I want ...'.\n\nಹಾಕಿ (haaki) 'put' is used for anything added or served onto the plate: khaara kadime haaki, 'put less chilli'; innoo svalpa saambaar haaki, 'put a little more sambar'.\n\nTo stop someone serving you more, say ಸಾಕು (saaku), 'enough'. To refuse, ಬೇಡ (beda).\n\nUseful words: ನೀರು (neeru) water; ಬಿಸಿ ನೀರು (bisi neeru) hot water; ಹಾಲು (haalu) milk; ಸಕ್ಕರೆ (sakkare) sugar; ಉಪ್ಪು (uppu) salt; ಅನ್ನ (anna) cooked rice; ಮೊಸರು (mosaru) curd, yoghurt; ತರಕಾರಿ (tarakaari) vegetables; ಹಣ್ಣು (hannu) fruit.",
+      "examples": [
+        { "native": "ಒಂದು ಟೀ ಕೊಡಿ.", "roman": "ondu tee kodi.", "english": "One tea, please." },
+        { "native": "ನನಗೆ ಒಂದು ಮಸಾಲೆ ದೋಸೆ ಬೇಕು.", "roman": "nanage ondu masaale dose beku.", "english": "I'd like one masala dosa." },
+        { "native": "ಖಾರ ಕಡಿಮೆ ಹಾಕಿ.", "roman": "khaara kadime haaki.", "english": "Please make it less spicy." },
+        { "native": "ಸಕ್ಕರೆ ಬೇಡ.", "roman": "sakkare beda.", "english": "No sugar." }
+      ]
+    },
+    {
+      "title": "Hunger, thirst and taste",
+      "text": "Hunger and thirst 'happen to you', so the person is in the dative: nanage hasivaagide, 'to me hunger has happened' = 'I am hungry' (hasivu 'hunger' + aagide). nanage baayaarike aagide, 'I am thirsty'.\n\nTaste words: ಖಾರ (khaara) spicy, hot with chilli; ಸಿಹಿ (sihi) sweet; ಹುಳಿ (huli) sour; ಕಹಿ (kahi) bitter; ಉಪ್ಪು (uppu) salt, salty; ಬಿಸಿ (bisi) hot in temperature; ರುಚಿ (ruchi) taste.\n\nTo praise food: ಚೆನ್ನಾಗಿದೆ (chennaagide) 'it is good' or ರುಚಿಯಾಗಿದೆ (ruchiyaagide) 'it is tasty'. chennaagirutte, with irutte instead of ide, means 'is (generally) good' - the form to use when asking for a recommendation.\n\nನಾನು ಸಸ್ಯಾಹಾರಿ (naanu sasyaahaari) is 'I am vegetarian'. In everyday speech people say 'vej' and 'naan-vej'.",
+      "examples": [
+        { "native": "ನನಗೆ ಹಸಿವಾಗಿದೆ.", "roman": "nanage hasivaagide.", "english": "I am hungry." },
+        { "native": "ನನಗೆ ಬಾಯಾರಿಕೆ ಆಗಿದೆ.", "roman": "nanage baayaarike aagide.", "english": "I am thirsty." },
+        { "native": "ಇದು ತುಂಬಾ ಖಾರ.", "roman": "idu tumbaa khaara.", "english": "This is very spicy." },
+        { "native": "ಊಟ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ.", "roman": "oota tumbaa chennaagide.", "english": "The food is very good." },
+        { "native": "ಇಲ್ಲಿ ಏನು ಚೆನ್ನಾಗಿರುತ್ತೆ?", "roman": "illi enu chennaagirutte?", "english": "What is good here?" }
+      ]
+    },
+    {
+      "title": "Meals and the question 'Have you eaten?'",
+      "text": "ಊಟ (oota) is a full meal - lunch or dinner, normally with rice. ತಿಂಡಿ (tindi) is breakfast or a snack: idli, dosa, vada and so on. 'To eat a meal' is oota maadu; 'to have breakfast' is tindi tinnu or tindi maadu.\n\nಊಟ ಆಯ್ತಾ? (oota aaytaa?), 'Is your meal done?', is a standard friendly greeting around midday or in the evening; in the morning it is ತಿಂಡಿ ಆಯ್ತಾ? (tindi aaytaa?). The usual answer is ಆಯ್ತು (aaytu), 'done' - and then you ask back: nimdu? ('yours?').\n\nA guest is always pressed to eat more. ಸಾಕು, ಇನ್ನು ಬೇಡ (saaku, innu beda), 'enough, no more', said with a hand over the plate, is the polite way out.",
+      "examples": [
+        { "native": "ಊಟ ಆಯ್ತಾ?", "roman": "oota aaytaa?", "english": "Have you eaten?" },
+        { "native": "ತಿಂಡಿ ಆಯ್ತಾ?", "roman": "tindi aaytaa?", "english": "Have you had breakfast?" },
+        { "native": "ಆಯ್ತು.", "roman": "aaytu.", "english": "Yes, I have. (done)" },
+        { "native": "ಸಾಕು, ಇನ್ನು ಬೇಡ.", "roman": "saaku, innu beda.", "english": "That's enough, no more." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ನನಗೆ ಹಸಿವಾಗಿದೆ.", "roman": "nanage hasivaagide.", "english": "I am hungry.", "literal": "me-to hunger-has-happened", "note": "hasivu (hunger) + aagide." },
+    { "native": "ನನಗೆ ಬಾಯಾರಿಕೆ ಆಗಿದೆ.", "roman": "nanage baayaarike aagide.", "english": "I am thirsty.", "literal": "me-to thirst has-happened", "note": "" },
+    { "native": "ಸ್ವಲ್ಪ ನೀರು ಕೊಡಿ.", "roman": "svalpa neeru kodi.", "english": "Please give me some water.", "literal": "a-little water give", "note": "The verb ending -i is already polite, so no separate 'please' is needed." },
+    { "native": "ಒಂದು ಟೀ ಕೊಡಿ.", "roman": "ondu tee kodi.", "english": "One tea, please.", "literal": "one tea give", "note": "In Bengaluru tea is 'tee'; in north Karnataka you will hear 'chahaa' (ಚಹಾ)." },
+    { "native": "ನನಗೆ ಒಂದು ಮಸಾಲೆ ದೋಸೆ ಬೇಕು.", "roman": "nanage ondu masaale dose beku.", "english": "I'd like one masala dosa.", "literal": "me-to one masala dosa wanted", "note": "The o of dose is long." },
+    { "native": "ಇಲ್ಲಿ ಏನು ಚೆನ್ನಾಗಿರುತ್ತೆ?", "roman": "illi enu chennaagirutte?", "english": "What is good here?", "literal": "here what good-is", "note": "irutte (rather than ide) for what is generally true. Written: chennaagiruttade (ಚೆನ್ನಾಗಿರುತ್ತದೆ)." },
+    { "native": "ಊಟ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ.", "roman": "oota tumbaa chennaagide.", "english": "The food is very tasty.", "literal": "meal very good-is", "note": "A compliment every cook likes to hear." },
+    { "native": "ನಾನು ಸಸ್ಯಾಹಾರಿ.", "roman": "naanu sasyaahaari.", "english": "I am vegetarian.", "literal": "I vegetarian", "note": "Non-vegetarian: maamsaahaari (ಮಾಂಸಾಹಾರಿ)." },
+    { "native": "ಖಾರ ಕಡಿಮೆ ಹಾಕಿ.", "roman": "khaara kadime haaki.", "english": "Please make it less spicy.", "literal": "spice less put", "note": "" },
+    { "native": "ಸಕ್ಕರೆ ಬೇಡ.", "roman": "sakkare beda.", "english": "No sugar.", "literal": "sugar not-wanted", "note": "Tea and coffee normally come already sweetened, so say this when ordering." },
+    { "native": "ಇನ್ನೂ ಸ್ವಲ್ಪ ಸಾಂಬಾರ್ ಹಾಕಿ.", "roman": "innoo svalpa saambaar haaki.", "english": "A little more sambar, please.", "literal": "still a-little sambar put", "note": "innoo = still, more." },
+    { "native": "ಇದು ಏನು?", "roman": "idu enu?", "english": "What is this?", "literal": "this what", "note": "Often fused: idenu? (ಇದೇನು?)" },
+    { "native": "ಸಾಕು, ಇನ್ನು ಬೇಡ.", "roman": "saaku, innu beda.", "english": "That's enough, I don't want any more.", "literal": "enough, further not-wanted", "note": "saaku = enough; beda (long e) = don't want." },
+    { "native": "ಬಿಲ್ ಕೊಡಿ.", "roman": "bil kodi.", "english": "Please bring the bill.", "literal": "bill give", "note": "" },
+    { "native": "ಊಟ ಆಯ್ತಾ?", "roman": "oota aaytaa?", "english": "Have you eaten?", "literal": "meal happened?", "note": "Literally 'Is your meal done?' - a very common friendly greeting." }
+  ]
+}

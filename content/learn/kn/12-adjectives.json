@@ -1,0 +1,67 @@
+{
+  "id": "adjectives",
+  "level": "2 · How sentences work",
+  "title": "Describing things",
+  "description": "Describe people and things, say 'very' and 'a little', and compare two things.",
+  "guide": [
+    {
+      "title": "Adjectives go before the noun and never change",
+      "text": "A Kannada adjective stands before its noun, as in English, and it does not change for gender, number or case. ದೊಡ್ಡ (dodda) 'big' stays dodda in dodda mane (big house), dodda manegalu (big houses), dodda maneyalli (in the big house).\n\nCommon adjectives: ದೊಡ್ಡ (dodda) big; ಚಿಕ್ಕ (chikka) small; ಒಳ್ಳೆಯ (olleya) good; ಕೆಟ್ಟ (ketta) bad; ಹೊಸ (hosa) new; ಹಳೆಯ (haleya) old (of things); ಬಿಸಿ (bisi) hot; ಉದ್ದ (udda) long, tall.\n\nIn speech olleya and haleya are shortened to olle and hale: olle huduga, 'a good boy'.\n\nColours: ಕೆಂಪು (kempu) red; ಬಿಳಿ (bili) white; ಕಪ್ಪು (kappu) black; ಹಸಿರು (hasiru) green; ನೀಲಿ (neeli) blue; ಹಳದಿ (haladi) yellow. ಬಣ್ಣ (banna) is 'colour'.",
+      "examples": [
+        { "native": "ಇದು ದೊಡ್ಡ ಮನೆ.", "roman": "idu dodda mane.", "english": "This is a big house." },
+        { "native": "ಇದು ಹೊಸ ಫೋನ್.", "roman": "idu hosa fon.", "english": "This is a new phone." },
+        { "native": "ಒಳ್ಳೆಯ ಹುಡುಗ", "roman": "olleya huduga", "english": "a good boy" },
+        { "native": "ಚಿಕ್ಕ ಮಕ್ಕಳು", "roman": "chikka makkalu", "english": "small children" },
+        { "native": "ಕೆಂಪು ಬಣ್ಣ", "roman": "kempu banna", "english": "the colour red" }
+      ]
+    },
+    {
+      "title": "'The house is big': add -du or a person ending",
+      "text": "When the adjective is the last word of the sentence ('is big'), it cannot stand bare. It is turned into a noun meaning 'a big one'.\n\nFor things add -ದು (-du): doddadu (a big one), chikkadu (a small one), hosadu (a new one), haleyadu (an old one), olleyadu (a good one). ee mane doddadu = 'this house (is) a big one'.\n\nFor people add the pronoun endings: -ವನು (-vanu) for a man, -ವಳು (-valu) for a woman, -ವರು (-varu) for respect or plural: olleyavanu (a good man), olleyavalu (a good woman), olleyavaru (a good person / good people).\n\nMany descriptions are not adjectives at all but a noun or adverb plus ide: bisi ide (is hot), doora ide (is far), chennaagide (is good, from chennaagi 'well' + ide), tannagide (is cold, from tannage + ide). Words like sulabha (easy), kashta (difficult), ettara (tall, height), dubaari (expensive) are used as they are, with no ending and no verb: idu sulabha.",
+      "examples": [
+        { "native": "ಈ ಮನೆ ದೊಡ್ಡದು.", "roman": "ee mane doddadu.", "english": "This house is big." },
+        { "native": "ನನ್ನ ರೂಮ್ ಚಿಕ್ಕದು.", "roman": "nanna room chikkadu.", "english": "My room is small." },
+        { "native": "ಆ ಕಾರು ಹಳೆಯದು.", "roman": "aa kaaru haleyadu.", "english": "That car is old." },
+        { "native": "ಅವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು.", "roman": "avaru tumbaa olleyavaru.", "english": "He / She is a very good person." },
+        { "native": "ಕಾಫಿ ಬಿಸಿ ಇದೆ.", "roman": "kaafi bisi ide.", "english": "The coffee is hot." },
+        { "native": "ಇದು ತುಂಬಾ ಸುಲಭ.", "roman": "idu tumbaa sulabha.", "english": "This is very easy." }
+      ]
+    },
+    {
+      "title": "Comparing: -ginta",
+      "text": "Kannada adjectives have no '-er' or 'more' form. To compare, add the ending -ಗಿಂತ (-ginta), 'than', to the thing you are comparing with, and leave the adjective alone: 'this that-than big' = 'this is bigger than that'.\n\n-ginta attaches like the dative ending: adu - ಅದಕ್ಕಿಂತ (adakkinta) than that; idu - idakkinta; naanu - ನನಗಿಂತ (nanaginta) than me; neevu - nimaginta; avanu - avaniginta; maisooru - ಮೈಸೂರಿಗಿಂತ (maisooriginta) than Mysuru; mane - maneginta.\n\nFor 'the most' compare with 'all': ಎಲ್ಲಕ್ಕಿಂತ (ellakkinta) 'than everything' for things, ಎಲ್ಲರಿಗಿಂತ (ellariginta) 'than everyone' for people.\n\nTo say 'more' and 'less' of something, use ಜಾಸ್ತಿ (jaasti) and ಕಡಿಮೆ (kadime).",
+      "examples": [
+        { "native": "ಇದು ಅದಕ್ಕಿಂತ ಚೆನ್ನಾಗಿದೆ.", "roman": "idu adakkinta chennaagide.", "english": "This is better than that." },
+        { "native": "ಅವನು ನನಗಿಂತ ಎತ್ತರ.", "roman": "avanu nanaginta ettara.", "english": "He is taller than me." },
+        { "native": "ಬೆಂಗಳೂರು ಮೈಸೂರಿಗಿಂತ ದೊಡ್ಡದು.", "roman": "bengalooru maisooriginta doddadu.", "english": "Bengaluru is bigger than Mysuru." },
+        { "native": "ಇದು ಎಲ್ಲಕ್ಕಿಂತ ಚಿಕ್ಕದು.", "roman": "idu ellakkinta chikkadu.", "english": "This is the smallest of all." }
+      ]
+    },
+    {
+      "title": "Very, a little, too much",
+      "text": "ತುಂಬಾ (tumbaa) 'very, a lot' goes before the adjective: tumbaa dodda, tumbaa chennaagide.\n\nಸ್ವಲ್ಪ (svalpa) is 'a little, somewhat': svalpa doora, 'a bit far'.\n\nಜಾಸ್ತಿ (jaasti) is 'more, too much': khaara jaasti, 'too spicy'. ಕಡಿಮೆ (kadime) is 'less, too little': sakkare kadime, 'less sugar'.\n\nಇನ್ನೂ (innoo) is 'still, even more': innoo dodda, 'even bigger'.",
+      "examples": [
+        { "native": "ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ.", "roman": "tumbaa chennaagide.", "english": "It is very good." },
+        { "native": "ಸ್ವಲ್ಪ ದೂರ ಇದೆ.", "roman": "svalpa doora ide.", "english": "It is a bit far." },
+        { "native": "ಖಾರ ಜಾಸ್ತಿ ಇದೆ.", "roman": "khaara jaasti ide.", "english": "It is too spicy." }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಇದು ದೊಡ್ಡ ಮನೆ.", "roman": "idu dodda mane.", "english": "This is a big house.", "literal": "this big house", "note": "" },
+    { "native": "ಈ ಮನೆ ದೊಡ್ಡದು.", "roman": "ee mane doddadu.", "english": "This house is big.", "literal": "this house big-one", "note": "At the end of a sentence dodda needs -du." },
+    { "native": "ನನ್ನ ರೂಮ್ ಚಿಕ್ಕದು.", "roman": "nanna room chikkadu.", "english": "My room is small.", "literal": "my room small-one", "note": "" },
+    { "native": "ಅವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು.", "roman": "avaru tumbaa olleyavaru.", "english": "He is a very good person.", "literal": "he(respectful) very good-person", "note": "For a boy: olleyavanu; for a girl: olleyavalu." },
+    { "native": "ಕಾಫಿ ಬಿಸಿ ಇದೆ.", "roman": "kaafi bisi ide.", "english": "The coffee is hot.", "literal": "coffee hot is", "note": "" },
+    { "native": "ನೀರು ತಣ್ಣಗಿದೆ.", "roman": "neeru tannagide.", "english": "The water is cold.", "literal": "water cold-is", "note": "tannage (coldly) + ide." },
+    { "native": "ಇದು ಹೊಸ ಫೋನ್.", "roman": "idu hosa fon.", "english": "This is a new phone.", "literal": "this new phone", "note": "" },
+    { "native": "ಆ ಕಾರು ಹಳೆಯದು.", "roman": "aa kaaru haleyadu.", "english": "That car is old.", "literal": "that car old-one", "note": "haleya is 'old' for things only. An old person is vayassaadavaru (ವಯಸ್ಸಾದವರು)." },
+    { "native": "ಇದು ಅದಕ್ಕಿಂತ ಚೆನ್ನಾಗಿದೆ.", "roman": "idu adakkinta chennaagide.", "english": "This is better than that.", "literal": "this that-than good-is", "note": "" },
+    { "native": "ಅವನು ನನಗಿಂತ ಎತ್ತರ.", "roman": "avanu nanaginta ettara.", "english": "He is taller than me.", "literal": "he me-than tall", "note": "" },
+    { "native": "ಬೆಂಗಳೂರು ಮೈಸೂರಿಗಿಂತ ದೊಡ್ಡದು.", "roman": "bengalooru maisooriginta doddadu.", "english": "Bengaluru is bigger than Mysuru.", "literal": "Bengaluru Mysuru-than big-one", "note": "" },
+    { "native": "ನನಗೆ ಕೆಂಪು ಬಣ್ಣ ಇಷ್ಟ.", "roman": "nanage kempu banna ishta.", "english": "I like the colour red.", "literal": "me-to red colour liking", "note": "" },
+    { "native": "ಇದು ತುಂಬಾ ಸುಲಭ.", "roman": "idu tumbaa sulabha.", "english": "This is very easy.", "literal": "this very easy", "note": "" },
+    { "native": "ಕನ್ನಡ ಕಷ್ಟ ಅಲ್ಲ.", "roman": "kannada kashta alla.", "english": "Kannada is not difficult.", "literal": "Kannada difficult is-not", "note": "" },
+    { "native": "ಇದು ಎಲ್ಲಕ್ಕಿಂತ ಚಿಕ್ಕದು.", "roman": "idu ellakkinta chikkadu.", "english": "This is the smallest of all.", "literal": "this all-than small-one", "note": "" }
+  ]
+}

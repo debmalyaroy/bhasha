@@ -1,0 +1,66 @@
+{
+  "id": "polite-words",
+  "level": "1 · First words",
+  "title": "Yes, no and polite words",
+  "description": "Agree, refuse, get someone's attention and sound polite while doing it.",
+  "guide": [
+    {
+      "title": "Yes and no",
+      "text": "हाँ (haan) is yes and नहीं (naheen) is no. Both end in a nasal vowel: let the sound come through the nose and do not pronounce a clear n. On their own they are casual, fine with friends. With anyone older or unfamiliar add जी: जी हाँ, जी नहीं.\n\nIn practice people often answer a question by repeating its verb instead of saying yes: 'Are you coming?' 'Coming.' And a bare जी (jee) is a very common respectful 'yes'.\n\nA famous gesture: the Indian head wobble, tilting the head from side to side, means 'yes', 'okay' or 'I am listening'. It is not a 'no'.",
+      "examples": [
+        { "native": "हाँ", "roman": "haan", "english": "Yes (casual)" },
+        { "native": "नहीं", "roman": "naheen", "english": "No (casual)" },
+        { "native": "जी हाँ", "roman": "jee haan", "english": "Yes (polite)" },
+        { "native": "जी नहीं", "roman": "jee naheen", "english": "No (polite)" },
+        { "native": "बिलकुल", "roman": "bilkul", "english": "Absolutely" }
+      ]
+    },
+    {
+      "title": "How Hindi says 'please'",
+      "text": "Hindi does have a word for please, कृपया (kripayaa), but it belongs to notices and announcements ('Please stand clear of the doors'). In conversation it sounds stiff.\n\nEveryday politeness is built into the verb. The ending -इए (-iye) turns a verb into a polite request all by itself: आइए (aaiye, 'please come'), बैठिए (baithiye, 'please sit'), सुनिए (suniye, 'please listen'). When English says 'please', Hindi usually just uses this ending together with आप, the polite 'you'.\n\nTo soften a request further add ज़रा (zaraa, 'just a little') at the front: ज़रा सुनिए, 'could you just listen a moment'.",
+      "examples": [
+        { "native": "आइए", "roman": "aaiye", "english": "Please come (in)" },
+        { "native": "बैठिए", "roman": "baithiye", "english": "Please sit down" },
+        { "native": "ज़रा सुनिए", "roman": "zaraa suniye", "english": "Excuse me, could you listen a moment", "literal": "a-little please-listen" },
+        { "native": "कृपया", "roman": "kripayaa", "english": "Please (formal, written)" }
+      ]
+    },
+    {
+      "title": "The many meanings of achchhaa",
+      "text": "अच्छा (achchhaa) literally means 'good', but it is also the commonest reaction word in Hindi and its meaning depends on the tone.\n\nSaid flatly, it is 'okay, fine'. With a rising tone, अच्छा? is 'really? is that so?'. Drawn out, it is 'oh, I see'. At the start of a sentence it is 'well then' or 'right', often used to wind up a conversation: अच्छा, फिर मिलेंगे, 'right, see you then'.\n\nOther handy reaction words are ज़रूर (zaroor, 'certainly'), शायद (shaayad, 'maybe') and बिलकुल (bilkul, 'absolutely'; also spelt बिल्कुल).",
+      "examples": [
+        { "native": "अच्छा", "roman": "achchhaa", "english": "Good / Okay / I see" },
+        { "native": "ज़रूर", "roman": "zaroor", "english": "Certainly" },
+        { "native": "शायद", "roman": "shaayad", "english": "Maybe" },
+        { "native": "अच्छा, फिर मिलेंगे।", "roman": "achchhaa, phir milenge.", "english": "Right, see you again then." }
+      ]
+    },
+    {
+      "title": "Getting someone's attention",
+      "text": "To stop a stranger, a waiter or a shopkeeper, say सुनिए (suniye), literally 'please listen'. It does the job of 'excuse me'.\n\nPeople are also addressed with family words rather than 'sir' or 'madam'. A man of roughly your own age is भैया (bhaiyaa) or भाई साहब (bhaaee saahab), 'brother'; a woman is दीदी (deedee, 'elder sister') or बहन जी (bahan jee); older people are अंकल and आंटी (uncle, aunty). This is friendly and normal, not over-familiar.\n\nWhen someone turns to help you they may say जी, बताइए (jee, bataaiye): 'yes, tell me'.",
+      "examples": [
+        { "native": "सुनिए", "roman": "suniye", "english": "Excuse me (to get attention)" },
+        { "native": "भाई साहब", "roman": "bhaaee saahab", "english": "Sir (literally 'brother sir')" },
+        { "native": "जी, बताइए।", "roman": "jee, bataaiye.", "english": "Yes, how can I help?" },
+        { "native": "पहले आप", "roman": "pahle aap", "english": "After you", "literal": "first you" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "हाँ", "roman": "haan", "english": "Yes (casual)", "note": "The vowel is nasal; do not pronounce a clear n at the end." },
+    { "native": "नहीं", "roman": "naheen", "english": "No (casual)", "note": "Also the word for 'not'." },
+    { "native": "जी", "roman": "jee", "english": "Yes (respectful); with a rising tone, 'Pardon?'", "note": "Also added after names and titles to show respect." },
+    { "native": "कृपया", "roman": "kripayaa", "english": "Please (formal)", "note": "Mostly written or announced. In speech the polite verb ending -iye does the work of 'please'." },
+    { "native": "अच्छा", "roman": "achchhaa", "english": "Good / Okay / I see", "note": "The meaning depends on the tone of voice." },
+    { "native": "बिलकुल", "roman": "bilkul", "english": "Absolutely", "note": "Also spelt बिल्कुल." },
+    { "native": "ज़रूर", "roman": "zaroor", "english": "Certainly, of course" },
+    { "native": "शायद", "roman": "shaayad", "english": "Maybe" },
+    { "native": "सुनिए", "roman": "suniye", "english": "Excuse me (to get attention)", "note": "Literally 'please listen'." },
+    { "native": "जी, बताइए।", "roman": "jee, bataaiye.", "english": "Yes, how can I help?", "literal": "yes, please-tell" },
+    { "native": "आइए", "roman": "aaiye", "english": "Please come (in)" },
+    { "native": "बैठिए", "roman": "baithiye", "english": "Please sit down" },
+    { "native": "पहले आप", "roman": "pahle aap", "english": "After you", "literal": "first you", "note": "Said at a doorway or when offering food. 'pahle' is pronounced 'pehle'." },
+    { "native": "नहीं, शुक्रिया।", "roman": "naheen, shukriyaa.", "english": "No, thank you.", "literal": "no, thanks" },
+    { "native": "कोई बात नहीं।", "roman": "koee baat naheen.", "english": "It's all right. / Never mind.", "literal": "any matter not", "note": "The usual reply to both 'sorry' and 'thank you'." }
+  ]
+}

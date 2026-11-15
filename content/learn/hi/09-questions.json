@@ -1,0 +1,62 @@
+{
+  "id": "questions",
+  "level": "2 · How sentences work",
+  "title": "Asking questions",
+  "description": "Ask yes-or-no questions and use what, who, where, when, why, how, how many and which.",
+  "guide": [
+    {
+      "title": "Yes-or-no questions",
+      "text": "A statement becomes a yes-or-no question in two ways, and the word order does not change in either.\n\n1. Put क्या (kyaa) at the very beginning. Here क्या is not 'what'; it is only a spoken question mark. आप ठीक हैं is 'you are fine'; क्या आप ठीक हैं? is 'are you fine?'.\n\n2. Just raise your voice at the end: आप ठीक हैं? This is what people mostly do in conversation.\n\nTo check that someone agrees, add न (na) at the end, like English 'isn't it?' or 'right?': चाय अच्छी है न?",
+      "examples": [
+        { "native": "क्या आप ठीक हैं?", "roman": "kyaa aap theek hain?", "english": "Are you all right?" },
+        { "native": "आप ठीक हैं?", "roman": "aap theek hain?", "english": "You're all right? (rising tone)" },
+        { "native": "चाय अच्छी है न?", "roman": "chaay achchhee hai na?", "english": "The tea is good, isn't it?" }
+      ]
+    },
+    {
+      "title": "The question words",
+      "text": "Hindi question words all begin with k, as English ones begin with wh.\n\nक्या (kyaa): what. कौन (kaun): who. कहाँ (kahaan): where. कब (kab): when. क्यों (kyon): why. कैसे (kaise): how. कितना (kitnaa): how much. कौन सा (kaun saa): which. किसका (kiskaa): whose.\n\nThe important difference from English is position. The question word does not move to the front. It stays where the answer would be, which normally means just before the verb. 'Where is the market?' is बाज़ार कहाँ है?, 'market where is?', and the answer बाज़ार वहाँ है, 'market there is', has exactly the same shape.\n\nWhen क्या stands just before the verb it means 'what'; when it opens the sentence it is the yes-or-no marker.",
+      "examples": [
+        { "native": "बाज़ार कहाँ है?", "roman": "baazaar kahaan hai?", "english": "Where is the market?", "literal": "market where is" },
+        { "native": "वह क्या है?", "roman": "vah kyaa hai?", "english": "What is that?", "literal": "that what is" },
+        { "native": "आप कब आएँगे?", "roman": "aap kab aaenge?", "english": "When will you come? (to a man)", "literal": "you when will-come" },
+        { "native": "क्या हुआ?", "roman": "kyaa huaa?", "english": "What happened?" }
+      ]
+    },
+    {
+      "title": "Question words that change their ending",
+      "text": "Three question words are adjectives and agree with the noun they refer to, in the usual -aa, -ee, -e pattern.\n\nकैसा, कैसी, कैसे (kaisaa, kaisee, kaise): what kind of, how (is it). कमरा कैसा है? 'How is the room?' चाय कैसी है? 'How is the tea?' The form कैसे is also the adverb 'how, in what way'.\n\nकितना, कितनी, कितने (kitnaa, kitnee, kitne): how much, how many. कितना पानी? 'How much water?' कितनी चीनी? 'How much sugar?' कितने लोग? 'How many people?'\n\nकौन सा, कौन सी, कौन से (kaun saa, kaun see, kaun se): which. कौन सा दिन? 'Which day?' कौन सी किताब? 'Which book?'",
+      "examples": [
+        { "native": "कमरा कैसा है?", "roman": "kamraa kaisaa hai?", "english": "How is the room?" },
+        { "native": "कितने लोग हैं?", "roman": "kitne log hain?", "english": "How many people are there?" },
+        { "native": "आज कौन सा दिन है?", "roman": "aaj kaun saa din hai?", "english": "What day is it today?" },
+        { "native": "आपको कौन सी किताब चाहिए?", "roman": "aapko kaun see kitaab chaahiye?", "english": "Which book do you want?" }
+      ]
+    },
+    {
+      "title": "Who and what before a postposition",
+      "text": "Before a postposition, कौन (who) changes to किस (kis), just as वह changes to उस: किससे (kisse, with whom, from whom), किसको (kisko, to whom), किसका (kiskaa, whose), किसके लिए (kiske liye, for whom).\n\nकिस is also the oblique of 'which': किस कमरे में? 'In which room?' किस तरफ़? 'In which direction?'",
+      "examples": [
+        { "native": "यह किसका है?", "roman": "yah kiskaa hai?", "english": "Whose is this?" },
+        { "native": "आप किससे बात कर रहे हैं?", "roman": "aap kisse baat kar rahe hain?", "english": "Who are you talking to? (to a man)" },
+        { "native": "किस कमरे में?", "roman": "kis kamre mein?", "english": "In which room?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "क्या आप ठीक हैं?", "roman": "kyaa aap theek hain?", "english": "Are you all right?", "literal": "(question) you fine are" },
+    { "native": "वह क्या है?", "roman": "vah kyaa hai?", "english": "What is that?", "literal": "that what is" },
+    { "native": "वहाँ कौन है?", "roman": "vahaan kaun hai?", "english": "Who is there?", "literal": "there who is" },
+    { "native": "बाज़ार कहाँ है?", "roman": "baazaar kahaan hai?", "english": "Where is the market?", "literal": "market where is" },
+    { "native": "आप कब आएँगे?", "roman": "aap kab aaenge?", "english": "When will you come?", "literal": "you when will-come", "note": "To a woman: आप कब आएँगी? (aap kab aaengee?)" },
+    { "native": "आप क्यों हँस रहे हैं?", "roman": "aap kyon hans rahe hain?", "english": "Why are you laughing?", "literal": "you why laugh -ing are", "note": "To a woman: ... हँस रही हैं? (hans rahee hain?)" },
+    { "native": "यह कैसे खुलता है?", "roman": "yah kaise khultaa hai?", "english": "How does this open?", "literal": "this how opening is" },
+    { "native": "कितने लोग हैं?", "roman": "kitne log hain?", "english": "How many people are there?", "literal": "how-many people are" },
+    { "native": "आपको कौन सी किताब चाहिए?", "roman": "aapko kaun see kitaab chaahiye?", "english": "Which book do you want?", "literal": "to-you which book is-wanted" },
+    { "native": "यह किसका है?", "roman": "yah kiskaa hai?", "english": "Whose is this?", "literal": "this whose is" },
+    { "native": "आप किससे बात कर रहे हैं?", "roman": "aap kisse baat kar rahe hain?", "english": "Who are you talking to?", "literal": "you whom-with talk do -ing are", "note": "To a woman: ... कर रही हैं? (kar rahee hain?)" },
+    { "native": "आज कौन सा दिन है?", "roman": "aaj kaun saa din hai?", "english": "What day is it today?", "literal": "today which day is" },
+    { "native": "चाय अच्छी है न?", "roman": "chaay achchhee hai na?", "english": "The tea is good, isn't it?", "literal": "tea good is no" },
+    { "native": "क्या हुआ?", "roman": "kyaa huaa?", "english": "What happened?", "literal": "what happened", "note": "Also the natural way to ask 'What's the matter?'" }
+  ]
+}

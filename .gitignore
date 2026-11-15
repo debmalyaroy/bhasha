@@ -1,0 +1,26 @@
+.gradle/
+build/
+dist/
+models/
+engine/third_party/
+engine/tests/audio/
+engine/tests/out/
+.cxx/
+.kotlin/
+local.properties
+*.iml
+.idea/
+captures/
+*.apk
+*.aab
+
+# downloaded models are never committed
+*.gguf
+*.bin
+*.onnx
+
+# signing keys and their passwords are never committed
+keystore.properties
+*.jks
+*.keystore
+*.p12

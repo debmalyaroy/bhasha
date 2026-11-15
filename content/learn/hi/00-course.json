@@ -1,0 +1,262 @@
+{
+  "code": "hi",
+  "name": "Hindi",
+  "nativeName": "हिन्दी",
+  "script": "Devanagari",
+  "ttsLocale": "hi-IN",
+  "about": [
+    {
+      "title": "How Devanagari works",
+      "text": "Hindi is written in the Devanagari script, from left to right. There are no capital letters. Most letters hang from a horizontal line along the top, and the letters of one word share one continuous line, so the breaks in the line show you where words end.\n\nDevanagari is not an alphabet of separate vowels and consonants like English. Each consonant letter stands for a whole syllable: the consonant plus a short 'a'. So क is not 'k' but 'ka'. To get any other vowel you attach a vowel sign to the consonant. Vowels have a full, independent letter only when they begin a syllable on their own, usually at the start of a word.\n\nThe great advantage for a learner is that Hindi spelling is very regular. Once you know the letters and three or four rules explained below, you can read any word aloud correctly, which you cannot do in English.\n\nA sentence ends with a vertical bar called the danda (।) instead of a full stop. Question marks, commas and exclamation marks are the same as in English.",
+      "examples": [
+        { "native": "क", "roman": "ka", "english": "the letter ka: a consonant with its built-in short a" },
+        { "native": "नाम", "roman": "naam", "english": "name (na + aa sign, then ma with its a silent)" },
+        { "native": "यह घर है।", "roman": "yah ghar hai.", "english": "This is a house. (three words, each under its own line, ending in a danda)" }
+      ]
+    },
+    {
+      "title": "The inherent vowel and the vowel signs",
+      "text": "Every consonant carries the short vowel 'a' (the sound of the a in 'about') unless something changes it. To change it, a vowel sign (called a matra) is written on the consonant: after it, before it, above it or below it.\n\nThere are ten vowel signs to learn, one for each vowel other than 'a'. On the consonant क they look like this: का kaa, कि ki, की kee, कु ku, कू koo, के ke, कै kai, को ko, कौ kau, and कृ kri.\n\nTwo things surprise beginners. First, the sign for short i (ि) is written to the LEFT of its consonant but pronounced AFTER it: कि is 'ki', not 'ik'. Second, र takes the u-signs in the middle of the letter rather than underneath: रु is 'ru' and रू is 'roo'.\n\nVowel length matters and changes meaning. Short a, i, u are quick and relaxed; aa, ee, oo are held about twice as long.",
+      "examples": [
+        { "native": "कम", "roman": "kam", "english": "less" },
+        { "native": "काम", "roman": "kaam", "english": "work" },
+        { "native": "दिन", "roman": "din", "english": "day" },
+        { "native": "दीन", "roman": "deen", "english": "poor, humble" },
+        { "native": "रुपया", "roman": "rupayaa", "english": "rupee (note the shape of ru)" }
+      ]
+    },
+    {
+      "title": "When the built-in 'a' is silent",
+      "text": "Although every consonant letter contains an 'a', Hindi does not pronounce all of them. Dropping it follows two dependable rules.\n\nRule 1: the 'a' of the last consonant of a word is silent. कमल is 'kamal', not 'kamala'; घर is 'ghar'; नाम is 'naam'. A one-letter word keeps its vowel (न 'na').\n\nRule 2: inside a word, the 'a' is usually dropped from a consonant that stands between two pronounced syllables, when the next consonant carries a vowel sign. लड़का is 'larkaa', not 'larakaa'; करना is 'karnaa'; आदमी is 'aadmee'. This is why the same root can sound different in different forms: समझ is 'samajh' but समझा is 'samjhaa'; निकल is 'nikal' but निकला is 'niklaa'.\n\nThe romanisation in this course always shows the word as it is actually spoken, so you can trust it. Where the 'a' is written but silent, it is simply left out of the romanisation.",
+      "examples": [
+        { "native": "कमल", "roman": "kamal", "english": "lotus (final a silent)" },
+        { "native": "लड़का", "roman": "larkaa", "english": "boy (middle a silent)" },
+        { "native": "समझ", "roman": "samajh", "english": "understanding" },
+        { "native": "समझा", "roman": "samjhaa", "english": "understood" },
+        { "native": "नमकीन", "roman": "namkeen", "english": "salty, savoury" }
+      ]
+    },
+    {
+      "title": "Breathy and plain consonants",
+      "text": "English has one 'k', one 'p', one 't'. Hindi has two of each: a plain one and one with a strong puff of breath (aspirated). They are different letters and they change the meaning of a word.\n\nPlain: क ka, च cha, ट ta, त ta, प pa and the voiced ग ga, ज ja, ड da, द da, ब ba. Breathy: ख kha, छ chha, ठ tha, थ tha, फ pha and the voiced घ gha, झ jha, ढ dha, ध dha, भ bha. In the romanisation the breathy ones always have an h.\n\nThe trap: English speakers automatically puff the k, p, t at the start of a word ('kit', 'pin', 'top'). To a Hindi ear that is ख, फ, ठ. For plain क, प, त hold your breath back, as in English 'skin', 'spin', 'stop'. Hold a hand in front of your mouth: for क you should feel almost nothing, for ख a clear puff.\n\nNote that 'th' in this course is never the English 'th' of 'think': it is a t followed by breath. Likewise 'ph' is p plus breath (though many speakers say it as f), and 'chh' is a breathy ch.",
+      "examples": [
+        { "native": "काना", "roman": "kaanaa", "english": "one-eyed" },
+        { "native": "खाना", "roman": "khaanaa", "english": "food; to eat" },
+        { "native": "पल", "roman": "pal", "english": "moment" },
+        { "native": "फल", "roman": "phal", "english": "fruit" },
+        { "native": "बात", "roman": "baat", "english": "matter, talk" },
+        { "native": "भात", "roman": "bhaat", "english": "cooked rice" }
+      ]
+    },
+    {
+      "title": "Tongue on the teeth or curled back",
+      "text": "Hindi has two series of t and d sounds, and neither is quite the English one.\n\nDental: त, थ, द, ध, न. The tip of the tongue touches the back of the upper front teeth, as in Spanish or Italian. These sound soft.\n\nRetroflex: ट, ठ, ड, ढ, ण. The tip of the tongue curls back and touches the roof of the mouth behind the gum ridge. These sound hard and hollow. English t and d sound retroflex to Hindi speakers, which is why English words are written with them: टिकट (ticket), डॉक्टर (doctor).\n\nThere are also two flapped sounds, ड़ and ढ़ (the letters ड and ढ with a dot below). The tongue curls back and flicks forward once, giving a sound between r and d. They never begin a word.\n\nImportant: to stay easy to read and to say, the romanisation in this course does NOT mark the difference. Both त and ट are written 't', both द and ड are 'd', and ड़ is written 'r' (ढ़ is 'rh'). The Devanagari always tells you which one is meant, so read the Hindi spelling, and learn each new word with the right tongue position.",
+      "examples": [
+        { "native": "दाल", "roman": "daal", "english": "lentils (dental d)" },
+        { "native": "डाल", "roman": "daal", "english": "branch (retroflex d)" },
+        { "native": "तीन", "roman": "teen", "english": "three (dental t)" },
+        { "native": "टीन", "roman": "teen", "english": "tin (retroflex t)" },
+        { "native": "बड़ा", "roman": "baraa", "english": "big (flapped r)" }
+      ]
+    },
+    {
+      "title": "Nasal sounds: the dot and the moon-dot",
+      "text": "Two signs written above the line make nasal sounds.\n\nThe chandrabindu (ँ, 'moon-dot') nasalises a vowel: the vowel is spoken through the nose and mouth together, as in French 'bon', and no separate n is pronounced. हाँ (yes), माँ (mother), कहाँ (where), हूँ (am).\n\nThe anusvara (ं, a single dot) properly stands for a nasal consonant before another consonant: n before t, d, k, g, ch, j, and m before p, b. So हिंदी is 'hindee' and लंबा is 'lambaa'. The same words may also be spelt with a half consonant: हिन्दी, लम्बा. Both spellings are correct; the dot is the commoner modern one.\n\nWhen a vowel sign already sits above the line there is no room for the moon, so the plain dot is written even though the vowel is nasalised: मैं (I), में (in), हैं (are), नहीं (not), क्यों (why). You simply learn that these very common words end in a nasal vowel.\n\nIn the romanisation both signs appear as 'n' (or 'm' before p and b). At the end of a word, or before h, s, or a vowel, that n is not a real n: it only tells you to nasalise the vowel before it. So हाँ is 'haan', पाँच is 'paanch' and हैं is 'hain', distinct from है 'hai'.",
+      "examples": [
+        { "native": "हाँ", "roman": "haan", "english": "yes (nasal vowel, no n sound)" },
+        { "native": "है", "roman": "hai", "english": "is" },
+        { "native": "हैं", "roman": "hain", "english": "are (the same vowel, nasalised)" },
+        { "native": "अंडा", "roman": "andaa", "english": "egg (a real n before d)" },
+        { "native": "लंबा", "roman": "lambaa", "english": "long, tall (the dot is m before b)" }
+      ]
+    },
+    {
+      "title": "Joined consonants",
+      "text": "When two consonants come together with no vowel between them, the first one loses its 'a' and the two are written as one joined letter, a conjunct.\n\nMost conjuncts are easy to read: the first consonant loses its right-hand vertical stroke and leans against the second. स + त gives स्त as in नमस्ते (namaste); च + छ gives च्छ as in अच्छा (achchhaa); न + द gives न्द.\n\nA few have special shapes that must be learnt as letters in their own right: क्ष (ksha), त्र (tra), ज्ञ (pronounced gya in Hindi) and श्र (shra).\n\nThe letter र behaves differently. When r comes BEFORE another consonant it is written as a hook above the following letter: गर्म (garm, hot), शर्ट (shart, shirt). When r comes AFTER a consonant it is a small slanting stroke at the foot of that consonant: प्र (pra), क्र (kra); under ट and ड it looks like a little hat: ट्र (tra).\n\nThe sign that removes the 'a' is called the halant or virama (्). You seldom see it printed on its own, but it is what you type between two consonants to join them.\n\nA doubled consonant is really held longer: बच्चा is 'bach-chaa', पक्का is 'pak-kaa'.",
+      "examples": [
+        { "native": "नमस्ते", "roman": "namaste", "english": "hello (s + t joined)" },
+        { "native": "गर्म", "roman": "garm", "english": "hot (r before m, written as a hook on top)" },
+        { "native": "प्रेम", "roman": "prem", "english": "love (r after p, written as a stroke below)" },
+        { "native": "क्षमा", "roman": "kshamaa", "english": "forgiveness" },
+        { "native": "बच्चा", "roman": "bachchaa", "english": "child (hold the ch)" }
+      ]
+    },
+    {
+      "title": "Dotted letters and borrowed sounds",
+      "text": "A dot placed BELOW a letter (the nukta) makes a new sound.\n\nTwo dotted letters, ड़ and ढ़, are native Hindi flaps and are always written with the dot.\n\nFive others spell sounds that came in with Persian, Arabic and English words: ज़ (z), फ़ (f), क़ (q), ख़ (kh as in Scottish 'loch') and ग़ (a gargled g). In everyday speech nearly everyone pronounces z and f, so this course always writes ज़ and फ़ with their dots: ज़रूर (zaroor), फ़ोन (fon). The other three are pronounced as plain क, ख, ग by most speakers and are very often printed without the dot, so in the lessons this course writes them without it: खबर, गलत, कीमत. You will meet both spellings in real life.\n\nYou will also see the dot left off ज़ and फ़ in careless print; a word such as बाज़ार may appear as बाजार. Pronounce the z anyway.\n\nFinally, English words with the short o of 'hot' or 'coffee' are written with a small crescent over the long-a sign: ऑ. डॉक्टर (doctor), कॉफ़ी (coffee), ऑफ़िस (office). It is romanised here as 'o'.",
+      "examples": [
+        { "native": "ज़रूर", "roman": "zaroor", "english": "certainly" },
+        { "native": "साफ़", "roman": "saaf", "english": "clean" },
+        { "native": "सड़क", "roman": "sarak", "english": "road" },
+        { "native": "पढ़ना", "roman": "parhnaa", "english": "to read, to study" },
+        { "native": "कॉफ़ी", "roman": "kofee", "english": "coffee" }
+      ]
+    },
+    {
+      "title": "Where the sound differs from the spelling",
+      "text": "Hindi spelling is regular, but a handful of habits are worth knowing from the first day.\n\n1. Short 'a' next to ह. When a short a comes before ह, and often on both sides of it, it is pronounced like the e in 'get'. So बहन (written bahan) sounds like 'behen', पहले like 'pehle', कहना like 'kehnaa', रहना like 'rehnaa', शहर like 'sheher', and बहुत is often 'bohot'. This course writes these with 'a' (bahan, pahle) so that the romanisation stays regular; say them with the 'e' sound.\n\n2. यह and वह. These two tiny words, 'this' and 'that/he/she', are written yah and vah but in conversation are almost always pronounced 'ye' and 'vo'. Their plurals ये (ye) and वे (ve) are spelt as they sound, though in speech वे is usually 'vo' as well. छह (six) is likewise said 'chhe'.\n\n3. ऐ and औ are not the 'ai' of 'aisle' and the 'ow' of 'cow'. In standard Hindi ऐ is an open e, like the a in 'cat' or the e in 'bed' held long (है, मैं, पैसा), and औ is an open o, like the 'aw' in 'saw' (और, कौन, नौ).\n\n4. ज्ञ is written j + ny but pronounced 'gy': ज्ञान is 'gyaan'.\n\n5. ऋ is pronounced 'ri': ऋषि is 'rishi', कृपया is 'kripayaa'.\n\n6. व lies between English v and w. Use a soft v with the lips barely touching the teeth.\n\n7. Stress is light and even. Do not hammer one syllable as English does; give every syllable its length, long vowels long and short vowels short.",
+      "examples": [
+        { "native": "बहन", "roman": "bahan", "english": "sister (say 'behen')" },
+        { "native": "पहले", "roman": "pahle", "english": "first, before (say 'pehle')" },
+        { "native": "यह", "roman": "yah", "english": "this (usually said 'ye')" },
+        { "native": "वह", "roman": "vah", "english": "that; he, she (usually said 'vo')" },
+        { "native": "ज्ञान", "roman": "gyaan", "english": "knowledge" },
+        { "native": "और", "roman": "aur", "english": "and; more (au as in 'saw')" }
+      ]
+    },
+    {
+      "title": "The romanisation used in this course",
+      "text": "Every Hindi word in this course is also given in Latin letters, always in lower case. The scheme is simple and is used the same way everywhere.\n\nVowels: a (अ, as in 'about'), aa (आ, 'father'), i (इ, 'sit'), ee (ई, 'see'), u (उ, 'put'), oo (ऊ, 'food'), e (ए, like 'day' without the glide), ai (ऐ, open e as in 'bed'), o (ओ, like 'go' without the glide), au (औ, 'saw'), ri (ऋ). The o of English loanwords (ऑ) is also written o.\n\nConsonants: an h after a consonant means a puff of breath: kh, gh, chh, jh, th, dh, ph, bh. 'ch' is always as in 'church', 'g' always as in 'go', 'sh' covers both श and ष, 'v' is व, 'z' is ज़, 'f' is फ़, 'gy' is ज्ञ, 'ksh' is क्ष.\n\nNot marked: dental and retroflex t, th, d, dh, n look the same in romanisation; the flaps ड़ and ढ़ are written r and rh. Check the Devanagari.\n\nNasal vowels: written with n (haan, main, naheen, kyon). A final n after a long vowel in such words is not a full n.\n\nBetween vowels: when two vowels meet, they are written side by side (bhaaee, koee, gaee, aaiye). The polite ending -इए is written 'iye'.\n\nSilent letters are not written (see the section on the silent 'a'), and doubled consonants are written double (achchhaa, bachche, pakkaa).",
+      "examples": [
+        { "native": "अच्छा", "roman": "achchhaa", "english": "good" },
+        { "native": "भाई", "roman": "bhaaee", "english": "brother" },
+        { "native": "नहीं", "roman": "naheen", "english": "no, not" },
+        { "native": "कीजिए", "roman": "keejiye", "english": "please do" },
+        { "native": "ठीक है", "roman": "theek hai", "english": "okay" }
+      ]
+    }
+  ],
+  "letters": [
+    {
+      "group": "Vowels",
+      "note": "The eleven vowels in their traditional order. These full shapes are used when a vowel starts a word or a syllable; after a consonant the vowel is written as a sign instead (see Vowel signs). Schoolbooks add अं and अः to the list; here they are shown under Other signs.",
+      "items": [
+        { "char": "अ", "roman": "a", "example": "अनार", "exampleRoman": "anaar", "exampleMeaning": "pomegranate", "note": "Short and neutral, like the a in 'about' or the u in 'but'. Never the a of 'cat'." },
+        { "char": "आ", "roman": "aa", "example": "आम", "exampleRoman": "aam", "exampleMeaning": "mango", "note": "Long, like the a in 'father'. Hold it twice as long as अ." },
+        { "char": "इ", "roman": "i", "example": "इमली", "exampleRoman": "imlee", "exampleMeaning": "tamarind", "note": "Short, like the i in 'sit'." },
+        { "char": "ई", "roman": "ee", "example": "ईख", "exampleRoman": "eekh", "exampleMeaning": "sugarcane", "note": "Long, like the ee in 'see'." },
+        { "char": "उ", "roman": "u", "example": "उल्लू", "exampleRoman": "ulloo", "exampleMeaning": "owl", "note": "Short, like the u in 'put'." },
+        { "char": "ऊ", "roman": "oo", "example": "ऊन", "exampleRoman": "oon", "exampleMeaning": "wool", "note": "Long, like the oo in 'food'." },
+        { "char": "ऋ", "roman": "ri", "example": "ऋषि", "exampleRoman": "rishi", "exampleMeaning": "sage", "note": "Found only in words taken from Sanskrit. Pronounced 'ri' in Hindi." },
+        { "char": "ए", "roman": "e", "example": "एक", "exampleRoman": "ek", "exampleMeaning": "one", "note": "Like the ay in 'day', but one steady sound that does not slide towards 'ee'." },
+        { "char": "ऐ", "roman": "ai", "example": "ऐनक", "exampleRoman": "ainak", "exampleMeaning": "spectacles", "note": "An open e, like the a in 'cat' or the e in 'bed', held long. Not the sound of English 'eye'." },
+        { "char": "ओ", "roman": "o", "example": "ओखली", "exampleRoman": "okhlee", "exampleMeaning": "mortar (for pounding)", "note": "Like the o in 'go', but one steady sound that does not slide towards 'oo'." },
+        { "char": "औ", "roman": "au", "example": "औरत", "exampleRoman": "aurat", "exampleMeaning": "woman", "note": "An open o, like the aw in 'saw'. Not the ow of 'cow'." }
+      ]
+    },
+    {
+      "group": "Consonants",
+      "note": "The consonants are arranged by where in the mouth they are made, from the throat forward to the lips. Each row of five goes: plain, breathy, voiced, voiced breathy, nasal. Every letter is named with its built-in short a.",
+      "items": [
+        { "char": "क", "roman": "ka", "example": "कमल", "exampleRoman": "kamal", "exampleMeaning": "lotus", "note": "A k with no puff of breath, as in 'skin'." },
+        { "char": "ख", "roman": "kha", "example": "खरगोश", "exampleRoman": "khargosh", "exampleMeaning": "rabbit", "note": "A k with a strong puff of breath, like the k of 'kit' said forcefully." },
+        { "char": "ग", "roman": "ga", "example": "गाय", "exampleRoman": "gaay", "exampleMeaning": "cow", "note": "Always hard, as in 'go'." },
+        { "char": "घ", "roman": "gha", "example": "घर", "exampleRoman": "ghar", "exampleMeaning": "house", "note": "A breathy g, as in 'dog-house' said quickly. Do not confuse it with ध (dha), which has a similar shape but an open top." },
+        { "char": "ङ", "roman": "nga", "example": "गङ्गा", "exampleRoman": "gangaa", "exampleMeaning": "the river Ganga (usually written गंगा)", "note": "The ng of 'sing'. It occurs only before k and g sounds and today is nearly always written as a dot (anusvara) instead." },
+        { "char": "च", "roman": "cha", "example": "चम्मच", "exampleRoman": "chammach", "exampleMeaning": "spoon", "note": "The ch of 'church' without a puff of breath." },
+        { "char": "छ", "roman": "chha", "example": "छाता", "exampleRoman": "chhaataa", "exampleMeaning": "umbrella", "note": "A ch with a strong puff of breath." },
+        { "char": "ज", "roman": "ja", "example": "जहाज़", "exampleRoman": "jahaaz", "exampleMeaning": "ship", "note": "The j of 'jam'. With a dot below (ज़) it becomes z." },
+        { "char": "झ", "roman": "jha", "example": "झंडा", "exampleRoman": "jhandaa", "exampleMeaning": "flag", "note": "A breathy j, as in 'hedgehog' said quickly." },
+        { "char": "ञ", "roman": "nya", "example": "चञ्चल", "exampleRoman": "chanchal", "exampleMeaning": "restless (usually written चंचल)", "note": "The n that naturally comes before ch and j. Today it is nearly always written as a dot (anusvara) instead." },
+        { "char": "ट", "roman": "ta", "example": "टमाटर", "exampleRoman": "tamaatar", "exampleMeaning": "tomato", "note": "Retroflex t: curl the tongue tip back to the roof of the mouth. No puff of breath. Used for the t of English words." },
+        { "char": "ठ", "roman": "tha", "example": "ठंड", "exampleRoman": "thand", "exampleMeaning": "cold", "note": "Retroflex t with a puff of breath. Never the th of 'think'." },
+        { "char": "ड", "roman": "da", "example": "डमरू", "exampleRoman": "damroo", "exampleMeaning": "small hand drum", "note": "Retroflex d, tongue curled back. Used for the d of English words." },
+        { "char": "ढ", "roman": "dha", "example": "ढोल", "exampleRoman": "dhol", "exampleMeaning": "drum", "note": "A breathy retroflex d." },
+        { "char": "ण", "roman": "na", "example": "बाण", "exampleRoman": "baan", "exampleMeaning": "arrow", "note": "Retroflex n, tongue curled back. Found in words from Sanskrit and never at the start of a word; many speakers say an ordinary n." },
+        { "char": "त", "roman": "ta", "example": "तरबूज़", "exampleRoman": "tarbooz", "exampleMeaning": "watermelon", "note": "Dental t: the tongue tip touches the back of the upper teeth. No puff of breath." },
+        { "char": "थ", "roman": "tha", "example": "थाली", "exampleRoman": "thaalee", "exampleMeaning": "plate", "note": "Dental t with a puff of breath. Never the th of 'think'." },
+        { "char": "द", "roman": "da", "example": "दरवाज़ा", "exampleRoman": "darvaazaa", "exampleMeaning": "door", "note": "Dental d: the tongue tip touches the back of the upper teeth." },
+        { "char": "ध", "roman": "dha", "example": "धनुष", "exampleRoman": "dhanush", "exampleMeaning": "bow", "note": "A breathy dental d. Its top is open; compare घ (gha)." },
+        { "char": "न", "roman": "na", "example": "नल", "exampleRoman": "nal", "exampleMeaning": "tap", "note": "An ordinary n, with the tongue on the teeth." },
+        { "char": "प", "roman": "pa", "example": "पतंग", "exampleRoman": "patang", "exampleMeaning": "kite", "note": "A p with no puff of breath, as in 'spin'." },
+        { "char": "फ", "roman": "pha", "example": "फल", "exampleRoman": "phal", "exampleMeaning": "fruit", "note": "A p with a puff of breath. Many speakers pronounce it f. With a dot below (फ़) it is always f." },
+        { "char": "ब", "roman": "ba", "example": "बकरी", "exampleRoman": "bakree", "exampleMeaning": "goat", "note": "An ordinary b. Do not confuse it with व (va), which has no slanting stroke inside the loop." },
+        { "char": "भ", "roman": "bha", "example": "भालू", "exampleRoman": "bhaaloo", "exampleMeaning": "bear", "note": "A breathy b, as in 'clubhouse' said quickly. Its top line is broken; compare म (ma)." },
+        { "char": "म", "roman": "ma", "example": "मछली", "exampleRoman": "machhlee", "exampleMeaning": "fish", "note": "An ordinary m." },
+        { "char": "य", "roman": "ya", "example": "यात्रा", "exampleRoman": "yaatraa", "exampleMeaning": "journey", "note": "The y of 'yes'." },
+        { "char": "र", "roman": "ra", "example": "रस्सी", "exampleRoman": "rassee", "exampleMeaning": "rope", "note": "A lightly tapped r, as in Spanish or Scottish English. It is always pronounced, also at the end of a word and before a consonant." },
+        { "char": "ल", "roman": "la", "example": "लड़का", "exampleRoman": "larkaa", "exampleMeaning": "boy", "note": "A clear l with the tongue on the teeth, as in 'leaf', never the dark l of 'full'." },
+        { "char": "व", "roman": "va", "example": "वन", "exampleRoman": "van", "exampleMeaning": "forest", "note": "Between English v and w: a soft v with the lower lip barely touching the teeth." },
+        { "char": "श", "roman": "sha", "example": "शेर", "exampleRoman": "sher", "exampleMeaning": "lion", "note": "The sh of 'ship'." },
+        { "char": "ष", "roman": "sha", "example": "षट्कोण", "exampleRoman": "shatkon", "exampleMeaning": "hexagon", "note": "Historically a retroflex sh; in modern Hindi it sounds the same as श. Found in words from Sanskrit." },
+        { "char": "स", "roman": "sa", "example": "सेब", "exampleRoman": "seb", "exampleMeaning": "apple", "note": "The s of 'sun'; never z." },
+        { "char": "ह", "roman": "ha", "example": "हाथी", "exampleRoman": "haathee", "exampleMeaning": "elephant", "note": "The h of 'hat'. A short a beside it tends to sound like the e of 'get'." },
+        { "char": "क्ष", "roman": "ksha", "example": "क्षमा", "exampleRoman": "kshamaa", "exampleMeaning": "forgiveness", "note": "A conjunct of क and ष with its own shape, traditionally recited as part of the alphabet." },
+        { "char": "त्र", "roman": "tra", "example": "त्रिशूल", "exampleRoman": "trishool", "exampleMeaning": "trident", "note": "A conjunct of त and र with its own shape." },
+        { "char": "ज्ञ", "roman": "gya", "example": "ज्ञान", "exampleRoman": "gyaan", "exampleMeaning": "knowledge", "note": "A conjunct of ज and ञ, but pronounced 'gy' in Hindi." },
+        { "char": "श्र", "roman": "shra", "example": "श्रीमान", "exampleRoman": "shreemaan", "exampleMeaning": "sir, Mr", "note": "A conjunct of श and र with its own shape." },
+        { "char": "ड़", "roman": "ra", "example": "लड़की", "exampleRoman": "larkee", "exampleMeaning": "girl", "note": "A flap: curl the tongue back and flick it forward once. It sounds between r and d and never begins a word." },
+        { "char": "ढ़", "roman": "rha", "example": "पढ़ना", "exampleRoman": "parhnaa", "exampleMeaning": "to read", "note": "The same flap with a puff of breath. It never begins a word." }
+      ]
+    },
+    {
+      "group": "Vowel signs",
+      "note": "After a consonant, a vowel is written as a sign attached to that consonant. Here each sign is shown on क. With no sign at all the consonant has its built-in short a. Note that the sign for short i stands before the consonant although it is pronounced after it.",
+      "items": [
+        { "char": "का", "roman": "kaa", "example": "काम", "exampleRoman": "kaam", "exampleMeaning": "work", "note": "The sign of आ: a vertical stroke after the consonant." },
+        { "char": "कि", "roman": "ki", "example": "किताब", "exampleRoman": "kitaab", "exampleMeaning": "book", "note": "The sign of इ: written before the consonant, pronounced after it." },
+        { "char": "की", "roman": "kee", "example": "कीमत", "exampleRoman": "keemat", "exampleMeaning": "price", "note": "The sign of ई: written after the consonant." },
+        { "char": "कु", "roman": "ku", "example": "कुत्ता", "exampleRoman": "kuttaa", "exampleMeaning": "dog", "note": "The sign of उ: a small hook below. On र it sits in the middle: रु." },
+        { "char": "कू", "roman": "koo", "example": "कूड़ा", "exampleRoman": "kooraa", "exampleMeaning": "garbage", "note": "The sign of ऊ: a hook below, opening the other way. On र it sits in the middle: रू." },
+        { "char": "कृ", "roman": "kri", "example": "कृपा", "exampleRoman": "kripaa", "exampleMeaning": "kindness, favour", "note": "The sign of ऋ: a small curl below, pronounced 'ri'." },
+        { "char": "के", "roman": "ke", "example": "केला", "exampleRoman": "kelaa", "exampleMeaning": "banana", "note": "The sign of ए: one slanting stroke above." },
+        { "char": "कै", "roman": "kai", "example": "कैंची", "exampleRoman": "kainchee", "exampleMeaning": "scissors", "note": "The sign of ऐ: two slanting strokes above." },
+        { "char": "को", "roman": "ko", "example": "कोयल", "exampleRoman": "koyal", "exampleMeaning": "cuckoo", "note": "The sign of ओ: a vertical stroke with one slanting stroke above." },
+        { "char": "कौ", "roman": "kau", "example": "कौआ", "exampleRoman": "kauaa", "exampleMeaning": "crow", "note": "The sign of औ: a vertical stroke with two slanting strokes above." }
+      ]
+    },
+    {
+      "group": "Other signs",
+      "note": "Signs that are added to a letter: the nasal dot and moon-dot, the visarga, the halant that removes the built-in a, the crescent for the English o, and the dot below (nukta) for borrowed sounds.",
+      "items": [
+        { "char": "अं", "roman": "an", "example": "अंगूर", "exampleRoman": "angoor", "exampleMeaning": "grapes", "note": "Anusvara, the dot above. Before a consonant it is the nasal that fits that consonant (n, ng or m). When a vowel sign already occupies the space above the line it also stands in for the moon-dot, as in मैं and नहीं." },
+        { "char": "अँ", "roman": "an", "example": "अँधेरा", "exampleRoman": "andheraa", "exampleMeaning": "darkness", "note": "Chandrabindu, the moon-dot. The vowel is spoken through the nose; no separate n is pronounced. Compare हँस (hans, 'laugh') with हंस (hans, 'swan'), where the n is a real consonant." },
+        { "char": "अः", "roman": "ah", "example": "अतः", "exampleRoman": "atah", "exampleMeaning": "therefore (formal)", "note": "Visarga, two dots after a letter: a light breath of h. Rare in Hindi, found only in a few words from Sanskrit." },
+        { "char": "क्", "roman": "k", "example": "क्या", "exampleRoman": "kyaa", "exampleMeaning": "what", "note": "Halant (virama), a small stroke below that removes the built-in a. It is seldom printed, but it is what joins two consonants into a conjunct: क् + या = क्या." },
+        { "char": "कॉ", "roman": "ko", "example": "कॉफ़ी", "exampleRoman": "kofee", "exampleMeaning": "coffee", "note": "A crescent over the aa sign spells the short o of English words such as 'hot', 'doctor' and 'office'." },
+        { "char": "ज़", "roman": "za", "example": "ज़मीन", "exampleRoman": "zameen", "exampleMeaning": "ground, land", "note": "ज with a dot below: z as in 'zoo'. Common in everyday words; sometimes printed without the dot." },
+        { "char": "फ़", "roman": "fa", "example": "सफ़ेद", "exampleRoman": "safed", "exampleMeaning": "white", "note": "फ with a dot below: f as in 'fun'. Used for the f of English words too." },
+        { "char": "क़", "roman": "ka", "example": "क़िला", "exampleRoman": "kilaa", "exampleMeaning": "fort", "note": "क with a dot below: a k made far back in the throat (q). Most speakers say an ordinary k, and the dot is often left out." },
+        { "char": "ख़", "roman": "kha", "example": "ख़बर", "exampleRoman": "khabar", "exampleMeaning": "news", "note": "ख with a dot below: a rough sound like the ch of Scottish 'loch'. Most speakers say an ordinary ख, and the dot is often left out." },
+        { "char": "ग़", "roman": "ga", "example": "ग़लत", "exampleRoman": "galat", "exampleMeaning": "wrong", "note": "ग with a dot below: a g gargled far back in the throat. Most speakers say an ordinary ग, and the dot is often left out." }
+      ]
+    },
+    {
+      "group": "Common conjuncts",
+      "note": "Two consonants with no vowel between them are written joined. Usually the first loses its vertical stroke and leans on the second. These are among the most frequent; क्ष, त्र, ज्ञ and श्र are listed with the consonants.",
+      "items": [
+        { "char": "क्य", "roman": "kya", "example": "क्यों", "exampleRoman": "kyon", "exampleMeaning": "why", "note": "क + य." },
+        { "char": "क्क", "roman": "kka", "example": "पक्का", "exampleRoman": "pakkaa", "exampleMeaning": "firm, certain", "note": "Double क: hold the k." },
+        { "char": "क्त", "roman": "kta", "example": "वक्त", "exampleRoman": "vakt", "exampleMeaning": "time", "note": "क + त." },
+        { "char": "च्छ", "roman": "chchha", "example": "अच्छा", "exampleRoman": "achchhaa", "exampleMeaning": "good", "note": "च + छ: a held ch released with breath." },
+        { "char": "च्च", "roman": "chcha", "example": "बच्चा", "exampleRoman": "bachchaa", "exampleMeaning": "child", "note": "Double च: hold the ch." },
+        { "char": "ट्ट", "roman": "tta", "example": "छुट्टी", "exampleRoman": "chhuttee", "exampleMeaning": "holiday, day off", "note": "Double retroflex ट, written one above the other." },
+        { "char": "ड्ड", "roman": "dda", "example": "अड्डा", "exampleRoman": "addaa", "exampleMeaning": "stand, base (as in bus stand)", "note": "Double retroflex ड, written one above the other." },
+        { "char": "त्त", "roman": "tta", "example": "उत्तर", "exampleRoman": "uttar", "exampleMeaning": "answer; north", "note": "Double dental त." },
+        { "char": "द्ध", "roman": "ddha", "example": "शुद्ध", "exampleRoman": "shuddh", "exampleMeaning": "pure", "note": "द + ध, with ध tucked under द." },
+        { "char": "द्य", "roman": "dya", "example": "विद्यालय", "exampleRoman": "vidyaalay", "exampleMeaning": "school", "note": "द + य." },
+        { "char": "द्व", "roman": "dva", "example": "द्वार", "exampleRoman": "dvaar", "exampleMeaning": "gate, doorway", "note": "द + व, with व tucked under द." },
+        { "char": "न्द", "roman": "nda", "example": "हिन्दी", "exampleRoman": "hindee", "exampleMeaning": "Hindi (also written हिंदी)", "note": "न + द. Usually replaced by the dot: हिंदी." },
+        { "char": "न्य", "roman": "nya", "example": "धन्यवाद", "exampleRoman": "dhanyavaad", "exampleMeaning": "thank you", "note": "न + य." },
+        { "char": "प्य", "roman": "pya", "example": "प्यार", "exampleRoman": "pyaar", "exampleMeaning": "love", "note": "प + य." },
+        { "char": "प्र", "roman": "pra", "example": "प्रेम", "exampleRoman": "prem", "exampleMeaning": "love", "note": "प + र: an r after a consonant is a slanting stroke at its foot." },
+        { "char": "क्र", "roman": "kra", "example": "क्रिकेट", "exampleRoman": "kriket", "exampleMeaning": "cricket", "note": "क + र." },
+        { "char": "ट्र", "roman": "tra", "example": "ट्रेन", "exampleRoman": "tren", "exampleMeaning": "train", "note": "ट + र: under ट and ड the r looks like a small hat." },
+        { "char": "र्म", "roman": "rma", "example": "गर्म", "exampleRoman": "garm", "exampleMeaning": "hot", "note": "र + म: an r before a consonant is a hook above the following letter. Read the hook first." },
+        { "char": "ब्द", "roman": "bda", "example": "शब्द", "exampleRoman": "shabd", "exampleMeaning": "word", "note": "ब + द." },
+        { "char": "ल्ल", "roman": "lla", "example": "बिल्ली", "exampleRoman": "billee", "exampleMeaning": "cat", "note": "Double ल: hold the l." },
+        { "char": "श्च", "roman": "shcha", "example": "पश्चिम", "exampleRoman": "pashchim", "exampleMeaning": "west", "note": "श + च." },
+        { "char": "ष्ट", "roman": "shta", "example": "कष्ट", "exampleRoman": "kasht", "exampleMeaning": "trouble, hardship", "note": "ष + ट." },
+        { "char": "स्त", "roman": "sta", "example": "नमस्ते", "exampleRoman": "namaste", "exampleMeaning": "hello", "note": "स + त." },
+        { "char": "स्थ", "roman": "stha", "example": "स्थान", "exampleRoman": "sthaan", "exampleMeaning": "place", "note": "स + थ." },
+        { "char": "स्व", "roman": "sva", "example": "स्वाद", "exampleRoman": "svaad", "exampleMeaning": "taste", "note": "स + व." }
+      ]
+    },
+    {
+      "group": "Numerals",
+      "note": "The Devanagari digits. In everyday India the international digits 0-9 are used far more often, on price tags, phones and money, but you will meet these in Hindi newspapers, books and official papers.",
+      "items": [
+        { "char": "०", "roman": "shoonya", "example": "शून्य", "exampleRoman": "shoonya", "exampleMeaning": "zero (0)", "note": "Final conjuncts keep a faint a so that they can be pronounced." },
+        { "char": "१", "roman": "ek", "example": "एक", "exampleRoman": "ek", "exampleMeaning": "one (1)" },
+        { "char": "२", "roman": "do", "example": "दो", "exampleRoman": "do", "exampleMeaning": "two (2)" },
+        { "char": "३", "roman": "teen", "example": "तीन", "exampleRoman": "teen", "exampleMeaning": "three (3)" },
+        { "char": "४", "roman": "chaar", "example": "चार", "exampleRoman": "chaar", "exampleMeaning": "four (4)" },
+        { "char": "५", "roman": "paanch", "example": "पाँच", "exampleRoman": "paanch", "exampleMeaning": "five (5)" },
+        { "char": "६", "roman": "chhah", "example": "छह", "exampleRoman": "chhah", "exampleMeaning": "six (6)", "note": "Usually pronounced 'chhe'." },
+        { "char": "७", "roman": "saat", "example": "सात", "exampleRoman": "saat", "exampleMeaning": "seven (7)" },
+        { "char": "८", "roman": "aath", "example": "आठ", "exampleRoman": "aath", "exampleMeaning": "eight (8)" },
+        { "char": "९", "roman": "nau", "example": "नौ", "exampleRoman": "nau", "exampleMeaning": "nine (9)" }
+      ]
+    }
+  ]
+}

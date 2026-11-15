@@ -1,0 +1,257 @@
+{
+  "code": "bn",
+  "name": "Bengali",
+  "nativeName": "বাংলা",
+  "script": "Bengali",
+  "ttsLocale": "bn-IN",
+  "about": [
+    {
+      "title": "How the script works",
+      "text": "Bengali is written from left to right. There are no capital letters. Most letters hang from a horizontal line along the top called the maatraa; a few letters (such as এ, ঐ, ও, ঙ, ঞ, ৎ) have no top line at all, and several (খ, গ, ণ, থ, ধ, প, শ) have a line with a gap in it - these gaps are part of the letter, not sloppy handwriting.\n\nThe script is not an alphabet in the English sense. Each consonant letter stands for a consonant plus a built-in vowel, so ক is not 'k' but 'ko'. To get a different vowel you attach a vowel sign to the consonant: কা kaa, কি ki, কে ke. A vowel has a full, independent letter only when it starts a word or follows another vowel: আম (aam, mango), but নাম (naam, name) with the sign.\n\nA sentence ends with the daanri (।) instead of a full stop. The question mark, comma and exclamation mark are the same as in English.\n\nThe traditional order of the letters is scientific: vowels first, then consonants grouped by where in the mouth they are made, from the throat (ক) forward to the lips (ম). Learning them in rows of five makes the sounds much easier to remember.",
+      "examples": [
+        { "native": "আম", "roman": "aam", "english": "mango (independent vowel at the start of a word)" },
+        { "native": "নাম", "roman": "naam", "english": "name (the same vowel as a sign after n)" },
+        { "native": "আমি বাংলা শিখছি।", "roman": "aami baanglaa shikhchhi.", "english": "I am learning Bengali." }
+      ]
+    },
+    {
+      "title": "The built-in vowel: o, and when it disappears",
+      "text": "The vowel built into every consonant is written অ when it stands alone. It is NOT the 'a' of Hindi or Sanskrit. It has two pronunciations: an open sound like the 'o' in British English 'hot', and a closed sound like the 'o' in 'go' said short and without gliding. This course writes both as o, because the difference never changes the meaning of the words taught here; copy the audio.\n\nA rough guide: the closed 'o' is used when the next syllable has i or u (অতি oti, মধু modhu), before ক্ষ, জ্ঞ and a য-ফলা (লক্ষ lokkho, সত্য shotto), and at the end of a word. Elsewhere, especially in the first syllable, it is usually the open 'o' (গরম gorom, কলম kolom).\n\nThe hard part is knowing when the built-in vowel is silent, because the spelling does not show it.\n\n1. At the end of a word it is usually silent: নাম is naam, not naamo; ফল is phol.\n\n2. It IS pronounced at the end after a conjunct (গল্প golpo, শান্ত shaanto), in many common adjectives and number words (ছোট chhoto, বড় boro, কত koto, এত eto), and in verb endings (করব korbo, করল korlo, করত korto). Modern spelling often writes this final o openly with ো: ভালো bhaalo, এগারো egaaro, করো koro.\n\n3. In the middle of a word it is often dropped to keep the rhythm: আমরা is aamraa, করতে is korte, জানলা is jaanlaa.\n\nThe romanisation in this course always shows what is actually said, so when in doubt, trust the roman line.",
+      "examples": [
+        { "native": "নাম", "roman": "naam", "english": "name (final vowel silent)" },
+        { "native": "গরম", "roman": "gorom", "english": "hot (both o's are said; the built-in vowel of the final m is silent)" },
+        { "native": "গল্প", "roman": "golpo", "english": "story (said after a conjunct)" },
+        { "native": "ছোট", "roman": "chhoto", "english": "small (final o said, though not written)" },
+        { "native": "ভালো", "roman": "bhaalo", "english": "good (final o written with a vowel sign)" },
+        { "native": "আমরা", "roman": "aamraa", "english": "we (the middle vowel is dropped)" }
+      ]
+    },
+    {
+      "title": "Vowel signs",
+      "text": "Every vowel except অ has two shapes: a full letter, and a sign (called a kaar) that attaches to a consonant. The sign replaces the built-in o.\n\nThe signs do not all sit to the right of the consonant. আ-কার ( া ) goes on the right; ই-কার ( ি ) is written on the LEFT although it is spoken after the consonant; ঈ-কার ( ী ) goes on the right; উ, ঊ and ঋ signs hang below; এ-কার ( ে ) and ঐ-কার ( ৈ ) go on the left; ও-কার ( ো ) and ঔ-কার ( ৌ ) wrap around both sides. So কি is ki and কে is ke, even though the sign is written first.\n\nA few consonant + vowel combinations have special shapes you simply have to recognise: গু (gu), রু (ru), রূ (roo), শু (shu), হু (hu), হৃ (hri).\n\nLong and short: ই / ঈ and উ / ঊ were once short and long, but in modern Bengali both members of each pair sound the same. The spelling still matters (it is how you tell কি 'whether' from কী 'what'), and this course keeps it visible by writing i for ই and ee for ঈ, u for উ and oo for ঊ. Do not lengthen ee and oo as you would in English.",
+      "examples": [
+        { "native": "কি", "roman": "ki", "english": "(yes/no question word) - sign written on the left" },
+        { "native": "কী", "roman": "kee", "english": "what - same sound, different spelling" },
+        { "native": "কে", "roman": "ke", "english": "who - sign on the left" },
+        { "native": "কো", "roman": "ko", "english": "the syllable ko - sign on both sides" },
+        { "native": "গুরু", "roman": "guru", "english": "teacher, guru (special shapes of gu and ru)" }
+      ]
+    },
+    {
+      "title": "Breathy and plain consonants",
+      "text": "Bengali consonants come in pairs: a plain one and an aspirated one said with a strong puff of breath - ক k / খ kh, গ g / ঘ gh, চ ch / ছ chh, জ j / ঝ jh, ট t / ঠ th, ড d / ঢ dh, ত t / থ th, দ d / ধ dh, প p / ফ ph, ব b / ভ bh.\n\nThe difference changes meaning, so it must be heard and made. English k, t, p at the start of a word are already slightly breathy; the Bengali plain ক, ত, প have NO puff (like the k in 'sky', the t in 'stop', the p in 'spin'), and খ, থ, ফ have much more.\n\nIn the romanisation, h after a consonant always means this puff of breath. So th is never the English 'th' of 'think', and ph is not necessarily 'f' (though many speakers do say ফ as f, and ভ close to v). The pair written ch / chh is চ / ছ: ch is like the ch in 'church' without breath, chh the same with breath.",
+      "examples": [
+        { "native": "কাল", "roman": "kaal", "english": "tomorrow / yesterday" },
+        { "native": "খাল", "roman": "khaal", "english": "canal" },
+        { "native": "পাকা", "roman": "paakaa", "english": "ripe" },
+        { "native": "পাখা", "roman": "paakhaa", "english": "fan" },
+        { "native": "বাত", "roman": "baat", "english": "rheumatism" },
+        { "native": "ভাত", "roman": "bhaat", "english": "cooked rice" }
+      ]
+    },
+    {
+      "title": "Two kinds of t and d, and two kinds of r",
+      "text": "Bengali has two rows of t/d sounds. The dental row - ত থ দ ধ ন - is made with the tip of the tongue touching the back of the upper teeth (like t and d in Spanish or Italian). The retroflex row - ট ঠ ড ঢ ণ - is made with the tongue tip further back, on the ridge behind the teeth, and sounds close to the English t and d. English words borrowed into Bengali are therefore spelt with the retroflex letters: টেবিল (table), ডাক্তার (doctor).\n\nThis course does NOT mark the difference in the romanisation: both ত and ট are written t, both দ and ড are d. That keeps the roman line easy to read, but it means you must learn this distinction from the Bengali spelling and the audio. Pairs such as সাত shaat (seven) and ষাট shaat (sixty) differ only in the kind of t.\n\nThere are also two r sounds. র is a light tap of the tongue. ড় is a flap: the tongue curls back and flicks forward, a sound between r and d. Both are written r here. ঢ় is the breathy version (written rh) and is rare.",
+      "examples": [
+        { "native": "তালা", "roman": "taalaa", "english": "lock (dental t)" },
+        { "native": "টাকা", "roman": "taakaa", "english": "money, rupee, taka (retroflex t)" },
+        { "native": "দাম", "roman": "daam", "english": "price (dental d)" },
+        { "native": "ডাব", "roman": "daab", "english": "green coconut (retroflex d)" },
+        { "native": "বাড়ি", "roman": "baari", "english": "house, home (flapped r)" },
+        { "native": "বারি", "roman": "baari", "english": "water (a literary word; tapped r)" }
+      ]
+    },
+    {
+      "title": "Nasal sounds",
+      "text": "The chondrobindu ( ঁ ) written over a letter means that the vowel is spoken through the nose, as in French 'bon'. It is not a separate n sound. This course writes it as an n after the vowel: চাঁদ chaand (moon), পাঁচ paanch (five), হ্যাঁ hyaan (yes). So an n directly after a vowel and before another consonant in the roman line is often only a nasal colouring - check the Bengali spelling.\n\nNasalisation carries meaning and respect. তার (taar) is 'his/her'; তাঁর (taanr) is the respectful form. বাধা (baadhaa) is 'obstacle'; বাঁধা (baandhaa) is 'tied'.\n\nThe sound ng (as in 'sing') is written with ঙ or with the sign ং: রং rong (colour), বাংলা baanglaa. In ঙ্গ a hard g usually follows the ng. The letter ঞ occurs almost only in the conjuncts ঞ্চ (nch) and ঞ্জ (nj), where it is simply an n.\n\nণ and ন are both pronounced n in modern Bengali.",
+      "examples": [
+        { "native": "চাঁদ", "roman": "chaand", "english": "moon (nasal vowel, no real n)" },
+        { "native": "তাঁর", "roman": "taanr", "english": "his / her (respectful)" },
+        { "native": "তার", "roman": "taar", "english": "his / her (ordinary)" },
+        { "native": "রং", "roman": "rong", "english": "colour" },
+        { "native": "বাংলা", "roman": "baanglaa", "english": "Bengali (language)" }
+      ]
+    },
+    {
+      "title": "Conjuncts and letters you do not pronounce",
+      "text": "When two consonants come together with no vowel between them, they are written as one combined shape, a conjunct (juktaakkhor). Many are easy to recognise - the first letter is squeezed on top of or beside the second (স্ত = স + ত, ন্ধ = ন + ধ). A few must be learnt as shapes: ক্ষ (ক + ষ), জ্ঞ (জ + ঞ), ঞ্চ, ঙ্গ, ত্র, ক্র, হ্ম.\n\nSeveral conjuncts are not pronounced the way they are spelt. These are the ones every reader must know.\n\nক্ষ is kh at the start of a word and kkh in the middle: ক্ষমা khomaa, শিক্ষক shikkhok. There is no s sound in it.\n\nজ্ঞ is g at the start of a word and gg in the middle, and it often turns a following aa into the vowel of 'cat': জ্ঞান gyaan, বিজ্ঞান biggaan.\n\nয-ফলা ( ্য ), the hook written after a consonant: at the start of a word it is silent or changes the vowel to the 'a' of 'cat' (ব্যথা byathaa, ব্যাগ byaag - the y in the roman line stands for that vowel change). In the middle of a word it doubles the consonant before it: অন্য onno, সত্য shotto, ধন্যবাদ dhonnobaad.\n\nব-ফলা (a small ব under a consonant) is silent at the start of a word and doubles the consonant in the middle: স্বামী shaamee, জ্বর jor, বিশ্বাস bisshaash. (In ম্ব and in ব্ব the b is real: লম্বা lombaa.)\n\nম-ফলা behaves the same way in many words: স্মৃতি sriti, পদ্ম poddo, আত্মীয় aatteeyo. (But it is a real m after ন, ণ, ল, ম, ঙ, গ and others: জন্ম jonmo.)\n\nThe bishorgo ( ঃ ) in the middle of a word doubles the next consonant: দুঃখ dukkho.\n\nর has two special forms: রেফ, a stroke above the following consonant when r comes first (কর্ম kormo), and র-ফলা, a stroke below when r comes second (প্রথম prothom).",
+      "examples": [
+        { "native": "ক্ষমা", "roman": "khomaa", "english": "forgiveness" },
+        { "native": "শিক্ষক", "roman": "shikkhok", "english": "teacher" },
+        { "native": "বিজ্ঞান", "roman": "biggaan", "english": "science" },
+        { "native": "ধন্যবাদ", "roman": "dhonnobaad", "english": "thank you" },
+        { "native": "স্বামী", "roman": "shaamee", "english": "husband" },
+        { "native": "দুঃখ", "roman": "dukkho", "english": "sorrow" }
+      ]
+    },
+    {
+      "title": "Different letters, same sound",
+      "text": "Bengali spelling preserves distinctions from Sanskrit that are no longer spoken. For reading you only need to know that these letters sound alike; for writing, the spelling of each word has to be learnt.\n\nশ, ষ and স are all pronounced sh in native words: শাক shaak, ষাট shaat, সাত shaat. They become a true s only in certain conjuncts - before ত, থ, ন, র, ল (রাস্তা raastaa, স্নান snaan, শ্রী sree, প্রশ্ন prosno) - and in many English loanwords (বাস baas 'bus', সাইজ saaij 'size'). The romanisation shows which is said.\n\nজ and য are both j: জল jol, যাই jaai. The letter য় (with a dot) is different: it is a y-glide between vowels or at the end of a word (সময় shomoy, মেয়ে meye). After ও it sounds like a w, so ওয়া is written owaa: খাওয়া khaaowaa.\n\nন and ণ are both n. ই / ঈ are both i; উ / ঊ are both u (written i / ee and u / oo here only to mirror the spelling). ত and ৎ are the same t; ৎ is the form used when no vowel follows. ঙ and ং are the same ng.\n\nThe vowel এ has two sounds: usually the e of 'bed', but in many common words the a of 'cat' - এক (one), কেন (why), কেমন (how), দেখা (to see), এখন (now), খেলা (to play). The same 'cat' vowel is spelt অ্যা at the start of loanwords (অ্যাম্বুলেন্স). This course writes এ as e in both cases and tells you in a note when it is the 'cat' sound.",
+      "examples": [
+        { "native": "সাত", "roman": "shaat", "english": "seven (the letter looks like s, said sh)" },
+        { "native": "রাস্তা", "roman": "raastaa", "english": "road (a true s before t)" },
+        { "native": "যাই", "roman": "jaai", "english": "I go (the letter y, said j)" },
+        { "native": "সময়", "roman": "shomoy", "english": "time (dotted letter, said y)" },
+        { "native": "খাওয়া", "roman": "khaaowaa", "english": "to eat, eating (w-glide)" },
+        { "native": "এক", "roman": "ek", "english": "one (the e is the a of 'cat')" }
+      ]
+    },
+    {
+      "title": "The romanisation used in this course",
+      "text": "The roman line shows how a phrase is pronounced, not how it is spelt letter by letter. It is always in lower case.\n\nVowels: o = অ (built-in vowel) and ও; aa = আ, the a of 'father'; i = ই and ee = ঈ, both the i of 'machine' said short; u = উ and oo = ঊ, both the u of 'put'; e = এ (see the note on its two sounds); oi = ঐ; ou = ঔ; ri = ঋ. A single a (in ya, yaa, or at the start of a loanword) is the a of 'cat': byaag, hyaan, ambulens. When two vowels stand together, say both: khaai = khaa-i, jaao = jaa-o, dii = di-i.\n\nConsonants: k kh g gh ng; ch chh j jh; t th d dh n (for both the dental and the retroflex rows); p ph b bh m; r (র and ড়), rh (ঢ়), l; sh (শ ষ স), s where a true s is said; h; j also for য; y for য়; w for the glide in ওয়া.\n\nh after a consonant = a puff of breath (kh, gh, chh, jh, th, dh, ph, bh). The one exception is sh.\n\nn after a vowel can be the nasal sign: paanch, hyaan, taanr.\n\nA doubled consonant is held longer: onno, dukkho, bisshaash. The cluster চ্ছ is written chchh (aachchhaa), since chh is already one sound.\n\nThe two forms নও ('you are not') and হও ('you become') are written nou and hou; say no-o and ho-o.\n\nThe built-in vowel is written only where it is said: naam, gorom, golpo.",
+      "examples": [
+        { "native": "আপনি কেমন আছেন?", "roman": "aapni kemon aachhen?", "english": "How are you?" },
+        { "native": "আচ্ছা", "roman": "aachchhaa", "english": "all right, I see" },
+        { "native": "পাঁচ টাকা", "roman": "paanch taakaa", "english": "five rupees" },
+        { "native": "অন্য", "roman": "onno", "english": "other" }
+      ]
+    },
+    {
+      "title": "Kolkata and Dhaka",
+      "text": "This course teaches the standard colloquial language (cholito bhaashaa) as spoken in Kolkata and West Bengal. It is understood everywhere Bengali is spoken, including Bangladesh, and the grammar and almost all of the vocabulary are shared.\n\nThe differences you will notice first are a handful of everyday words. West Bengal says জল (jol) for water, Bangladesh says পানি (paani). Other pairs: নুন / লবণ (salt), স্নান / গোসল (bath), মাংস / গোশত (meat), জলখাবার / নাস্তা (breakfast, snack), নমস্কার / আসসালামু আলাইকুম (greeting), দাদা / ভাই or ভাইয়া (elder brother), দিদি / আপা (elder sister), সঙ্গে / সাথে (with), নেমন্তন্ন / দাওয়াত (invitation). Many of these follow religion as much as geography.\n\nSome verb forms differ slightly: Kolkata prefers the shortened forms taught here (গেছি gechhi, ঘুমোচ্ছে ghumochchhe, তিনটে tinte), where Bangladesh standard prefers the fuller ones (গিয়েছি, ঘুমাচ্ছে, তিনটা).\n\nThe unit notes point out the variants that matter. Whichever you use, you will be understood on both sides of the border.",
+      "examples": [
+        { "native": "জল", "roman": "jol", "english": "water (West Bengal)" },
+        { "native": "পানি", "roman": "paani", "english": "water (Bangladesh)" },
+        { "native": "নুন", "roman": "nun", "english": "salt (West Bengal)" },
+        { "native": "লবণ", "roman": "lobon", "english": "salt (Bangladesh, and formal everywhere)" }
+      ]
+    }
+  ],
+  "letters": [
+    {
+      "group": "Vowels",
+      "note": "The eleven vowels as full letters, used at the start of a word or after another vowel. After a consonant each one (except অ, which is built in) is written as a sign instead - see 'Vowel signs'.",
+      "items": [
+        { "char": "অ", "roman": "o", "example": "অজগর", "exampleRoman": "ojogor", "exampleMeaning": "python", "note": "The vowel built into every consonant. Like the o of 'hot', or a short closed o as in 'go'. Never the a of Hindi." },
+        { "char": "আ", "roman": "aa", "example": "আম", "exampleRoman": "aam", "exampleMeaning": "mango", "note": "The a of 'father'." },
+        { "char": "ই", "roman": "i", "example": "ইলিশ", "exampleRoman": "ilish", "exampleMeaning": "hilsa fish", "note": "Called 'short i' (hrossho i). The i of 'machine', said short." },
+        { "char": "ঈ", "roman": "ee", "example": "ঈগল", "exampleRoman": "eegol", "exampleMeaning": "eagle", "note": "Called 'long i' (deergho ee), but pronounced exactly like ই today." },
+        { "char": "উ", "roman": "u", "example": "উট", "exampleRoman": "ut", "exampleMeaning": "camel", "note": "Called 'short u' (hrossho u). The u of 'put'." },
+        { "char": "ঊ", "roman": "oo", "example": "ঊষা", "exampleRoman": "ooshaa", "exampleMeaning": "dawn", "note": "Called 'long u' (deergho oo), but pronounced exactly like উ today." },
+        { "char": "ঋ", "roman": "ri", "example": "ঋষি", "exampleRoman": "rishi", "exampleMeaning": "sage", "note": "Counted as a vowel for historical reasons; pronounced ri. Found in Sanskrit-derived words." },
+        { "char": "এ", "roman": "e", "example": "একতারা", "exampleRoman": "ektaaraa", "exampleMeaning": "one-stringed folk instrument", "note": "Usually the e of 'bed'; in some common words (including এক 'one' and this example) the a of 'cat'." },
+        { "char": "ঐ", "roman": "oi", "example": "ঐরাবত", "exampleRoman": "oiraabot", "exampleMeaning": "Airavata, the mythical elephant", "note": "A glide from o to i, like the oi of 'boil' with a closed o." },
+        { "char": "ও", "roman": "o", "example": "ওষুধ", "exampleRoman": "oshudh", "exampleMeaning": "medicine", "note": "Always the closed o of 'go', without the English glide to u." },
+        { "char": "ঔ", "roman": "ou", "example": "ঔষধ", "exampleRoman": "oushodh", "exampleMeaning": "medicine (formal)", "note": "A glide from o to u, like 'oh' said with rounded lips at the end." }
+      ]
+    },
+    {
+      "group": "Consonants",
+      "note": "Each letter is named and read with its built-in vowel: ক is 'ko'. The first twenty-five are arranged in rows of five by place in the mouth: throat, palate, retroflex, teeth, lips. In each row: plain, breathy, voiced, voiced breathy, nasal.",
+      "items": [
+        { "char": "ক", "roman": "ko", "example": "কলা", "exampleRoman": "kolaa", "exampleMeaning": "banana", "note": "k without any puff of breath, as in 'sky'." },
+        { "char": "খ", "roman": "kho", "example": "খরগোশ", "exampleRoman": "khorgosh", "exampleMeaning": "rabbit", "note": "k with a strong puff of breath." },
+        { "char": "গ", "roman": "go", "example": "গরু", "exampleRoman": "goru", "exampleMeaning": "cow", "note": "Always the hard g of 'go'." },
+        { "char": "ঘ", "roman": "gho", "example": "ঘর", "exampleRoman": "ghor", "exampleMeaning": "room, house", "note": "g with a breathy release." },
+        { "char": "ঙ", "roman": "ngo", "example": "ব্যাঙ", "exampleRoman": "byaang", "exampleMeaning": "frog", "note": "The ng of 'sing'. Never starts a word. Named 'ungo'." },
+        { "char": "চ", "roman": "cho", "example": "চশমা", "exampleRoman": "choshmaa", "exampleMeaning": "spectacles", "note": "The ch of 'church' without a puff of breath." },
+        { "char": "ছ", "roman": "chho", "example": "ছাতা", "exampleRoman": "chhaataa", "exampleMeaning": "umbrella", "note": "ch with a strong puff of breath." },
+        { "char": "জ", "roman": "jo", "example": "জল", "exampleRoman": "jol", "exampleMeaning": "water", "note": "The j of 'jam'. Named 'borgeeyo jo' to tell it from য." },
+        { "char": "ঝ", "roman": "jho", "example": "ঝড়", "exampleRoman": "jhor", "exampleMeaning": "storm", "note": "j with a breathy release." },
+        { "char": "ঞ", "roman": "nyo", "example": "চঞ্চল", "exampleRoman": "chonchol", "exampleMeaning": "restless", "note": "Named 'iyo'. Almost only seen in the conjuncts ঞ্চ and ঞ্জ, where it is a plain n." },
+        { "char": "ট", "roman": "to", "example": "টমেটো", "exampleRoman": "tometo", "exampleMeaning": "tomato", "note": "Retroflex t: tongue tip on the ridge behind the teeth, close to the English t. No puff of breath." },
+        { "char": "ঠ", "roman": "tho", "example": "ঠাকুমা", "exampleRoman": "thaakumaa", "exampleMeaning": "paternal grandmother", "note": "Retroflex t with a puff of breath. Never the th of 'think'." },
+        { "char": "ড", "roman": "do", "example": "ডাব", "exampleRoman": "daab", "exampleMeaning": "green coconut", "note": "Retroflex d, close to the English d." },
+        { "char": "ঢ", "roman": "dho", "example": "ঢাক", "exampleRoman": "dhaak", "exampleMeaning": "large festival drum", "note": "Retroflex d with a breathy release." },
+        { "char": "ণ", "roman": "no", "example": "হরিণ", "exampleRoman": "horin", "exampleMeaning": "deer", "note": "Named 'moordhonno no'. Pronounced exactly like ন; used in Sanskrit-derived spellings." },
+        { "char": "ত", "roman": "to", "example": "তালা", "exampleRoman": "taalaa", "exampleMeaning": "lock", "note": "Dental t: tongue tip against the back of the upper teeth. No puff of breath." },
+        { "char": "থ", "roman": "tho", "example": "থালা", "exampleRoman": "thaalaa", "exampleMeaning": "plate", "note": "Dental t with a puff of breath. Not the English th." },
+        { "char": "দ", "roman": "do", "example": "দই", "exampleRoman": "doi", "exampleMeaning": "yogurt", "note": "Dental d: tongue tip against the teeth." },
+        { "char": "ধ", "roman": "dho", "example": "ধান", "exampleRoman": "dhaan", "exampleMeaning": "paddy", "note": "Dental d with a breathy release." },
+        { "char": "ন", "roman": "no", "example": "নদী", "exampleRoman": "nodee", "exampleMeaning": "river", "note": "The ordinary n. Named 'donto no' (dental n)." },
+        { "char": "প", "roman": "po", "example": "পাখি", "exampleRoman": "paakhi", "exampleMeaning": "bird", "note": "p without a puff of breath, as in 'spin'." },
+        { "char": "ফ", "roman": "pho", "example": "ফুল", "exampleRoman": "phul", "exampleMeaning": "flower", "note": "p with a puff of breath; many speakers say it as f." },
+        { "char": "ব", "roman": "bo", "example": "বই", "exampleRoman": "boi", "exampleMeaning": "book", "note": "b. Bengali has no separate v; English v is written with ভ." },
+        { "char": "ভ", "roman": "bho", "example": "ভাত", "exampleRoman": "bhaat", "exampleMeaning": "cooked rice", "note": "b with a breathy release." },
+        { "char": "ম", "roman": "mo", "example": "মাছ", "exampleRoman": "maachh", "exampleMeaning": "fish", "note": "m." },
+        { "char": "য", "roman": "jo", "example": "যাত্রা", "exampleRoman": "jaatraa", "exampleMeaning": "journey", "note": "Named 'ontostho jo'. Pronounced j, exactly like জ. As the hook ্য after a consonant it behaves differently - see 'Other signs'." },
+        { "char": "র", "roman": "ro", "example": "রাস্তা", "exampleRoman": "raastaa", "exampleMeaning": "road", "note": "A single light tap of the tongue, as in Spanish 'pero'. Not the English r." },
+        { "char": "ল", "roman": "lo", "example": "লাল", "exampleRoman": "laal", "exampleMeaning": "red", "note": "A clear l, as in 'leaf', everywhere in the word." },
+        { "char": "শ", "roman": "sho", "example": "শাড়ি", "exampleRoman": "shaari", "exampleMeaning": "sari", "note": "Named 'taalobbo sho'. Pronounced sh." },
+        { "char": "ষ", "roman": "sho", "example": "ষাঁড়", "exampleRoman": "shaanr", "exampleMeaning": "bull", "note": "Named 'moordhonno sho'. Pronounced sh, exactly like শ." },
+        { "char": "স", "roman": "sho", "example": "সাপ", "exampleRoman": "shaap", "exampleMeaning": "snake", "note": "Named 'donto sho'. Pronounced sh in native words; a true s in some conjuncts (স্ত, স্থ, স্ন) and in many loanwords." },
+        { "char": "হ", "roman": "ho", "example": "হাতি", "exampleRoman": "haati", "exampleMeaning": "elephant", "note": "h, fully voiced." },
+        { "char": "ড়", "roman": "ro", "example": "বাড়ি", "exampleRoman": "baari", "exampleMeaning": "house, home", "note": "ড with a dot below. A flap: the tongue curls back and flicks forward. Never starts a word." },
+        { "char": "ঢ়", "roman": "rho", "example": "আষাঢ়", "exampleRoman": "aashaarh", "exampleMeaning": "Asharh, the first monsoon month", "note": "ঢ with a dot below: the breathy flap. Rare; most speakers say it like ড়." },
+        { "char": "য়", "roman": "yo", "example": "সময়", "exampleRoman": "shomoy", "exampleMeaning": "time", "note": "য with a dot below, named 'ontostho o'. A y-glide between vowels and at the end of a word; a w-glide after ও (খাওয়া khaaowaa). Never starts a word." },
+        { "char": "ৎ", "roman": "t", "example": "হঠাৎ", "exampleRoman": "hothaat", "exampleMeaning": "suddenly", "note": "Named 'khondo to' (broken t). A dental t with no built-in vowel; used at the end of a syllable." }
+      ]
+    },
+    {
+      "group": "Vowel signs",
+      "note": "The signs (kaar) that replace the built-in o, shown here on ক. Notice where each one is written: left, right, below or on both sides of the consonant.",
+      "items": [
+        { "char": "কা", "roman": "kaa", "example": "কাক", "exampleRoman": "kaak", "exampleMeaning": "crow", "note": "আ-কার, written on the right." },
+        { "char": "কি", "roman": "ki", "example": "কিছু", "exampleRoman": "kichhu", "exampleMeaning": "something", "note": "ই-কার, written on the left but spoken after the consonant." },
+        { "char": "কী", "roman": "kee", "example": "কীট", "exampleRoman": "keet", "exampleMeaning": "insect", "note": "ঈ-কার, written on the right. Sounds the same as ই-কার." },
+        { "char": "কু", "roman": "ku", "example": "কুকুর", "exampleRoman": "kukur", "exampleMeaning": "dog", "note": "উ-কার, written below. Special shapes: গু gu, রু ru, শু shu, হু hu." },
+        { "char": "কূ", "roman": "koo", "example": "কূল", "exampleRoman": "kool", "exampleMeaning": "shore, riverbank", "note": "ঊ-কার, written below. Sounds the same as উ-কার. Special shape: রূ roo." },
+        { "char": "কৃ", "roman": "kri", "example": "কৃষক", "exampleRoman": "krishok", "exampleMeaning": "farmer", "note": "ঋ-কার, written below. Special shape: হৃ hri." },
+        { "char": "কে", "roman": "ke", "example": "কেন", "exampleRoman": "keno", "exampleMeaning": "why", "note": "এ-কার, written on the left. In this example the vowel is the a of 'cat'." },
+        { "char": "কৈ", "roman": "koi", "example": "কৈশোর", "exampleRoman": "koishor", "exampleMeaning": "adolescence", "note": "ঐ-কার, written on the left." },
+        { "char": "কো", "roman": "ko", "example": "কোকিল", "exampleRoman": "kokil", "exampleMeaning": "cuckoo", "note": "ও-কার, written on both sides of the consonant." },
+        { "char": "কৌ", "roman": "kou", "example": "কৌটো", "exampleRoman": "kouto", "exampleMeaning": "small container, tin", "note": "ঔ-কার, written on both sides of the consonant." }
+      ]
+    },
+    {
+      "group": "Other signs",
+      "note": "Marks that are not full letters: the three traditional signs at the end of the alphabet, the vowel-killer, and the special attached forms of য, র and ব.",
+      "items": [
+        { "char": "ং", "roman": "ng", "example": "রং", "exampleRoman": "rong", "exampleMeaning": "colour", "note": "Onusshaar. The ng of 'sing', the same sound as ঙ. Written after the letter it follows." },
+        { "char": "ঃ", "roman": "h", "example": "দুঃখ", "exampleRoman": "dukkho", "exampleMeaning": "sorrow", "note": "Bishorgo. In the middle of a word it is not an h: it doubles the following consonant. At the end of an exclamation it is a short breath." },
+        { "char": "আঁ", "roman": "aan", "example": "চাঁদ", "exampleRoman": "chaand", "exampleMeaning": "moon", "note": "Chondrobindu, shown here on আ. The vowel is spoken through the nose; there is no real n sound." },
+        { "char": "ক্", "roman": "k", "example": "বাহ্", "exampleRoman": "baah", "exampleMeaning": "wow, bravo", "note": "Hoshonto, the stroke under a letter, removes the built-in vowel. It is seldom seen in print because consonants without a vowel are normally joined into a conjunct instead." },
+        { "char": "ব্য", "roman": "bya", "example": "ব্যথা", "exampleRoman": "byathaa", "exampleMeaning": "pain", "note": "য-ফলা (jo-pholaa), the form of য after a consonant. At the start of a word it gives the a of 'cat'; in the middle it doubles the consonant: অন্য onno." },
+        { "char": "প্র", "roman": "pro", "example": "প্রথম", "exampleRoman": "prothom", "exampleMeaning": "first", "note": "র-ফলা (ro-pholaa), the form of র after a consonant: a stroke below. Special shapes: ক্র kr, ত্র tr." },
+        { "char": "র্ক", "roman": "rko", "example": "তর্ক", "exampleRoman": "torko", "exampleMeaning": "argument", "note": "রেফ (reph), the form of র before a consonant: a stroke above the letter that is spoken after it." },
+        { "char": "স্ব", "roman": "sho", "example": "স্বামী", "exampleRoman": "shaamee", "exampleMeaning": "husband", "note": "ব-ফলা (bo-pholaa), a small ব under a consonant. Silent at the start of a word; in the middle it doubles the consonant: বিশ্বাস bisshaash." }
+      ]
+    },
+    {
+      "group": "Common conjuncts",
+      "note": "The most frequent combined consonants. Where the pronunciation differs from the spelling, the note says so.",
+      "items": [
+        { "char": "ক্ষ", "roman": "kkho", "example": "শিক্ষক", "exampleRoman": "shikkhok", "exampleMeaning": "teacher", "note": "ক + ষ. Pronounced kh at the start of a word (ক্ষমা khomaa) and kkh in the middle. No s sound." },
+        { "char": "জ্ঞ", "roman": "ggo", "example": "বিজ্ঞান", "exampleRoman": "biggaan", "exampleMeaning": "science", "note": "জ + ঞ. Pronounced g at the start of a word (জ্ঞান gyaan) and gg in the middle." },
+        { "char": "ক্ত", "roman": "kto", "example": "রক্ত", "exampleRoman": "rokto", "exampleMeaning": "blood", "note": "ক + ত. The ত is reduced to a tail." },
+        { "char": "ঙ্গ", "roman": "nggo", "example": "সঙ্গে", "exampleRoman": "shonge", "exampleMeaning": "with", "note": "ঙ + গ. ng followed by a light g: shong-ge. The roman line writes it simply ng (shonge, mongolbaar)." },
+        { "char": "ঙ্ক", "roman": "ngko", "example": "অঙ্ক", "exampleRoman": "ongko", "exampleMeaning": "sum, mathematics", "note": "ঙ + ক." },
+        { "char": "চ্ছ", "roman": "chchho", "example": "ইচ্ছা", "exampleRoman": "ichchhaa", "exampleMeaning": "wish", "note": "চ + ছ. Very common in verb forms: যাচ্ছি jaachchhi." },
+        { "char": "জ্জ", "roman": "jjo", "example": "লজ্জা", "exampleRoman": "lojjaa", "exampleMeaning": "shame, shyness", "note": "জ + জ, a long j." },
+        { "char": "ঞ্চ", "roman": "ncho", "example": "পঞ্চাশ", "exampleRoman": "ponchaash", "exampleMeaning": "fifty", "note": "ঞ + চ. Pronounced nch." },
+        { "char": "ঞ্জ", "roman": "njo", "example": "গেঞ্জি", "exampleRoman": "genji", "exampleMeaning": "vest, T-shirt", "note": "ঞ + জ. Pronounced nj." },
+        { "char": "ট্ট", "roman": "tto", "example": "ঠাট্টা", "exampleRoman": "thaattaa", "exampleMeaning": "joke, teasing", "note": "ট + ট, a long retroflex t." },
+        { "char": "ণ্ট", "roman": "nto", "example": "ঘণ্টা", "exampleRoman": "ghontaa", "exampleMeaning": "hour, bell", "note": "ণ + ট." },
+        { "char": "ত্ত", "roman": "tto", "example": "উত্তর", "exampleRoman": "uttor", "exampleMeaning": "answer; north", "note": "ত + ত, a long dental t." },
+        { "char": "ত্র", "roman": "tro", "example": "ছাত্র", "exampleRoman": "chhaatro", "exampleMeaning": "student", "note": "ত + র. A special shape that does not look like either letter." },
+        { "char": "দ্ধ", "roman": "ddho", "example": "যুদ্ধ", "exampleRoman": "juddho", "exampleMeaning": "war", "note": "দ + ধ." },
+        { "char": "ন্ত", "roman": "nto", "example": "শান্ত", "exampleRoman": "shaanto", "exampleMeaning": "calm, quiet", "note": "ন + ত." },
+        { "char": "ন্দ", "roman": "ndo", "example": "আনন্দ", "exampleRoman": "aanondo", "exampleMeaning": "joy", "note": "ন + দ." },
+        { "char": "ন্ধ", "roman": "ndho", "example": "বন্ধু", "exampleRoman": "bondhu", "exampleMeaning": "friend", "note": "ন + ধ." },
+        { "char": "ন্ন", "roman": "nno", "example": "রান্না", "exampleRoman": "raannaa", "exampleMeaning": "cooking", "note": "ন + ন, a long n." },
+        { "char": "ম্ব", "roman": "mbo", "example": "লম্বা", "exampleRoman": "lombaa", "exampleMeaning": "long, tall", "note": "ম + ব. Here the ব is a real b." },
+        { "char": "ল্প", "roman": "lpo", "example": "গল্প", "exampleRoman": "golpo", "exampleMeaning": "story", "note": "ল + প." },
+        { "char": "ষ্ট", "roman": "shto", "example": "কষ্ট", "exampleRoman": "koshto", "exampleMeaning": "hardship, pain", "note": "ষ + ট. Pronounced sht." },
+        { "char": "স্ত", "roman": "sto", "example": "সস্তা", "exampleRoman": "shostaa", "exampleMeaning": "cheap", "note": "স + ত. Here স is a true s." },
+        { "char": "শ্চ", "roman": "shcho", "example": "পশ্চিম", "exampleRoman": "poshchim", "exampleMeaning": "west", "note": "শ + চ." },
+        { "char": "দ্ম", "roman": "ddo", "example": "পদ্ম", "exampleRoman": "poddo", "exampleMeaning": "lotus", "note": "দ + ম. The ম is silent and doubles the d." }
+      ]
+    },
+    {
+      "group": "Numerals",
+      "note": "Bengali has its own digits, used alongside the international ones. They work exactly the same way: ১০ is 10, ২৫ is 25. Beware of ৪ (four), which looks like an 8, and ৭ (seven), which looks like a 9.",
+      "items": [
+        { "char": "০", "roman": "shoonno", "example": "শূন্য", "exampleRoman": "shoonno", "exampleMeaning": "zero", "note": "0" },
+        { "char": "১", "roman": "ek", "example": "এক", "exampleRoman": "ek", "exampleMeaning": "one", "note": "1. The e is the a of 'cat'." },
+        { "char": "২", "roman": "dui", "example": "দুই", "exampleRoman": "dui", "exampleMeaning": "two", "note": "2" },
+        { "char": "৩", "roman": "tin", "example": "তিন", "exampleRoman": "tin", "exampleMeaning": "three", "note": "3" },
+        { "char": "৪", "roman": "chaar", "example": "চার", "exampleRoman": "chaar", "exampleMeaning": "four", "note": "4. Looks like the international 8." },
+        { "char": "৫", "roman": "paanch", "example": "পাঁচ", "exampleRoman": "paanch", "exampleMeaning": "five", "note": "5. Nasal vowel." },
+        { "char": "৬", "roman": "chhoy", "example": "ছয়", "exampleRoman": "chhoy", "exampleMeaning": "six", "note": "6" },
+        { "char": "৭", "roman": "shaat", "example": "সাত", "exampleRoman": "shaat", "exampleMeaning": "seven", "note": "7. Looks like the international 9." },
+        { "char": "৮", "roman": "aat", "example": "আট", "exampleRoman": "aat", "exampleMeaning": "eight", "note": "8" },
+        { "char": "৯", "roman": "noy", "example": "নয়", "exampleRoman": "noy", "exampleMeaning": "nine", "note": "9" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "travel",
+  "level": "4 · Everyday situations",
+  "title": "Travel and staying somewhere",
+  "description": "Buy tickets, check buses and trains, and take a room in a hotel.",
+  "guide": [
+    {
+      "title": "Tickets, buses and trains",
+      "text": "To buy a ticket, name the destination with the 'to' ending, then the number of tickets: maisoorige ondu tiket kodi, 'one ticket to Mysuru, please'; eradu tiket, 'two tickets'.\n\nTo check a bus or train: ee bas maisoorige hoguttaa? 'does this bus go to Mysuru?'. Buses and trains are neuter, so the verbs end in -utte: hogutte (goes), barutte (comes), horadutte (leaves), nillutte (stops).\n\nGetting on and off: ಹತ್ತು (hattu) climb, get on - polite command ಹತ್ತಿ (hatti); ಇಳಿ (ili) get down, get off - polite command ಇಳಿಯಿರಿ (iliyiri). naanu illi iliyabeku, 'I need to get off here'.\n\nಸೀಟ್ (seet) seat; ಖಾಲಿ (khaali) empty, free; ಮುಂದಿನ ಸ್ಟಾಪ್ (mundina staap) the next stop; ಲಗೇಜ್ (lagej) luggage.",
+      "examples": [
+        { "native": "ಮೈಸೂರಿಗೆ ಒಂದು ಟಿಕೆಟ್ ಕೊಡಿ.", "roman": "maisoorige ondu tiket kodi.", "english": "One ticket to Mysuru, please." },
+        { "native": "ಈ ಬಸ್ ಮೈಸೂರಿಗೆ ಹೋಗುತ್ತಾ?", "roman": "ee bas maisoorige hoguttaa?", "english": "Does this bus go to Mysuru?" },
+        { "native": "ಈ ಸೀಟ್ ಖಾಲಿ ಇದೆಯಾ?", "roman": "ee seet khaali ideyaa?", "english": "Is this seat free?" },
+        { "native": "ನಾನು ಇಲ್ಲಿ ಇಳಿಯಬೇಕು.", "roman": "naanu illi iliyabeku.", "english": "I need to get off here." }
+      ]
+    },
+    {
+      "title": "How long, how much per day",
+      "text": "'How long?' is ಎಷ್ಟು ಹೊತ್ತು? (eshtu hottu?) - hottu means 'a stretch of time'. 'It takes two hours' is eradu gante aagutte, 'two hours happen'.\n\n'Per' is the dative: ondu dinakke eshtu? 'how much for one day?'; talege nooru roopaayi, 'a hundred rupees a head'.\n\nLengths of stay take no ending: naanu mooru dina irteeni, 'I'll stay three days'; ondu vaara, 'for a week'.\n\n'Until' is ತನಕ (tanaka) or ವರೆಗೆ (varege) after the time: shukravaara tanaka, 'until Friday'.",
+      "examples": [
+        { "native": "ಏರ್‌ಪೋರ್ಟ್‌ಗೆ ಎಷ್ಟು ಹೊತ್ತು ಆಗುತ್ತೆ?", "roman": "erportge eshtu hottu aagutte?", "english": "How long does it take to the airport?" },
+        { "native": "ಎರಡು ಗಂಟೆ ಆಗುತ್ತೆ.", "roman": "eradu gante aagutte.", "english": "It takes two hours." },
+        { "native": "ಒಂದು ದಿನಕ್ಕೆ ಎಷ್ಟು?", "roman": "ondu dinakke eshtu?", "english": "How much per day?" },
+        { "native": "ನಾನು ಮೂರು ದಿನ ಇರ್ತೀನಿ.", "roman": "naanu mooru dina irteeni.", "english": "I'll stay three days." }
+      ]
+    },
+    {
+      "title": "At a hotel or guest house",
+      "text": "ರೂಮ್ (room) is 'room'; the Kannada word ಕೋಣೆ (kone) is used for rooms of a house. room khaali ideyaa? asks whether a room is free. torisi, 'please show', lets you see it first.\n\nThings to ask about use ide / ideyaa or barutte / baruttaa: bisi neeru baruttaa? 'does hot water come?'; vaifai ideyaa? 'is there wifi?'; e.si. ideyaa? 'is there air conditioning?'.\n\nTo ask permission use -abahudaa: illi idabahudaa? 'may I keep (it) here?'.\n\nTo find out what to see: illi nodoke enenide? 'what all is there to see here?'. enenu ('what all') is enu doubled; enenide is enenu + ide.",
+      "examples": [
+        { "native": "ರೂಮ್ ಖಾಲಿ ಇದೆಯಾ?", "roman": "room khaali ideyaa?", "english": "Do you have a room free?" },
+        { "native": "ರೂಮ್ ತೋರಿಸಿ.", "roman": "room torisi.", "english": "Please show me the room." },
+        { "native": "ಬಿಸಿ ನೀರು ಬರುತ್ತಾ?", "roman": "bisi neeru baruttaa?", "english": "Is there hot water?" },
+        { "native": "ಇಲ್ಲಿ ನೋಡೋಕೆ ಏನೇನಿದೆ?", "roman": "illi nodoke enenide?", "english": "What is there to see here?" }
+      ]
+    }
+  ],
+  "phrases": [
+    { "native": "ಮೈಸೂರಿಗೆ ಒಂದು ಟಿಕೆಟ್ ಕೊಡಿ.", "roman": "maisoorige ondu tiket kodi.", "english": "One ticket to Mysuru, please.", "literal": "Mysuru-to one ticket give", "note": "" },
+    { "native": "ಈ ಬಸ್ ಮೈಸೂರಿಗೆ ಹೋಗುತ್ತಾ?", "roman": "ee bas maisoorige hoguttaa?", "english": "Does this bus go to Mysuru?", "literal": "this bus Mysuru-to goes?", "note": "hogutte + -aa. Written: hoguttadeyaa? (ಹೋಗುತ್ತದೆಯಾ?)" },
+    { "native": "ಟ್ರೈನ್ ಎಷ್ಟು ಗಂಟೆಗೆ ಬರುತ್ತೆ?", "roman": "train eshtu gantege barutte?", "english": "What time does the train arrive?", "literal": "train how-many o'clock-at comes", "note": "The Kannada word for train is railu (ರೈಲು)." },
+    { "native": "ಈ ಸೀಟ್ ಖಾಲಿ ಇದೆಯಾ?", "roman": "ee seet khaali ideyaa?", "english": "Is this seat free?", "literal": "this seat empty is?", "note": "" },
+    { "native": "ಮುಂದಿನ ಸ್ಟಾಪ್ ಯಾವುದು?", "roman": "mundina staap yaavudu?", "english": "What is the next stop?", "literal": "next stop which", "note": "" },
+    { "native": "ನಾನು ಇಲ್ಲಿ ಇಳಿಯಬೇಕು.", "roman": "naanu illi iliyabeku.", "english": "I need to get off here.", "literal": "I here get-down-must", "note": "The l of ili is the retroflex ಳ. Fast speech: ileebeku (ಇಳೀಬೇಕು)." },
+    { "native": "ಏರ್‌ಪೋರ್ಟ್‌ಗೆ ಎಷ್ಟು ಹೊತ್ತು ಆಗುತ್ತೆ?", "roman": "erportge eshtu hottu aagutte?", "english": "How long does it take to the airport?", "literal": "airport-to how-much time happens", "note": "" },
+    { "native": "ರೂಮ್ ಖಾಲಿ ಇದೆಯಾ?", "roman": "room khaali ideyaa?", "english": "Do you have a room free?", "literal": "room empty is?", "note": "" },
+    { "native": "ಒಂದು ದಿನಕ್ಕೆ ಎಷ್ಟು?", "roman": "ondu dinakke eshtu?", "english": "How much per day?", "literal": "one day-for how-much", "note": "The dative gives 'per'." },
+    { "native": "ನಾನು ಮೂರು ದಿನ ಇರ್ತೀನಿ.", "roman": "naanu mooru dina irteeni.", "english": "I'll stay three days.", "literal": "I three day will-stay", "note": "" },
+    { "native": "ರೂಮ್ ತೋರಿಸಿ.", "roman": "room torisi.", "english": "Please show me the room.", "literal": "room show", "note": "" },
+    { "native": "ಬಿಸಿ ನೀರು ಬರುತ್ತಾ?", "roman": "bisi neeru baruttaa?", "english": "Is there hot water?", "literal": "hot water comes?", "note": "Water 'comes' from the tap." },
+    { "native": "ನನ್ನ ಲಗೇಜ್ ಇಲ್ಲಿ ಇಡಬಹುದಾ?", "roman": "nanna lagej illi idabahudaa?", "english": "May I leave my luggage here?", "literal": "my luggage here put-may?", "note": "" },
+    { "native": "ಇಲ್ಲಿ ನೋಡೋಕೆ ಏನೇನಿದೆ?", "roman": "illi nodoke enenide?", "english": "What is there to see here?", "literal": "here to-see what-all-is", "note": "Both e of enen- are long." }
+  ]
+}

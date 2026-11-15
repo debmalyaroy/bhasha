@@ -3,6 +3,7 @@ package com.bhasha.translator.engine
 
 import android.content.Context
 import com.bhasha.engine.asr.AsrEngine
+import com.bhasha.engine.asr.MtEngine
 import com.bhasha.engine.llm.LlmEngine
 import com.bhasha.translator.core.Settings
 import com.bhasha.translator.core.performanceThreads
@@ -11,6 +12,10 @@ import com.bhasha.translator.model.ModelKind
 import com.bhasha.translator.model.ModelSpec
 import com.bhasha.translator.model.ModelStore
 import kotlinx.coroutines.CoroutineDispatcher
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 import kotlinx.coroutines.asCoroutineDispatcher
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -29,11 +34,20 @@ sealed interface EngineState {
  * serialises access (the engines are not re-entrant) and keeps model loading
  * and inference off the main thread.
  */
-class Engines(private val context: Context, private val store: ModelStore, private val settings: Settings) {
+class Engines(
+    private val context: Context,
+    private val store: ModelStore,
+    private val settings: Settings,
+    private val scope: CoroutineScope,
+) {
+    private var release: Job? = null
     val asrDispatcher: CoroutineDispatcher =
         Executors.newSingleThreadExecutor { Thread(it, "bhasha-asr") }.asCoroutineDispatcher()
     val llmDispatcher: CoroutineDispatcher =
         Executors.newSingleThreadExecutor { Thread(it, "bhasha-llm") }.asCoroutineDispatcher()
+
+    val mtDispatcher: CoroutineDispatcher =
+        Executors.newSingleThreadExecutor { Thread(it, "bhasha-mt") }.asCoroutineDispatcher()
 
     private val threads = performanceThreads()
 
@@ -41,6 +55,9 @@ class Engines(private val context: Context, private val store: ModelStore, priva
     private val _llmState = MutableStateFlow<EngineState>(EngineState.Idle)
     val asrState: StateFlow<EngineState> = _asrState
     val llmState: StateFlow<EngineState> = _llmState
+    private val _mtState = MutableStateFlow<EngineState>(EngineState.Idle)
+    val mtState: StateFlow<EngineState> = _mtState
+    @Volatile private var mt: MtEngine? = null
 
     @Volatile private var asr: AsrEngine? = null
     @Volatile private var asrKey: String? = null   // which models the loaded engine was opened with
@@ -94,6 +111,27 @@ class Engines(private val context: Context, private val store: ModelStore, priva
         engine
     }
 
+    /** True when the dedicated translation model is installed and handles [langCode]. */
+    fun hasTranslator(langCode: String): Boolean =
+        langCode in MtEngine.LANGUAGES && store.isInstalled(ModelCatalog.translator)
+
+    /** Loads the translation model. Returns null (and sets [mtState]) when it is missing or broken. */
+    suspend fun ensureMt(): MtEngine? = withContext(mtDispatcher) {
+        mt?.let { return@withContext it }
+        val spec = ModelCatalog.translator
+        if (!store.isInstalled(spec)) return@withContext null
+        _mtState.value = EngineState.Loading(spec.title)
+        // Two threads: the decoder's matrices are small, and more threads mostly add heat.
+        val engine = runCatching { MtEngine.open(store.file(spec).absolutePath, minOf(threads, MT_THREADS)) }.getOrNull()
+        if (engine == null) {
+            _mtState.value = EngineState.Error("Could not load ${spec.title}")
+            return@withContext null
+        }
+        mt = engine
+        _mtState.value = EngineState.Ready(spec)
+        engine
+    }
+
     suspend fun ensureLlm(): LlmEngine? = withContext(llmDispatcher) {
         val spec = selectedLlm()
         if (spec == null) {
@@ -118,12 +156,54 @@ class Engines(private val context: Context, private val store: ModelStore, priva
         engine
     }
 
+    /** Listening started: the models must stay in memory. */
+    fun keep() {
+        release?.cancel()
+        release = null
+    }
+
+    /**
+     * Listening stopped. The models stay loaded for a short while, so starting again is
+     * instant, and are then freed: an idle Bhasha should hold no model memory at all.
+     */
+    fun releaseWhenIdle(afterMillis: Long = IDLE_RELEASE_MS) {
+        release?.cancel()
+        release = scope.launch {
+            delay(afterMillis)
+            releaseNow()
+        }
+    }
+
+    /** Frees all models. They are loaded again the next time they are needed. */
+    suspend fun releaseNow() {
+        withContext(asrDispatcher) {
+            asr?.close()
+            asr = null
+            asrKey = null
+            _asrState.value = EngineState.Idle
+        }
+        withContext(mtDispatcher) {
+            mt?.close()
+            mt = null
+            _mtState.value = EngineState.Idle
+        }
+        withContext(llmDispatcher) {
+            llm?.close()
+            llm = null
+            llmSpec = null
+            _llmState.value = EngineState.Idle
+        }
+    }
+
     /** Interrupts a generation in progress (safe from any thread). */
     fun cancelLlm() {
         llm?.cancel()
+        mt?.cancel()
     }
 
     companion object {
         const val CONTEXT_TOKENS = 4096
+        private const val MT_THREADS = 2
+        private const val IDLE_RELEASE_MS = 3 * 60 * 1000L
     }
 }

@@ -40,6 +40,12 @@ class AsrEngine private constructor(private var handle: Long) : Closeable {
     fun next(language: String, translateToEnglish: Boolean): AsrResult? =
         nativeNext(handle, language, translateToEnglish)
 
+    /**
+     * Live preview of the sentence still being spoken, or null when nobody is speaking or
+     * [language] (a single code) has no model of its own. Does not consume the audio.
+     */
+    fun partial(language: String): AsrResult? = nativePartial(handle, language)
+
     /** Recognise one complete clip. */
     fun transcribe(pcm: ShortArray, count: Int, language: String, translateToEnglish: Boolean = false): AsrResult? =
         nativeTranscribe(handle, pcm, count, language, translateToEnglish)
@@ -87,6 +93,7 @@ class AsrEngine private constructor(private var handle: Long) : Closeable {
         @JvmStatic private external fun nativeReset(handle: Long)
         @JvmStatic private external fun nativeSpeechProb(handle: Long): Float
         @JvmStatic private external fun nativeNext(handle: Long, lang: String, translate: Boolean): AsrResult?
+        @JvmStatic private external fun nativePartial(handle: Long, lang: String): AsrResult?
         @JvmStatic private external fun nativeTranscribe(handle: Long, pcm: ShortArray, n: Int, lang: String, translate: Boolean): AsrResult?
         @JvmStatic private external fun nativeAbort(handle: Long)
     }

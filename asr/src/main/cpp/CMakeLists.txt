@@ -34,9 +34,17 @@ endif()
 
 add_subdirectory(${ENGINE_DIR}/third_party/whisper.cpp whisper-build EXCLUDE_FROM_ALL)
 
+# SentencePiece (tokeniser of the translation model), built from source.
+set(SPM_ENABLE_SHARED   OFF CACHE BOOL "" FORCE)
+set(SPM_ENABLE_TCMALLOC OFF CACHE BOOL "" FORCE)
+set(CMAKE_POLICY_VERSION_MINIMUM 3.5)
+add_subdirectory(${ENGINE_DIR}/third_party/sentencepiece spm-build EXCLUDE_FROM_ALL)
+
 add_library(bhasha_asr SHARED
     ${ENGINE_DIR}/src/tr_asr.cpp
-    ${ENGINE_DIR}/jni/asr_jni.cpp)
+    ${ENGINE_DIR}/src/tr_mt.cpp
+    ${ENGINE_DIR}/jni/asr_jni.cpp
+    ${ENGINE_DIR}/jni/mt_jni.cpp)
 
 # Per-language CTC models (IndicConformer) run through the prebuilt sherpa-onnx
 # C API; its .so files and onnxruntime are packaged from the same folder (see build.gradle.kts).
@@ -46,10 +54,17 @@ set_target_properties(sherpa_c_api PROPERTIES
     IMPORTED_LOCATION ${SHERPA_DIR}/android/jniLibs/${ANDROID_ABI}/libsherpa-onnx-c-api.so
     IMPORTED_NO_SONAME OFF)
 
-target_include_directories(bhasha_asr PRIVATE ${ENGINE_DIR}/include ${SHERPA_DIR}/include)
+# The translation model runs directly on the ONNX Runtime that sherpa-onnx brings along.
+add_library(onnxruntime SHARED IMPORTED)
+set_target_properties(onnxruntime PROPERTIES
+    IMPORTED_LOCATION ${SHERPA_DIR}/android/jniLibs/${ANDROID_ABI}/libonnxruntime.so
+    IMPORTED_NO_SONAME OFF)
+
+target_include_directories(bhasha_asr PRIVATE ${ENGINE_DIR}/include ${SHERPA_DIR}/include
+    ${ENGINE_DIR}/third_party/onnxruntime/include ${ENGINE_DIR}/third_party/sentencepiece/src)
 target_compile_definitions(bhasha_asr PRIVATE TR_WITH_SHERPA)
 target_compile_options(bhasha_asr PRIVATE -fvisibility=hidden)
-target_link_libraries(bhasha_asr PRIVATE whisper sherpa_c_api log)
+target_link_libraries(bhasha_asr PRIVATE whisper sherpa_c_api onnxruntime sentencepiece-static log)
 target_link_options(bhasha_asr PRIVATE
     -Wl,--exclude-libs,ALL
     -Wl,-Bsymbolic

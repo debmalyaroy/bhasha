@@ -19,6 +19,8 @@ data class Caption(
     val pending: Boolean,
     val asrMillis: Int,
     val translateMillis: Int = 0,
+    /** True while the sentence is still being spoken: the text is a preview and will change. */
+    val live: Boolean = false,
 )
 
 /** Live state of the listening session; survives the UI because the service outlives the activity. */
@@ -33,6 +35,19 @@ class TranslationSession {
     fun update(id: Long, transform: (Caption) -> Caption) =
         captions.update { list -> list.map { if (it.id == id) transform(it) else it } }
 
+    /** Replaces the caption with this id, or appends it. */
+    fun put(caption: Caption) = captions.update { list ->
+        if (list.any { it.id == caption.id }) list.map { if (it.id == caption.id) caption else it }
+        else (list + caption).takeLast(MAX_CAPTIONS)
+    }
+
+    fun remove(id: Long) = captions.update { list -> list.filterNot { it.id == id } }
+
+    /** Listening stopped: previews become ordinary captions. */
+    fun finishLive() = captions.update { list ->
+        list.map { if (it.live || it.pending) it.copy(live = false, pending = false) else it }
+    }
+
     fun clear() {
         captions.value = emptyList()
     }
@@ -43,7 +58,9 @@ class TranslationSession {
 }
 
 /**
- * Text translation with the local LLM. A few previous utterances are passed
+ * Text translation. The dedicated translation model (IndicTrans2) is used when it is
+ * installed: it is more accurate, several times faster and a fraction of the size.
+ * Otherwise the chat model translates. For that one a few previous utterances are passed
  * along as conversation so pronouns and topic carry over; the window is cut
  * back in blocks rather than slid one at a time, which keeps most of the
  * prompt identical between calls so the engine can reuse its KV cache.
@@ -57,8 +74,29 @@ class Translator(private val engines: Engines) {
         historyLang = null
     }
 
-    /** Returns the English text, or null if no LLM is available or generation failed. */
-    suspend fun translate(text: String, langCode: String, onPartial: (String) -> Unit): String? {
+    /** A finished sentence as the reader expects it: capital first, full stop last. */
+    private fun polish(english: String, finished: Boolean): String {
+        var s = english.trim()
+        if (s.isEmpty()) return s
+        s = s.replaceFirstChar { it.uppercaseChar() }
+        if (finished && s.last().isLetterOrDigit()) s += "."
+        return s
+    }
+
+    /**
+     * Returns the English text, or null if no model is available or generation failed.
+     * [remember] is false for the preview of an unfinished sentence, which must not
+     * become context for later sentences.
+     */
+    suspend fun translate(
+        text: String, langCode: String, remember: Boolean = true, onPartial: (String) -> Unit,
+    ): String? {
+        if (engines.hasTranslator(langCode)) {
+            engines.ensureMt()?.let { mt ->
+                val english = withContext(engines.mtDispatcher) { mt.translate(langCode, text) }
+                if (english != null) return polish(english, finished = remember).also(onPartial)
+            }
+        }
         val llm = engines.ensureLlm() ?: return null
         return withContext(engines.llmDispatcher) {
             if (historyLang != langCode) {
@@ -79,7 +117,7 @@ class Translator(private val engines: Engines) {
                 onPartial(partial.toString())
                 true
             }?.trim()
-            if (!reply.isNullOrEmpty()) {
+            if (remember && !reply.isNullOrEmpty()) {
                 history.add(text to reply)
                 if (history.size > MAX_HISTORY) history.subList(0, history.size - 1).clear()
             }

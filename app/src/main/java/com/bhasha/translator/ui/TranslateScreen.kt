@@ -2,6 +2,9 @@
 package com.bhasha.translator.ui
 
 import android.Manifest
+import android.content.ClipData
+import android.content.ClipboardManager
+import android.content.Context
 import android.content.pm.PackageManager
 import android.os.Build
 import androidx.activity.compose.rememberLauncherForActivityResult
@@ -32,6 +35,9 @@ import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
 import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.SegmentedButton
+import androidx.compose.material3.SegmentedButtonDefaults
+import androidx.compose.material3.SingleChoiceSegmentedButtonRow
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
@@ -66,9 +72,10 @@ fun TranslateScreen(onOpenModels: () -> Unit) {
     val modelStates by app.models.states.collectAsStateWithLifecycle()
     val speakAloud by app.settings.speakTranslations.collectAsStateWithLifecycle()
     val pauseMic by app.settings.pauseMicWhileSpeaking.collectAsStateWithLifecycle()
+    val transcribe by app.settings.transcribeOnly.collectAsStateWithLifecycle()
 
     val hasSpeechModel = remember(modelStates) { app.models.hasSpeechModel() }
-    val hasLlm = remember(modelStates) { app.models.installed(ModelKind.LLM).isNotEmpty() }
+    val hasLlm = remember(modelStates) { app.models.canTranslate() }
     val hasWhisper = remember(modelStates) { app.models.installed(ModelKind.ASR).isNotEmpty() }
     val packLanguages = remember(modelStates) { app.models.packLanguages() }
 
@@ -90,8 +97,27 @@ fun TranslateScreen(onOpenModels: () -> Unit) {
 
     Column(Modifier.fillMaxSize().padding(horizontal = 16.dp)) {
         Row(Modifier.fillMaxWidth().padding(top = 12.dp), verticalAlignment = Alignment.CenterVertically) {
-            Text("Live translation", style = MaterialTheme.typography.headlineSmall, modifier = Modifier.weight(1f))
-            if (captions.isNotEmpty()) TextButton(onClick = { app.session.clear() }) { Text("Clear") }
+            Text(
+                if (transcribe) "Live transcription" else "Live translation",
+                style = MaterialTheme.typography.headlineSmall, modifier = Modifier.weight(1f),
+            )
+            if (captions.isNotEmpty()) {
+                TextButton(onClick = { copyCaptions(context, captions) }) { Text("Copy") }
+                TextButton(onClick = { app.session.clear() }) { Text("Clear") }
+            }
+        }
+
+        SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().padding(top = 4.dp)) {
+            SegmentedButton(
+                selected = !transcribe, enabled = !running,
+                onClick = { app.settings.setTranscribeOnly(false) },
+                shape = SegmentedButtonDefaults.itemShape(0, 2),
+            ) { Text("Translate to English") }
+            SegmentedButton(
+                selected = transcribe, enabled = !running,
+                onClick = { app.settings.setTranscribeOnly(true) },
+                shape = SegmentedButtonDefaults.itemShape(1, 2),
+            ) { Text("Transcribe only") }
         }
 
         Row(
@@ -111,7 +137,7 @@ fun TranslateScreen(onOpenModels: () -> Unit) {
                 label = { Text("Auto-detect") },
             )
         }
-        Row(
+        if (!transcribe) Row(
             Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()),
             horizontalArrangement = Arrangement.spacedBy(8.dp),
         ) {
@@ -129,7 +155,7 @@ fun TranslateScreen(onOpenModels: () -> Unit) {
                 )
             }
         }
-        if (speakAloud) {
+        if (speakAloud && !transcribe) {
             Text(
                 if (pauseMic) "The mic pauses whenever a translation is spoken. Use this with a Bluetooth speaker."
                 else "Plays through connected headphones or speaker. On the phone speaker the mic pauses while it talks.",
@@ -143,11 +169,17 @@ fun TranslateScreen(onOpenModels: () -> Unit) {
                 "Auto-detect needs a Whisper model to tell the languages apart. Download one in Models, or pick the language."
             source != Settings.AUTO && source !in packLanguages && !hasWhisper ->
                 "No speech model for ${Lang.fromCode(source)?.english ?: source} yet. Download its language pack in Models."
+            !transcribe && !hasLlm ->
+                "No translation model yet, so only the original words will be shown. Download the IndicTrans2 translator in Models to get English."
             else -> null
         }
+        val langName = Lang.fromCode(source)?.english ?: ""
         Text(
-            missing ?: if (source == Settings.AUTO) "Auto-detect listens for all three languages; it is a little slower per sentence."
-            else "Translating ${Lang.fromCode(source)?.english ?: ""} → English, entirely on this phone.",
+            missing ?: when {
+                source == Settings.AUTO -> "Auto-detect listens for all three languages. It is slower and has no live preview."
+                transcribe -> "Writing down $langName as it is spoken, entirely on this phone."
+                else -> "Translating $langName → English as it is spoken, entirely on this phone."
+            },
             style = MaterialTheme.typography.bodySmall,
             color = if (missing != null) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.onSurfaceVariant,
         )
@@ -156,15 +188,17 @@ fun TranslateScreen(onOpenModels: () -> Unit) {
             when {
                 !hasSpeechModel -> SetupCard(
                     title = "One-time setup",
-                    body = "Bhasha runs its speech and translation models on your phone. " +
-                        "Download a speech model to begin" + (if (hasLlm) "." else ", and a language model for the best translations."),
+                    body = "Bhasha does its listening and translating on this phone, so nothing you say leaves it " +
+                        "and it works offline. The AI models that do the work are too large to ship inside the app, " +
+                        "so they are downloaded once.\n\nYou need the speech pack for your language (198 MB)" +
+                        (if (hasLlm) "." else " and, to translate into English, the IndicTrans2 translator (235 MB)."),
                     downloading = modelStates.values.any { it is ModelState.Downloading },
                     onOpenModels = onOpenModels,
                 )
                 captions.isEmpty() -> Text(
                     if (running && !status.startsWith("Listening")) "Getting ready… the models take up to a minute to load."
-                    else if (running) "Listening… translations appear here as people speak."
-                    else "Tap Start and put the phone near the conversation.\nIt keeps translating with the screen off.",
+                    else if (running) "Listening… the words appear here as people speak."
+                    else "Tap Start and put the phone near the conversation.\nIt keeps listening with the screen off.",
                     style = MaterialTheme.typography.bodyLarge,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     textAlign = TextAlign.Center,
@@ -201,8 +235,8 @@ fun TranslateScreen(onOpenModels: () -> Unit) {
 private fun CaptionList(captions: List<Caption>) {
     val listState = rememberLazyListState()
     val last = captions.lastOrNull()
-    // Follow the newest caption, including while its translation streams in.
-    LaunchedEffect(captions.size, last?.english?.length) {
+    // Follow the newest caption, including while its words and translation stream in.
+    LaunchedEffect(captions.size, last?.english?.length, last?.original?.length) {
         if (captions.isNotEmpty()) listState.animateScrollToItem(captions.size - 1)
     }
     LazyColumn(
@@ -222,24 +256,33 @@ private fun CaptionCard(c: Caption) {
         modifier = Modifier.fillMaxWidth(),
     ) {
         Column(Modifier.padding(14.dp)) {
+            // A sentence still being spoken is a preview: shown lighter until it is final.
+            val settled = MaterialTheme.colorScheme.onSurface
+            val preview = MaterialTheme.colorScheme.outline
             if (c.english.isNotEmpty() || c.pending) {
                 Text(
                     c.english.ifEmpty { "…" },
                     style = MaterialTheme.typography.titleLarge,
                     fontWeight = FontWeight.Medium,
+                    color = if (c.live || c.pending) preview else settled,
                 )
             }
             if (c.original.isNotEmpty()) {
+                val alone = c.english.isEmpty() && !c.pending
                 Text(
                     c.original,
-                    style = if (c.english.isEmpty() && !c.pending) MaterialTheme.typography.titleMedium else MaterialTheme.typography.bodyMedium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    style = if (alone) MaterialTheme.typography.titleLarge else MaterialTheme.typography.bodyMedium,
+                    color = when {
+                        c.live -> preview
+                        alone -> settled
+                        else -> MaterialTheme.colorScheme.onSurfaceVariant
+                    },
                     modifier = Modifier.padding(top = 4.dp),
                 )
             }
             val timing = buildString {
                 append(Lang.fromCode(c.lang)?.english ?: c.lang)
-                append(" · heard in ${c.asrMillis} ms")
+                if (c.live) append(" · still speaking…") else append(" · heard in ${c.asrMillis} ms")
                 if (c.translateMillis > 0) append(" · translated in ${c.translateMillis} ms")
             }
             Text(
@@ -250,6 +293,15 @@ private fun CaptionCard(c: Caption) {
             )
         }
     }
+}
+
+/** Puts everything on screen on the clipboard: the original words, and the English when there is any. */
+private fun copyCaptions(context: Context, captions: List<Caption>) {
+    val text = captions.joinToString("\n\n") { c ->
+        listOf(c.original, c.english).filter { it.isNotBlank() }.joinToString("\n")
+    }
+    val clipboard = context.getSystemService(ClipboardManager::class.java)
+    clipboard.setPrimaryClip(ClipData.newPlainText("Bhasha", text))
 }
 
 @Composable

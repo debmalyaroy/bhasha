@@ -95,6 +95,11 @@ struct tr_asr {
     int voiced = 0;               // voiced samples inside the utterance
     std::deque<std::vector<float>> ready;
     float noise_floor = 1e-3f;    // energy fallback only
+    // Automatic gain for the voice detector: a far-away speaker is 30-40 dB
+    // quieter than one holding the phone, and the detector misses speech that quiet.
+    float agc_peak = 0.0f;        // loudest recent window (RMS), decays within seconds
+    float agc_floor = 0.0f;       // background noise level (RMS)
+    std::vector<float> scaled;    // gained copy of the windows handed to the detector
     std::atomic<float> last_prob{0.0f};
 
     // --- decoding (dec_mu)
@@ -127,6 +132,51 @@ void window_probs(tr_asr *a, const float *in, int n_windows, std::vector<float> 
         const float ratio = rms / std::max(a->noise_floor, 1e-4f);
         probs[w] = std::max(0.0f, std::min(1.0f, (ratio - 1.5f) / 3.0f));
     }
+}
+
+// The windows in `pending`, amplified so that the loudest recent speech sits at a
+// level the voice detector is reliable at. The recorded audio itself is left
+// untouched; each utterance is levelled separately before it is recognised.
+const float *detector_input(tr_asr *a, int n_windows) {
+    constexpr float kTarget = 0.06f, kMaxGain = 60.0f;
+    const size_t total = static_cast<size_t>(n_windows) * kWindow;
+    a->scaled.resize(total);
+    for (int w = 0; w < n_windows; ++w) {
+        const float *in = a->pending.data() + static_cast<size_t>(w) * kWindow;
+        double acc = 0.0;
+        for (int i = 0; i < kWindow; ++i) acc += static_cast<double>(in[i]) * in[i];
+        const float rms = static_cast<float>(std::sqrt(acc / kWindow));
+        // Background level: follows quiet windows quickly, creeps up slowly otherwise.
+        if (a->agc_floor <= 0.0f || rms < a->agc_floor) {
+            a->agc_floor = a->agc_floor <= 0.0f ? rms : 0.9f * a->agc_floor + 0.1f * rms;
+        } else {
+            a->agc_floor *= 1.0005f;
+        }
+        // Speech level: jumps up at once and halves in about two seconds, so a quiet
+        // speaker answering a loud one is lifted in time.
+        a->agc_peak = rms > a->agc_peak ? rms : a->agc_peak * 0.989f;
+        // Never lift plain background noise to speech level.
+        const float level = std::max({a->agc_peak, 6.0f * a->agc_floor, kTarget / kMaxGain});
+        const float gain = std::max(1.0f, kTarget / level);
+        float *out = a->scaled.data() + static_cast<size_t>(w) * kWindow;
+        for (int i = 0; i < kWindow; ++i) out[i] = std::max(-1.0f, std::min(1.0f, in[i] * gain));
+    }
+    return a->scaled.data();
+}
+
+// Scales an utterance so its loud parts sit at a fixed level, whatever the
+// distance to the speaker was. Returns the gain applied.
+float level_utterance(std::vector<float> &pcm) {
+    if (pcm.empty()) return 1.0f;
+    std::vector<float> mag(pcm.size());
+    for (size_t i = 0; i < pcm.size(); ++i) mag[i] = std::fabs(pcm[i]);
+    const size_t k = mag.size() - 1 - mag.size() / 200;   // 99.5th percentile: ignores clicks
+    std::nth_element(mag.begin(), mag.begin() + k, mag.end());
+    const float peak = mag[k];
+    if (peak < 1e-5f) return 1.0f;
+    const float gain = std::min(0.3f / peak, 300.0f);
+    for (float &v : pcm) v = std::max(-1.0f, std::min(1.0f, v * gain));
+    return gain;
 }
 
 void finish_utterance(tr_asr *a) {
@@ -186,7 +236,7 @@ int push(tr_asr *a, const float *pcm, int n) {
     const int n_windows = static_cast<int>(a->pending.size() / kWindow);
     if (n_windows > 0) {
         std::vector<float> probs;
-        window_probs(a, a->pending.data(), n_windows, probs);
+        window_probs(a, detector_input(a, n_windows), n_windows, probs);
         for (int w = 0; w < n_windows; ++w) {
             consume_window(a, a->pending.data() + static_cast<size_t>(w) * kWindow, probs[w]);
         }
@@ -327,6 +377,10 @@ bool decode_lang_model(tr_asr *a, const std::string &lang, const float *pcm, int
     // syllable (the first words come out as noise), which is how the VAD cuts
     // them. A lead-in and tail of faint noise restores them; measured on
     // FLEURS clips, 0.6 s in front is enough and digital silence works less well.
+    // The speech is levelled first, so the padding stays faint next to it even
+    // when the speaker was far from the phone.
+    std::vector<float> speech(pcm, pcm + n);
+    level_utterance(speech);
     const int lead = ms_to_samples(600), tail = ms_to_samples(300);
     std::vector<float> padded(static_cast<size_t>(lead + n + tail));
     uint32_t seed = 0x9E3779B9u;
@@ -334,7 +388,7 @@ bool decode_lang_model(tr_asr *a, const std::string &lang, const float *pcm, int
         seed = seed * 1664525u + 1013904223u;
         padded[i] = (static_cast<float>(seed >> 8) / 8388608.0f - 1.0f) * 0.002f;
     }
-    std::copy(pcm, pcm + n, padded.begin() + lead);
+    std::copy(speech.begin(), speech.end(), padded.begin() + lead);
     SherpaOnnxAcceptWaveformOffline(s, kRate, padded.data(), static_cast<int32_t>(padded.size()));
     SherpaOnnxDecodeOfflineStream(r, s);
     const SherpaOnnxOfflineRecognizerResult *res = SherpaOnnxGetOfflineStreamResult(s);
@@ -498,8 +552,8 @@ tr_asr *tr_asr_open(const tr_asr_config *cfg) {
     a->threshold = cfg->vad_threshold > 0.0f ? cfg->vad_threshold : 0.5f;
     a->min_speech = ms_to_samples(cfg->min_speech_ms > 0 ? cfg->min_speech_ms : 250);
     a->min_silence = ms_to_samples(cfg->min_silence_ms > 0 ? cfg->min_silence_ms : 550);
-    a->soft_max = ms_to_samples(cfg->soft_max_ms > 0 ? cfg->soft_max_ms : 6000);
-    a->hard_max = ms_to_samples(cfg->hard_max_ms > 0 ? cfg->hard_max_ms : 12000);
+    a->soft_max = ms_to_samples(cfg->soft_max_ms > 0 ? cfg->soft_max_ms : 10000);
+    a->hard_max = ms_to_samples(cfg->hard_max_ms > 0 ? cfg->hard_max_ms : 18000);
     a->pad = ms_to_samples(cfg->pad_ms > 0 ? cfg->pad_ms : 250);
 
     if (has_whisper) a->whisper_path = cfg->model_path;
@@ -570,6 +624,8 @@ void tr_asr_reset(tr_asr *a) {
     a->silence_run = 0;
     a->voiced = 0;
     a->last_prob.store(0.0f);
+    a->agc_peak = 0.0f;
+    a->agc_floor = 0.0f;
     if (a->vctx) whisper_vad_reset_state(a->vctx);
 }
 
@@ -585,6 +641,30 @@ int tr_asr_next(tr_asr *a, const char *lang, int translate, tr_asr_result *out) 
         a->ready.pop_front();
     }
     return decode(a, pcm.data(), static_cast<int>(pcm.size()), lang, translate, out);
+}
+
+int tr_asr_partial(tr_asr *a, const char *lang, tr_asr_result *out) {
+    if (!a || !out) return -1;
+    std::memset(out, 0, sizeof(*out));
+#ifdef TR_WITH_SHERPA
+    const std::string one = lang ? lang : "";
+    if (one.empty() || one.find(',') != std::string::npos || !has_lang_model(a, one)) return 0;
+    std::vector<float> pcm;
+    {
+        std::lock_guard<std::mutex> lock(a->seg_mu);
+        if (!a->in_speech || a->voiced < kRate / 2) return 0;
+        pcm = a->current;
+    }
+    std::lock_guard<std::mutex> lock(a->dec_mu);
+    const auto t0 = std::chrono::steady_clock::now();
+    std::string text;
+    const int n = static_cast<int>(pcm.size());
+    if (!decode_lang_model(a, one, pcm.data(), n, text)) return 0;
+    return finish(out, text, one, n, t0);
+#else
+    (void) lang;
+    return 0;
+#endif
 }
 
 int tr_asr_transcribe_pcm16(tr_asr *a, const int16_t *pcm, int n, const char *lang, int translate,

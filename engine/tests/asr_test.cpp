@@ -71,6 +71,7 @@ int main(int argc, char **argv) {
     cfg.n_threads = 4;
     if (const char *fast = std::getenv("BHASHA_FAST")) cfg.fast_encode = std::atoi(fast);
     if (const char *soft = std::getenv("BHASHA_SOFT_MAX_MS")) cfg.soft_max_ms = std::atoi(soft);
+    if (const char *hard = std::getenv("BHASHA_HARD_MAX_MS")) cfg.hard_max_ms = std::atoi(hard);
     const char *lang = argv[3];
     const int translate = std::atoi(argv[4]);
 

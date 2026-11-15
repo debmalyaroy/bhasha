@@ -15,7 +15,7 @@ import kotlinx.coroutines.launch
 import java.io.File
 
 /** ASR is a Whisper model for any language; SPEECH_PACK a recogniser for one language. */
-enum class ModelKind { ASR, VAD, LLM, SPEECH_PACK }
+enum class ModelKind { ASR, VAD, LLM, SPEECH_PACK, TRANSLATOR }
 
 data class ModelSpec(
     val id: String,
@@ -116,12 +116,29 @@ object ModelCatalog {
         ),
     )
 
+    // IndicTrans2 by AI4Bharat (MIT), the distilled 200M Indic-to-English model with rotary
+    // positions, exported to int8 ONNX and packed into one file by tools/make_mt_pack.py.
+    // On 30 FLEURS sentences per language, fed with the recogniser's own output, it scores
+    // chrF 60-62 against 53-59 for Gemma 4 E2B, at a twelfth of the size and about 8x the speed.
+    val translator = ModelSpec(
+        id = "indictrans2-indic-en-200m",
+        kind = ModelKind.TRANSLATOR,
+        title = "IndicTrans2 translator",
+        description = "Translation model by AI4Bharat for Hindi, Bengali and Kannada to English. " +
+            "More accurate than Gemma 4 for translation, several times faster and far lighter on memory and battery.",
+        url = "https://github.com/debmalyaroy/bhasha/releases/download/models-1/indictrans2-indic-en-200m-int8.bhmt",
+        fileName = "indictrans2-indic-en-200m-int8.bhmt",
+        bytes = 235_469_850L,
+        recommended = true,
+    )
+
     val llm = listOf(
         ModelSpec(
             id = "gemma-4-e2b-q4",
             kind = ModelKind.LLM,
             title = "Gemma 4 E2B",
-            description = "Fast translator and tutor. The best choice for live translation.",
+            description = "Powers the tutor's explanations and conversation practice. Also translates " +
+                "when the IndicTrans2 translator is not installed.",
             url = "https://huggingface.co/ggml-org/gemma-4-E2B-it-GGUF/resolve/main/gemma-4-E2B-it-Q4_0.gguf",
             fileName = "gemma-4-E2B-it-Q4_0.gguf",
             bytes = 2_841_481_184L,
@@ -138,7 +155,7 @@ object ModelCatalog {
         ),
     )
 
-    val all: List<ModelSpec> = listOf(vad) + packs + asr + llm
+    val all: List<ModelSpec> = listOf(vad) + packs + translator + asr + llm
 
     fun byId(id: String): ModelSpec? = all.firstOrNull { it.id == id }
 }
@@ -183,6 +200,9 @@ class ModelStore(private val context: Context, private val scope: CoroutineScope
     /** Anything that can turn speech into text: a language pack or a Whisper model. */
     fun hasSpeechModel(): Boolean =
         installed(ModelKind.SPEECH_PACK).isNotEmpty() || installed(ModelKind.ASR).isNotEmpty()
+
+    /** Whether anything installed can turn text into English. */
+    fun canTranslate(): Boolean = isInstalled(ModelCatalog.translator) || installed(ModelKind.LLM).isNotEmpty()
 
     /** Languages that have their own recogniser installed. */
     fun packLanguages(): Set<String> = installed(ModelKind.SPEECH_PACK).mapNotNull { it.lang }.toSet()

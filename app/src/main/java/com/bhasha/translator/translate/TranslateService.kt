@@ -30,19 +30,23 @@ import com.bhasha.translator.core.Settings
 import com.bhasha.translator.core.TranslateMode
 import com.bhasha.translator.learn.privateAudioOutput
 import kotlinx.coroutines.Job
+import kotlinx.coroutines.cancelAndJoin
+import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.currentCoroutineContext
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
+import java.util.concurrent.atomic.AtomicInteger
 import java.util.concurrent.atomic.AtomicLong
 
 /**
  * Foreground service that keeps listening and translating while the app is in
  * the background or the screen is off.
  *
- *   microphone thread -> AsrEngine.push()   (VAD cuts the stream into utterances)
- *   worker coroutine  -> AsrEngine.next()   (whisper)  -> Translator (LLM) -> captions
+ *   microphone thread -> AsrEngine.push()     (VAD cuts the stream into utterances)
+ *   worker coroutine  -> AsrEngine.partial()  preview of the sentence still being spoken
+ *                     -> AsrEngine.next()     the finished sentence -> Translator (LLM) -> captions
  */
 class TranslateService : LifecycleService() {
     private val app get() = application as BhashaApp
@@ -59,6 +63,8 @@ class TranslateService : LifecycleService() {
     @Volatile private var label = "Listening"   // the idle text; always starts with "Listening"
     @Volatile private var working = false       // a sentence is being transcribed or translated
     @Volatile private var queued = 0            // finished sentences waiting for the recogniser
+    private var finalsJob: Job? = null          // translates finished sentences in order
+    private var draft: Job? = null              // translation of a sentence that is still being spoken
 
     override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
         super.onStartCommand(intent, flags, startId)
@@ -97,11 +103,15 @@ class TranslateService : LifecycleService() {
             // Decide how to translate with what is actually installed.
             val asrSpec = engines.selectedAsr()
             var mode = settings.mode.value
+            val transcribe = settings.transcribeOnly.value
+            if (transcribe) mode = TranslateMode.LLM   // text in the spoken language, never speech-to-English
             if (mode == TranslateMode.DIRECT && asrSpec?.canTranslate != true) mode = TranslateMode.LLM
-            var useLlm = mode == TranslateMode.LLM
+            var useLlm = mode == TranslateMode.LLM && !transcribe
             if (useLlm) {
-                session.status.value = "Loading language model…"
-                if (engines.ensureLlm() == null) {
+                session.status.value = "Loading translation model…"
+                // The dedicated translator is enough on its own; the chat model is loaded
+                // only when the translator is not installed.
+                if (engines.ensureMt() == null && engines.ensureLlm() == null) {
                     useLlm = false
                     if (asrSpec?.canTranslate == true) mode = TranslateMode.DIRECT
                 }
@@ -111,19 +121,48 @@ class TranslateService : LifecycleService() {
 
             app.translator.reset()
             asr.reset()
+            engines.keep()
             acquireWakeLock()
             if (!startMicrophone(asr)) {
                 session.status.value = "Could not open the microphone"
                 return
             }
             label = when {
-                transcriptOnly -> "Listening - transcript only (download a language model to translate)"
+                transcribe -> "Listening - transcribing"
+                transcriptOnly -> "Listening - transcript only (download the translator in Models to get English)"
                 direct -> "Listening - direct speech translation"
                 else -> "Listening"
             }
             working = false
             session.status.value = label
 
+            // Finished sentences are translated on their own coroutine, in order, so the
+            // recogniser can keep up with the speaker while a translation is being written.
+            val finals = Channel<Heard>(Channel.UNLIMITED)
+            val translating = AtomicInteger(0)
+            finalsJob = if (!useLlm) null else lifecycleScope.launch {
+                for (heard in finals) {
+                    val started = System.nanoTime()
+                    val english = app.translator.translate(heard.text, heard.lang) { partial ->
+                        session.update(heard.id) { it.copy(english = partial) }
+                    }
+                    val ms = ((System.nanoTime() - started) / 1_000_000).toInt()
+                    trace { "translated $ms ms: $english" }
+                    session.update(heard.id) {
+                        it.copy(english = english ?: it.english, pending = false, translateMillis = ms)
+                    }
+                    translating.decrementAndGet()
+                    if (!english.isNullOrBlank()) {
+                        updateNotification(english)
+                        speak(english)
+                    }
+                }
+            }
+
+            val saver = settings.batterySaver.value
+            var liveId: Long? = null      // caption showing the sentence still being spoken
+            var nextPreviewAt = 0L
+            var draftedWords = 0          // length of the preview last sent for translation
             while (currentCoroutineContext().isActive && capturing) {
                 val lang = recogniserLanguage(settings.sourceLang.value)
                 if (queued > 0) {
@@ -133,18 +172,61 @@ class TranslateService : LifecycleService() {
                 val result = withContext(engines.asrDispatcher) { asr.next(lang, direct) }
                 queued = 0   // refreshed by the microphone thread within 100 ms
                 if (result == null) {
-                    working = false
+                    working = translating.get() > 0
+                    if (working) session.status.value = "$label · translating…"
+                    // Nothing finished yet: show what is being said right now.
+                    val now = SystemClock.elapsedRealtime()
+                    if (!direct && !saver && now >= nextPreviewAt) {
+                        val preview = withContext(engines.asrDispatcher) { asr.partial(lang) }
+                        val cost = preview?.decodeMillis?.toLong() ?: 0L
+                        // The processor rests at least three times as long as the preview took, so
+                        // previews never use more than a quarter of one recogniser's time.
+                        nextPreviewAt = SystemClock.elapsedRealtime() + maxOf(PREVIEW_INTERVAL_MS, 3 * cost)
+                        val heard = preview?.text?.trim().orEmpty()
+                        if (preview != null && heard.count { it.isLetter() } >= 2) {
+                            trace { "preview ${preview.decodeMillis} ms: $heard" }
+                            val id = liveId ?: ids.incrementAndGet().also {
+                                liveId = it
+                                session.add(Caption(it, heard, "", preview.language, useLlm, 0, live = true))
+                            }
+                            session.update(id) { it.copy(original = heard) }
+                            // Translate the unfinished sentence too, whenever the translator is free.
+                            val words = heard.split(' ').size
+                            if (useLlm && translating.get() == 0 && draft?.isActive != true && words >= 3 && words >= draftedWords + 3) {
+                                draftedWords = words
+                                draft = lifecycleScope.launch {
+                                    app.translator.translate(heard, preview.language, remember = false) { partial ->
+                                        session.update(id) { if (it.live) it.copy(english = partial) else it }
+                                    }
+                                }
+                            }
+                        }
+                    }
                     delay(40)
                     continue
                 }
+                // The sentence is complete: stop previewing it.
+                draft?.let {
+                    if (it.isActive) engines.cancelLlm()
+                    it.cancelAndJoin()
+                }
+                draft = null
+                draftedWords = 0
+                nextPreviewAt = 0L
+                val previewId = liveId
+                liveId = null
+
                 val text = result.text.trim()
                 trace { "heard [${result.language}] ${result.decodeMillis} ms: $text" }
-                if (text.count { it.isLetter() } < 2) continue
+                if (text.count { it.isLetter() } < 2) {
+                    if (previewId != null) session.remove(previewId)
+                    continue
+                }
 
-                val id = ids.incrementAndGet()
+                val id = previewId ?: ids.incrementAndGet()
                 val asrMs = result.decodeMillis.toInt()
                 if (direct || transcriptOnly) {
-                    session.add(
+                    session.put(
                         Caption(id, if (direct) "" else text, if (direct) text else "", result.language, false, asrMs)
                     )
                     updateNotification(text)
@@ -152,29 +234,22 @@ class TranslateService : LifecycleService() {
                     continue
                 }
 
-                session.add(Caption(id, text, "", result.language, true, asrMs))
-                working = true
-                session.status.value = "$label · translating…"
-                val started = System.nanoTime()
-                val english = app.translator.translate(text, result.language) { partial ->
-                    session.update(id) { it.copy(english = partial) }
-                }
-                val ms = ((System.nanoTime() - started) / 1_000_000).toInt()
-                trace { "translated $ms ms: $english" }
-                session.update(id) {
-                    it.copy(english = english ?: it.english, pending = false, translateMillis = ms)
-                }
-                if (!english.isNullOrBlank()) {
-                    updateNotification(english)
-                    speak(english)
-                }
+                // Keep the preview's English on screen until the final translation replaces it.
+                val shown = session.captions.value.firstOrNull { it.id == id }?.english.orEmpty()
+                session.put(Caption(id, text, shown, result.language, true, asrMs))
+                translating.incrementAndGet()
+                finals.trySend(Heard(id, text, result.language))
             }
         } finally {
+            draft?.cancel()
+            finalsJob?.cancel()
+            session.finishLive()
             stopMicrophone()
             app.speaker.stop()
             releaseWakeLock()
             session.running.value = false
             session.level.value = 0f
+            engines.releaseWhenIdle()
             if (session.status.value.startsWith("Listening")) session.status.value = ""
             ServiceCompat.stopForeground(this, ServiceCompat.STOP_FOREGROUND_REMOVE)
             stopSelf()
@@ -336,6 +411,9 @@ class TranslateService : LifecycleService() {
         if (TRACE) Log.d(TAG, message())
     }
 
+    /** A finished sentence waiting to be translated into the caption with this id. */
+    private class Heard(val id: Long, val text: String, val lang: String)
+
     companion object {
         private const val TAG = "Bhasha"
 
@@ -343,6 +421,7 @@ class TranslateService : LifecycleService() {
         private val TRACE = Log.isLoggable(TAG, Log.DEBUG)
         private const val CHANNEL = "listening"
         private const val NOTIFICATION_ID = 1
+        private const val PREVIEW_INTERVAL_MS = 600L
         const val ACTION_STOP = "com.bhasha.translator.STOP"
 
         fun start(context: Context) {

@@ -18,6 +18,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material3.AssistChip
 import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
@@ -27,6 +28,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.RadioButton
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
@@ -35,6 +37,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.bhasha.translator.BhashaApp
+import com.bhasha.translator.core.Lang
 import com.bhasha.translator.core.TranslateMode
 import com.bhasha.translator.core.formatBytes
 import com.bhasha.translator.engine.EngineState
@@ -44,7 +47,7 @@ import com.bhasha.translator.model.ModelSpec
 import com.bhasha.translator.model.ModelState
 
 @Composable
-fun ModelsScreen() {
+fun ModelsScreen(onOpenHelp: () -> Unit = {}) {
     val app = LocalContext.current.applicationContext as BhashaApp
     val states by app.models.states.collectAsStateWithLifecycle()
     val asrChoice by app.settings.asrModelId.collectAsStateWithLifecycle()
@@ -52,6 +55,7 @@ fun ModelsScreen() {
     val mode by app.settings.mode.collectAsStateWithLifecycle()
     val asrEngine by app.engines.asrState.collectAsStateWithLifecycle()
     val llmEngine by app.engines.llmState.collectAsStateWithLifecycle()
+    val mtEngine by app.engines.mtState.collectAsStateWithLifecycle()
     val running by app.session.running.collectAsStateWithLifecycle()
 
     // What will actually be used: the choice if installed, otherwise the first installed model.
@@ -71,7 +75,7 @@ fun ModelsScreen() {
         item {
             Text("Models", style = MaterialTheme.typography.headlineSmall)
             Text(
-                "Everything runs on this phone. Models are downloaded once from Hugging Face " +
+                "Everything runs on this phone. Models are downloaded once from Hugging Face and GitHub " +
                     "(Wi-Fi recommended) and stored in the app's folder." +
                     if (running) "\nChanges take effect the next time you start listening." else "",
                 style = MaterialTheme.typography.bodySmall,
@@ -80,9 +84,53 @@ fun ModelsScreen() {
         }
 
         item {
+            Card(
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondaryContainer),
+                modifier = Modifier.fillMaxWidth(),
+            ) {
+                Column(Modifier.padding(16.dp)) {
+                    Text("Why do I need to download these?", style = MaterialTheme.typography.titleMedium)
+                    Text(
+                        "Bhasha listens and translates on this phone instead of sending your conversations to a server. " +
+                            "That keeps them private and works offline, but the AI models that do it are far too large " +
+                            "to fit inside the app, so you download them once and pick only what you need.",
+                        style = MaterialTheme.typography.bodySmall,
+                        modifier = Modifier.padding(top = 4.dp),
+                    )
+                    Text(
+                        "To translate one language you need two downloads:",
+                        style = MaterialTheme.typography.labelLarge,
+                        modifier = Modifier.padding(top = 10.dp),
+                    )
+                    Text(
+                        "1.  Its speech pack (198 MB): hears the language and writes it as text.\n" +
+                            "2.  The IndicTrans2 translator (235 MB): turns that text into English.\n\n" +
+                            "Transcribe only and speaking practice need just the speech pack. " +
+                            "Gemma 4 (2.8 GB) is only for the tutor's explanations, and Whisper only for Auto-detect.",
+                        style = MaterialTheme.typography.bodySmall,
+                    )
+                    val ready = ModelCatalog.packs.filter { states[it.id] == ModelState.Installed }.mapNotNull { it.lang }
+                    Text(
+                        when {
+                            ready.isEmpty() -> "Nothing is installed yet."
+                            activeLlm == null && states[ModelCatalog.translator.id] != ModelState.Installed -> "Installed: speech for ${ready.joinToString(", ") { langName(it) }}. " +
+                                "Translation is not installed yet, so only transcription works."
+                            else -> "Ready to translate ${ready.joinToString(", ") { langName(it) }}."
+                        },
+                        style = MaterialTheme.typography.labelLarge,
+                        color = MaterialTheme.colorScheme.primary,
+                        modifier = Modifier.padding(top = 10.dp),
+                    )
+                    TextButton(onClick = onOpenHelp, contentPadding = PaddingValues(0.dp)) { Text("More in Help") }
+                }
+            }
+        }
+
+        item {
             SectionHeader("Speech recognition: language packs", engineLine(asrEngine))
             Text(
-                "Download the pack for each language you want to translate or practise. " +
+                "What it does: turns speech in one language into text in that language's script. " +
+                    "Download the pack for each language you want to translate, transcribe or practise. " +
                     "A pack is used automatically whenever its language is chosen.",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
@@ -102,7 +150,9 @@ fun ModelsScreen() {
         item {
             SectionHeader("Speech recognition: Whisper (optional)", null)
             Text(
-                "Used for a language without a pack, for Auto-detect and for direct mode.",
+                "What it does: a general speech model that can tell languages apart. It is much less accurate " +
+                    "than the packs for these three languages, so it is used only for Auto-detect and direct mode. " +
+                    "Most people can skip it.",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
@@ -119,7 +169,34 @@ fun ModelsScreen() {
             )
         }
 
-        item { SectionHeader("Translation and tutor", engineLine(llmEngine)) }
+        item {
+            SectionHeader("Translation", engineLine(mtEngine))
+            Text(
+                "What it does: reads the transcribed sentence and writes it in English. It is built only for " +
+                    "translating these languages, so it is small, quick and easy on the battery.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+        }
+        item(key = ModelCatalog.translator.id) {
+            val spec = ModelCatalog.translator
+            ModelCard(
+                spec, states[spec.id] ?: ModelState.Missing, selected = states[spec.id] == ModelState.Installed,
+                onSelect = {},
+                onDownload = { app.models.download(spec) },
+                onDelete = { app.models.delete(spec) },
+            )
+        }
+
+        item {
+            SectionHeader("Tutor", engineLine(llmEngine))
+            Text(
+                "What it does: a general language model that answers questions and holds practice conversations in Learn. " +
+                    "It also translates when the translator above is missing. One is enough; the larger one is slower and a little more accurate.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+        }
         items(ModelCatalog.llm, key = { it.id }) { spec ->
             ModelCard(
                 spec, states[spec.id] ?: ModelState.Missing, selected = activeLlm == spec.id,
@@ -135,7 +212,7 @@ fun ModelsScreen() {
                 FilterChip(
                     selected = mode == TranslateMode.LLM,
                     onClick = { app.settings.setMode(TranslateMode.LLM) },
-                    label = { Text("Transcribe, then LLM") },
+                    label = { Text("Transcribe, then translate") },
                 )
                 FilterChip(
                     selected = mode == TranslateMode.DIRECT,
@@ -151,7 +228,7 @@ fun ModelsScreen() {
                         "The speech model outputs English itself: one model, lowest delay, rougher wording."
                     else ->
                         "Direct mode needs Whisper medium, small or large-v3 (turbo and the language packs cannot translate). " +
-                            "Until one is selected, the LLM is used instead."
+                            "Until one is selected, the translator is used instead."
                 },
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
@@ -160,6 +237,8 @@ fun ModelsScreen() {
         }
     }
 }
+
+private fun langName(code: String): String = Lang.fromCode(code)?.english ?: code
 
 private fun engineLine(state: EngineState): String? = when (state) {
     is EngineState.Loading -> "Loading ${state.model}…"

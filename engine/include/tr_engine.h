@@ -40,8 +40,8 @@ typedef struct tr_asr_config {
     float vad_threshold;         /* speech probability to open a segment (0.5) */
     int min_speech_ms;           /* discard segments with less voiced audio (250) */
     int min_silence_ms;          /* trailing silence that closes a segment (550) */
-    int soft_max_ms;             /* past this, a 200 ms pause closes the segment (6000) */
-    int hard_max_ms;             /* forced cut (12000) */
+    int soft_max_ms;             /* past this, a 200 ms pause closes the segment (10000) */
+    int hard_max_ms;             /* forced cut (18000) */
     int pad_ms;                  /* audio kept before the first voiced frame (250) */
 
     /* Per-language recognisers (NeMo CTC ONNX, e.g. AI4Bharat IndicConformer). The pattern
@@ -92,6 +92,15 @@ float tr_asr_speech_prob(tr_asr *asr);
  * Release with tr_asr_result_free().
  */
 int tr_asr_next(tr_asr *asr, const char *lang, int translate, tr_asr_result *out);
+
+/*
+ * Live preview: recognise the utterance that is still being spoken, without
+ * consuming it. Only for a single language that has its own model (`lang` is
+ * one code such as "bn"). Returns 1 when `out` was filled, 0 when nobody is
+ * speaking, there is less than half a second of audio, or the language has no
+ * model of its own; < 0 on error.
+ */
+int tr_asr_partial(tr_asr *asr, const char *lang, tr_asr_result *out);
 
 /* One-shot recognition of a complete clip (pronunciation practice, tests). */
 int tr_asr_transcribe_pcm16(tr_asr *asr, const int16_t *pcm, int n_samples,
@@ -156,6 +165,48 @@ char *tr_llm_chat(tr_llm *llm, const tr_llm_message *messages, int n_messages,
 void tr_llm_cancel(tr_llm *llm);
 
 void tr_free(void *p);
+
+/* ------------------------------------------------------------------- MT */
+
+/*
+ * Text translation, Hindi / Bengali / Kannada -> English, with IndicTrans2
+ * (distilled 200M, int8 ONNX) on ONNX Runtime. Lives in the same library as
+ * tr_asr_*, which already carries ONNX Runtime. About a tenth of the size of
+ * the chat model, several times faster, and more accurate at translation.
+ */
+typedef struct tr_mt tr_mt;
+
+typedef struct tr_mt_config {
+    /* One file holding the encoder, the decoder, the SentencePiece model and
+     * the two vocabulary tables (made by tools/make_mt_pack.py). */
+    const char *model_path;
+    int n_threads;           /* <= 0: 4 */
+} tr_mt_config;
+
+tr_mt_config tr_mt_default_config(void);
+tr_mt *tr_mt_open(const tr_mt_config *cfg);   /* NULL on failure */
+void tr_mt_close(tr_mt *mt);
+
+/* 1 when `lang` ("hi", "bn", "kn") can be translated. */
+int tr_mt_supports(const char *lang);
+
+/*
+ * Translates one sentence or short passage. Returns the English text (caller
+ * frees with tr_mt_free) or NULL on error. `ms`, when not NULL, receives the
+ * time taken. One call at a time; others wait.
+ */
+char *tr_mt_translate(tr_mt *mt, const char *lang, const char *text, float *ms);
+
+/* Stop a translation in progress from another thread; it returns what it has. */
+void tr_mt_cancel(tr_mt *mt);
+
+void tr_mt_free(void *p);
+
+/* Test hooks (engine/tests/mt_test.cpp): single stages of the pipeline. */
+char *tr_mt_debug_prepare(const char *lang, const char *text);
+char *tr_mt_debug_detokenize(const char *text);
+int tr_mt_debug_tokens(tr_mt *mt, const char *lang, const char *text, int64_t *out, int capacity);
+int tr_mt_debug_generate(tr_mt *mt, const char *lang, const char *text, int64_t *out, int capacity);
 
 #ifdef __cplusplus
 }

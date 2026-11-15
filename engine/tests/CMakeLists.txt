@@ -34,6 +34,23 @@ if(BHASHA_TEST STREQUAL "asr")
             ${SHERPA_DIR}/win/lib/sherpa-onnx-c-api.dll ${SHERPA_DIR}/win/lib/onnxruntime.dll
             ${SHERPA_DIR}/win/lib/onnxruntime_providers_shared.dll $<TARGET_FILE_DIR:asr_test>)
     endif()
+elseif(BHASHA_TEST STREQUAL "mt")
+    # Text translation: SentencePiece from source, ONNX Runtime from the sherpa-onnx package.
+    set(SPM_ENABLE_SHARED OFF CACHE BOOL "" FORCE)
+    set(SPM_ENABLE_TCMALLOC OFF CACHE BOOL "" FORCE)
+    set(CMAKE_POLICY_VERSION_MINIMUM 3.5)
+    add_subdirectory(${ENGINE_DIR}/third_party/sentencepiece spm-build EXCLUDE_FROM_ALL)
+    set(SHERPA_DIR ${ENGINE_DIR}/third_party/sherpa-onnx)
+    add_executable(mt_test mt_test.cpp ${ENGINE_DIR}/src/tr_mt.cpp)
+    target_include_directories(mt_test PRIVATE ${ENGINE_DIR}/include
+        ${ENGINE_DIR}/third_party/onnxruntime/include ${ENGINE_DIR}/third_party/sentencepiece/src)
+    target_link_libraries(mt_test PRIVATE sentencepiece-static ${SHERPA_DIR}/win/lib/onnxruntime.lib)
+    if(MSVC)
+        target_compile_options(mt_test PRIVATE /utf-8)
+    endif()
+    add_custom_command(TARGET mt_test POST_BUILD COMMAND ${CMAKE_COMMAND} -E copy_if_different
+        ${SHERPA_DIR}/win/lib/onnxruntime.dll ${SHERPA_DIR}/win/lib/onnxruntime_providers_shared.dll
+        $<TARGET_FILE_DIR:mt_test>)
 else()
     set(LLAMA_BUILD_COMMON OFF CACHE BOOL "" FORCE)
     set(LLAMA_BUILD_TESTS OFF CACHE BOOL "" FORCE)

@@ -16,19 +16,26 @@ a recent phone with plenty of memory; the target is a flagship with 12 GB of RAM
    the phone (allow installing from your browser or file manager when asked), or run
    `adb install -r Bhasha-<version>.apk`.
 2. Open the **Models** tab and download the language packs you want (198 MB each) and
-   Gemma 4 E2B (2.8 GB). Use Wi-Fi.
-3. Open **Translate**, choose the language being spoken and start listening.
+   the IndicTrans2 translator (235 MB). Gemma 4 E2B (2.8 GB) is optional and only powers
+   the tutor's explanations. Use Wi-Fi.
+3. Open **Translate**, choose the language being spoken and start listening. Words appear
+   while they are spoken, with the English underneath. **Transcribe only** shows just the
+   original words and needs no translation model.
+
+The app checks this repository's releases once a day and offers to install a newer
+version (Menu → Check for updates; the automatic check can be switched off in Help).
 
 ## How it works
 
 ```
-microphone → Silero VAD (sentences) → IndicConformer (text) → Gemma 4 (English) → captions / speech
+microphone → Silero VAD (sentences) → IndicConformer (text) → IndicTrans2 (English) → captions / speech
 ```
 
 | Path | What |
 | --- | --- |
 | `engine/include/tr_engine.h` | Portable C API of the engine (used from Android through JNI) |
 | `engine/src/tr_asr.cpp` | Sentence segmentation and speech recognition (whisper.cpp, sherpa-onnx) |
+| `engine/src/tr_mt.cpp` | Text translation with IndicTrans2 (ONNX Runtime, SentencePiece) |
 | `engine/src/tr_llm.cpp` | Translation with llama.cpp |
 | `engine/jni/` | JNI bindings |
 | `engine/tests/` | Command-line test programs for the engine |
@@ -44,14 +51,15 @@ the phone supports is chosen at start-up).
 
 ## Models
 
-Downloaded in the app from Hugging Face, or side-loaded with
+Downloaded in the app (from Hugging Face; the translator from this repository's releases), or side-loaded with
 `adb push <file> /sdcard/Android/data/com.bhasha.translator/files/models/`.
 
 | Model | File on the phone | Size |
 | --- | --- | --- |
 | IndicConformer language pack (Hindi / Bengali / Kannada) | `indic-conformer-{hi,bn,kn}.int8.onnx` | 198 MB each |
 | Silero VAD | `ggml-silero-v5.1.2.bin` | 0.9 MB |
-| Gemma 4 E2B (translator) | `gemma-4-E2B-it-Q4_0.gguf` | 2.8 GB |
+| IndicTrans2 translator (Hindi, Bengali, Kannada → English) | `indictrans2-indic-en-200m-int8.bhmt` | 235 MB |
+| Gemma 4 E2B (optional: tutor) | `gemma-4-E2B-it-Q4_0.gguf` | 2.8 GB |
 | Whisper (optional: automatic language detection, direct speech → English) | `ggml-*.bin` | 190 MB – 1.1 GB |
 
 Word error rates measured on 30 FLEURS test recordings per language through the app's
@@ -64,7 +72,7 @@ build-tools 36.0.0, NDK 28.2.13676358 and CMake 3.31.6. `local.properties` must 
 at the SDK (`sdk.dir=...`).
 
 ```
-bash tools/fetch_third_party.sh                          # pinned whisper.cpp, llama.cpp, sherpa-onnx
+bash tools/fetch_third_party.sh                          # pinned whisper.cpp, llama.cpp, sherpa-onnx, SentencePiece
 ./gradlew assembleRelease                                # arm64 phones
 ./gradlew assembleDebug -Pbhasha.abis=arm64-v8a,x86_64   # also the emulator
 adb install -r app/build/outputs/apk/release/app-release.apk

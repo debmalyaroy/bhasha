@@ -19,6 +19,8 @@ android {
                 // Always optimise native code: a debug-built model runtime is unusably slow.
                 arguments += "-DCMAKE_BUILD_TYPE=Release"
                 arguments += "-DANDROID_STL=c++_static"
+                // Only our library: SentencePiece's command-line tools do not link on Android.
+                targets += "bhasha_asr"
             }
         }
     }

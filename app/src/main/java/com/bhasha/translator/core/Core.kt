@@ -36,6 +36,16 @@ enum class TranslateMode(val id: String) {
     }
 }
 
+enum class ThemeMode(val id: String, val label: String) {
+    SYSTEM("system", "Same as the phone"),
+    LIGHT("light", "Light"),
+    DARK("dark", "Dark");
+
+    companion object {
+        fun fromId(id: String?): ThemeMode = entries.firstOrNull { it.id == id } ?: SYSTEM
+    }
+}
+
 /** User preferences, observable and persisted. */
 class Settings(context: Context) {
     private val prefs: SharedPreferences = context.getSharedPreferences("settings", Context.MODE_PRIVATE)
@@ -67,6 +77,56 @@ class Settings(context: Context) {
      */
     val pauseMicWhileSpeaking: StateFlow<Boolean> = _pauseMic
 
+    private val _transcribeOnly = MutableStateFlow(prefs.getBoolean(KEY_TRANSCRIBE, false))
+    private val _autoUpdate = MutableStateFlow(prefs.getBoolean(KEY_AUTO_UPDATE, true))
+    private val _tourSeen = MutableStateFlow(prefs.getBoolean(KEY_TOUR_SEEN, false))
+    private val _theme = MutableStateFlow(ThemeMode.fromId(prefs.getString(KEY_THEME, null)))
+    private val _batterySaver = MutableStateFlow(prefs.getBoolean(KEY_BATTERY_SAVER, false))
+
+    val theme: StateFlow<ThemeMode> = _theme
+
+    /**
+     * Skip the word-by-word preview and only work when a sentence is finished.
+     * Recognising a sentence again and again while it is spoken is what uses the most power.
+     */
+    val batterySaver: StateFlow<Boolean> = _batterySaver
+
+    fun setTheme(mode: ThemeMode) {
+        _theme.value = mode
+        prefs.edit().putString(KEY_THEME, mode.id).apply()
+    }
+
+    fun setBatterySaver(on: Boolean) {
+        _batterySaver.value = on
+        prefs.edit().putBoolean(KEY_BATTERY_SAVER, on).apply()
+    }
+
+    /** Show what was said in its own language and do not translate it. */
+    val transcribeOnly: StateFlow<Boolean> = _transcribeOnly
+
+    /** Ask GitHub once a day whether a newer version of the app exists. */
+    val autoUpdateCheck: StateFlow<Boolean> = _autoUpdate
+    val tourSeen: StateFlow<Boolean> = _tourSeen
+
+    var lastUpdateCheck: Long
+        get() = prefs.getLong(KEY_LAST_UPDATE_CHECK, 0L)
+        set(value) = prefs.edit().putLong(KEY_LAST_UPDATE_CHECK, value).apply()
+
+    fun setTranscribeOnly(on: Boolean) {
+        _transcribeOnly.value = on
+        prefs.edit().putBoolean(KEY_TRANSCRIBE, on).apply()
+    }
+
+    fun setAutoUpdateCheck(on: Boolean) {
+        _autoUpdate.value = on
+        prefs.edit().putBoolean(KEY_AUTO_UPDATE, on).apply()
+    }
+
+    fun setTourSeen() {
+        _tourSeen.value = true
+        prefs.edit().putBoolean(KEY_TOUR_SEEN, true).apply()
+    }
+
     fun setSpeakTranslations(on: Boolean) {
         _speak.value = on
         prefs.edit().putBoolean(KEY_SPEAK, on).apply()
@@ -95,6 +155,12 @@ class Settings(context: Context) {
         private const val KEY_LLM = "llm_model"
         private const val KEY_SPEAK = "speak_translations"
         private const val KEY_PAUSE_MIC = "pause_mic_while_speaking"
+        private const val KEY_TRANSCRIBE = "transcribe_only"
+        private const val KEY_AUTO_UPDATE = "auto_update_check"
+        private const val KEY_TOUR_SEEN = "tour_seen"
+        private const val KEY_THEME = "theme"
+        private const val KEY_BATTERY_SAVER = "battery_saver"
+        private const val KEY_LAST_UPDATE_CHECK = "last_update_check"
     }
 }
 

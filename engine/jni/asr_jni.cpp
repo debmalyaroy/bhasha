@@ -98,6 +98,17 @@ Java_com_bhasha_engine_asr_AsrEngine_nativeNext(JNIEnv *env, jclass, jlong h, js
 }
 
 JNIEXPORT jobject JNICALL
+Java_com_bhasha_engine_asr_AsrEngine_nativePartial(JNIEnv *env, jclass, jlong h, jstring lang) {
+    if (!h) return nullptr;
+    const std::string l = to_string(env, lang);
+    tr_asr_result res;
+    if (tr_asr_partial(handle(h), l.c_str(), &res) != 1) return nullptr;
+    jobject out = make_result(env, &res);
+    tr_asr_result_free(&res);
+    return out;
+}
+
+JNIEXPORT jobject JNICALL
 Java_com_bhasha_engine_asr_AsrEngine_nativeTranscribe(JNIEnv *env, jclass, jlong h, jshortArray pcm, jint n,
                                                       jstring lang, jboolean translate) {
     if (!h || !pcm || n <= 0) return nullptr;

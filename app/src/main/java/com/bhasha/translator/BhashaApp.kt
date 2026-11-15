@@ -10,6 +10,7 @@ import com.bhasha.translator.learn.Speaker
 import com.bhasha.translator.model.ModelStore
 import com.bhasha.translator.translate.TranslationSession
 import com.bhasha.translator.translate.Translator
+import com.bhasha.translator.update.Updater
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
@@ -25,16 +26,18 @@ class BhashaApp : Application() {
     lateinit var translator: Translator private set
     lateinit var learn: LearnRepository private set
     lateinit var progress: Progress private set
+    lateinit var updater: Updater private set
     val speaker: Speaker by lazy { Speaker(this) }
 
     override fun onCreate() {
         super.onCreate()
         settings = Settings(this)
         models = ModelStore(this, scope)
-        engines = Engines(this, models, settings)
+        engines = Engines(this, models, settings, scope)
         session = TranslationSession()
         translator = Translator(engines)
         learn = LearnRepository(this)
         progress = Progress(this)
+        updater = Updater(this, settings, scope)
     }
 }
